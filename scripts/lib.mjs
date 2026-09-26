@@ -33,6 +33,8 @@ const MENU_CHAINS = /スシロー|くら寿司|はま寿司|かっぱ寿司|大�
 // ラーメンを出さない（または例外的な）チェーン・業態は除外
 const EXCLUDE = /CoCo壱番屋|ココイチ|すき家|松屋|吉野家|なか卯|はなまる|丸亀製麺|ガスト|ココス|マクドナルド|モスバーガー|ケンタッキー|ミスタードーナツ|スターバックス|コメダ|サイゼリヤ|びっくりドンキー|ほっともっと|ほっかほっか|オリジン|ロッテリア|ドトール|タリーズ|サブウェイ|焼肉|寿司(?!.*ラーメン)|鮨|お好み焼|カレー|ピザ|パスタ|ステーキ|うなぎ|とんかつ|天ぷら|カフェ|珈琲|喫茶|ゆで太郎|製麺所|ナマステ|インド|ネパール|イタリア|欧風|タイ料理|ベトナム/;
 
+export const isExcluded = (name) => EXCLUDE.test(name);
+
 export function classify(name, cuisine = '') {
   const c = cuisine.toLowerCase();
   if (RAMEN_CHAINS.test(name) || RAMEN_NAME.test(name) || /ramen/.test(c)) {

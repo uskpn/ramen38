@@ -3,7 +3,7 @@
 //   2) 市町ごとに「ラーメン」「中華そば」などで検索し、OSM に載っていない店舗を追加
 // を行う。API キーが必要（Places API (New) を有効化したもの）。
 //   GOOGLE_MAPS_API_KEY=xxxx node scripts/enrich-google.mjs [--no-discover] [--no-match]
-import { loadShops, saveShops, classify, emptyRatings, isSameShop, instagramHandle, sleep } from './lib.mjs';
+import { loadShops, saveShops, classify, isExcluded, emptyRatings, isSameShop, instagramHandle, sleep } from './lib.mjs';
 
 const KEY = process.env.GOOGLE_MAPS_API_KEY;
 if (!KEY) {
@@ -15,6 +15,7 @@ const args = new Set(process.argv.slice(2));
 const CITIES = ['松山市', '今治市', '宇和島市', '八幡浜市', '新居浜市', '西条市', '大洲市', '伊予市', '四国中央市', '西予市', '東温市',
   '上島町', '久万高原町', '松前町', '砥部町', '内子町', '伊方町', '松野町', '鬼北町', '愛南町'];
 const KEYWORDS = ['ラーメン', '中華そば', 'つけ麺', '中華料理', '食堂 ラーメン', 'ちゃんぽん'];
+const RAMEN_KEYWORDS = new Set(['ラーメン', '中華そば', 'つけ麺']);
 
 const FIELDS = ['id', 'displayName', 'formattedAddress', 'location', 'rating', 'userRatingCount', 'googleMapsUri', 'websiteUri',
   'primaryType', 'types', 'businessStatus', 'nationalPhoneNumber', 'regularOpeningHours.weekdayDescriptions'];
@@ -91,7 +92,11 @@ if (!args.has('--no-discover')) {
             continue;
           }
           const types = p.types || [];
-          const cls = classify(name, types.includes('ramen_restaurant') ? 'ramen' : types.includes('chinese_restaurant') ? 'chinese' : '');
+          let cls = classify(name, types.includes('ramen_restaurant') ? 'ramen' : types.includes('chinese_restaurant') ? 'chinese' : '');
+          // 店名にラーメンと入っていない店も多いので、ラーメン系キーワードの検索結果は飲食店であれば採用する
+          if (!cls && RAMEN_KEYWORDS.has(kw) && types.some((t) => /restaurant|meal_takeaway|food/.test(t)) && !isExcluded(name)) {
+            cls = { category: 'ramen', ramen: 'likely' };
+          }
           if (!cls) continue;
           const shop = {
             id: `g-${p.id}`,
