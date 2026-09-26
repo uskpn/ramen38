@@ -7,6 +7,7 @@
     shokudo: { label: '食堂・定食', color: '#2b8a3e' },
     'chain-sushi': { label: '回転寿司', color: '#6741d9' },
     chain: { label: 'その他チェーン', color: '#1971c2' },
+    other: { label: 'その他（未確認）', color: '#868e96', off: true },
   };
   const RAMEN_LABEL = {
     specialty: 'ラーメン専門',
@@ -37,7 +38,7 @@
   const state = {
     shops: [],
     q: '', city: '', sort: 'name',
-    cats: new Set(Object.keys(CATEGORIES)),
+    cats: new Set(Object.keys(CATEGORIES).filter((k) => !CATEGORIES[k].off)),
     igOnly: false, ratedOnly: false, hideClosed: true,
     view: 'map',
     activeId: null,
@@ -120,7 +121,15 @@
   }
 
   // ---------- 絞り込み・並び替え ----------
-  const score = (shop, key) => shop.ratings?.[key]?.score ?? -1;
+  // 口コミが少ない店が上位に来ないよう、件数が少ないほど平均的な値に寄せて並べる（ベイズ平均）
+  const PRIOR = { google: 3.6, tabelog: 3.1, rdb: 75, retty: 3.5, hotpepper: 3.5 };
+  const score = (shop, key) => {
+    const r = shop.ratings?.[key];
+    if (r?.score == null) return -1;
+    if (!r.count) return r.score;
+    const m = 20;
+    return (r.score * r.count + PRIOR[key] * m) / (r.count + m);
+  };
   const totalCount = (shop) => SITES.reduce((n, s) => n + (shop.ratings?.[s.key]?.count || 0), 0);
   const hasRating = (shop) => SITES.some((s) => shop.ratings?.[s.key]?.score != null);
 
@@ -242,7 +251,7 @@
       return `<option value="${esc(c)}">${esc(c)} (${n})</option>`;
     }).join(''));
     $('#categories').innerHTML = Object.entries(CATEGORIES).map(([k, v]) =>
-      `<button type="button" class="chip" data-cat="${k}" aria-pressed="true" style="--c:${v.color}"><span class="dot"></span>${v.label}</button>`).join('');
+      `<button type="button" class="chip" data-cat="${k}" aria-pressed="${!v.off}" style="--c:${v.color}"><span class="dot"></span>${v.label}</button>`).join('');
     if (db.updatedAt) $('#updated').textContent = `データ更新日: ${new Date(db.updatedAt).toLocaleDateString('ja-JP')}`;
 
     bind();

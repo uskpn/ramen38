@@ -26,7 +26,7 @@ npm run serve        # http://localhost:8080
 {
   "id": "osm-n123",               // 一意なID
   "name": "〇〇ラーメン",
-  "category": "ramen",            // ramen / chinese / shokudo / chain-sushi / chain
+  "category": "ramen",            // ramen / chinese / shokudo / chain-sushi / chain / other
   "ramen": "specialty",           // specialty=専門店, menu=メニューにあり(確認済み), likely=ありそう(未確認)
   "lat": 33.84, "lng": 132.77, "city": "松山市",
   "address": "...", "hours": "...", "phone": "...", "website": "...",
@@ -62,6 +62,7 @@ npm run serve        # http://localhost:8080
 - **ラーメン専門店**: 店名に「ラーメン」「中華そば」「麺屋」など、または既知のラーメンチェーン
 - **メニューにあり**: スシロー・くら寿司・はま寿司・王将などラーメンを出しているチェーン
 - **ありそう（未確認）**: 中華料理店・食堂。地図上では小さめのマーカーで表示
+- **その他（未確認）**: Google で「ラーメン」等を検索して出てきたが、店名から判断できない店。初期表示ではオフ
 
 誤判定やメニューを確認できたお店は `shops.json` の `category` / `ramen` を直接直し、`locked` に項目名を入れておくと自動更新で戻りません。
 ラーメンを出さないお店は削除し、`EXCLUDE` に店名パターンを追加してください。

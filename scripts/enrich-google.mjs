@@ -93,9 +93,9 @@ if (!args.has('--no-discover')) {
           }
           const types = p.types || [];
           let cls = classify(name, types.includes('ramen_restaurant') ? 'ramen' : types.includes('chinese_restaurant') ? 'chinese' : '');
-          // 店名にラーメンと入っていない店も多いので、ラーメン系キーワードの検索結果は飲食店であれば採用する
+          // 店名にラーメンと入っていない店も多いので、ラーメン系キーワードの検索結果は「その他（未確認）」として採用する
           if (!cls && RAMEN_KEYWORDS.has(kw) && types.some((t) => /restaurant|meal_takeaway|food/.test(t)) && !isExcluded(name)) {
-            cls = { category: 'ramen', ramen: 'likely' };
+            cls = { category: 'other', ramen: 'likely' };
           }
           if (!cls) continue;
           const shop = {
