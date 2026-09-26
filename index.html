@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>愛媛ラーメンマップ</title>
+  <meta name="description" content="愛媛県内でラーメンが食べられるお店をマップで探せます。ラーメン専門店だけでなく中華料理店・食堂・チェーン店も掲載。Google・食べログなど各サイトの評価とInstagramをまとめて比較。">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>🍜 愛媛ラーメンマップ</h1>
+    <p class="lead">ラーメン屋さんに限らず、愛媛県内で<strong>ラーメンが食べられるお店</strong>をまとめています。</p>
+  </header>
+
+  <section class="filters" aria-label="絞り込み">
+    <input id="q" type="search" placeholder="店名・住所で検索" autocomplete="off">
+    <select id="city" aria-label="市町"><option value="">すべての市町</option></select>
+    <select id="sort" aria-label="並び順">
+      <option value="name">名前順</option>
+      <option value="google">Google評価が高い順</option>
+      <option value="tabelog">食べログ評価が高い順</option>
+      <option value="rdb">ラーメンDB評価が高い順</option>
+      <option value="count">口コミ数が多い順</option>
+    </select>
+    <div class="chips" id="categories" role="group" aria-label="お店の種類"></div>
+    <label class="check"><input type="checkbox" id="igOnly"> Instagramあり</label>
+    <label class="check"><input type="checkbox" id="ratedOnly"> 評価ありのみ</label>
+    <label class="check"><input type="checkbox" id="hideClosed" checked> 閉店を隠す</label>
+  </section>
+
+  <div class="view-tabs" role="tablist">
+    <button role="tab" data-view="map" aria-selected="true">マップ＋リスト</button>
+    <button role="tab" data-view="table" aria-selected="false">評価くらべ表</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <main id="view-map" class="map-layout">
+    <div id="map" aria-label="地図"></div>
+    <ul id="list" class="shop-list"></ul>
+  </main>
+
+  <main id="view-table" class="table-wrap" hidden>
+    <table class="compare">
+      <thead>
+        <tr>
+          <th>店名</th><th>市町</th><th>種類</th>
+          <th>Google</th><th>食べログ</th><th>ラーメンDB</th><th>Retty</th><th>ホットペッパー</th>
+          <th>Instagram</th>
+        </tr>
+      </thead>
+      <tbody id="table-body"></tbody>
+    </table>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      店舗データ: © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a> / Google Places。
+      評価は各サイトからの転記で、最新の値は各サイトでご確認ください。「ラーメンあり?」の店舗はメニュー未確認です。
+    </p>
+    <p id="updated"></p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

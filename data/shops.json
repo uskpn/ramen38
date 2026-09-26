@@ -1,0 +1,4330 @@
+{
+  "updatedAt": "2026-09-26T05:21:58.170Z",
+  "shops": [
+    {
+      "id": "osm-n13904553782",
+      "name": "いそべ食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 32.9597701,
+      "lng": 132.5810617,
+      "city": "愛南町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/13904553782",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1012999465",
+      "name": "ゆうき食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 32.9589097,
+      "lng": 132.5640674,
+      "city": "愛南町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1012999465",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n9718648379",
+      "name": "市場食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 32.9435014,
+      "lng": 132.5816693,
+      "city": "愛南町",
+      "address": "愛媛県愛南町鯆越1664",
+      "hours": "Su-Fr 07:00-17:00",
+      "phone": "+81 895 73 2556",
+      "website": null,
+      "osmId": "node/9718648379",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1057687279",
+      "name": "市場食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 32.9435017,
+      "lng": 132.5816714,
+      "city": "愛南町",
+      "address": "愛媛県愛南町鯆越1664",
+      "hours": "Su-Fr 07:00-17:00",
+      "phone": "+81 895 73 2556",
+      "website": null,
+      "osmId": "way/1057687279",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12709583673",
+      "name": "しらす食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.3907742,
+      "lng": 132.1171698,
+      "city": "伊方町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12709583673",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w612765302",
+      "name": "ラーメンショップKANTO 双海店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.6445025,
+      "lng": 132.5540623,
+      "city": "伊予市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/612765302",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n13904181632",
+      "name": "いごっそ",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.2126173,
+      "lng": 132.5588172,
+      "city": "宇和島市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/13904181632",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12189392385",
+      "name": "くら寿司",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.2104919,
+      "lng": 132.5584992,
+      "city": "宇和島市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12189392385",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12223988442",
+      "name": "スシロー",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.2038206,
+      "lng": 132.5545076,
+      "city": "宇和島市",
+      "address": null,
+      "hours": "Mo-Fr 11:00-22:30; Sa-Su,PH 10:30-22:30",
+      "phone": null,
+      "website": null,
+      "osmId": "node/12223988442",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12032835645",
+      "name": "にこにこ食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.217243,
+      "lng": 132.5649215,
+      "city": "宇和島市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12032835645",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n13744174061",
+      "name": "ラーメン凩",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.2198221,
+      "lng": 132.5680211,
+      "city": "宇和島市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/13744174061",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n7555880212",
+      "name": "台湾創作キッチンRyu",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.277448,
+      "lng": 132.5404796,
+      "city": "宇和島市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/7555880212",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12365032866",
+      "name": "大阪王将",
+      "category": "chinese",
+      "ramen": "menu",
+      "lat": 33.234932,
+      "lng": 132.5690241,
+      "city": "宇和島市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12365032866",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n11936672053",
+      "name": "中国亭",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.2225743,
+      "lng": 132.5599292,
+      "city": "宇和島市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/11936672053",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n13904181616",
+      "name": "奉天",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.2183988,
+      "lng": 132.5676804,
+      "city": "宇和島市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/13904181616",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n11936672019",
+      "name": "和歌山らーめん らぐまん",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.2225393,
+      "lng": 132.5612049,
+      "city": "宇和島市",
+      "address": "愛媛県宇和島市栄町港2丁目56",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/11936672019",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12161936305",
+      "name": "久万山食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.614177,
+      "lng": 132.9697555,
+      "city": "久万高原町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12161936305",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8236301077",
+      "name": "かねと食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.0682208,
+      "lng": 133.0015716,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8236301077",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n4716843160",
+      "name": "ぎやまん亭",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.056758,
+      "lng": 133.0143366,
+      "city": "今治市",
+      "address": null,
+      "hours": "11:00-23:00",
+      "phone": null,
+      "website": null,
+      "osmId": "node/4716843160",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806280234",
+      "name": "くら寿司",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 34.0344664,
+      "lng": 132.9995469,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806280234",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8204027599",
+      "name": "ごくうs",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0651333,
+      "lng": 132.9980189,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8204027599",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n6980180437",
+      "name": "さんわ",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.2037138,
+      "lng": 133.1160252,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/6980180437",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806278288",
+      "name": "シルクロード",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0370706,
+      "lng": 133.031872,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806278288",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806280238",
+      "name": "スシロー",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 34.0412767,
+      "lng": 132.9914019,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806280238",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8256470936",
+      "name": "つけ麺屋 若鶴丸",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0682558,
+      "lng": 132.9925064,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8256470936",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8292222174",
+      "name": "ときわ食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.0569174,
+      "lng": 132.989501,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8292222174",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8288823645",
+      "name": "にじいろ食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.046088,
+      "lng": 132.9798879,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8288823645",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w887783806",
+      "name": "はま寿司",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 34.0708293,
+      "lng": 132.9934592,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/887783806",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n13189759750",
+      "name": "ラーメンショップ KANTOチェーン西四国本部",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0536292,
+      "lng": 133.0133043,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/13189759750",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n11527404085",
+      "name": "ラーメンショップ KANTOチェーン野間店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0670015,
+      "lng": 132.9509081,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/11527404085",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8252622178",
+      "name": "ラーメンショップ 市場店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0651401,
+      "lng": 133.0136163,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8252622178",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806460114",
+      "name": "ラーメンなる",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0575253,
+      "lng": 132.9734983,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806460114",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w880917293",
+      "name": "ラーメンハウス",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0523627,
+      "lng": 133.0109642,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/880917293",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8202015737",
+      "name": "ラーメン今治一興",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0512488,
+      "lng": 132.9836429,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8202015737",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806362857",
+      "name": "りょう花 今治店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0585452,
+      "lng": 132.9812301,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806362857",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n11527413036",
+      "name": "俺のラーメン",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0664812,
+      "lng": 132.9291126,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/11527413036",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8323931369",
+      "name": "歌町",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.080918,
+      "lng": 132.9913716,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8323931369",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8288823558",
+      "name": "海海ラーメン",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0451541,
+      "lng": 132.9793358,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8288823558",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n11422947210",
+      "name": "丸源ラーメン今治店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0398901,
+      "lng": 132.9930401,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/11422947210",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8202430157",
+      "name": "喜多方ラーメン 麺小町 今治店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0667224,
+      "lng": 132.9913667,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8202430157",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806424880",
+      "name": "久留米ラーメン光屋",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0616198,
+      "lng": 132.9954983,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806424880",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w884615813",
+      "name": "錦海楼",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0627243,
+      "lng": 133.0094404,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/884615813",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8236246319",
+      "name": "公園堂食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.0645873,
+      "lng": 133.0084414,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8236246319",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8288889733",
+      "name": "骨太味覚 桜井店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.019469,
+      "lng": 133.0373832,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8288889733",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8321885045",
+      "name": "彩菜食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.0388261,
+      "lng": 132.9934989,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8321885045",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806387242",
+      "name": "彩鳳",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0421952,
+      "lng": 133.0150475,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806387242",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8223775370",
+      "name": "咲かす食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.9993476,
+      "lng": 133.0156137,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8223775370",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806267488",
+      "name": "三日月食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.0470141,
+      "lng": 133.0211165,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806267488",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8252622155",
+      "name": "車屋食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.0647828,
+      "lng": 133.0140394,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8252622155",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8267499637",
+      "name": "重松飯店",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0713793,
+      "lng": 132.9957507,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8267499637",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806437365",
+      "name": "新福菜館",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0551471,
+      "lng": 132.9875557,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806437365",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8226539068",
+      "name": "辛麺屋 桝元",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0588669,
+      "lng": 133.0046613,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8226539068",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8256307943",
+      "name": "生香楼",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.08069,
+      "lng": 132.9919211,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8256307943",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w636158091",
+      "name": "大黒屋飯店",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0455738,
+      "lng": 133.0223502,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/636158091",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w636160718",
+      "name": "大阪王将",
+      "category": "chinese",
+      "ramen": "menu",
+      "lat": 34.0470367,
+      "lng": 133.0186914,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/636160718",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w881949796",
+      "name": "中華そば うまてつ",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0659243,
+      "lng": 132.9901555,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/881949796",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8315503592",
+      "name": "中華そば 阿部",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0482974,
+      "lng": 132.9961895,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8315503592",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n10970862805",
+      "name": "中華そば 千",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0632473,
+      "lng": 132.9984947,
+      "city": "今治市",
+      "address": null,
+      "hours": "Mo-We, Fr 11:00-14:00, 17:00-21:00; Sa-Su 11:00-14:30, 17:00-21:00",
+      "phone": null,
+      "website": null,
+      "osmId": "node/10970862805",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806420430",
+      "name": "長安",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0627634,
+      "lng": 132.9936401,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806420430",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806314037",
+      "name": "桃仙楼",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0471362,
+      "lng": 133.0214706,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806314037",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806293311",
+      "name": "豚太郎 今治東店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0297152,
+      "lng": 133.0052528,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806293311",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806282867",
+      "name": "白楽天",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0643631,
+      "lng": 132.9987335,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806282867",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8315503581",
+      "name": "白龍",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0482079,
+      "lng": 132.9960359,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8315503581",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n10203839326",
+      "name": "八平",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0137453,
+      "lng": 132.9383498,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/10203839326",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w806303052",
+      "name": "武夷山",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0491076,
+      "lng": 132.9815958,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/806303052",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8292616460",
+      "name": "福寿園",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0623539,
+      "lng": 132.9868023,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8292616460",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8314578551",
+      "name": "福龍",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0454004,
+      "lng": 132.992952,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8314578551",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w879605108",
+      "name": "蓬莱閣",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0412062,
+      "lng": 133.0272083,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/879605108",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8256470931",
+      "name": "麺屋 武吉",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.0680897,
+      "lng": 132.9924079,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8256470931",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8252656518",
+      "name": "麺食堂 とまと",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.0634691,
+      "lng": 133.0138456,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8252656518",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w880914542",
+      "name": "揚子江",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0507226,
+      "lng": 133.0141761,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/880914542",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8254952344",
+      "name": "檜垣食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.0702877,
+      "lng": 133.0007271,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8254952344",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w880153168",
+      "name": "榕城",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0386325,
+      "lng": 133.0215014,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/880153168",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8257953286",
+      "name": "翔龍",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.0510551,
+      "lng": 132.9828102,
+      "city": "今治市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8257953286",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w407607156",
+      "name": "スシロー四国中央店",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.9907053,
+      "lng": 133.5673735,
+      "city": "四国中央市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/407607156",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1434979129",
+      "name": "ラーメンショップ 三島店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9780869,
+      "lng": 133.5336509,
+      "city": "四国中央市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1434979129",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w407607874",
+      "name": "天下一品四国中央店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9916636,
+      "lng": 133.5656204,
+      "city": "四国中央市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/407607874",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1168234816",
+      "name": "味源",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.9782494,
+      "lng": 133.5505329,
+      "city": "四国中央市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1168234816",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2305778256",
+      "name": "かめ福",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.844204,
+      "lng": 132.748651,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2305778256",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1242616632",
+      "name": "くら寿司",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.8486328,
+      "lng": 132.751847,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1242616632",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2387092821",
+      "name": "くら寿司松山枝松店",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.8284906,
+      "lng": 132.7857184,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2387092821",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2441099695",
+      "name": "こだわりラーメン海鮮とんこつ家",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8091857,
+      "lng": 132.7780222,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2441099695",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2386984914",
+      "name": "こだわりらーめん元気いちばん亭余戸店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8118889,
+      "lng": 132.7361617,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2386984914",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n5025570564",
+      "name": "ごはん泥棒",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.8482397,
+      "lng": 132.7681465,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/5025570564",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2306396513",
+      "name": "さくら食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.847976,
+      "lng": 132.769626,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2306396513",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n11559743711",
+      "name": "スシロー",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.8547267,
+      "lng": 132.7476596,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/11559743711",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w386594697",
+      "name": "スシロー",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.8336369,
+      "lng": 132.7445648,
+      "city": "松山市",
+      "address": "愛媛県松山市生石町6585",
+      "hours": null,
+      "phone": "+81-89-987-3377",
+      "website": null,
+      "osmId": "way/386594697",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w443689862",
+      "name": "スシロー",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.8231342,
+      "lng": 132.7785364,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/443689862",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1498210928",
+      "name": "チャイナハウス すけろく",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.8088444,
+      "lng": 132.8198025,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1498210928",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2385960074",
+      "name": "チャイナハウスすけろく 小栗店",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.8283594,
+      "lng": 132.7592463,
+      "city": "松山市",
+      "address": "愛媛県松山市小栗5丁目222",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2385960074",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2385962867",
+      "name": "はま寿司",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.81913,
+      "lng": 132.7513337,
+      "city": "松山市",
+      "address": "愛媛県松山市保免上1丁目162",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2385962867",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n5926081885",
+      "name": "ひょうげつ",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.7910178,
+      "lng": 132.8133456,
+      "city": "松山市",
+      "address": null,
+      "hours": "Tu-Sa 11:00-20:00",
+      "phone": null,
+      "website": null,
+      "osmId": "node/5926081885",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w525065622",
+      "name": "みなと食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.9068651,
+      "lng": 132.7497771,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/525065622",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2387958471",
+      "name": "ラーメン 一興 鷹子店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8160764,
+      "lng": 132.8072673,
+      "city": "松山市",
+      "address": "愛媛県鷹子町858-2",
+      "hours": "Su-Sa 11:00-00:30",
+      "phone": null,
+      "website": "https://korepano.jp/ikkou-takanoko/",
+      "osmId": "node/2387958471",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2385773008",
+      "name": "ラーメンく～た はなみずき店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8103939,
+      "lng": 132.765157,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2385773008",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n13189759734",
+      "name": "ラーメンショップ フライブルク店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8331659,
+      "lng": 132.7445189,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/13189759734",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w305044128",
+      "name": "ラーメンショップ 銀天街店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8357962,
+      "lng": 132.7645005,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/305044128",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w625669744",
+      "name": "ラーメンショップ北条店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9806911,
+      "lng": 132.783508,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/625669744",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2306394957",
+      "name": "らーめん佐武家",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.847634,
+      "lng": 132.77127,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2306394957",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2305044388",
+      "name": "ラーメン来来亭 松山大前店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.852675,
+      "lng": 132.770787,
+      "city": "松山市",
+      "address": null,
+      "hours": "11:00-24:00",
+      "phone": null,
+      "website": null,
+      "osmId": "node/2305044388",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w505954491",
+      "name": "らーめん萬楽　南高井店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.7908563,
+      "lng": 132.8066761,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/505954491",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2308403680",
+      "name": "りょう花",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8400169,
+      "lng": 132.744824,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2308403680",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n13866539537",
+      "name": "伊予食堂おとら",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.8504373,
+      "lng": 132.7856653,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/13866539537",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n10275126705",
+      "name": "横浜家系ラーメン一門家　大街道店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8395731,
+      "lng": 132.770018,
+      "city": "松山市",
+      "address": "愛媛県松山市",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/10275126705",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2210736952",
+      "name": "花へんろ",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.996676,
+      "lng": 132.772331,
+      "city": "松山市",
+      "address": null,
+      "hours": "09:00-18:00",
+      "phone": null,
+      "website": null,
+      "osmId": "node/2210736952",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w464219416",
+      "name": "丸源ラーメン松山インター店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8105009,
+      "lng": 132.7798101,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/464219416",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n11559743688",
+      "name": "久留米とんこつラーメン 松山分校",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8549952,
+      "lng": 132.7470375,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/11559743688",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8244379251",
+      "name": "源氏車",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8383385,
+      "lng": 132.7620353,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8244379251",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2306397771",
+      "name": "骨太",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.84772,
+      "lng": 132.768132,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2306397771",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1495311508",
+      "name": "若水飯店",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.8106404,
+      "lng": 132.822242,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1495311508",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2385772454",
+      "name": "食堂はなみずきごはんや",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.8108084,
+      "lng": 132.7654091,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2385772454",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2302469295",
+      "name": "大阪王将",
+      "category": "chinese",
+      "ramen": "menu",
+      "lat": 33.839516,
+      "lng": 132.744892,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2302469295",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n5929052187",
+      "name": "大地の母",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.889864,
+      "lng": 132.735537,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": "9945353",
+      "website": null,
+      "osmId": "node/5929052187",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2441105205",
+      "name": "中華つけ麺大王",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8089562,
+      "lng": 132.7794652,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2441105205",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n11422763379",
+      "name": "長春亭",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.8306888,
+      "lng": 132.7083124,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/11422763379",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n6360303763",
+      "name": "天下一品",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8089534,
+      "lng": 132.8089556,
+      "city": "松山市",
+      "address": "愛媛県松山市久米窪田町11591",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/6360303763",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w230964592",
+      "name": "天下一品 土居田店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.822166,
+      "lng": 132.7529191,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/230964592",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n6363720469",
+      "name": "豚太郎",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8084191,
+      "lng": 132.8064722,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/6363720469",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n5907316483",
+      "name": "豚太郎北条店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9619134,
+      "lng": 132.7774648,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/5907316483",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12347047060",
+      "name": "美食坊ハルピン",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.8408272,
+      "lng": 132.7519266,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12347047060",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1307422631",
+      "name": "北京飯店",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.9292472,
+      "lng": 132.7611854,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1307422631",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w450539373",
+      "name": "麺屋 壱 松山店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8406128,
+      "lng": 132.7269119,
+      "city": "松山市",
+      "address": "愛媛県松山市北斎院町698-1",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/450539373",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n13954951301",
+      "name": "麺鮮醤油房 周月",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8964251,
+      "lng": 132.748466,
+      "city": "松山市",
+      "address": null,
+      "hours": "Fr-We 10:00-22:00",
+      "phone": null,
+      "website": null,
+      "osmId": "node/13954951301",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12208660713",
+      "name": "油そば",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8366655,
+      "lng": 132.7645873,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12208660713",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2385956566",
+      "name": "来来亭",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8230659,
+      "lng": 132.7577818,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2385956566",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n10605774688",
+      "name": "餃子 のぶ",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.8637924,
+      "lng": 132.7188537,
+      "city": "松山市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/10605774688",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2109276990",
+      "name": "エミグルメ",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.787066,
+      "lng": 132.7154018,
+      "city": "松前町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2109276990",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2386746113",
+      "name": "ごはんやいよ松前食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.7858687,
+      "lng": 132.7147683,
+      "city": "松前町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2386746113",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1434978177",
+      "name": "ラーメンショップ R56店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.7974283,
+      "lng": 132.7248243,
+      "city": "松前町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1434978177",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2386739845",
+      "name": "らーめん工房りょう花松前店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.7831802,
+      "lng": 132.7133896,
+      "city": "松前町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2386739845",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12848296788",
+      "name": "リンガーハット",
+      "category": "chain",
+      "ramen": "menu",
+      "lat": 33.7778247,
+      "lng": 132.7103535,
+      "city": "松前町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12848296788",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w201270621",
+      "name": "大阪王将 エミフルMASAKI店",
+      "category": "chinese",
+      "ramen": "menu",
+      "lat": 33.7874794,
+      "lng": 132.7157403,
+      "city": "松前町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/201270621",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2386756946",
+      "name": "豚太郎松前店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8012536,
+      "lng": 132.7260604,
+      "city": "松前町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2386756946",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2182966393",
+      "name": "からし屋",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9549861,
+      "lng": 133.2867408,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2182966393",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1442586909",
+      "name": "がんば亭",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9662414,
+      "lng": 133.3004228,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1442586909",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n696846346",
+      "name": "こくりょう食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.938182,
+      "lng": 133.3186794,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/696846346",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1150196616",
+      "name": "スシロー",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.9416978,
+      "lng": 133.293162,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1150196616",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1148003241",
+      "name": "はま寿司",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.9501054,
+      "lng": 133.2815251,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1148003241",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1442586905",
+      "name": "りょう花",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9656157,
+      "lng": 133.3020388,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1442586905",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1272396756",
+      "name": "丸源ラーメン",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9609466,
+      "lng": 133.2828371,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1272396756",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1272055841",
+      "name": "新居浜昭和通り食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.9701096,
+      "lng": 133.2827861,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1272055841",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n5266225899",
+      "name": "多賀屋食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.9757647,
+      "lng": 133.2938513,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/5266225899",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n10681345782",
+      "name": "中華麺飯茶屋 佳",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.946622,
+      "lng": 133.281786,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/10681345782",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n11814665969",
+      "name": "天下一品",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9529992,
+      "lng": 133.2861852,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/11814665969",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2182962658",
+      "name": "豚太郎",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9537864,
+      "lng": 133.2870978,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2182962658",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1272396754",
+      "name": "萩の茶屋",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9625547,
+      "lng": 133.2822535,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1272396754",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1272324431",
+      "name": "福々",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9587837,
+      "lng": 133.2856204,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1272324431",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2201048594",
+      "name": "麺や吉村",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.952103,
+      "lng": 133.253917,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2201048594",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2183079155",
+      "name": "餃苑",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.979394,
+      "lng": 133.306179,
+      "city": "新居浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2183079155",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w379012716",
+      "name": "がんば亭",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9300472,
+      "lng": 133.1912783,
+      "city": "西条市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/379012716",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n2213881378",
+      "name": "スシロー",
+      "category": "chain-sushi",
+      "ramen": "menu",
+      "lat": 33.928726,
+      "lng": 133.184836,
+      "city": "西条市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/2213881378",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n3947037730",
+      "name": "つるや",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9122287,
+      "lng": 133.0697445,
+      "city": "西条市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/3947037730",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1434979128",
+      "name": "ラーメンショップ 西条東店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9196801,
+      "lng": 133.2365595,
+      "city": "西条市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1434979128",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1434979127",
+      "name": "ラーメンショップ 東予店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.9580935,
+      "lng": 133.0742584,
+      "city": "西条市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1434979127",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n3945251356",
+      "name": "吉祥孝",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.9282218,
+      "lng": 133.1810619,
+      "city": "西条市",
+      "address": "愛媛県西条市",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/3945251356",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n10314032064",
+      "name": "生守ラーメン",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.945138,
+      "lng": 133.0817409,
+      "city": "西条市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/10314032064",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1120658135",
+      "name": "瓢華",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.8952544,
+      "lng": 133.1620115,
+      "city": "西条市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1120658135",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1451130602",
+      "name": "蓬莱閣",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.9296425,
+      "lng": 133.1873824,
+      "city": "西条市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1451130602",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8430959261",
+      "name": "麺屋 田所商店 西条店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.928182,
+      "lng": 133.1854026,
+      "city": "西条市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8430959261",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12269032266",
+      "name": "ケンちゃん食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.3782692,
+      "lng": 132.4209206,
+      "city": "西予市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12269032266",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n8375454118",
+      "name": "丸一食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.3633022,
+      "lng": 132.5124606,
+      "city": "西予市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/8375454118",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n12269045004",
+      "name": "幸楽",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.3797749,
+      "lng": 132.4229705,
+      "city": "西予市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/12269045004",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n5919824185",
+      "name": "セキショ食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.4720649,
+      "lng": 132.5468071,
+      "city": "大洲市",
+      "address": "国道56号",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/5919824185",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w607355673",
+      "name": "ラーメンショップKANTO大洲店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.5263412,
+      "lng": 132.5655646,
+      "city": "大洲市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/607355673",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n4593625390",
+      "name": "豚太郎砥部店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.7707747,
+      "lng": 132.7882609,
+      "city": "砥部町",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/4593625390",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1434979125",
+      "name": "ラーメンショップ 11号バイパス店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.7926347,
+      "lng": 132.8388834,
+      "city": "東温市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1434979125",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-w1434979126",
+      "name": "ラーメンショップ 川内店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.7940423,
+      "lng": 132.9569128,
+      "city": "東温市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "way/1434979126",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n5923150586",
+      "name": "なみへい",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.5956064,
+      "lng": 132.7845811,
+      "city": "内子町",
+      "address": "国道３７９号",
+      "hours": "Sa-Th 11:00-14:00",
+      "phone": null,
+      "website": null,
+      "osmId": "node/5923150586",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n7023076989",
+      "name": "どーや食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.4590507,
+      "lng": 132.4186359,
+      "city": "八幡浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/7023076989",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n7023212929",
+      "name": "ロンドン",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.4584906,
+      "lng": 132.4243388,
+      "city": "八幡浜市",
+      "address": "愛媛県八幡浜市新町1466",
+      "hours": "11:30-20:30; We off; Jan 08,Feb 08,Mar 08,Apr 08,May 08,Jun 08,Jul 08,Aug 08,Sep 08,Oct 08,Nov 08,Dec 08 off",
+      "phone": "+81-894-22-1234",
+      "website": null,
+      "osmId": "node/7023212929",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n7022934743",
+      "name": "元バスラーメンかじわら",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.4576119,
+      "lng": 132.4229473,
+      "city": "八幡浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/7022934743",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n7023064536",
+      "name": "三和食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.4578812,
+      "lng": 132.4188647,
+      "city": "八幡浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/7023064536",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    },
+    {
+      "id": "osm-n7023308270",
+      "name": "清家食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.4613383,
+      "lng": 132.4230605,
+      "city": "八幡浜市",
+      "address": null,
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "osmId": "node/7023308270",
+      "instagram": null,
+      "ratings": {
+        "google": null,
+        "tabelog": null,
+        "rdb": null,
+        "retty": null,
+        "hotpepper": null
+      },
+      "sources": [
+        "osm"
+      ]
+    }
+  ]
+}

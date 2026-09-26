@@ -1,0 +1,139 @@
+:root {
+  --bg: #fffaf3;
+  --surface: #ffffff;
+  --text: #2b2118;
+  --muted: #7a6a5c;
+  --line: #eadfd2;
+  --accent: #d9480f;
+  --ramen: #d9480f;
+  --chinese: #c92a2a;
+  --shokudo: #2b8a3e;
+  --chain: #1971c2;
+  --chain-sushi: #6741d9;
+  --google: #1a73e8;
+  --tabelog: #f08c00;
+  --rdb: #e03131;
+  --retty: #f76707;
+  --hotpepper: #c2255c;
+  --ig: #c13584;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1c1814;
+    --surface: #262019;
+    --text: #f1e9e0;
+    --muted: #b3a494;
+    --line: #3d342b;
+  }
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+a { color: var(--accent); }
+
+.site-header { padding: 16px 16px 4px; }
+.site-header h1 { margin: 0; font-size: 1.5rem; }
+.lead { margin: 4px 0 0; color: var(--muted); font-size: .9rem; }
+
+.filters {
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+  padding: 12px 16px;
+}
+.filters input[type=search], .filters select {
+  font: inherit; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px;
+  background: var(--surface); color: var(--text);
+}
+.filters input[type=search] { flex: 1 1 200px; min-width: 0; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  font: inherit; font-size: .85rem; padding: 4px 10px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--surface); color: var(--muted);
+}
+.chip[aria-pressed=true] { color: #fff; border-color: transparent; background: var(--c, var(--accent)); }
+.chip .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--c); margin-right: 4px; }
+.chip[aria-pressed=true] .dot { background: #fff; }
+.check { font-size: .9rem; white-space: nowrap; }
+
+.view-tabs { display: flex; gap: 4px; align-items: center; padding: 0 16px; border-bottom: 1px solid var(--line); }
+.view-tabs button {
+  font: inherit; padding: 8px 14px; border: 0; background: none; color: var(--muted); cursor: pointer;
+  border-bottom: 3px solid transparent;
+}
+.view-tabs button[aria-selected=true] { color: var(--text); border-bottom-color: var(--accent); font-weight: 600; }
+.count { margin-left: auto; color: var(--muted); font-size: .85rem; }
+
+.map-layout { display: grid; grid-template-columns: 1fr 380px; height: calc(100vh - 200px); min-height: 480px; }
+#map { height: 100%; }
+.shop-list { list-style: none; margin: 0; padding: 0; overflow-y: auto; border-left: 1px solid var(--line); }
+.shop-list li { padding: 12px 16px; border-bottom: 1px solid var(--line); cursor: pointer; }
+.shop-list li:hover, .shop-list li.active { background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.shop-name { font-weight: 600; margin: 0; }
+.shop-meta { font-size: .8rem; color: var(--muted); margin: 2px 0 6px; }
+
+.badge {
+  display: inline-block; font-size: .7rem; padding: 1px 6px; border-radius: 4px; color: #fff;
+  background: var(--c); vertical-align: middle; margin-right: 4px;
+}
+.badge.maybe { background: none; color: var(--muted); border: 1px dashed var(--muted); }
+.badge.closed { background: #868e96; }
+
+.ratings { display: flex; flex-wrap: wrap; gap: 4px; }
+.rating {
+  display: inline-flex; align-items: baseline; gap: 4px; font-size: .78rem; padding: 2px 8px;
+  border-radius: 6px; border: 1px solid var(--line); text-decoration: none; white-space: nowrap; color: var(--text); background: var(--surface);
+}
+.rating b { color: var(--c); }
+.rating .site { color: var(--c); font-weight: 600; }
+.rating.none { color: var(--muted); }
+.rating.none .site { color: var(--muted); font-weight: normal; }
+.rating small { color: var(--muted); }
+.ig-link { color: var(--ig); font-weight: 600; text-decoration: none; }
+
+/* ポップアップ */
+.leaflet-popup-content { margin: 12px 14px; min-width: 240px; }
+.popup h3 { margin: 0 0 4px; font-size: 1rem; }
+.popup dl { display: grid; grid-template-columns: auto 1fr; gap: 2px 8px; font-size: .8rem; margin: 8px 0; }
+.popup dt { color: #777; }
+.popup dd { margin: 0; }
+.popup .rating-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px; margin-top: 6px; }
+.popup .rating { justify-content: space-between; color: #222; background: #fff; border-color: #ddd; }
+.popup .rating small, .popup .rating.none { color: #888; }
+
+/* 評価くらべ表 */
+.table-wrap { overflow-x: auto; padding: 0 16px 16px; }
+.compare { border-collapse: collapse; width: 100%; font-size: .85rem; min-width: 880px; }
+.compare th, .compare td { padding: 8px 10px; border-bottom: 1px solid var(--line); text-align: left; white-space: nowrap; }
+.compare th { position: sticky; top: 0; background: var(--bg); font-size: .8rem; color: var(--muted); }
+.compare td.num { text-align: right; font-variant-numeric: tabular-nums; }
+.compare td.num a { text-decoration: none; }
+.compare td.num .score { font-weight: 600; color: var(--c); }
+.compare td.num small { color: var(--muted); display: block; font-size: .7rem; }
+.compare td.num .search { color: var(--muted); font-size: .75rem; }
+.compare tr:hover td { background: color-mix(in srgb, var(--accent) 6%, transparent); }
+.compare .name-cell { cursor: pointer; font-weight: 600; }
+
+.site-footer { padding: 16px; font-size: .75rem; color: var(--muted); }
+
+.marker-dot {
+  width: 18px; height: 18px; border-radius: 50%; border: 2px solid #fff; background: var(--c);
+  box-shadow: 0 1px 4px rgba(0,0,0,.4);
+}
+.cluster {
+  display: grid; place-items: center; border-radius: 50%; color: #fff; font-weight: 700; font-size: .85rem;
+  background: color-mix(in srgb, var(--accent) 88%, transparent); border: 3px solid rgba(255,255,255,.85);
+  box-shadow: 0 1px 6px rgba(0,0,0,.35);
+}
+.marker-dot.maybe { width: 14px; height: 14px; margin: 2px; opacity: .85; }
+
+@media (max-width: 760px) {
+  .map-layout { grid-template-columns: 1fr; grid-template-rows: 50vh auto; height: auto; }
+  .shop-list { border-left: 0; border-top: 1px solid var(--line); }
+  .view-tabs button { padding: 8px 10px; white-space: nowrap; }
+  .count { white-space: nowrap; }
+}
