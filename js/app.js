@@ -87,7 +87,7 @@
     if (r?.score != null) {
       const count = r.count ? `<small>(${r.count.toLocaleString()})</small>` : '';
       return `<a class="rating" style="--c:${site.color}" href="${esc(r.url || site.search(shop))}" target="_blank" rel="noopener">
-        <span class="site">${site.label}</span><b>${r.score.toFixed(site.max === 100 ? 0 : 2)}</b>${count}</a>`;
+        <span class="site">${site.label}</span><b>${r.score.toFixed(site.max === 100 ? 1 : 2)}</b>${count}</a>`;
     }
     return `<a class="rating none" href="${esc(r?.url || site.search(shop))}" target="_blank" rel="noopener" title="${site.label}で探す">
       <span class="site">${site.label}</span><small>${r?.url ? '評価なし' : '検索 ↗'}</small></a>`;
@@ -174,8 +174,8 @@
           const r = s.ratings?.[site.key];
           const href = esc(r?.url || site.search(s));
           return r?.score != null
-            ? `<td class="num" style="--c:${site.color}"><a href="${href}" target="_blank" rel="noopener"><span class="score">${r.score.toFixed(site.max === 100 ? 0 : 2)}</span>${r.count ? `<small>${r.count.toLocaleString()}件</small>` : ''}</a></td>`
-            : `<td class="num"><a class="search" href="${href}" target="_blank" rel="noopener">検索↗</a></td>`;
+            ? `<td class="num" style="--c:${site.color}"><a href="${href}" target="_blank" rel="noopener"><span class="score">${r.score.toFixed(site.max === 100 ? 1 : 2)}</span>${r.count ? `<small>${r.count.toLocaleString()}件</small>` : ''}</a></td>`
+            : `<td class="num"><a class="search" href="${href}" target="_blank" rel="noopener">${r?.url ? 'ページ↗' : '検索↗'}</a></td>`;
         }).join('')}
         <td>${instagramLink(s) || '<span style="color:var(--muted)">—</span>'}</td>
       </tr>`).join('');

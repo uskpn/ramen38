@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:55:07.131Z",
+  "updatedAt": "2026-09-29T18:40:23.907Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -11307,9 +11307,21 @@
           "count": 68,
           "url": "https://maps.google.com/?cid=7289685339794928922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.14,
+          "count": 29,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016042/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/160672.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001837133/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11345,7 +11357,11 @@
           "count": 9,
           "url": "https://maps.google.com/?cid=1426514000305464352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.03,
+          "count": 2,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016352/"
+        },
         "rdb": null,
         "retty": null,
         "hotpepper": null
@@ -11376,16 +11392,24 @@
       "hours": null,
       "phone": "089-913-7713",
       "website": "https://www.ja-e-chuo.or.jp/matteru/",
-      "instagram": "maruhina_gram",
+      "instagram": "ja_ohisama_gram",
       "ratings": {
         "google": {
           "score": 4.1,
           "count": 179,
           "url": "https://maps.google.com/?cid=15935505428654142549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.33,
+          "count": 54,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38012871/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 4,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001509244/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11414,16 +11438,28 @@
       "hours": null,
       "phone": "089-911-1611",
       "website": "https://twitter.com/kaneokaramen",
-      "instagram": null,
+      "instagram": "kaneoka.ramen",
       "ratings": {
         "google": {
           "score": 4.2,
           "count": 286,
           "url": "https://maps.google.com/?cid=1120615254208279177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.42,
+          "count": 91,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38013615/"
+        },
+        "rdb": {
+          "score": 87.264,
+          "count": 5,
+          "url": "https://ramendb.supleks.jp/s/129397.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 10,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001563535/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11452,16 +11488,28 @@
       "hours": null,
       "phone": "080-4999-6030",
       "website": "https://yakitori-kitchen-irodori.jp/",
-      "instagram": null,
+      "instagram": "yakitori_kitchen_irodori",
       "ratings": {
         "google": {
           "score": 4.3,
           "count": 125,
           "url": "https://maps.google.com/?cid=16997657234637053186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.08,
+          "count": 23,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38010169/"
+        },
+        "rdb": {
+          "score": 82.969,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/139269.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 4,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001335521/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11490,16 +11538,24 @@
       "hours": null,
       "phone": "089-909-6399",
       "website": null,
-      "instagram": null,
+      "instagram": "zenshin_chuka",
       "ratings": {
         "google": {
           "score": 4.1,
           "count": 83,
           "url": "https://maps.google.com/?cid=8678724615955795946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.18,
+          "count": 11,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014871/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001625875/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11528,16 +11584,28 @@
       "hours": null,
       "phone": "089-916-3698",
       "website": null,
-      "instagram": null,
+      "instagram": "azumaya.chifunemachi",
       "ratings": {
         "google": {
           "score": 3.8,
           "count": 185,
           "url": "https://maps.google.com/?cid=5712977806511745950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.25,
+          "count": 59,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38010013/"
+        },
+        "rdb": {
+          "score": 81.001,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/75755.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001659357/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11566,17 +11634,29 @@
       "hours": null,
       "phone": "070-4211-1566",
       "website": null,
-      "instagram": null,
+      "instagram": "inoueya_matsuyama",
       "ratings": {
         "google": {
           "score": 4.1,
           "count": 78,
           "url": "https://maps.google.com/?cid=4042688390705440840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.25,
+          "count": 34,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38006952/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 2,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000999017/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ001073487/"
+        }
       },
       "sources": [
         "google"
@@ -11611,9 +11691,21 @@
           "count": 252,
           "url": "https://maps.google.com/?cid=18086430340379991328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.06,
+          "count": 14,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38012773/"
+        },
+        "rdb": {
+          "score": 84.554,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/130200.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 10,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000926133/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11649,9 +11741,21 @@
           "count": 99,
           "url": "https://maps.google.com/?cid=18253852607450453648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.01,
+          "count": 12,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014218/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/126249.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001777648/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11687,10 +11791,22 @@
           "count": 15,
           "url": "https://maps.google.com/?cid=15100483754922071666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.06,
+          "count": 10,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38004543/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/60894.html"
+        },
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000547178/"
+        }
       },
       "sources": [
         "google"
@@ -11725,10 +11841,18 @@
           "count": 15,
           "url": "https://maps.google.com/?cid=5258106126197445612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.01,
+          "count": 1,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38003640/"
+        },
         "rdb": null,
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000621007/"
+        }
       },
       "sources": [
         "google"
@@ -11764,10 +11888,26 @@
           "count": 164,
           "url": "https://maps.google.com/?cid=11295406037587194425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.24,
+          "count": 50,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38002070/"
+        },
+        "rdb": {
+          "score": 80.764,
+          "count": 7,
+          "url": "https://ramendb.supleks.jp/s/6359.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 6,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001189973/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000545817/"
+        }
       },
       "sources": [
         "osm",
@@ -11804,9 +11944,17 @@
           "count": 1167,
           "url": "https://maps.google.com/?cid=15030355200417485900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.03,
+          "count": 18,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38011040/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": null,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001339086/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11844,10 +11992,22 @@
           "count": 1076,
           "url": "https://maps.google.com/?cid=1429887840954551034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.03,
+          "count": 38,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38007394/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001116285/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 23,
+          "url": "https://www.hotpepper.jp/strJ000996934/"
+        }
       },
       "sources": [
         "osm",
@@ -11884,10 +12044,26 @@
           "count": 186,
           "url": "https://maps.google.com/?cid=8335549926340230036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.26,
+          "count": 72,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001078/"
+        },
+        "rdb": {
+          "score": 82.362,
+          "count": 9,
+          "url": "https://ramendb.supleks.jp/s/7574.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 6,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001256146/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 2,
+          "url": "https://www.hotpepper.jp/strJ000648663/"
+        }
       },
       "sources": [
         "osm",
@@ -11942,16 +12118,24 @@
       "phone": "089-904-7059",
       "website": null,
       "osmId": "node/5025570564",
-      "instagram": null,
+      "instagram": "gd4649",
       "ratings": {
         "google": {
           "score": 4.2,
           "count": 137,
           "url": "https://maps.google.com/?cid=2719116318342713607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.28,
+          "count": 33,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38009491/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 3,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001361367/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -11989,10 +12173,26 @@
           "count": 202,
           "url": "https://maps.google.com/?cid=18226895714413791627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.36,
+          "count": 59,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38008041/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/115307.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 6,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000796992/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 8,
+          "url": "https://www.hotpepper.jp/strJ001016873/"
+        }
       },
       "sources": [
         "osm",
@@ -12028,9 +12228,21 @@
           "count": 70,
           "url": "https://maps.google.com/?cid=1326165883143633885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.08,
+          "count": 20,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016734/"
+        },
+        "rdb": {
+          "score": 84.671,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/168955.html"
+        },
+        "retty": {
+          "score": null,
+          "count": null,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001808453/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -12066,8 +12278,16 @@
           "count": 10,
           "url": "https://maps.google.com/?cid=8799865396023630990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": null,
+          "count": 1,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38017421/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/173659"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -12105,10 +12325,22 @@
           "count": 1028,
           "url": "https://maps.google.com/?cid=9802879714432720694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.02,
+          "count": 19,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38009225/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": null,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000844930/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 13,
+          "url": "https://www.hotpepper.jp/strJ001061720/"
+        }
       },
       "sources": [
         "osm",
@@ -12145,9 +12377,17 @@
           "count": 872,
           "url": "https://maps.google.com/?cid=5059833859929738993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.04,
+          "count": 29,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38006423/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000633766/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -12185,10 +12425,22 @@
           "count": 979,
           "url": "https://maps.google.com/?cid=3377810546136415888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.05,
+          "count": 40,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38007165/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 2,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000712991/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 15,
+          "url": "https://www.hotpepper.jp/strJ000952978/"
+        }
       },
       "sources": [
         "osm",
@@ -12217,17 +12469,29 @@
       "hours": null,
       "phone": "089-948-8449",
       "website": null,
-      "instagram": null,
+      "instagram": "sumiru20220111",
       "ratings": {
         "google": {
           "score": 4.6,
           "count": 106,
           "url": "https://maps.google.com/?cid=6204086877305948233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.23,
+          "count": 18,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014103/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001622201/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ001293066/"
+        }
       },
       "sources": [
         "google"
@@ -12262,8 +12526,16 @@
           "count": 91,
           "url": "https://maps.google.com/?cid=14597118935698546932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.17,
+          "count": 17,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38015945/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/160349.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -12300,8 +12572,16 @@
           "count": 173,
           "url": "https://maps.google.com/?cid=8902028802851672122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.06,
+          "count": 9,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38017037/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/172915"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -12376,8 +12656,16 @@
           "count": 71,
           "url": "https://maps.google.com/?cid=4925194602552415419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.06,
+          "count": 12,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38012176/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/106410.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -12415,10 +12703,26 @@
           "count": 583,
           "url": "https://maps.google.com/?cid=15537659943098032111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.06,
+          "count": 28,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38008210/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/130936.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000974059/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000970830/"
+        }
       },
       "sources": [
         "osm",
@@ -12454,10 +12758,26 @@
           "count": 460,
           "url": "https://maps.google.com/?cid=2129012389408331820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.07,
+          "count": 29,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000427/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/130934.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 4,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000874821/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 2,
+          "url": "https://www.hotpepper.jp/strJ000545878/"
+        }
       },
       "sources": [
         "google"
@@ -12492,9 +12812,21 @@
           "count": 544,
           "url": "https://maps.google.com/?cid=14971057183304863079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.12,
+          "count": 44,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38008831/"
+        },
+        "rdb": {
+          "score": 82.776,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/98833.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 6,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000853087/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -12530,10 +12862,26 @@
           "count": 540,
           "url": "https://maps.google.com/?cid=8888611276931294986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.12,
+          "count": 63,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000198/"
+        },
+        "rdb": {
+          "score": 83.014,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/130935.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 5,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000816801/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 11,
+          "url": "https://www.hotpepper.jp/strJ000547266/"
+        }
       },
       "sources": [
         "google"
@@ -12569,9 +12917,21 @@
           "count": 641,
           "url": "https://maps.google.com/?cid=309866345526274760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.16,
+          "count": 50,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38009925/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/130937.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 6,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001323436/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -12608,10 +12968,22 @@
           "count": 102,
           "url": "https://maps.google.com/?cid=14305660130518809191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.1,
+          "count": 18,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001661/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 3,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634719/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 1,
+          "url": "https://www.hotpepper.jp/strJ000545674/"
+        }
       },
       "sources": [
         "google"
@@ -12646,9 +13018,21 @@
           "count": 521,
           "url": "https://maps.google.com/?cid=6932296205296979492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.27,
+          "count": 90,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38005383/"
+        },
+        "rdb": {
+          "score": 80.001,
+          "count": 6,
+          "url": "https://ramendb.supleks.jp/s/21481.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 17,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000743369/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -12677,16 +13061,28 @@
       "hours": null,
       "phone": "089-997-7729",
       "website": "https://tabelog.com/ehime/A3801/A380101/38001433/",
-      "instagram": "kuraki_matsuyama",
+      "instagram": "kuraki.matsuyama",
       "ratings": {
         "google": {
           "score": 4.3,
           "count": 1238,
           "url": "https://maps.google.com/?cid=13936471524225227409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.48,
+          "count": 222,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38010904/"
+        },
+        "rdb": {
+          "score": 90.904,
+          "count": 20,
+          "url": "https://ramendb.supleks.jp/s/90665.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 15,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001267972/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -12722,9 +13118,17 @@
           "count": 23,
           "url": "https://maps.google.com/?cid=12162739042348855362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.06,
+          "count": 7,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38012151/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001593674/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -12760,10 +13164,22 @@
           "count": 55,
           "url": "https://maps.google.com/?cid=11252862869427677749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.2,
+          "count": 16,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38007531/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 2,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000808221/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000996927/"
+        }
       },
       "sources": [
         "google"
@@ -12798,9 +13214,21 @@
           "count": 268,
           "url": "https://maps.google.com/?cid=87002573169238137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.39,
+          "count": 62,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014528/"
+        },
+        "rdb": {
+          "score": 85.551,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/143456.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001670254/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -12829,17 +13257,25 @@
       "hours": null,
       "phone": "089-943-5415",
       "website": null,
-      "instagram": null,
+      "instagram": "naniwayashitang",
       "ratings": {
         "google": {
           "score": 4.1,
           "count": 69,
           "url": "https://maps.google.com/?cid=4790806234840576849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.11,
+          "count": 15,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38004751/"
+        },
         "rdb": null,
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000546626/"
+        }
       },
       "sources": [
         "google"
@@ -12874,10 +13310,26 @@
           "count": 194,
           "url": "https://maps.google.com/?cid=83123795313792790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.08,
+          "count": 44,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000207/"
+        },
+        "rdb": {
+          "score": 78.623,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/6936.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 4,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634653/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000547197/"
+        }
       },
       "sources": [
         "google"
@@ -12905,17 +13357,33 @@
       "hours": null,
       "phone": "089-925-2203",
       "website": "https://tabelog.com/ehime/A3801/A380101/38000206/",
-      "instagram": null,
+      "instagram": "noppinramen",
       "ratings": {
         "google": {
           "score": 4.2,
           "count": 796,
           "url": "https://maps.google.com/?cid=9475876395833315322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.44,
+          "count": 134,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000206/"
+        },
+        "rdb": {
+          "score": 81.866,
+          "count": 6,
+          "url": "https://ramendb.supleks.jp/s/2045.html"
+        },
+        "retty": {
+          "score": 3.7,
+          "count": 29,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000857545/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 5,
+          "url": "https://www.hotpepper.jp/strJ000637257/"
+        }
       },
       "sources": [
         "google"
@@ -12951,10 +13419,18 @@
           "count": 803,
           "url": "https://maps.google.com/?cid=1189252430467626578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.03,
+          "count": 24,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38007637/"
+        },
         "rdb": null,
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 4,
+          "url": "https://www.hotpepper.jp/strJ001061766/"
+        }
       },
       "sources": [
         "osm",
@@ -12990,7 +13466,11 @@
           "count": 63,
           "url": "https://maps.google.com/?cid=3939986793297104833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.15,
+          "count": 40,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38011148/"
+        },
         "rdb": null,
         "retty": null,
         "hotpepper": null
@@ -13029,10 +13509,22 @@
           "count": 592,
           "url": "https://maps.google.com/?cid=11292425759765485793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.38,
+          "count": 95,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001352/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 24,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000799588/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 31,
+          "url": "https://www.hotpepper.jp/strJ000547463/"
+        }
       },
       "sources": [
         "osm",
@@ -13068,10 +13560,18 @@
           "count": 308,
           "url": "https://maps.google.com/?cid=478393615697538673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.02,
+          "count": 16,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38004756/"
+        },
         "rdb": null,
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000677256/"
+        }
       },
       "sources": [
         "google"
@@ -13099,17 +13599,29 @@
       "hours": null,
       "phone": "089-952-9171",
       "website": "http://www.kizuna-g.co.jp/service/maido/",
-      "instagram": null,
+      "instagram": "furumitushokudou",
       "ratings": {
         "google": {
           "score": 3.7,
           "count": 436,
           "url": "https://maps.google.com/?cid=4340333694061715630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.03,
+          "count": 19,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38003517/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": null,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001169299/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000674424/"
+        }
       },
       "sources": [
         "google"
@@ -13137,15 +13649,23 @@
       "hours": null,
       "phone": "050-8885-3325",
       "website": "https://x.com/Ramen_Mozu?t=Iek675hxi_zXdDENeiuirQ&s=09",
-      "instagram": null,
+      "instagram": "mazesobamozu",
       "ratings": {
         "google": {
           "score": 3.9,
           "count": 63,
           "url": "https://maps.google.com/?cid=13448588852733148123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.21,
+          "count": 26,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016023/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/160960.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -13182,10 +13702,26 @@
           "count": 44,
           "url": "https://maps.google.com/?cid=2126677755873836213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.07,
+          "count": 20,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38005428/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/114175.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000633874/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000545960/"
+        }
       },
       "sources": [
         "google"
@@ -13220,10 +13756,18 @@
           "count": 16,
           "url": "https://maps.google.com/?cid=3350789799788857203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.05,
+          "count": 7,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38003916/"
+        },
         "rdb": null,
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000547056/"
+        }
       },
       "sources": [
         "google"
@@ -13259,10 +13803,26 @@
           "count": 386,
           "url": "https://maps.google.com/?cid=8313294634794859494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.35,
+          "count": 55,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001571/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/120459.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 3,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001103764/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000771733/"
+        }
       },
       "sources": [
         "osm",
@@ -13298,9 +13858,21 @@
           "count": 48,
           "url": "https://maps.google.com/?cid=13150762717701422173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.38,
+          "count": 78,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014606/"
+        },
+        "rdb": {
+          "score": 83.825,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/144664.html"
+        },
+        "retty": {
+          "score": 3.74,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001705632/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -13337,9 +13909,21 @@
           "count": 379,
           "url": "https://maps.google.com/?cid=12431224175499013052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.22,
+          "count": 41,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38011853/"
+        },
+        "rdb": {
+          "score": 83.649,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/99694.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001399240/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -13376,9 +13960,21 @@
           "count": 261,
           "url": "https://maps.google.com/?cid=6061325696708179272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.18,
+          "count": 52,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38008374/"
+        },
+        "rdb": {
+          "score": 81.904,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/59045.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 11,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000738759/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -13414,10 +14010,26 @@
           "count": 339,
           "url": "https://maps.google.com/?cid=6622740386698223411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.45,
+          "count": 210,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001126/"
+        },
+        "rdb": {
+          "score": 88.999,
+          "count": 21,
+          "url": "https://ramendb.supleks.jp/s/5968.html"
+        },
+        "retty": {
+          "score": 3.86,
+          "count": 36,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000769142/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 6,
+          "url": "https://www.hotpepper.jp/strJ000545697/"
+        }
       },
       "sources": [
         "google"
@@ -13478,10 +14090,26 @@
           "count": 269,
           "url": "https://maps.google.com/?cid=2570339240028583273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.18,
+          "count": 41,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000132/"
+        },
+        "rdb": {
+          "score": 81.692,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/79794.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 4,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634148/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 2,
+          "url": "https://www.hotpepper.jp/strJ000546170/"
+        }
       },
       "sources": [
         "osm",
@@ -13518,10 +14146,26 @@
           "count": 580,
           "url": "https://maps.google.com/?cid=1551461943499441904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.47,
+          "count": 171,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000131/"
+        },
+        "rdb": {
+          "score": 84.844,
+          "count": 10,
+          "url": "https://ramendb.supleks.jp/s/64698.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 11,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634681/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 10,
+          "url": "https://www.hotpepper.jp/strJ000546545/"
+        }
       },
       "sources": [
         "osm",
@@ -13551,7 +14195,7 @@
       "phone": "090-6326-8456",
       "website": null,
       "osmId": "way/625669744",
-      "instagram": "menya_sow",
+      "instagram": null,
       "ratings": {
         "google": {
           "score": 4.1,
@@ -13597,9 +14241,21 @@
           "count": 215,
           "url": "https://maps.google.com/?cid=11164842875216364397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.34,
+          "count": 60,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38015548/"
+        },
+        "rdb": {
+          "score": 84.211,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/156383.html"
+        },
+        "retty": {
+          "score": 3.72,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001750178/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -13635,10 +14291,26 @@
           "count": 454,
           "url": "https://maps.google.com/?cid=6425918639817927703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.36,
+          "count": 83,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000322/"
+        },
+        "rdb": {
+          "score": 81.673,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/22225.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 12,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000059491/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 4,
+          "url": "https://www.hotpepper.jp/strJ000637265/"
+        }
       },
       "sources": [
         "google"
@@ -13673,10 +14345,26 @@
           "count": 428,
           "url": "https://maps.google.com/?cid=8689147217354449598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.31,
+          "count": 74,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000134/"
+        },
+        "rdb": {
+          "score": 83.544,
+          "count": 16,
+          "url": "https://ramendb.supleks.jp/s/2042.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 2,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001099641/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 9,
+          "url": "https://www.hotpepper.jp/strJ000545719/"
+        }
       },
       "sources": [
         "google"
@@ -13704,16 +14392,28 @@
       "hours": null,
       "phone": "089-933-2343",
       "website": "http://www.ryoka-ism.com/",
-      "instagram": null,
+      "instagram": "ryokatukamoto",
       "ratings": {
         "google": {
           "score": 3.9,
           "count": 364,
           "url": "https://maps.google.com/?cid=16321267977447074672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.07,
+          "count": 74,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38005032/"
+        },
+        "rdb": {
+          "score": 83.913,
+          "count": 10,
+          "url": "https://ramendb.supleks.jp/s/57258.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 11,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000871781/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -13812,16 +14512,28 @@
       "hours": null,
       "phone": "089-976-8088",
       "website": "https://japoncompany.business/matsuyama/540529--",
-      "instagram": null,
+      "instagram": "enishi_78",
       "ratings": {
         "google": {
           "score": 4,
           "count": 470,
           "url": "https://maps.google.com/?cid=13734541083374095208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.33,
+          "count": 75,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38010679/"
+        },
+        "rdb": {
+          "score": 85.231,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/84088.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 12,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001275895/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -13851,16 +14563,28 @@
       "phone": "089-927-5306",
       "website": "http://www.rairaitei.co.jp/",
       "osmId": "node/2305044388",
-      "instagram": "rairaitei_2000",
+      "instagram": "rairai.matsuyamadaimae",
       "ratings": {
         "google": {
           "score": 3.9,
           "count": 540,
           "url": "https://maps.google.com/?cid=3175453240475396690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.05,
+          "count": 69,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38008349/"
+        },
+        "rdb": {
+          "score": 81.216,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/58382.html"
+        },
+        "retty": {
+          "score": null,
+          "count": null,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000381254/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -13929,8 +14653,16 @@
           "count": 72,
           "url": "https://maps.google.com/?cid=9560648272653676082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.12,
+          "count": 17,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016902/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/170800"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -13961,17 +14693,33 @@
       "phone": "089-994-8835",
       "website": "http://www.ryoka-ism.com/",
       "osmId": "node/2308403680",
-      "instagram": null,
+      "instagram": "vusido.ryoka",
       "ratings": {
         "google": {
           "score": 3.9,
           "count": 329,
           "url": "https://maps.google.com/?cid=4542213335192303159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.06,
+          "count": 60,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38007009/"
+        },
+        "rdb": {
+          "score": 83.932,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/54549"
+        },
+        "retty": {
+          "score": 3.69,
+          "count": 11,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000746547/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 2,
+          "url": "https://www.hotpepper.jp/strJ000858809/"
+        }
       },
       "sources": [
         "osm",
@@ -14007,9 +14755,21 @@
           "count": 50,
           "url": "https://maps.google.com/?cid=1458153025830901532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.01,
+          "count": 7,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38011375/"
+        },
+        "rdb": {
+          "score": 82.776,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/98832.html"
+        },
+        "retty": {
+          "score": null,
+          "count": null,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001368038/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -14045,8 +14805,16 @@
           "count": 153,
           "url": "https://maps.google.com/?cid=7258081914589859107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.04,
+          "count": 32,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38009685/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/98831.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -14077,17 +14845,29 @@
       "phone": "089-933-1455",
       "website": "http://www.takeshicompany.com/restaurant/otora",
       "osmId": "node/13866539537",
-      "instagram": null,
+      "instagram": "iyoshokudou_otora",
       "ratings": {
         "google": {
           "score": 3.8,
           "count": 353,
           "url": "https://maps.google.com/?cid=7381793404067864702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.4,
+          "count": 102,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38013705/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 3,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001759300/"
+        },
+        "hotpepper": {
+          "score": 4,
+          "count": 7,
+          "url": "https://www.hotpepper.jp/strJ004634475/"
+        }
       },
       "sources": [
         "osm",
@@ -14123,9 +14903,17 @@
           "count": 580,
           "url": "https://maps.google.com/?cid=6649359269233634030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.4,
+          "count": 96,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38009321/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 20,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000863329/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -14161,9 +14949,21 @@
           "count": 101,
           "url": "https://maps.google.com/?cid=11804213003843440757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.34,
+          "count": 28,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38015982/"
+        },
+        "rdb": {
+          "score": 82.775,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/160931.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001761925/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -14199,10 +14999,22 @@
           "count": 12,
           "url": "https://maps.google.com/?cid=9827268914854644649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.06,
+          "count": 9,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38008147/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000995069/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000546733/"
+        }
       },
       "sources": [
         "google"
@@ -14228,10 +15040,26 @@
           "count": 268,
           "url": "https://maps.google.com/?cid=2771929661442268902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.35,
+          "count": 82,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000057/"
+        },
+        "rdb": {
+          "score": 87.595,
+          "count": 12,
+          "url": "https://ramendb.supleks.jp/s/2047.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 10,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634623/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 9,
+          "url": "https://www.hotpepper.jp/strJ000546382/"
+        }
       },
       "sources": [
         "google"
@@ -14259,17 +15087,29 @@
       "hours": null,
       "phone": "089-993-7858",
       "website": null,
-      "instagram": null,
+      "instagram": "ichimonya_edamatsu",
       "ratings": {
         "google": {
           "score": 3.1,
           "count": 86,
           "url": "https://maps.google.com/?cid=10219099260768730375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.07,
+          "count": 13,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38015536/"
+        },
+        "rdb": {
+          "score": 83.246,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/155557.html"
+        },
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ004555962/"
+        }
       },
       "sources": [
         "google"
@@ -14304,8 +15144,16 @@
           "count": 34,
           "url": "https://maps.google.com/?cid=17769211840202789691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.03,
+          "count": 4,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016899/"
+        },
+        "rdb": {
+          "score": 82.522,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/171702.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -14336,16 +15184,28 @@
       "phone": "089-993-7385",
       "website": "https://okaido.jp/shop/%E4%B8%80%E9%96%80%E5%AE%B6/",
       "osmId": "node/10275126705",
-      "instagram": "55china_okaido",
+      "instagram": null,
       "ratings": {
         "google": {
           "score": 3.8,
           "count": 20,
           "url": "https://maps.google.com/?cid=15486832074164673056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.18,
+          "count": 69,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38012794/"
+        },
+        "rdb": {
+          "score": 84.612,
+          "count": 6,
+          "url": "https://ramendb.supleks.jp/s/116039.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 3,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001485552/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -14407,10 +15267,18 @@
           "count": 76,
           "url": "https://maps.google.com/?cid=6638822313767596486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.2,
+          "count": 16,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001662/"
+        },
         "rdb": null,
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000547135/"
+        }
       },
       "sources": [
         "google"
@@ -14445,10 +15313,22 @@
           "count": 164,
           "url": "https://maps.google.com/?cid=6846563054676843326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.17,
+          "count": 25,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38006093/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 4,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634739/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000552396/"
+        }
       },
       "sources": [
         "google"
@@ -14484,9 +15364,21 @@
           "count": 913,
           "url": "https://maps.google.com/?cid=13042001634926626987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.03,
+          "count": 45,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38009594/"
+        },
+        "rdb": {
+          "score": 83.332,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/70387.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 9,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000920646/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -14523,10 +15415,26 @@
           "count": 96,
           "url": "https://maps.google.com/?cid=1782173943193433892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.06,
+          "count": 6,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38006900/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/143071.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634391/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000703390/"
+        }
       },
       "sources": [
         "google"
@@ -14561,10 +15469,22 @@
           "count": 288,
           "url": "https://maps.google.com/?cid=3939286529369787715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.35,
+          "count": 68,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38002802/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 6,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001189706/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 2,
+          "url": "https://www.hotpepper.jp/strJ000545942/"
+        }
       },
       "sources": [
         "google"
@@ -14592,17 +15512,33 @@
       "hours": null,
       "phone": "089-922-7122",
       "website": "https://korepano.jp/ohiwa/",
-      "instagram": null,
+      "instagram": "ganhanten_ooiwa",
       "ratings": {
         "google": {
           "score": 4,
           "count": 256,
           "url": "https://maps.google.com/?cid=7238305445919470908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.16,
+          "count": 41,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38007834/"
+        },
+        "rdb": {
+          "score": 83.173,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/117576.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 7,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634694/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000545818/"
+        }
       },
       "sources": [
         "google"
@@ -14637,10 +15573,22 @@
           "count": 118,
           "url": "https://maps.google.com/?cid=12811057523244137366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.17,
+          "count": 30,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38003985/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 2,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001553236/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000546679/"
+        }
       },
       "sources": [
         "google"
@@ -14676,10 +15624,26 @@
           "count": 1217,
           "url": "https://maps.google.com/?cid=10281406355906328089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.56,
+          "count": 312,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000137/"
+        },
+        "rdb": {
+          "score": 91.893,
+          "count": 39,
+          "url": "https://ramendb.supleks.jp/s/2044.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 43,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000053508/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 26,
+          "url": "https://www.hotpepper.jp/strJ000545840/"
+        }
       },
       "sources": [
         "osm",
@@ -14708,17 +15672,33 @@
       "hours": null,
       "phone": "089-961-1940",
       "website": "https://www.facebook.com/Nishiki.iwamoto/",
-      "instagram": null,
+      "instagram": "nishiki_iwamoto",
       "ratings": {
         "google": {
           "score": 4,
           "count": 758,
           "url": "https://maps.google.com/?cid=2009200407858370318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.51,
+          "count": 257,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38011671/"
+        },
+        "rdb": {
+          "score": 92.085,
+          "count": 77,
+          "url": "https://ramendb.supleks.jp/s/96622.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 77,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001310578/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ001191381/"
+        }
       },
       "sources": [
         "google"
@@ -14746,16 +15726,28 @@
       "hours": null,
       "phone": "089-907-3393",
       "website": "https://itto-ryu.com/",
-      "instagram": null,
+      "instagram": "koi_kara_ryu_kume",
       "ratings": {
         "google": {
           "score": 3.6,
           "count": 143,
           "url": "https://maps.google.com/?cid=6009765443974619391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.19,
+          "count": 27,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016727/"
+        },
+        "rdb": {
+          "score": 82.497,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/168883.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001807646/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -14784,16 +15776,28 @@
       "hours": null,
       "phone": "089-994-5332",
       "website": "https://itto-ryu.jp/",
-      "instagram": "koi_kara_ryu_beppu",
+      "instagram": "koi_kara_ryu_matsuyama",
       "ratings": {
         "google": {
           "score": 3.5,
           "count": 349,
           "url": "https://maps.google.com/?cid=3719837911490025541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.36,
+          "count": 74,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016009/"
+        },
+        "rdb": {
+          "score": 82.45,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/160995.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001758703/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -14823,16 +15827,28 @@
       "phone": "089-933-5005",
       "website": "https://japoncompany.business/matsuyama/541371--",
       "osmId": "node/8244379251",
-      "instagram": null,
+      "instagram": "genj_5",
       "ratings": {
         "google": {
           "score": 3.8,
           "count": 353,
           "url": "https://maps.google.com/?cid=11261958650909099908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.45,
+          "count": 222,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38006437/"
+        },
+        "rdb": {
+          "score": 89.953,
+          "count": 26,
+          "url": "https://ramendb.supleks.jp/s/71113.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 15,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000756016/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -14900,17 +15916,33 @@
       "hours": null,
       "phone": "089-933-7841",
       "website": "https://matsuyama-nakachan.com/",
-      "instagram": null,
+      "instagram": "naka0807",
       "ratings": {
         "google": {
           "score": 4.1,
           "count": 172,
           "url": "https://maps.google.com/?cid=10243761150272549879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.24,
+          "count": 28,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38012494/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/146882.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 3,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001463905/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 3,
+          "url": "https://www.hotpepper.jp/strJ001195889/"
+        }
       },
       "sources": [
         "google"
@@ -14945,10 +15977,26 @@
           "count": 210,
           "url": "https://maps.google.com/?cid=12242375509004792116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.23,
+          "count": 54,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000269/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/175101.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 5,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000832956/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 1,
+          "url": "https://www.hotpepper.jp/strJ000547041/"
+        }
       },
       "sources": [
         "google"
@@ -14983,10 +16031,26 @@
           "count": 36,
           "url": "https://maps.google.com/?cid=15128146867700075083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.12,
+          "count": 12,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38006123/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/120616.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634283/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 1,
+          "url": "https://www.hotpepper.jp/strJ000547541/"
+        }
       },
       "sources": [
         "google"
@@ -15061,10 +16125,26 @@
           "count": 308,
           "url": "https://maps.google.com/?cid=13479575670229062238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.31,
+          "count": 89,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38007614/"
+        },
+        "rdb": {
+          "score": 89.054,
+          "count": 22,
+          "url": "https://ramendb.supleks.jp/s/59844.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 6,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001293910/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 2,
+          "url": "https://www.hotpepper.jp/strJ000546339/"
+        }
       },
       "sources": [
         "google"
@@ -15099,10 +16179,26 @@
           "count": 175,
           "url": "https://maps.google.com/?cid=16647671583744564225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.34,
+          "count": 54,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001329/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/147019.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 6,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634685/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000737873/"
+        }
       },
       "sources": [
         "google"
@@ -15137,10 +16233,22 @@
           "count": 133,
           "url": "https://maps.google.com/?cid=10593823617441351059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.24,
+          "count": 27,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38008896/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/120631.html"
+        },
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ001101428/"
+        }
       },
       "sources": [
         "google"
@@ -15175,10 +16283,26 @@
           "count": 410,
           "url": "https://maps.google.com/?cid=12710609792289922989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.32,
+          "count": 60,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000395/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/128677.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 7,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634688/"
+        },
+        "hotpepper": {
+          "score": 4.4,
+          "count": 319,
+          "url": "https://www.hotpepper.jp/strJ000547457/"
+        }
       },
       "sources": [
         "google"
@@ -15206,17 +16330,29 @@
       "hours": null,
       "phone": "089-989-6388",
       "website": "https://marubun8.com/restaurant_info/ebisu/",
-      "instagram": "marubun_1923",
+      "instagram": "ebisumaru0419",
       "ratings": {
         "google": {
           "score": 4,
           "count": 1153,
           "url": "https://maps.google.com/?cid=10349574541747357311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.5,
+          "count": 318,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38010063/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 27,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001252509/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ001142006/"
+        }
       },
       "sources": [
         "google"
@@ -15252,10 +16388,26 @@
           "count": 112,
           "url": "https://maps.google.com/?cid=6386282254188956055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.21,
+          "count": 19,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38002804/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/117496.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634700/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000547686/"
+        }
       },
       "sources": [
         "osm",
@@ -15291,10 +16443,22 @@
           "count": 51,
           "url": "https://maps.google.com/?cid=8630211717965648106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.05,
+          "count": 8,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001686/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634715/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000547654/"
+        }
       },
       "sources": [
         "google"
@@ -15322,16 +16486,28 @@
       "hours": null,
       "phone": "070-5350-9009",
       "website": "https://twitter.com/syusennin",
-      "instagram": null,
+      "instagram": "syusennin18",
       "ratings": {
         "google": {
           "score": 3.9,
           "count": 208,
           "url": "https://maps.google.com/?cid=15133558044614549424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.06,
+          "count": 9,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016266/"
+        },
+        "rdb": {
+          "score": 86.918,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/164116.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001774786/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -15360,15 +16536,23 @@
       "hours": null,
       "phone": "089-968-2033",
       "website": null,
-      "instagram": "hotaton_issei",
+      "instagram": "matsuyama_black",
       "ratings": {
         "google": {
           "score": 4,
           "count": 443,
           "url": "https://maps.google.com/?cid=3020302664131659142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.05,
+          "count": 9,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38017155/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/173804.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -15398,15 +16582,23 @@
       "hours": null,
       "phone": "080-9772-0432",
       "website": null,
-      "instagram": null,
+      "instagram": "ushimitsu_matsuyama",
       "ratings": {
         "google": {
           "score": 4.1,
           "count": 51,
           "url": "https://maps.google.com/?cid=9249795570119877707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.23,
+          "count": 38,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38015933/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/160160.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -15443,9 +16635,21 @@
           "count": 222,
           "url": "https://maps.google.com/?cid=2770354451853373687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.4,
+          "count": 95,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014291/"
+        },
+        "rdb": {
+          "score": 83.496,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/162769.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001777654/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -15474,15 +16678,23 @@
       "hours": null,
       "phone": "050-8884-9142",
       "website": null,
-      "instagram": null,
+      "instagram": "matsuryu_matsuyama",
       "ratings": {
         "google": {
           "score": 3,
           "count": 4,
           "url": "https://maps.google.com/?cid=9739874897802789840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.01,
+          "count": 4,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38017384/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/174954.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -15512,17 +16724,25 @@
       "hours": null,
       "phone": "089-945-7303",
       "website": null,
-      "instagram": null,
+      "instagram": "matsuyama_syo",
       "ratings": {
         "google": {
           "score": 4.5,
           "count": 103,
           "url": "https://maps.google.com/?cid=18169744723979495085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.05,
+          "count": 5,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38005599/"
+        },
         "rdb": null,
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000648637/"
+        }
       },
       "sources": [
         "google"
@@ -15550,16 +16770,28 @@
       "hours": null,
       "phone": "089-993-8786",
       "website": "https://regs.co.jp/",
-      "instagram": null,
+      "instagram": "shouwadow",
       "ratings": {
         "google": {
           "score": 4.1,
           "count": 344,
           "url": "https://maps.google.com/?cid=12282747787144359923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.42,
+          "count": 78,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014851/"
+        },
+        "rdb": {
+          "score": 83.112,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/147403.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001694088/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -15588,17 +16820,29 @@
       "hours": null,
       "phone": "089-934-7311",
       "website": "https://yoen.stores.jp/",
-      "instagram": null,
+      "instagram": "yoen7311",
       "ratings": {
         "google": {
           "score": 4.4,
           "count": 547,
           "url": "https://maps.google.com/?cid=4204299926745143636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.67,
+          "count": 237,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000161/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 33,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000737046/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 15,
+          "url": "https://www.hotpepper.jp/strJ000546433/"
+        }
       },
       "sources": [
         "google"
@@ -15633,9 +16877,17 @@
           "count": 43,
           "url": "https://maps.google.com/?cid=18097445978593430078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.21,
+          "count": 11,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014486/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 3,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001540347/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -15672,10 +16924,22 @@
           "count": 343,
           "url": "https://maps.google.com/?cid=12029669425095670211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.02,
+          "count": 15,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38004763/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001368062/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000737951/"
+        }
       },
       "sources": [
         "osm",
@@ -15711,9 +16975,21 @@
           "count": 84,
           "url": "https://maps.google.com/?cid=5096272003700880103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.14,
+          "count": 21,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38015747/"
+        },
+        "rdb": {
+          "score": 83.914,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/158127.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001752953/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -15742,17 +17018,33 @@
       "hours": null,
       "phone": "089-935-6933",
       "website": null,
-      "instagram": null,
+      "instagram": "azumaya.nibantyou",
       "ratings": {
         "google": {
           "score": 3.7,
           "count": 291,
           "url": "https://maps.google.com/?cid=3920439676531834542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.47,
+          "count": 260,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38007681/"
+        },
+        "rdb": {
+          "score": 87.671,
+          "count": 17,
+          "url": "https://ramendb.supleks.jp/s/10884.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 27,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000050282/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 5,
+          "url": "https://www.hotpepper.jp/strJ000703359/"
+        }
       },
       "sources": [
         "google"
@@ -15787,8 +17079,16 @@
           "count": 91,
           "url": "https://maps.google.com/?cid=18424877223370365659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.16,
+          "count": 21,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014670/"
+        },
+        "rdb": {
+          "score": 84.255,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/145217.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -15825,10 +17125,26 @@
           "count": 114,
           "url": "https://maps.google.com/?cid=15678683749184030093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.09,
+          "count": 28,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38008121/"
+        },
+        "rdb": {
+          "score": 81.757,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/91993.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634639/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 1,
+          "url": "https://www.hotpepper.jp/strJ000546577/"
+        }
       },
       "sources": [
         "google"
@@ -15856,16 +17172,28 @@
       "hours": null,
       "phone": "080-4058-0148",
       "website": "https://orni-group.com/",
-      "instagram": null,
+      "instagram": "orni_shijimiramen",
       "ratings": {
         "google": {
           "score": 4.2,
           "count": 51,
           "url": "https://maps.google.com/?cid=17019205236204515825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.17,
+          "count": 34,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016114/"
+        },
+        "rdb": {
+          "score": 82.874,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/162297.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001777385/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -15894,17 +17222,33 @@
       "hours": null,
       "phone": "089-948-7028",
       "website": "https://www.sisen.jp/shop/matsuyama/",
-      "instagram": null,
+      "instagram": "matsuyama_sisen",
       "ratings": {
         "google": {
           "score": 3.9,
           "count": 221,
           "url": "https://maps.google.com/?cid=1462797056258566061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.22,
+          "count": 84,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000302/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/82750.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 6,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001163382/"
+        },
+        "hotpepper": {
+          "score": 4.5,
+          "count": 135,
+          "url": "https://www.hotpepper.jp/strJ000685351/"
+        }
       },
       "sources": [
         "google"
@@ -15939,10 +17283,22 @@
           "count": 55,
           "url": "https://maps.google.com/?cid=1699312475128236823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.07,
+          "count": 13,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001683/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634717/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000547940/"
+        }
       },
       "sources": [
         "google"
@@ -15977,10 +17333,22 @@
           "count": 602,
           "url": "https://maps.google.com/?cid=9347162259985064483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.39,
+          "count": 112,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38005391/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 17,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000849288/"
+        },
+        "hotpepper": {
+          "score": 4.6,
+          "count": 8,
+          "url": "https://www.hotpepper.jp/strJ004660927/"
+        }
       },
       "sources": [
         "google"
@@ -16015,10 +17383,22 @@
           "count": 3,
           "url": "https://maps.google.com/?cid=17058107850486145165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.01,
+          "count": 4,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001654/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634691/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000546000/"
+        }
       },
       "sources": [
         "google"
@@ -16053,10 +17433,26 @@
           "count": 128,
           "url": "https://maps.google.com/?cid=13181075080731893773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.14,
+          "count": 31,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001669/"
+        },
+        "rdb": {
+          "score": 83.01,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/165760.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 2,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000876727/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 2,
+          "url": "https://www.hotpepper.jp/strJ000546787/"
+        }
       },
       "sources": [
         "google"
@@ -16116,8 +17512,16 @@
           "count": 40,
           "url": "https://maps.google.com/?cid=2318313171792527814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.04,
+          "count": 7,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016913/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/173065.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -16154,9 +17558,17 @@
           "count": 44,
           "url": "https://maps.google.com/?cid=6378989854162798598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.14,
+          "count": 16,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016422/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001786442/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -16193,9 +17605,17 @@
           "count": 213,
           "url": "https://maps.google.com/?cid=15956931246042259237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.05,
+          "count": 11,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38012498/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001643490/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -16232,8 +17652,16 @@
           "count": 37,
           "url": "https://maps.google.com/?cid=8543776095024190214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.06,
+          "count": 9,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38017017/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/172944.html"
+        },
         "retty": null,
         "hotpepper": null
       },
@@ -16263,17 +17691,33 @@
       "hours": null,
       "phone": "089-931-5133",
       "website": "https://japoncompany.business/matsuyama/540353--",
-      "instagram": null,
+      "instagram": "chukasoba_hyota",
       "ratings": {
         "google": {
           "score": 3.8,
           "count": 505,
           "url": "https://maps.google.com/?cid=15820296508481762831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.52,
+          "count": 465,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000972/"
+        },
+        "rdb": {
+          "score": 88.698,
+          "count": 50,
+          "url": "https://ramendb.supleks.jp/s/4949.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 75,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634145/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 18,
+          "url": "https://www.hotpepper.jp/strJ000546101/"
+        }
       },
       "sources": [
         "google"
@@ -16308,9 +17752,21 @@
           "count": 120,
           "url": "https://maps.google.com/?cid=1448625737469059137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
+        "tabelog": {
+          "score": 3.16,
+          "count": 21,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38016184/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/162905.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 0,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001780735/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -16346,10 +17802,26 @@
           "count": 438,
           "url": "https://maps.google.com/?cid=10203320880517949041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.43,
+          "count": 118,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38002382/"
+        },
+        "rdb": {
+          "score": 87.441,
+          "count": 9,
+          "url": "https://ramendb.supleks.jp/s/82924.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 18,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000857440/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 2,
+          "url": "https://www.hotpepper.jp/strJ000771742/"
+        }
       },
       "sources": [
         "google"
@@ -16385,10 +17857,26 @@
           "count": 316,
           "url": "https://maps.google.com/?cid=15006256834918267415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "tabelog": {
+          "score": 3.25,
+          "count": 47,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38005160/"
+        },
+        "rdb": {
+          "score": 83.424,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/88253.html"
+        },
+        "retty": {
+          "score": null,
+          "count": 2,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000634727/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 1,
+          "url": "https://www.hotpepper.jp/strJ000888911/"
+        }
       },
       "sources": [
         "osm",
@@ -16417,17 +17905,29 @@
       "hours": null,
       "phone": "089-913-0057",
       "website": "https://www.hotpepper.jp/strJ003763472/",
-      "instagram": null,
+      "instagram": "lotus_china.bal",
       "ratings": {
         "google": {
           "score": 4.1,
           "count": 17,
           "url": "https://maps.google.com/?cid=12466462110533150874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.05,
+          "count": 6,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38015582/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 1,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001742176/"
+        },
+        "hotpepper": {
+          "score": 4.1,
+          "count": 87,
+          "url": "https://www.hotpepper.jp/strJ003763472/"
+        }
       },
       "sources": [
         "google"
@@ -16455,14 +17955,18 @@
       "hours": null,
       "phone": "089-958-7889",
       "website": null,
-      "instagram": null,
+      "instagram": "chaen2006",
       "ratings": {
         "google": {
           "score": 4.4,
           "count": 31,
           "url": "https://maps.google.com/?cid=16232754525722913301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.05,
+          "count": 8,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001461/"
+        },
         "rdb": null,
         "retty": null,
         "hotpepper": null
@@ -16491,10 +17995,22 @@
           "count": 650,
           "url": "https://maps.google.com/?cid=11951357352676081869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.4,
+          "count": 135,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38000208/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 16,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000723869/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 33,
+          "url": "https://www.hotpepper.jp/strJ000545873/"
+        }
       },
       "sources": [
         "google"
@@ -16522,17 +18038,29 @@
       "hours": null,
       "phone": "089-992-0419",
       "website": null,
-      "instagram": null,
+      "instagram": "kouraku_dining_bar",
       "ratings": {
         "google": {
           "score": 3.8,
           "count": 57,
           "url": "https://maps.google.com/?cid=13472029071993772456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
-        "rdb": null,
+        "tabelog": {
+          "score": 3.06,
+          "count": 6,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38015396/"
+        },
+        "rdb": {
+          "score": null,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/154990.html"
+        },
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000910980/"
+        }
       },
       "sources": [
         "google"
@@ -16560,17 +18088,29 @@
       "hours": null,
       "phone": "089-968-1920",
       "website": "https://materiacrepe.wixsite.com/gensui/",
-      "instagram": null,
+      "instagram": "gensui1979",
       "ratings": {
         "google": {
           "score": 3.9,
           "count": 402,
           "url": "https://maps.google.com/?cid=1852256348194863551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.31,
+          "count": 67,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001006/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 2,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001715568/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 17,
+          "url": "https://www.hotpepper.jp/strJ000546217/"
+        }
       },
       "sources": [
         "google"
@@ -16605,10 +18145,22 @@
           "count": 63,
           "url": "https://maps.google.com/?cid=12365738424947618061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.09,
+          "count": 12,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38001687/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 2,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100000969005/"
+        },
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000545930/"
+        }
       },
       "sources": [
         "google"
@@ -16643,10 +18195,22 @@
           "count": 282,
           "url": "https://maps.google.com/?cid=10617038564467414087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.27,
+          "count": 57,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38010181/"
+        },
         "rdb": null,
-        "retty": null,
-        "hotpepper": null
+        "retty": {
+          "score": null,
+          "count": 7,
+          "url": "https://retty.me/area/PRE38/ARE145/SUB14501/100001190073/"
+        },
+        "hotpepper": {
+          "score": 4.8,
+          "count": 14,
+          "url": "https://www.hotpepper.jp/strJ004469118/"
+        }
       },
       "sources": [
         "google"
