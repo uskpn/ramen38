@@ -14,6 +14,19 @@ export async function loadShops() {
   }
 }
 
+// 手動で削除した店舗（重複・閉店）。自動更新で再追加しないために参照する
+export async function loadRemoved() {
+  try {
+    const { removed } = JSON.parse(await readFile(path.join(ROOT, 'data', 'removed.json'), 'utf8'));
+    return {
+      osmIds: new Set(removed.map((r) => r.osmId).filter(Boolean)),
+      placeIds: new Set(removed.map((r) => r.placeId).filter(Boolean)),
+    };
+  } catch {
+    return { osmIds: new Set(), placeIds: new Set() };
+  }
+}
+
 export async function saveShops(db) {
   db.updatedAt = new Date().toISOString();
   db.shops.sort((a, b) => a.city.localeCompare(b.city, 'ja') || a.name.localeCompare(b.name, 'ja'));

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T06:01:00.543Z",
+  "updatedAt": "2026-09-30T06:25:25.172Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -76,38 +76,6 @@
         "土曜日: 11時00分～21時00分",
         "日曜日: 11時00分～21時00分"
       ]
-    },
-    {
-      "id": "osm-n13904553782",
-      "name": "いそべ食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 32.9597701,
-      "lng": 132.5810617,
-      "city": "愛南町",
-      "address": "〒798-4131 愛媛県南宇和郡愛南町城辺甲１９８５",
-      "hours": null,
-      "phone": "0895-72-0183",
-      "website": null,
-      "osmId": "node/13904553782",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 4.3,
-          "count": 4,
-          "url": "https://maps.google.com/?cid=2422714067024135019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJV9hYDXpWTzURa8NQnZs1nyE",
-      "closed": true
     },
     {
       "id": "g-ChIJnzHsNeJVTzURX1qnobkmbk4",
@@ -489,46 +457,6 @@
       "phone": "+81 895 73 2556",
       "website": null,
       "osmId": "node/9718648379",
-      "instagram": "ainanshichangshitang",
-      "ratings": {
-        "google": {
-          "score": 4.1,
-          "count": 705,
-          "url": "https://maps.google.com/?cid=3152058225248674495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJZwdxxM9VTzURv6JLa0Fcvis",
-      "hoursText": [
-        "月曜日: 定休日",
-        "火曜日: 9時30分～15時00分",
-        "水曜日: 9時30分～15時00分",
-        "木曜日: 9時30分～15時00分",
-        "金曜日: 9時30分～15時00分",
-        "土曜日: 9時30分～15時00分",
-        "日曜日: 10時00分～15時00分"
-      ]
-    },
-    {
-      "id": "osm-w1057687279",
-      "name": "市場食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 32.9435017,
-      "lng": 132.5816714,
-      "city": "愛南町",
-      "address": "愛媛県愛南町鯆越1664",
-      "hours": "Su-Fr 07:00-17:00",
-      "phone": "+81 895 73 2556",
-      "website": null,
-      "osmId": "way/1057687279",
       "instagram": "ainanshichangshitang",
       "ratings": {
         "google": {
@@ -4870,35 +4798,6 @@
       ]
     },
     {
-      "id": "g-ChIJUXbSfgDBTzURYsHyPQUEXiI",
-      "name": "タネマキ食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.6571132,
-      "lng": 132.90255,
-      "city": "久万高原町",
-      "address": "〒791-1201 愛媛県上浮穴郡久万高原町久万３４９−１",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": "tanemaki_diner",
-      "ratings": {
-        "google": {
-          "score": 5,
-          "count": 2,
-          "url": "https://maps.google.com/?cid=2476421265661018466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJUXbSfgDBTzURYsHyPQUEXiI"
-    },
-    {
       "id": "g-ChIJQQ61iVbATzURTyRlcRcv-bc",
       "name": "ちぐさ",
       "category": "other",
@@ -6645,38 +6544,6 @@
       ]
     },
     {
-      "id": "osm-n8202015737",
-      "name": "ラーメン今治一興",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 34.0512488,
-      "lng": 132.9836429,
-      "city": "今治市",
-      "address": "〒794-0063 愛媛県今治市片山３丁目９−３８ 髙木第二ビル",
-      "hours": null,
-      "phone": null,
-      "website": "https://cfmos.kinugoshi.net/shikoku/index.html",
-      "osmId": "node/8202015737",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 3.5,
-          "count": 404,
-          "url": "https://maps.google.com/?cid=15823465137316331199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJ29KaYuE6UDURv36EwbQ9mNs",
-      "closed": true
-    },
-    {
       "id": "g-ChIJxYT89No7UDURO9wXZg0FURM",
       "name": "ラーメン道場",
       "category": "ramen",
@@ -7504,38 +7371,6 @@
       ]
     },
     {
-      "id": "osm-n8223775370",
-      "name": "咲かす食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.9993476,
-      "lng": 133.0156137,
-      "city": "今治市",
-      "address": "〒799-1603 愛媛県今治市朝倉下５５８",
-      "hours": null,
-      "phone": "0898-56-1077",
-      "website": null,
-      "osmId": "node/8223775370",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 3.9,
-          "count": 14,
-          "url": "https://maps.google.com/?cid=204825816538309852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJI9dykl4lUDUR3GSYs_6v1wI",
-      "closed": true
-    },
-    {
       "id": "osm-w806267488",
       "name": "三日月食堂",
       "category": "shokudo",
@@ -7574,38 +7409,6 @@
         "土曜日: 11時00分～14時00分, 17時00分～21時00分",
         "日曜日: 11時00分～14時00分, 17時00分～21時00分"
       ]
-    },
-    {
-      "id": "osm-n8252622155",
-      "name": "車屋食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 34.0647828,
-      "lng": 133.0140394,
-      "city": "今治市",
-      "address": "〒794-0032 愛媛県今治市天保山町４丁目４−５",
-      "hours": null,
-      "phone": "0898-31-6030",
-      "website": null,
-      "osmId": "node/8252622155",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 3.7,
-          "count": 61,
-          "url": "https://maps.google.com/?cid=10998436889154873408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJ_zv2T3E6UDURQOigFhRMopg",
-      "closed": true
     },
     {
       "id": "g-ChIJL3oPcmE6UDURjbqxf-fR8jU",
@@ -8048,38 +7851,6 @@
         "土曜日: 定休日",
         "日曜日: 定休日"
       ]
-    },
-    {
-      "id": "osm-n10970862805",
-      "name": "中華そば 千",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 34.0632473,
-      "lng": 132.9984947,
-      "city": "今治市",
-      "address": "〒794-0015 愛媛県今治市常盤町４丁目５−４",
-      "hours": "Mo-We, Fr 11:00-14:00, 17:00-21:00; Sa-Su 11:00-14:30, 17:00-21:00",
-      "phone": "0898-52-8446",
-      "website": "https://www.facebook.com/tyukasobakazu/",
-      "osmId": "node/10970862805",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 3.9,
-          "count": 129,
-          "url": "https://maps.google.com/?cid=15535153805023208111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJJUZ8d2M7UDURr2J3rxP0l9c",
-      "closed": true
     },
     {
       "id": "g-ChIJJ2EgyUI6UDURQyRKx5yXeuY",
@@ -12081,31 +11852,6 @@
       ]
     },
     {
-      "id": "osm-n2386984914",
-      "name": "こだわりらーめん元気いちばん亭余戸店",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.8118889,
-      "lng": 132.7361617,
-      "city": "松山市",
-      "address": null,
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "osmId": "node/2386984914",
-      "instagram": null,
-      "ratings": {
-        "google": null,
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm"
-      ]
-    },
-    {
       "id": "osm-n5025570564",
       "name": "ごはん泥棒",
       "category": "chinese",
@@ -14046,31 +13792,6 @@
       ]
     },
     {
-      "id": "osm-n2385773008",
-      "name": "ラーメンく～た はなみずき店",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.8103939,
-      "lng": 132.765157,
-      "city": "松山市",
-      "address": null,
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "osmId": "node/2385773008",
-      "instagram": null,
-      "ratings": {
-        "google": null,
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm"
-      ]
-    },
-    {
       "id": "osm-n13189759734",
       "name": "ラーメンショップ フライブルク店",
       "category": "ramen",
@@ -14431,38 +14152,6 @@
       ]
     },
     {
-      "id": "osm-n2306394957",
-      "name": "らーめん佐武家",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.847634,
-      "lng": 132.77127,
-      "city": "松山市",
-      "address": "〒790-0807 愛媛県松山市平和通２丁目６−７",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "osmId": "node/2306394957",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 1.9,
-          "count": 16,
-          "url": "https://maps.google.com/?cid=15467694857810449297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJ48xGNA7lTzURkZPtlYVKqNY",
-      "closed": true
-    },
-    {
       "id": "g-ChIJz6nTcvPvTzURFuc8v2kZH0I",
       "name": "ラーメン自販機 oh28ya松山店 家系/二郎系",
       "category": "ramen",
@@ -14601,38 +14290,6 @@
         "土曜日: 10時00分～0時00分",
         "日曜日: 10時00分～0時00分"
       ]
-    },
-    {
-      "id": "osm-w505954491",
-      "name": "らーめん萬楽　南高井店",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.7908563,
-      "lng": 132.8066761,
-      "city": "松山市",
-      "address": "〒791-1112 愛媛県松山市南高井町１８１１−３",
-      "hours": null,
-      "phone": "089-993-7618",
-      "website": null,
-      "osmId": "way/505954491",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 3.9,
-          "count": 126,
-          "url": "https://maps.google.com/?cid=18291453714333464972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJVVWZ0pLoTzURjHlYrD1M2P0",
-      "closed": true
     },
     {
       "id": "g-ChIJUxzyEYDvTzURMm75EfM-roQ",
@@ -15221,31 +14878,6 @@
         "金曜日: 11時00分～14時30分, 17時00分～1時30分",
         "土曜日: 11時00分～14時30分, 17時00分～1時30分",
         "日曜日: 11時00分～14時30分, 17時00分～20時30分"
-      ]
-    },
-    {
-      "id": "osm-n2210736952",
-      "name": "花へんろ",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.996676,
-      "lng": 132.772331,
-      "city": "松山市",
-      "address": null,
-      "hours": "09:00-18:00",
-      "phone": null,
-      "website": null,
-      "osmId": "node/2210736952",
-      "instagram": null,
-      "ratings": {
-        "google": null,
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm"
       ]
     },
     {
@@ -17469,31 +17101,6 @@
       ]
     },
     {
-      "id": "osm-n2302469295",
-      "name": "大阪王将",
-      "category": "chinese",
-      "ramen": "menu",
-      "lat": 33.839516,
-      "lng": 132.744892,
-      "city": "松山市",
-      "address": null,
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "osmId": "node/2302469295",
-      "instagram": null,
-      "ratings": {
-        "google": null,
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm"
-      ]
-    },
-    {
       "id": "g-ChIJ8UMeCgDnTzURxoHN-otNLCA",
       "name": "大衆食堂スタンドそのだ 松山たかのこ店",
       "category": "shokudo",
@@ -18599,31 +18206,6 @@
       ]
     },
     {
-      "id": "osm-n11422763379",
-      "name": "長春亭",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.8306888,
-      "lng": 132.7083124,
-      "city": "松山市",
-      "address": null,
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "osmId": "node/11422763379",
-      "instagram": null,
-      "ratings": {
-        "google": null,
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm"
-      ]
-    },
-    {
       "id": "g-ChIJtZzxWmvvTzURQXX6QT3MP74",
       "name": "長城",
       "category": "chinese",
@@ -18722,32 +18304,6 @@
         "土曜日: 11時00分～20時30分",
         "日曜日: 11時00分～20時30分"
       ]
-    },
-    {
-      "id": "osm-n6360303763",
-      "name": "天下一品",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.8089534,
-      "lng": 132.8089556,
-      "city": "松山市",
-      "address": "愛媛県松山市久米窪田町11591",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "osmId": "node/6360303763",
-      "instagram": null,
-      "ratings": {
-        "google": null,
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm"
-      ],
-      "closed": true
     },
     {
       "id": "osm-w230964592",
@@ -19251,31 +18807,6 @@
         "金曜日: 11時00分～14時00分, 17時00分～23時00分",
         "土曜日: 11時00分～14時00分, 17時00分～23時00分",
         "日曜日: 11時00分～14時00分, 17時00分～23時00分"
-      ]
-    },
-    {
-      "id": "osm-n12347047060",
-      "name": "美食坊ハルピン",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.8408272,
-      "lng": 132.7519266,
-      "city": "松山市",
-      "address": null,
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "osmId": "node/12347047060",
-      "instagram": null,
-      "ratings": {
-        "google": null,
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm"
       ]
     },
     {
@@ -19981,31 +19512,6 @@
         "金曜日: 11時00分～14時00分, 18時00分～22時30分",
         "土曜日: 11時00分～14時00分, 17時30分～22時30分",
         "日曜日: 11時00分～14時00分, 17時30分～21時30分"
-      ]
-    },
-    {
-      "id": "osm-w450539373",
-      "name": "麺屋 壱 松山店",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.8406128,
-      "lng": 132.7269119,
-      "city": "松山市",
-      "address": "愛媛県松山市北斎院町698-1",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "osmId": "way/450539373",
-      "instagram": null,
-      "ratings": {
-        "google": null,
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm"
       ]
     },
     {
@@ -21777,46 +21283,6 @@
         "金曜日: 11時00分～14時00分, 17時00分～23時00分",
         "土曜日: 11時00分～14時00分, 17時00分～23時00分",
         "日曜日: 11時00分～14時00分, 17時00分～23時00分"
-      ]
-    },
-    {
-      "id": "osm-w201270621",
-      "name": "大阪王将 エミフルMASAKI店",
-      "category": "chinese",
-      "ramen": "menu",
-      "lat": 33.7874794,
-      "lng": 132.7157403,
-      "city": "松前町",
-      "address": "〒791-3151 愛媛県伊予郡松前町筒井８５０ エミグルメ内",
-      "hours": null,
-      "phone": "080-4337-8290",
-      "website": "https://kandon.jp/",
-      "osmId": "way/201270621",
-      "instagram": "kandon_yaruki",
-      "ratings": {
-        "google": {
-          "score": 3.8,
-          "count": 42,
-          "url": "https://maps.google.com/?cid=6051810144260224459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJO0UmOADvTzURy3W8KENZ_FM",
-      "hoursText": [
-        "月曜日: 11時00分～23時00分",
-        "火曜日: 11時00分～23時00分",
-        "水曜日: 11時00分～23時00分",
-        "木曜日: 11時00分～23時00分",
-        "金曜日: 11時00分～23時00分",
-        "土曜日: 11時00分～23時00分",
-        "日曜日: 11時00分～23時00分"
       ]
     },
     {
@@ -27735,38 +27201,6 @@
       ]
     },
     {
-      "id": "osm-w1120658135",
-      "name": "瓢華",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.8952544,
-      "lng": 133.1620115,
-      "city": "西条市",
-      "address": "〒793-0053 愛媛県西条市洲之内甲１３０４−１",
-      "hours": null,
-      "phone": "0897-53-7607",
-      "website": null,
-      "osmId": "way/1120658135",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 3.6,
-          "count": 270,
-          "url": "https://maps.google.com/?cid=16725404065736345319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJq6r-8bgsUDUR58YW_2GSHOg",
-      "closed": true
-    },
-    {
       "id": "g-ChIJV0LqgQUpUDURorvk7UMFzHQ",
       "name": "福美食堂",
       "category": "shokudo",
@@ -28784,38 +28218,6 @@
         "土曜日: 11時30分～22時00分",
         "日曜日: 11時30分～22時00分"
       ]
-    },
-    {
-      "id": "osm-n8375454118",
-      "name": "丸一食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.3633022,
-      "lng": 132.5124606,
-      "city": "西予市",
-      "address": "〒797-0015 愛媛県西予市宇和町卯之町３丁目１６３−１",
-      "hours": null,
-      "phone": "0894-62-0307",
-      "website": null,
-      "osmId": "node/8375454118",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 3.7,
-          "count": 3,
-          "url": "https://maps.google.com/?cid=14478921350283935492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJ___q2syHRTURBD9-ZkF278g",
-      "closed": true
     },
     {
       "id": "g-ChIJj7ZxPGyHRTUR3mtgpeSw0EM",
@@ -34619,38 +34021,6 @@
         "土曜日: 17時30分～23時00分",
         "日曜日: 17時30分～23時00分"
       ]
-    },
-    {
-      "id": "osm-n7022934743",
-      "name": "元バスラーメンかじわら",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.4576119,
-      "lng": 132.4229473,
-      "city": "八幡浜市",
-      "address": "〒796-0037 愛媛県八幡浜市昭和通１４６０−８８",
-      "hours": null,
-      "phone": "0894-24-2848",
-      "website": "https://japoncompany.business/yawatahama/573508--",
-      "osmId": "node/7022934743",
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 4.4,
-          "count": 33,
-          "url": "https://maps.google.com/?cid=13102443355776734668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJoXXBVpuERTURzNW_9s861bU",
-      "closed": true
     },
     {
       "id": "g-ChIJt46sQWCDRTURZRtn8SYMIyU",

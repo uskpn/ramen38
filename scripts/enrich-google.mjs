@@ -3,7 +3,7 @@
 //   2) 市町ごとに「ラーメン」「中華そば」などで検索し、OSM に載っていない店舗を追加
 // を行う。API キーが必要（Places API (New) を有効化したもの）。
 //   GOOGLE_MAPS_API_KEY=xxxx node scripts/enrich-google.mjs [--no-discover] [--no-match]
-import { loadShops, saveShops, classify, isExcluded, emptyRatings, isSameShop, instagramHandle, sleep } from './lib.mjs';
+import { loadShops, loadRemoved, saveShops, classify, isExcluded, emptyRatings, isSameShop, instagramHandle, sleep } from './lib.mjs';
 
 const KEY = process.env.GOOGLE_MAPS_API_KEY;
 if (!KEY) {
@@ -51,6 +51,7 @@ function applyGoogle(shop, p) {
 }
 
 const db = await loadShops();
+const removed = await loadRemoved();
 
 // 1) 既存店舗を Google の店舗情報と突き合わせる
 if (!args.has('--no-match')) {
@@ -83,7 +84,7 @@ if (!args.has('--no-discover')) {
       do {
         const { places = [], nextPageToken } = await textSearch({ textQuery: `${kw} 愛媛県${city}`, pageSize: 20, pageToken });
         for (const p of places) {
-          if (!p.formattedAddress?.includes('愛媛県')) continue;
+          if (!p.formattedAddress?.includes('愛媛県') || removed.placeIds.has(p.id)) continue;
           const name = p.displayName.text;
           const existing = db.shops.find((s) => s.placeId === p.id) ||
             db.shops.find((s) => isSameShop(s, { name, lat: p.location.latitude, lng: p.location.longitude }));

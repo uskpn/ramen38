@@ -1,7 +1,7 @@
 // OpenStreetMap (Overpass API) から愛媛県内の飲食店を取得し、ラーメンを出す店を data/shops.json に反映する。
 // 既存データの手入力項目（評価・Instagram など）は保持される。
 //   node scripts/fetch-osm.mjs
-import { loadShops, saveShops, classify, emptyRatings, isSameShop, instagramHandle } from './lib.mjs';
+import { loadShops, loadRemoved, saveShops, classify, emptyRatings, isSameShop, instagramHandle } from './lib.mjs';
 
 const ENDPOINTS = [
   process.env.OVERPASS_URL,
@@ -56,6 +56,7 @@ const main = async () => {
   console.log(`  ${places.length} 件`);
 
   const db = await loadShops();
+  const removed = await loadRemoved();
   let added = 0, updated = 0;
 
   for (const el of places) {
@@ -65,6 +66,7 @@ const main = async () => {
     const lat = el.lat ?? el.center?.lat, lng = el.lon ?? el.center?.lon;
     if (lat == null) continue;
     const osmId = `${el.type}/${el.id}`;
+    if (removed.osmIds.has(osmId)) continue;
     const city = muni.find((r) => inBoundary({ lat, lng }, r))?.tags.name || t['addr:city'] || '不明';
 
     const fresh = {

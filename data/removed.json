@@ -1,0 +1,172 @@
+{
+  "removed": [
+    {
+      "id": "osm-n13904553782",
+      "name": "いそべ食堂",
+      "city": "愛南町",
+      "osmId": "node/13904553782",
+      "placeId": "ChIJV9hYDXpWTzURa8NQnZs1nyE",
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-w1057687279",
+      "name": "市場食堂",
+      "city": "愛南町",
+      "osmId": "way/1057687279",
+      "placeId": "ChIJZwdxxM9VTzURv6JLa0Fcvis",
+      "reason": "重複（市場食堂 と同一店舗）"
+    },
+    {
+      "id": "g-ChIJUXbSfgDBTzURYsHyPQUEXiI",
+      "name": "タネマキ食堂",
+      "city": "久万高原町",
+      "osmId": null,
+      "placeId": "ChIJUXbSfgDBTzURYsHyPQUEXiI",
+      "reason": "重複（タネマキ食堂 の別登録）"
+    },
+    {
+      "id": "osm-n8202015737",
+      "name": "ラーメン今治一興",
+      "city": "今治市",
+      "osmId": "node/8202015737",
+      "placeId": "ChIJ29KaYuE6UDURv36EwbQ9mNs",
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-n8223775370",
+      "name": "咲かす食堂",
+      "city": "今治市",
+      "osmId": "node/8223775370",
+      "placeId": "ChIJI9dykl4lUDUR3GSYs_6v1wI",
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-n8252622155",
+      "name": "車屋食堂",
+      "city": "今治市",
+      "osmId": "node/8252622155",
+      "placeId": "ChIJ_zv2T3E6UDURQOigFhRMopg",
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-n10970862805",
+      "name": "中華そば 千",
+      "city": "今治市",
+      "osmId": "node/10970862805",
+      "placeId": "ChIJJUZ8d2M7UDURr2J3rxP0l9c",
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-n2386984914",
+      "name": "こだわりらーめん元気いちばん亭余戸店",
+      "city": "松山市",
+      "osmId": "node/2386984914",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n2385773008",
+      "name": "ラーメンく～た はなみずき店",
+      "city": "松山市",
+      "osmId": "node/2385773008",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n2306394957",
+      "name": "らーめん佐武家",
+      "city": "松山市",
+      "osmId": "node/2306394957",
+      "placeId": "ChIJ48xGNA7lTzURkZPtlYVKqNY",
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-w505954491",
+      "name": "らーめん萬楽　南高井店",
+      "city": "松山市",
+      "osmId": "way/505954491",
+      "placeId": "ChIJVVWZ0pLoTzURjHlYrD1M2P0",
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-n2210736952",
+      "name": "花へんろ",
+      "city": "松山市",
+      "osmId": "node/2210736952",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n2302469295",
+      "name": "大阪王将",
+      "city": "松山市",
+      "osmId": "node/2302469295",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n11422763379",
+      "name": "長春亭",
+      "city": "松山市",
+      "osmId": "node/11422763379",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n6360303763",
+      "name": "天下一品",
+      "city": "松山市",
+      "osmId": "node/6360303763",
+      "placeId": null,
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-n12347047060",
+      "name": "美食坊ハルピン",
+      "city": "松山市",
+      "osmId": "node/12347047060",
+      "placeId": null,
+      "reason": "重複（美食坊 ハルピン の古い登録）"
+    },
+    {
+      "id": "osm-w450539373",
+      "name": "麺屋 壱 松山店",
+      "city": "松山市",
+      "osmId": "way/450539373",
+      "placeId": null,
+      "reason": "移転（移転前の住所の登録）"
+    },
+    {
+      "id": "osm-w201270621",
+      "name": "大阪王将 エミフルMASAKI店",
+      "city": "松前町",
+      "osmId": "way/201270621",
+      "placeId": "ChIJO0UmOADvTzURy3W8KENZ_FM",
+      "reason": "重複（大阪王将 エミフルMASAKI店 と同一店舗）"
+    },
+    {
+      "id": "osm-w1120658135",
+      "name": "瓢華",
+      "city": "西条市",
+      "osmId": "way/1120658135",
+      "placeId": "ChIJq6r-8bgsUDUR58YW_2GSHOg",
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-n8375454118",
+      "name": "丸一食堂",
+      "city": "西予市",
+      "osmId": "node/8375454118",
+      "placeId": "ChIJ___q2syHRTURBD9-ZkF278g",
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-n7022934743",
+      "name": "元バスラーメンかじわら",
+      "city": "八幡浜市",
+      "osmId": "node/7022934743",
+      "placeId": "ChIJoXXBVpuERTURzNW_9s861bU",
+      "reason": "閉店"
+    }
+  ]
+}
