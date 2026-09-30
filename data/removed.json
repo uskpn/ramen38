@@ -167,6 +167,38 @@
       "osmId": "node/7022934743",
       "placeId": "ChIJoXXBVpuERTURzNW_9s861bU",
       "reason": "閉店"
+    },
+    {
+      "id": "osm-n8256470936",
+      "name": "つけ麺屋 若鶴丸",
+      "city": "今治市",
+      "osmId": "node/8256470936",
+      "placeId": "ChIJq28M_Fo6UDURSqjc6f3EWNo",
+      "reason": "重複（麺屋 武吉 と同じ場所の旧店名の登録）"
+    },
+    {
+      "id": "osm-n8288823558",
+      "name": "海海ラーメン",
+      "city": "今治市",
+      "osmId": "node/8288823558",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-w806437365",
+      "name": "新福菜館",
+      "city": "今治市",
+      "osmId": "way/806437365",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-w636160718",
+      "name": "大阪王将",
+      "city": "今治市",
+      "osmId": "way/636160718",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
     }
   ]
 }
