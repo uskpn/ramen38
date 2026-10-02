@@ -263,6 +263,22 @@
       "osmId": "node/12269032266",
       "placeId": null,
       "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "g-ChIJOUcFeFeFTzUR3dc6UZeJnMk",
+      "name": "地域こども食堂「うちっこキッチン」",
+      "city": "内子町",
+      "osmId": null,
+      "placeId": "ChIJOUcFeFeFTzUR3dc6UZeJnMk",
+      "reason": "一般向けの飲食店ではない（こども食堂）"
+    },
+    {
+      "id": "g-ChIJ1wRQOQCFTzURmYjla45kf58",
+      "name": "内子町",
+      "city": "内子町",
+      "osmId": null,
+      "placeId": "ChIJ1wRQOQCFTzURmYjla45kf58",
+      "reason": "店舗ではない（地名「内子町」の登録）"
     }
   ]
 }

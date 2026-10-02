@@ -102,7 +102,7 @@ export function instagramHandle(value) {
   const m = /instagram\.com\//.test(s)
     ? s.match(/instagram\.com\/([A-Za-z0-9._]{1,30})(?:[/?#]|$)/)
     : s.match(/^@?([A-Za-z0-9._]{1,30})$/);
-  if (!m || /^\d+$/.test(m[1]) || ['p', 'v', 'tv', 'reel', 'reels', 'stories', 'explore', 'accounts', 'share', 'sharer'].includes(m[1])) return null;
+  if (!m || /^\d+$/.test(m[1]) || ['p', 'v', 'tv', 'reel', 'reels', 'stories', 'explore', 'accounts', 'share', 'sharer', 'contact', 'about', 'legal', 'developer', 'direct', 'web'].includes(m[1])) return null;
   return m[1];
 }
 
