@@ -62,7 +62,11 @@ button, input, select { font: inherit; color: inherit; }
 .hero-wordmark { margin: 0; padding-bottom: clamp(20px, 3vw, 40px); border-bottom: 1px solid var(--ink); }
 .hero-wordmark img { width: 100%; height: auto; }
 .hero-logo { border-bottom: 0; padding-bottom: 0; }
-.hero-logo img { width: clamp(220px, 30vw, 380px); margin: 0 auto; }
+.hero-logo img {
+  width: clamp(220px, 30vw, 380px); margin: 0 auto;
+  /* ロゴ内「RAMEN 38」の E（幅の42.68%の位置）をページ中央に合わせる */
+  transform: translateX(7.32%);
+}
 .hero-body { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding-top: clamp(40px, 5vw, 64px); }
 .hero-mark { width: clamp(140px, 18vw, 220px); margin-bottom: 40px; }
 .hero-title {
