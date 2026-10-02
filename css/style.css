@@ -312,7 +312,3 @@ button, input, select { font: inherit; color: inherit; }
 .leaflet-container .leaflet-control-attribution a { color: var(--muted); }
 .index-table .ig::before { content: none; }
 .index-table .ig { margin-top: 0; }
-
-/* ページ最上部では大きなサイト名と重複するため、ヘッダーのロゴを隠す */
-.brand { transition: opacity .4s ease; }
-.site-header.at-top .brand { opacity: 0; pointer-events: none; }

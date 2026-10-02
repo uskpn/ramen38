@@ -313,14 +313,6 @@
     fitToList();
   }
 
-  // 大きなサイト名が見えている間はヘッダーのロゴを隠す
-  const wordmark = document.querySelector('.hero-wordmark');
-  if (wordmark && 'IntersectionObserver' in window) {
-    const header = document.querySelector('.site-header');
-    header.classList.add('at-top');
-    new IntersectionObserver(([e]) => header.classList.toggle('at-top', e.isIntersecting), { rootMargin: '-64px 0px 0px 0px' }).observe(wordmark);
-  }
-
   init().catch((e) => {
     console.error(e);
     $('#list').innerHTML = '<li>データの読み込みに失敗しました。ローカルで開く場合は簡易サーバー経由で開いてください（README参照）。</li>';
