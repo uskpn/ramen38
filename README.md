@@ -6,7 +6,7 @@
 ラーメン専門店だけでなく、中華料理店・食堂・回転寿司などラーメンを出しているお店もまとめて掲載します。
 
 - 地図（クラスタ表示）＋リスト、市町・種類・Instagram有無での絞り込み
-- **評価くらべ表**：Google / 食べログ / ラーメンデータベース / Retty / ホットペッパー の評価を横並びで比較
+- **評価くらべ表**：Google / 食べログ / ラーメンデータベース の評価を横並びで比較
   - 評価が未登録のサイトは、その店の検索ページへワンクリックで飛べます
 - Instagram を運用している店舗はアカウントへのリンクを表示
 
@@ -43,9 +43,7 @@ npm run serve        # http://localhost:8080
   "ratings": {
     "google":    { "score": 4.1, "count": 523, "url": "https://maps.google.com/?cid=..." },
     "tabelog":   { "score": 3.52, "count": 120, "url": "https://tabelog.com/ehime/..." },
-    "rdb":       null,            // ラーメンデータベース（100点満点）
-    "retty":     null,
-    "hotpepper": null
+    "rdb":       null             // ラーメンデータベース（100点満点）
   },
   "closed": true,                 // 閉店（true）/ 休業中（"temporary"）
   "locked": ["name"]              // 自動更新で上書きしたくない項目
@@ -61,7 +59,7 @@ npm run serve        # http://localhost:8080
 | 公式サイトから Instagram を自動検出 | `npm run find:instagram` | |
 | 食べログ等の評価・Instagram を手入力 | `npm run ratings:template` → `data/ratings.csv` を Excel 等で編集 → `npm run ratings:import` | 空欄は変更なし、`-` で削除 |
 
-食べログ・ラーメンデータベース・Retty・ホットペッパーは公開 API が無く、スクレイピングは各サイトの利用規約で禁止されているため、
+食べログ・ラーメンデータベースは公開 API が無く、スクレイピングは各サイトの利用規約で禁止されているため、
 評価は CSV での手入力（各サイトを見て転記）にしています。
 
 ### 「ラーメンが食べられるか」の判定

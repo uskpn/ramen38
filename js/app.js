@@ -25,10 +25,6 @@
       search: (s) => `https://tabelog.com/ehime/rstLst/?vs=1&sk=${enc(s.name)}` },
     { key: 'rdb', label: 'Ramen DB', max: 100,
       search: (s) => siteSearch('ramendb.supleks.jp', s) },
-    { key: 'retty', label: 'Retty', max: 5,
-      search: (s) => siteSearch('retty.me', s) },
-    { key: 'hotpepper', label: 'Hot Pepper', max: 5,
-      search: (s) => siteSearch('hotpepper.jp', s) },
   ];
 
   const enc = encodeURIComponent;
@@ -151,7 +147,7 @@
 
   // ---------- 絞り込み・並び替え ----------
   // 口コミが少ない店が上位に来ないよう、件数が少ないほど平均的な値に寄せて並べる（ベイズ平均）
-  const PRIOR = { google: 3.6, tabelog: 3.1, rdb: 75, retty: 3.5, hotpepper: 3.5 };
+  const PRIOR = { google: 3.6, tabelog: 3.1, rdb: 75 };
   const score = (shop, key) => {
     const r = shop.ratings?.[key];
     if (r?.score == null) return -1;

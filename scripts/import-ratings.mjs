@@ -7,7 +7,7 @@ import path from 'node:path';
 import { ROOT, loadShops, saveShops, instagramHandle } from './lib.mjs';
 
 const CSV_PATH = path.join(ROOT, 'data', 'ratings.csv');
-const SITES = ['tabelog', 'rdb', 'retty', 'hotpepper'];
+const SITES = ['tabelog', 'rdb'];
 const COLUMNS = ['id', 'name', 'city', 'instagram', ...SITES.flatMap((s) => [`${s}_score`, `${s}_count`, `${s}_url`])];
 
 const esc = (v) => (v == null ? '' : /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : String(v));

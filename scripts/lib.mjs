@@ -70,8 +70,6 @@ export function emptyRatings() {
     google: null,    // { score, count, url }
     tabelog: null,   // 食べログ
     rdb: null,       // ラーメンデータベース
-    retty: null,
-    hotpepper: null,
   };
 }
 
