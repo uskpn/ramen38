@@ -199,6 +199,30 @@
       "osmId": "way/636160718",
       "placeId": null,
       "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n2183079155",
+      "name": "餃苑",
+      "city": "新居浜市",
+      "osmId": "node/2183079155",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n3947037730",
+      "name": "つるや",
+      "city": "西条市",
+      "osmId": "node/3947037730",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n3945251356",
+      "name": "吉祥孝",
+      "city": "西条市",
+      "osmId": "node/3945251356",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
     }
   ]
 }
