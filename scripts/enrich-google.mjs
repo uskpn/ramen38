@@ -3,6 +3,7 @@
 //   2) 市町ごとに「ラーメン」「中華そば」などで検索し、OSM に載っていない店舗を追加
 // を行う。API キーが必要（Places API (New) を有効化したもの）。
 //   GOOGLE_MAPS_API_KEY=xxxx node scripts/enrich-google.mjs [--no-discover] [--no-match]
+import { computeRanking } from './compute-ranking.mjs';
 import { loadShops, loadRemoved, saveShops, classify, isExcluded, emptyRatings, isSameShop, instagramHandle, sleep } from './lib.mjs';
 
 const KEY = process.env.GOOGLE_MAPS_API_KEY;
@@ -121,5 +122,6 @@ if (!args.has('--no-discover')) {
   }
 }
 
+computeRanking(db.shops);
 await saveShops(db);
 console.log(`完了: 合計 ${db.shops.length} 件`);

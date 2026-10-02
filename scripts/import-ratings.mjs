@@ -2,6 +2,7 @@
 //   node scripts/import-ratings.mjs --template   … data/ratings.csv に全店舗の入力用テンプレートを書き出す（既存値入り）
 //   node scripts/import-ratings.mjs [ファイル...]  … CSV（省略時は data/ratings.csv）の内容を shops.json に反映する
 // 空欄のセルは「変更なし」、"-" は「値を削除」として扱う。
+import { computeRanking } from './compute-ranking.mjs';
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { ROOT, loadShops, saveShops, instagramHandle } from './lib.mjs';
@@ -69,6 +70,7 @@ if (process.argv.includes('--template')) {
       updated++;
     }
   }
+  computeRanking(db.shops);
   await saveShops(db);
   console.log(`${updated} 行を反映しました`);
 }

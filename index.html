@@ -71,6 +71,7 @@
           <label class="field">
             <span class="field-label">Sort</span>
             <select id="sort">
+              <option value="rank">総合ランキング順</option>
               <option value="name">市町・店名順</option>
               <option value="google">Google 評価順</option>
               <option value="tabelog">食べログ 評価順</option>
@@ -99,7 +100,7 @@
         <table class="index-table">
           <thead>
             <tr>
-              <th class="col-no">No.</th>
+              <th class="col-no">Rank</th>
               <th>Name</th><th>City</th><th>Type</th>
               <th class="num">Google</th><th class="num">Tabelog</th><th class="num">Ramen DB</th>
               <th>Instagram</th>
@@ -127,6 +128,8 @@
           <dl class="about-notes">
             <dt>Data</dt>
             <dd>店舗情報は OpenStreetMap と Google Places をもとに作成し、食べログ・ラーメンデータベースの評価は各サイトから転記しています。最新の情報は各サイトでご確認ください。「ラーメンあり?」と表示されているお店は、メニューを確認できていません。</dd>
+            <dt>Ranking</dt>
+            <dd>総合ランキングは、ラーメン専門店のみを対象に、Google・食べログ・ラーメンデータベースの評価を口コミ数で補正（ベイズ平均）したうえで統合し、上位200店に順位を付けています。評価が一部のサイトにしかない店は、わずかに低く扱われます。</dd>
             <dt>Updated</dt>
             <dd id="updated">—</dd>
           </dl>

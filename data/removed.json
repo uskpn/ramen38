@@ -351,6 +351,13 @@
       "osmId": null,
       "placeId": "ChIJF8w-hoOERTURMcD17nW0kgs",
       "reason": "メニューにラーメンがない"
+    },
+    {
+      "id": "g-ChIJ69DCPtp_RTUROE7iuVlHQR4",
+      "name": "巽醤油醸造元 株式会社梶田商店",
+      "city": "大洲市",
+      "placeId": "ChIJ69DCPtp_RTUROE7iuVlHQR4",
+      "reason": "醤油醸造元（ラーメン店ではない）"
     }
   ]
 }

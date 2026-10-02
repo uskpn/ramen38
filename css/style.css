@@ -191,7 +191,9 @@ button, input, select { font: inherit; color: inherit; }
 .shop-list li:hover { background: var(--paper); }
 .shop-list li.active { background: var(--paper); box-shadow: inset 2px 0 0 var(--ink); }
 .shop-list .empty { color: var(--muted); cursor: default; }
-.shop-no { font-family: var(--en); font-size: 13px; letter-spacing: .2em; color: var(--muted); }
+.rank { display: inline-flex; align-items: baseline; gap: 5px; margin-right: 10px; padding: 1px 8px 1px 7px; border: 1px solid var(--ink); font-family: var(--en); font-size: 15px; font-weight: 500; letter-spacing: .04em; line-height: 1.4; vertical-align: 2px; }
+.rank small { font-size: 9px; letter-spacing: .18em; }
+.rank-top { background: var(--ink); color: #fff; }
 .shop-name { margin: 2px 0 2px; font-size: 17px; font-weight: 500; line-height: 1.5; letter-spacing: .04em; }
 .shop-meta { margin: 0 0 12px; font-size: 12px; color: var(--muted); letter-spacing: .08em; }
 .shop-meta .sep { margin: 0 .5em; }

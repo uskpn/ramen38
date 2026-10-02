@@ -3,6 +3,7 @@
 //   yes     … ラーメンあり（確認済み）にする。「その他（未確認）」の店は「その他の飲食店（ラーメンあり）」に移す
 //   no      … 削除し、data/removed.json に記録する（自動更新で再追加されない）
 //   unknown … 変更しない
+import { computeRanking } from './compute-ranking.mjs';
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { ROOT, loadShops, saveShops } from './lib.mjs';
@@ -55,6 +56,7 @@ for (const file of process.argv.slice(2)) {
   }
 }
 db.shops = db.shops.filter((s) => !drop.has(s.id));
+computeRanking(db.shops);
 await saveShops(db);
 await writeFile(REMOVED_PATH, JSON.stringify({ removed: removedList }, null, 2) + '\n');
 console.log(`ラーメンあり ${counts.yes} 件 / 削除 ${counts.no} 件 / 変更なし ${counts.unknown} 件（合計 ${db.shops.length} 件）`);

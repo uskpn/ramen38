@@ -34,7 +34,7 @@
 
   const state = {
     shops: [],
-    q: '', city: '', sort: 'name',
+    q: '', city: '', sort: 'rank',
     cats: new Set(Object.keys(CATEGORIES).filter((k) => !CATEGORIES[k].off)),
     igOnly: false, ratedOnly: false, hideClosed: true,
     view: 'map',
@@ -124,6 +124,11 @@
   // 「月曜日: 11時00分～15時00分」→「月 11:00–15:00」
   const compactHours = (h) => h.replace(/曜日:\s*/, ' ').replace(/(\d+)時(\d+)分/g, (_, a, b) => `${a}:${b}`).replace(/～/g, '–');
 
+  // 総合ランキング（ラーメン専門店のみ・200位まで）。順位は scripts/compute-ranking.mjs が算出
+  const rankBadge = (shop) => shop.rank
+    ? `<span class="rank${shop.rank <= 3 ? ' rank-top' : ''}" title="総合スコア ${shop.score}"><small>RANK</small>${shop.rank}</span>`
+    : '';
+
   function popupHtml(shop) {
     const rows = [
       ['住所', shop.address],
@@ -135,7 +140,7 @@
     const label = { 住所: 'Address', 営業時間: 'Hours', 電話: 'Tel', Web: 'Web', Instagram: 'Instagram' };
     return `<div class="popup">
       <p class="shop-meta">${meta(shop)}</p>
-      <p class="shop-name">${esc(shop.name)}</p>
+      <p class="shop-name">${rankBadge(shop)}${esc(shop.name)}</p>
       <dl>${rows.map(([k, v]) => `<dt>${label[k]}</dt><dd>${k === '住所' ? esc(v) : v}</dd>`).join('')}</dl>
       <div class="ratings">${SITES.map((s) => ratingCell(shop, s)).join('')}</div>
       <p class="popup-links">
@@ -169,6 +174,7 @@
       (!q || `${s.name} ${s.address || ''} ${s.city}`.normalize('NFKC').toLowerCase().includes(q)));
     const byName = (a, b) => a.name.localeCompare(b.name, 'ja');
     const sorters = {
+      rank: (a, b) => (a.rank || 9999) - (b.rank || 9999) || a.city.localeCompare(b.city, 'ja') || byName(a, b),
       name: (a, b) => a.city.localeCompare(b.city, 'ja') || byName(a, b),
       count: (a, b) => totalCount(b) - totalCount(a) || byName(a, b),
     };
@@ -179,15 +185,13 @@
   function render() {
     const list = filtered();
     $('#count').innerHTML = `<b>${list.length}</b> / ${state.shops.length} shops`;
-    const no = (i) => String(i + 1).padStart(3, '0');
 
     cluster.clearLayers();
     cluster.addLayers(list.map((s) => markers.get(s.id)));
 
     $('#list').innerHTML = list.slice(0, state.limit).map((s, i) => `
       <li data-id="${esc(s.id)}" class="${s.id === state.activeId ? 'active' : ''}">
-        <span class="shop-no">${no(i)}</span>
-        <p class="shop-name">${esc(s.name)}</p>
+        <p class="shop-name">${rankBadge(s)}${esc(s.name)}</p>
         <p class="shop-meta">${meta(s)}</p>
         <div class="ratings">${SITES.map((site) => ratingCell(s, site)).join('')}</div>
         ${instagramLink(s)}
@@ -197,7 +201,7 @@
     if (state.view !== 'table') return;
     $('#table-body').innerHTML = list.map((s, i) => `
       <tr>
-        <td class="no">${no(i)}</td>
+        <td class="no">${s.rank || '—'}</td>
         <td class="name-cell" data-id="${esc(s.id)}">${esc(s.name)}</td>
         <td>${esc(s.city)}</td>
         <td class="type">${meta(s, false)}</td>
