@@ -98,7 +98,7 @@ export function isSameShop(a, b) {
 export function instagramHandle(value) {
   if (!value) return null;
   const m = String(value).match(/(?:instagram\.com\/)?@?([A-Za-z0-9._]{1,30})\/?(?:\?.*)?$/);
-  if (!m || ['p', 'reel', 'explore', 'accounts'].includes(m[1])) return null;
+  if (!m || ['p', 'v', 'tv', 'reel', 'reels', 'stories', 'explore', 'accounts', 'share', 'sharer'].includes(m[1])) return null;
   return m[1];
 }
 
