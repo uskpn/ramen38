@@ -82,5 +82,5 @@ npm run serve        # http://localhost:8080
 ## クレジット
 
 - 店舗データ: © OpenStreetMap contributors（ODbL）/ Google Places
-- 地図: 国土地理院 地理院タイル
+- 地図: OpenFreeMap（OpenMapTiles / OpenStreetMap）。読み込めない場合は国土地理院の地理院タイルに切り替わります
 - 地図ライブラリ: Leaflet, Leaflet.markercluster

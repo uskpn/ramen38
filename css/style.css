@@ -161,7 +161,7 @@ button, input, select { font: inherit; color: inherit; }
   border-top: 1px solid var(--line);
 }
 #map { height: 100%; background: var(--paper); }
-.leaflet-tile-pane { filter: grayscale(1) contrast(1.04) brightness(1.04); }
+.leaflet-container .maplibregl-canvas { outline: none; }
 .leaflet-container { font-family: var(--ja); }
 .leaflet-control-zoom { border: 0 !important; box-shadow: none !important; }
 .leaflet-control-zoom a {

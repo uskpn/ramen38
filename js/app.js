@@ -49,14 +49,28 @@
   let activeMarker = null;
 
   // ---------- 地図 ----------
-  const map = L.map('map', { zoomControl: true, scrollWheelZoom: false }).setView([33.65, 132.8], 9);
+  const map = L.map('map', { zoomControl: true, scrollWheelZoom: false, minZoom: 5, maxZoom: 18 }).setView([33.65, 132.8], 9);
   map.on('focus', () => map.scrollWheelZoom.enable());
   map.on('blur', () => map.scrollWheelZoom.disable());
-  // 地理院タイル（淡色地図）
-  L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
+  // 地図：OpenFreeMap（鍵不要・無料）の淡色スタイル。地名は日本語だけにする。
+  // 読み込めないときは国土地理院の淡色地図に切り替える。
+  const gsiTiles = () => L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
     maxZoom: 18,
     attribution: '<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">国土地理院</a>',
-  }).addTo(map);
+  });
+  fetch('https://tiles.openfreemap.org/styles/positron')
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then((style) => {
+      for (const layer of style.layers) {
+        const tf = layer.layout?.['text-field'];
+        if (tf && !JSON.stringify(tf).includes('"ref"')) layer.layout['text-field'] = ['coalesce', ['get', 'name:ja'], ['get', 'name:nonlatin'], ['get', 'name']];
+      }
+      L.maplibreGL({
+        style,
+        attribution: '<a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> &copy; <a href="https://openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a> Data from <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
+      }).addTo(map);
+    })
+    .catch(() => gsiTiles().addTo(map));
   const cluster = L.markerClusterGroup({
     showCoverageOnHover: false,
     maxClusterRadius: 45,
