@@ -7,6 +7,7 @@
     shokudo: { label: '食堂・定食', color: '#2b8a3e' },
     'chain-sushi': { label: '回転寿司', color: '#6741d9' },
     chain: { label: 'その他チェーン', color: '#1971c2' },
+    restaurant: { label: 'その他の飲食店', color: '#0c8599' },
     other: { label: 'その他（未確認）', color: '#868e96', off: true },
   };
   const RAMEN_LABEL = {

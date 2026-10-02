@@ -279,6 +279,78 @@
       "osmId": null,
       "placeId": "ChIJ1wRQOQCFTzURmYjla45kf58",
       "reason": "店舗ではない（地名「内子町」の登録）"
+    },
+    {
+      "id": "g-ChIJIRMtUpSATzURkCFfDkt2XZk",
+      "name": "ビストロ サンマルシェ",
+      "city": "大洲市",
+      "osmId": null,
+      "placeId": "ChIJIRMtUpSATzURkCFfDkt2XZk",
+      "reason": "メニューにラーメンがない"
+    },
+    {
+      "id": "g-ChIJtSbdOEnDTzURG7I4mz_O4Bw",
+      "name": "農家レストランぼたん 茶屋",
+      "city": "東温市",
+      "osmId": null,
+      "placeId": "ChIJtSbdOEnDTzURG7I4mz_O4Bw",
+      "reason": "メニューにラーメンがない"
+    },
+    {
+      "id": "g-ChIJu7pURvS4RTURNplx6pkUssQ",
+      "name": "かよ",
+      "city": "伊方町",
+      "osmId": null,
+      "placeId": "ChIJu7pURvS4RTURNplx6pkUssQ",
+      "reason": "メニューにラーメンがない"
+    },
+    {
+      "id": "g-ChIJszAb-GDuTzURl65oIFcWe8w",
+      "name": "いよ翁",
+      "city": "松前町",
+      "osmId": null,
+      "placeId": "ChIJszAb-GDuTzURl65oIFcWe8w",
+      "reason": "メニューにラーメンがない"
+    },
+    {
+      "id": "g-ChIJmQL_HIUuUDUReiKvXGmX_XY",
+      "name": "蕎亭 はる（きょうてい はる）",
+      "city": "西条市",
+      "osmId": null,
+      "placeId": "ChIJmQL_HIUuUDUReiKvXGmX_XY",
+      "reason": "メニューにラーメンがない"
+    },
+    {
+      "id": "g-ChIJs5krLePrTzURV691ZAdA5q8",
+      "name": "Jutaro",
+      "city": "砥部町",
+      "osmId": null,
+      "placeId": "ChIJs5krLePrTzURV691ZAdA5q8",
+      "reason": "メニューにラーメンがない"
+    },
+    {
+      "id": "g-ChIJ4XIxZ1bpTzURuaBLK9u7ScE",
+      "name": "ぎやてい",
+      "city": "砥部町",
+      "osmId": null,
+      "placeId": "ChIJ4XIxZ1bpTzURuaBLK9u7ScE",
+      "reason": "メニューにラーメンがない"
+    },
+    {
+      "id": "g-ChIJOc1VMhTbTzURFMD9Q-ppYwQ",
+      "name": "離れ流水庵",
+      "city": "東温市",
+      "osmId": null,
+      "placeId": "ChIJOc1VMhTbTzURFMD9Q-ppYwQ",
+      "reason": "メニューにラーメンがない"
+    },
+    {
+      "id": "g-ChIJF8w-hoOERTURMcD17nW0kgs",
+      "name": "菓工房 後藤",
+      "city": "八幡浜市",
+      "osmId": null,
+      "placeId": "ChIJF8w-hoOERTURMcD17nW0kgs",
+      "reason": "メニューにラーメンがない"
     }
   ]
 }

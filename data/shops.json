@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T06:55:43.774Z",
+  "updatedAt": "2026-10-02T13:58:29.875Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -42,8 +42,8 @@
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
       "name": "【公式】ゆらり内海",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.040158999999996,
       "lng": 132.488162,
       "city": "愛南町",
@@ -718,8 +718,8 @@
     {
       "id": "g-ChIJbeaj0-FVTzURcZ6brdfWacY",
       "name": "遊厨",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 32.959117,
       "lng": 132.56794299999999,
       "city": "愛南町",
@@ -965,48 +965,6 @@
         "金曜日: 11時00分～15時00分, 17時00分～20時00分",
         "土曜日: 11時00分～15時00分, 17時00分～20時00分",
         "日曜日: 11時00分～15時00分"
-      ]
-    },
-    {
-      "id": "g-ChIJu7pURvS4RTURNplx6pkUssQ",
-      "name": "かよ",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.3893465,
-      "lng": 132.12097459999998,
-      "city": "伊方町",
-      "address": "〒796-0801 愛媛県西宇和郡伊方町三崎１８０９",
-      "hours": null,
-      "phone": "0894-54-1296",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 4,
-          "count": 2,
-          "url": "https://maps.google.com/?cid=14173413628584237366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": {
-          "score": null,
-          "count": null,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38012185/"
-        },
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJu7pURvS4RTURNplx6pkUssQ",
-      "hoursText": [
-        "月曜日: 11時00分～17時30分",
-        "火曜日: 11時00分～17時30分",
-        "水曜日: 11時00分～17時30分",
-        "木曜日: 11時00分～17時30分",
-        "金曜日: 11時00分～17時30分",
-        "土曜日: 11時00分～17時30分",
-        "日曜日: 11時00分～17時30分"
       ]
     },
     {
@@ -2272,8 +2230,8 @@
     {
       "id": "g-ChIJhXdsS3HyTzURaEHeDWqWO6c",
       "name": "濱田屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7606219,
       "lng": 132.7024855,
       "city": "伊予市",
@@ -2326,8 +2284,8 @@
     {
       "id": "g-ChIJLSU3D1eNTzURw3ZVcGdboi0",
       "name": "珈食亭",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.702838899999996,
       "lng": 132.7049916,
       "city": "伊予市",
@@ -2761,8 +2719,8 @@
     {
       "id": "g-ChIJqVsIs8dhTzURk8uxqqqaPmg",
       "name": "こたん",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.228158199999996,
       "lng": 132.56828919999998,
       "city": "宇和島市",
@@ -5539,8 +5497,8 @@
     {
       "id": "g-ChIJQQ61iVbATzURTyRlcRcv-bc",
       "name": "ちぐさ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.6580136,
       "lng": 132.9002405,
       "city": "久万高原町",
@@ -6372,8 +6330,8 @@
     {
       "id": "g-ChIJX69e5mc6UDURkIgCO9w1TPk",
       "name": "こきんや",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.066037,
       "lng": 133.00105399999998,
       "city": "今治市",
@@ -7962,8 +7920,8 @@
     {
       "id": "g-ChIJxasJDgA7UDUR1mVeLza247w",
       "name": "丸起",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.0632746,
       "lng": 133.0012004,
       "city": "今治市",
@@ -10071,8 +10029,8 @@
     {
       "id": "g-ChIJNfXvYwA7UDUR3gQK1JKw_PA",
       "name": "来島海峡SA フードコート",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.1003879,
       "lng": 132.9788707,
       "city": "今治市",
@@ -10454,8 +10412,8 @@
     {
       "id": "g-ChIJszaZCAKVUTUR-4FOCngmCvg",
       "name": "がんば亭 三島店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9700719,
       "lng": 133.5220398,
       "city": "四国中央市",
@@ -10504,8 +10462,8 @@
     {
       "id": "g-ChIJs0jI4lmRUTURU3bHkR0eCH8",
       "name": "がんば亭 川之江店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9940499,
       "lng": 133.5704184,
       "city": "四国中央市",
@@ -11117,8 +11075,8 @@
     {
       "id": "g-ChIJYT1KdTyRUTURd1uwMbXiB38",
       "name": "ミサオ商店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.0115416,
       "lng": 133.5750919,
       "city": "四国中央市",
@@ -17646,7 +17604,7 @@
       "id": "g-ChIJtQsnt9vvTzURfwZHGTYToY8",
       "name": "市場食堂 ゑびす丸",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.8277269,
       "lng": 132.71383609999998,
       "city": "松山市",
@@ -22326,56 +22284,10 @@
       ]
     },
     {
-      "id": "g-ChIJszAb-GDuTzURl65oIFcWe8w",
-      "name": "いよ翁",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.7830576,
-      "lng": 132.7443279,
-      "city": "松前町",
-      "address": "〒791-3155 愛媛県伊予郡松前町鶴吉５−５",
-      "hours": null,
-      "phone": "089-984-3083",
-      "website": "http://iyookina.com/",
-      "instagram": "iyo.okina",
-      "ratings": {
-        "google": {
-          "score": 4.2,
-          "count": 572,
-          "url": "https://maps.google.com/?cid=14734395169334406807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": {
-          "score": 3.73,
-          "count": 279,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38007273/"
-        },
-        "rdb": null,
-        "retty": {
-          "score": null,
-          "count": 38,
-          "url": "https://retty.me/area/PRE38/ARE145/SUB14502/100000700484/"
-        },
-        "hotpepper": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJszAb-GDuTzURl65oIFcWe8w",
-      "hoursText": [
-        "月曜日: 11時00分～15時00分",
-        "火曜日: 定休日",
-        "水曜日: 11時00分～15時00分",
-        "木曜日: 11時00分～15時00分",
-        "金曜日: 11時00分～15時00分",
-        "土曜日: 11時00分～15時00分",
-        "日曜日: 11時00分～15時00分"
-      ]
-    },
-    {
       "id": "g-ChIJSTnPOf7tTzUR7naOSQ0hoeI",
       "name": "がんば亭 松前店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7799616,
       "lng": 132.7107055,
       "city": "松前町",
@@ -22462,8 +22374,8 @@
     {
       "id": "g-ChIJ-08h_TfuTzURSsnBqehGzZ8",
       "name": "ていきびん",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8018552,
       "lng": 132.7270094,
       "city": "松前町",
@@ -22558,8 +22470,8 @@
     {
       "id": "g-ChIJKRADP0juTzURxVDVg3v_kDM",
       "name": "ひまわり",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8021455,
       "lng": 132.7282678,
       "city": "松前町",
@@ -23244,7 +23156,7 @@
       "id": "g-ChIJMclU5n9vTzUR_-LJM_9uzXM",
       "name": "食堂BAR！！濱匠",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.230460199999996,
       "lng": 132.7085617,
       "city": "松野町",
@@ -27390,8 +27302,8 @@
     {
       "id": "g-ChIJz8xAsILSUTUR9baxkODGzf4",
       "name": "ごはんどき 西条店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9323323,
       "lng": 133.20449,
       "city": "西条市",
@@ -27999,8 +27911,8 @@
     {
       "id": "g-ChIJ580YFJstUDURUdYw5JiH16M",
       "name": "みなたけ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.896536399999995,
       "lng": 133.1230919,
       "city": "西条市",
@@ -28506,7 +28418,7 @@
       "id": "g-ChIJsUw0WADTUTURiFNaiNO_C_Y",
       "name": "沖縄そばの店 さんぴん食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9186506,
       "lng": 133.1824216,
       "city": "西条市",
@@ -28680,56 +28592,6 @@
         "金曜日: 17時30分～21時30分",
         "土曜日: 17時30分～21時30分",
         "日曜日: 定休日"
-      ]
-    },
-    {
-      "id": "g-ChIJmQL_HIUuUDUReiKvXGmX_XY",
-      "name": "蕎亭 はる（きょうてい はる）",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.93871,
-      "lng": 133.0897636,
-      "city": "西条市",
-      "address": "〒799-1342 愛媛県西条市大新田１０１−１",
-      "hours": null,
-      "phone": "0898-64-2142",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 4.3,
-          "count": 237,
-          "url": "https://maps.google.com/?cid=8574175744365634170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": {
-          "score": 3.58,
-          "count": 96,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38001192/"
-        },
-        "rdb": null,
-        "retty": {
-          "score": null,
-          "count": 13,
-          "url": "https://retty.me/area/PRE38/ARE232/SUB23202/100000712627/"
-        },
-        "hotpepper": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.hotpepper.jp/strJ000941144/"
-        }
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJmQL_HIUuUDUReiKvXGmX_XY",
-      "hoursText": [
-        "月曜日: 11時30分～15時00分",
-        "火曜日: 11時30分～15時00分",
-        "水曜日: 11時30分～15時00分",
-        "木曜日: 定休日",
-        "金曜日: 11時30分～15時00分",
-        "土曜日: 11時30分～15時00分",
-        "日曜日: 11時30分～15時00分"
       ]
     },
     {
@@ -32262,48 +32124,6 @@
       ]
     },
     {
-      "id": "g-ChIJIRMtUpSATzURkCFfDkt2XZk",
-      "name": "ビストロ サンマルシェ",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.527657,
-      "lng": 132.5676514,
-      "city": "大洲市",
-      "address": "〒795-0064 愛媛県大洲市東大洲１０４８−３",
-      "hours": null,
-      "phone": "0893-25-0881",
-      "website": "https://sanmarushop.jp/",
-      "instagram": "sanmarushop",
-      "ratings": {
-        "google": {
-          "score": 4.1,
-          "count": 453,
-          "url": "https://maps.google.com/?cid=11051119125372805520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": {
-          "score": 3.32,
-          "count": 71,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38006163/"
-        },
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJIRMtUpSATzURkCFfDkt2XZk",
-      "hoursText": [
-        "月曜日: 11時00分～14時30分, 17時30分～19時30分",
-        "火曜日: 定休日",
-        "水曜日: 11時00分～14時30分, 17時30分～19時30分",
-        "木曜日: 11時00分～14時30分, 17時30分～19時30分",
-        "金曜日: 11時00分～14時30分, 17時30分～19時30分",
-        "土曜日: 11時00分～14時30分, 17時30分～19時30分",
-        "日曜日: 11時00分～14時30分, 17時30分～19時30分"
-      ]
-    },
-    {
       "id": "g-ChIJ4QuFwlaBTzUR38UM9jxVaPw",
       "name": "ひふみ",
       "category": "ramen",
@@ -32394,8 +32214,8 @@
     {
       "id": "g-ChIJs50038CATzURc-vqlga9y0o",
       "name": "めん六や 愛媛大洲店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.531652,
       "lng": 132.5729852,
       "city": "大洲市",
@@ -32801,8 +32621,8 @@
     {
       "id": "g-ChIJK89_Ovt_RTURRrNpCNC6I7A",
       "name": "五志喜めんそーれ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4935556,
       "lng": 132.5443106,
       "city": "大洲市",
@@ -33879,44 +33699,6 @@
       ]
     },
     {
-      "id": "g-ChIJs5krLePrTzURV691ZAdA5q8",
-      "name": "Jutaro",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.7419668,
-      "lng": 132.79552189999998,
-      "city": "砥部町",
-      "address": "〒791-2122 愛媛県伊予郡砥部町千足３５９",
-      "hours": null,
-      "phone": "089-960-7338",
-      "website": null,
-      "instagram": "cafe_restaurant_jutaro",
-      "ratings": {
-        "google": {
-          "score": 3.9,
-          "count": 255,
-          "url": "https://maps.google.com/?cid=12674888601775222615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": null,
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJs5krLePrTzURV691ZAdA5q8",
-      "hoursText": [
-        "月曜日: 11時00分～17時00分",
-        "火曜日: 11時00分～17時00分",
-        "水曜日: 11時00分～17時00分",
-        "木曜日: 11時00分～17時00分",
-        "金曜日: 11時00分～17時00分",
-        "土曜日: 11時00分～17時00分",
-        "日曜日: 11時00分～17時00分"
-      ]
-    },
-    {
       "id": "g-ChIJDSL5QvvrTzURn_ij_qI9uFQ",
       "name": "KIZOKU(キゾク)",
       "category": "other",
@@ -34002,48 +33784,6 @@
         "金曜日: 11時30分～14時30分, 17時30分～21時00分",
         "土曜日: 11時00分～21時00分",
         "日曜日: 11時30分～14時30分, 17時30分～21時00分"
-      ]
-    },
-    {
-      "id": "g-ChIJ4XIxZ1bpTzURuaBLK9u7ScE",
-      "name": "ぎやてい",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.7485426,
-      "lng": 132.79166519999998,
-      "city": "砥部町",
-      "address": "〒791-2120 愛媛県伊予郡砥部町宮内１４０４−１",
-      "hours": null,
-      "phone": "089-904-7711",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 4.1,
-          "count": 246,
-          "url": "https://maps.google.com/?cid=13927869872618578105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": {
-          "score": 3.25,
-          "count": 54,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38009123/"
-        },
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ4XIxZ1bpTzURuaBLK9u7ScE",
-      "hoursText": [
-        "月曜日: 定休日",
-        "火曜日: 11時00分～14時30分",
-        "水曜日: 11時00分～14時30分",
-        "木曜日: 定休日",
-        "金曜日: 11時00分～14時30分",
-        "土曜日: 11時00分～14時30分",
-        "日曜日: 11時00分～14時30分"
       ]
     },
     {
@@ -34270,8 +34010,8 @@
     {
       "id": "g-ChIJwUbQ5CzpTzURCwlsVnyQIc0",
       "name": "蔵グルメあこう",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7781989,
       "lng": 132.7875886,
       "city": "砥部町",
@@ -34316,8 +34056,8 @@
     {
       "id": "g-ChIJq6quRkjpTzURngn2S4FUNz4",
       "name": "展望レストラン SKY GARDEN",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.762212399999996,
       "lng": 132.7940391,
       "city": "砥部町",
@@ -34662,8 +34402,8 @@
     {
       "id": "g-ChIJrV-dWXXoTzURDMEHtBf5wY8",
       "name": "いろは",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.796963999999996,
       "lng": 132.84353439999998,
       "city": "東温市",
@@ -35854,48 +35594,6 @@
       ]
     },
     {
-      "id": "g-ChIJtSbdOEnDTzURG7I4mz_O4Bw",
-      "name": "農家レストランぼたん 茶屋",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.7559598,
-      "lng": 132.9263193,
-      "city": "東温市",
-      "address": "〒791-0315 愛媛県東温市井内１０８３−１",
-      "hours": null,
-      "phone": "089-966-3981",
-      "website": "https://botan-chaya.com/",
-      "instagram": "jinku_den",
-      "ratings": {
-        "google": {
-          "score": 4.2,
-          "count": 48,
-          "url": "https://maps.google.com/?cid=2080889800427614747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": {
-          "score": 3.03,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3801/A380102/38008511/"
-        },
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJtSbdOEnDTzURG7I4mz_O4Bw",
-      "hoursText": [
-        "月曜日: 10時00分～22時00分",
-        "火曜日: 10時00分～22時00分",
-        "水曜日: 10時00分～22時00分",
-        "木曜日: 10時00分～22時00分",
-        "金曜日: 10時00分～22時00分",
-        "土曜日: 10時00分～22時00分",
-        "日曜日: 10時00分～22時00分"
-      ]
-    },
-    {
       "id": "g-ChIJkWsv9QroTzURfIOFoqN6CfU",
       "name": "来来亭 東温店",
       "category": "ramen",
@@ -35939,48 +35637,6 @@
         "金曜日: 10時00分～23時30分",
         "土曜日: 10時00分～23時30分",
         "日曜日: 10時00分～23時30分"
-      ]
-    },
-    {
-      "id": "g-ChIJOc1VMhTbTzURFMD9Q-ppYwQ",
-      "name": "離れ流水庵",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.7694262,
-      "lng": 132.9676533,
-      "city": "東温市",
-      "address": "〒791-0321 愛媛県東温市河之内３４３４番地",
-      "hours": null,
-      "phone": "080-2388-3597",
-      "website": "https://kondoke.yours-llc.net/ryusuian.html",
-      "instagram": "kondoke_ehime",
-      "ratings": {
-        "google": {
-          "score": 4.4,
-          "count": 34,
-          "url": "https://maps.google.com/?cid=316212853730033684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": {
-          "score": 3.15,
-          "count": 15,
-          "url": "https://tabelog.com/ehime/A3801/A380102/38013263/"
-        },
-        "rdb": null,
-        "retty": null,
-        "hotpepper": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJOc1VMhTbTzURFMD9Q-ppYwQ",
-      "hoursText": [
-        "月曜日: 11時30分～13時00分",
-        "火曜日: 定休日",
-        "水曜日: 定休日",
-        "木曜日: 定休日",
-        "金曜日: 定休日",
-        "土曜日: 11時30分～13時00分",
-        "日曜日: 11時30分～13時00分"
       ]
     },
     {
@@ -37218,7 +36874,7 @@
       "id": "g-ChIJgVOhPIGERTURxWUzqRBrgUU",
       "name": "もつ鍋ダイニング居食屋 月天(炭火焼鳥と自家製麺の店)",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.4576389,
       "lng": 132.4255638,
       "city": "八幡浜市",
@@ -37474,52 +37130,6 @@
         "google"
       ],
       "placeId": "ChIJ2ZU8aYOERTUR_MrIpT3vNLs"
-    },
-    {
-      "id": "g-ChIJF8w-hoOERTURMcD17nW0kgs",
-      "name": "菓工房 後藤",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.4573305,
-      "lng": 132.4265814,
-      "city": "八幡浜市",
-      "address": "〒796-0088 愛媛県八幡浜市浜田町１丁目１３８５",
-      "hours": null,
-      "phone": "0894-22-0601",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "google": {
-          "score": 4.5,
-          "count": 156,
-          "url": "https://maps.google.com/?cid=833927299630219313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-        },
-        "tabelog": {
-          "score": 3.14,
-          "count": 30,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38001195/"
-        },
-        "rdb": null,
-        "retty": null,
-        "hotpepper": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.hotpepper.jp/strJ000945592/"
-        }
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJF8w-hoOERTURMcD17nW0kgs",
-      "hoursText": [
-        "月曜日: 9時00分～18時00分",
-        "火曜日: 定休日",
-        "水曜日: 9時00分～18時00分",
-        "木曜日: 9時00分～18時00分",
-        "金曜日: 9時00分～18時00分",
-        "土曜日: 9時00分～18時00分",
-        "日曜日: 9時00分～18時00分"
-      ]
     },
     {
       "id": "g-ChIJ-57B58iFRTUR9jVmu74AqNQ",
@@ -37861,7 +37471,7 @@
       "id": "osm-n7023064536",
       "name": "三和食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.4578812,
       "lng": 132.4188647,
       "city": "八幡浜市",
