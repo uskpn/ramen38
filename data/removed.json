@@ -223,6 +223,14 @@
       "osmId": "node/3945251356",
       "placeId": null,
       "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n5919824185",
+      "name": "セキショ食堂",
+      "city": "大洲市",
+      "osmId": "node/5919824185",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
     }
   ]
 }
