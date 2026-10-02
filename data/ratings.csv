@@ -1,25 +1,24 @@
 ﻿id,name,city,instagram,tabelog_score,tabelog_count,tabelog_url,rdb_score,rdb_count,rdb_url,retty_score,retty_count,retty_url,hotpepper_score,hotpepper_count,hotpepper_url
 g-ChIJp-iIjvlVTzURslUeQQOJNuU,（名）辻三親商会,愛南町,,,,,,,,,,,,,
-g-ChIJFZK6QJf5RTURgYxur-9QLZ8,【公式】ゆらり内海,愛南町,,,,,,,,,,,,,
-g-ChIJnzHsNeJVTzURX1qnobkmbk4,いばら木,愛南町,,,,,,,,,,,,,
-g-ChIJid7av3BWTzUR7-1hwzV0RrM,シェフミー,愛南町,,,,,,,,,,,,,
-g-ChIJRYK-JuNVTzURQnZDTbKKjcA,なにわ,愛南町,,,,,,,,,,,,,
-g-ChIJe2tDPwhWTzURFO2Dyz0lh58,ねね,愛南町,,,,,,,,,,,,,
-g-ChIJ1yYneP1VTzUR6Va8KiRmemw,ばちこい,愛南町,bachikoi_,,,,,,,,,,,,
-g-ChIJN_0C9UFRTzUR9L05_rKRT0U,はるめし,愛南町,hal_meshi.oneplate,,,,,,,,,,,,
-g-ChIJX_tmSXpWTzURikknzilGJyQ,みかど食堂,愛南町,,,,,,,,,,,,,
-osm-w1012999465,ゆうき食堂,愛南町,,,,,,,,,,,,,
-g-ChIJbZ-Yk-FVTzURnK1eH5P6kTU,汽車ぽっぽ,愛南町,,,,,,,,,,,,,
+g-ChIJFZK6QJf5RTURgYxur-9QLZ8,【公式】ゆらり内海,愛南町,yurariuchiumi,3.29,50,https://tabelog.com/ehime/A3804/A380404/38007190/,,,,,13,https://retty.me/area/PRE38/ARE255/SUB25501/100000454606/,,,
+g-ChIJnzHsNeJVTzURX1qnobkmbk4,いばら木,愛南町,,3.04,5,https://tabelog.com/ehime/A3804/A380404/38011617/,,,,,,,,0,https://www.hotpepper.jp/strJ000543568/
+g-ChIJid7av3BWTzUR7-1hwzV0RrM,シェフミー,愛南町,bistro._chefmy_y,3.12,13,https://tabelog.com/ehime/A3804/A380404/38007008/,,,,,,,,0,https://www.hotpepper.jp/strJ000858808/
+g-ChIJRYK-JuNVTzURQnZDTbKKjcA,なにわ,愛南町,,3.35,88,https://tabelog.com/ehime/A3804/A380404/38000875/,,,,,17,https://retty.me/area/PRE38/ARE255/SUB25501/100001163501/,,,
+g-ChIJe2tDPwhWTzURFO2Dyz0lh58,ねね,愛南町,,,0,https://tabelog.com/ehime/A3804/A380404/38015630/,,,,,,,,,
+g-ChIJ1yYneP1VTzUR6Va8KiRmemw,ばちこい,愛南町,bachikoi_,3.02,3,https://tabelog.com/ehime/A3804/A380404/38015441/,,,,,,,,,
+g-ChIJN_0C9UFRTzUR9L05_rKRT0U,はるめし,愛南町,hal_meshi.oneplate,3,3,https://tabelog.com/ehime/A3804/A380404/38014491/,,,,,,,,,
+g-ChIJX_tmSXpWTzURikknzilGJyQ,みかど食堂,愛南町,,3.05,6,https://tabelog.com/ehime/A3804/A380404/38010219/,,,,,,,,0,https://www.hotpepper.jp/strJ000543581/
+g-ChIJbZ-Yk-FVTzURnK1eH5P6kTU,汽車ぽっぽ,愛南町,,3.04,10,https://tabelog.com/ehime/A3804/A380404/38007526/,,,,,,,,1,https://www.hotpepper.jp/strJ000543570/
 g-ChIJkXAZBA_5RTURP4re9G6SO4c,亀きち,愛南町,,,,,,,,,,,,,
-osm-n9718648379,市場食堂,愛南町,ainanshichangshitang,,,,,,,,,,,,
-g-ChIJh9F0qvtVTzUR5xmzModCvgQ,水門,愛南町,,,,,,,,,,,,,
-g-ChIJrSS88Y1VTzURWqD4_xHL7yg,台湾料理 豊源 愛南店,愛南町,,,,,,,,,,,,,
-g-ChIJz4ICeQdWTzURfHjejFl8wG8,大樹,愛南町,,,,,,,,,,,,,
-g-ChIJW8rPO-NVTzURJLwvX_Xktv8,道の駅 みしょう MIC,愛南町,misyou_mic,,,,,,,,,,,,
-g-ChIJbeaj0-FVTzURcZ6brdfWacY,遊厨,愛南町,,,,,,,,,,,,,
-g-ChIJETUL2wtWTzURkyHqKNcgCcQ,遊遊,愛南町,,,,,,,,,,,,,
-g-ChIJ7U9nr3BWTzURLK5RQl62A1I,爛漫亭,愛南町,,,,,,,,,,,,,
-g-ChIJ61_fs3tWTzURQYbodWryhTA,萬翠,愛南町,,,,,,,,,,,,,
+osm-n9718648379,市場食堂,愛南町,ainanshichangshitang,3.53,210,https://tabelog.com/ehime/A3804/A380404/38007391/,,,,,25,https://retty.me/area/PRE38/ARE255/SUB25501/100000827668/,,8,https://www.hotpepper.jp/strJ000543605/
+g-ChIJh9F0qvtVTzUR5xmzModCvgQ,水門,愛南町,,3.01,2,https://tabelog.com/ehime/A3804/A380404/38010467/,,,,,,,,,https://www.hotpepper.jp/strJ000543608/
+g-ChIJrSS88Y1VTzURWqD4_xHL7yg,台湾料理 豊源 愛南店,愛南町,,3.05,6,https://tabelog.com/ehime/A3804/A380404/38013020/,,,,,2,https://retty.me/area/PRE38/ARE255/SUB25501/100001499579/,,,
+g-ChIJz4ICeQdWTzURfHjejFl8wG8,大樹,愛南町,,3.04,15,https://tabelog.com/ehime/A3804/A380404/38008632/,,,,,,,,0,https://www.hotpepper.jp/strJ000543589/
+g-ChIJW8rPO-NVTzURJLwvX_Xktv8,道の駅 みしょう MIC,愛南町,misyou_mic,3.17,33,https://tabelog.com/ehime/A3804/A380404/38007459/,,,,,,,,0,https://www.hotpepper.jp/strJ000904934/
+g-ChIJbeaj0-FVTzURcZ6brdfWacY,遊厨,愛南町,syusaiya_yuzu,3.17,2,https://tabelog.com/ehime/A3804/A380404/38011648/,,,,,,,,,
+g-ChIJETUL2wtWTzURkyHqKNcgCcQ,遊遊,愛南町,,,,,,,,,,,,0,https://www.hotpepper.jp/strJ000543565/
+g-ChIJ7U9nr3BWTzURLK5RQl62A1I,爛漫亭,愛南町,,3.03,5,https://tabelog.com/ehime/A3804/A380404/38006831/,,,,,,,,,https://www.hotpepper.jp/strJ000543567/
+g-ChIJ61_fs3tWTzURQYbodWryhTA,萬翠,愛南町,,3,1,https://tabelog.com/ehime/A3804/A380404/38015063/,,,,,,,,0,https://www.hotpepper.jp/strJ000543548/
 g-ChIJtbf3PB2bRTURPKGN0c78WwM,Ikata Dining 炭火焼 鶏勇,伊方町,minato010603,,,,,,,,,,,,
 g-ChIJW973u4OXRTURBIAkKRKJP8Q,いりふね,伊方町,,,,,,,,,,,,,
 g-ChIJu7pURvS4RTURNplx6pkUssQ,かよ,伊方町,,,,,,,,,,,,,
@@ -28,31 +27,31 @@ g-ChIJ0VbTJWebRTURrPyEAJAEIYM,ひろせ,伊方町,oryourihirose,,,,,,,,,,,,
 g-ChIJuR3Sd_O4RTURxQpmh23uRYI,まりーな亭,伊方町,,,,,,,,,,,,,
 g-ChIJQfoBJpGcRTURZu0oBZANwuI,マルマ食堂,伊方町,,,,,,,,,,,,,
 g-ChIJYXJ87pKXRTURa9zQRZ_67Ic,れすとらん風車,伊方町,resutoranfengche5,,,,,,,,,,,,
-g-ChIJt34g1nDyTzURGpEVv7Zhl-4,ＨＩＫＡＲＩ,伊予市,,,,,,,,,,,,,
-g-ChIJF_s3PgDzTzURqkzV87VYh2A,Jふらんく 伊予店,伊予市,,,,,,,,,,,,,
-g-ChIJVSNyTH_zTzURDwHbtPl_D_w,いづし,伊予市,,,,,,,,,,,,,
-g-ChIJW6rc8_ftTzURAf0TFV716b8,えい吉,伊予市,,,,,,,,,,,,,
-g-ChIJj3GCjvbtTzURA6BtaGK7DuU,おが多,伊予市,,,,,,,,,,,,,
-g-ChIJqzenOZfyTzUR_KGZ0KaUoIc,キッチンイチニチ,伊予市,,,,,,,,,,,,,
-g-ChIJN1MKv33yTzURRV2nTpf2XBY,くし坊らーめん麺人,伊予市,mento_club,,,,,,,,,,,,
-g-ChIJtT3zIwzzTzURyIL4hcgwBJY,テイクアウト専門店「四川料理の店 Chusen」,伊予市,chusen_nakagawa_tengaiten,,,,,,,,,,,,
-g-ChIJVVVlwo_uTzURdGE2LE94OsY,フードコート｜伊予灘SA下り,伊予市,nexco_west_sapa,,,,,,,,,,,,
-g-ChIJ0c56loXuTzURTTBkFc2vqFI,フードコート｜伊予灘SA上り,伊予市,nexco_west_sapa,,,,,,,,,,,,
-g-ChIJE1DFx1zzTzURgu22vLE0XpA,ふじた食堂,伊予市,,,,,,,,,,,,,
-g-ChIJKfZIXobyTzURjTmYeEe25MQ,みかさ,伊予市,,,,,,,,,,,,,
-g-ChIJ17WCdQCNTzURjtptL28Y6DI,ユンゲ モルゲン,伊予市,,,,,,,,,,,,,
-osm-w612765302,ラーメンショップKANTO 双海店,伊予市,,,,,,,,,,,,,
-g-ChIJYUH6W4blTzURP37OHNz6Hh8,俺のギョーザ,伊予市,ore.no.gyoza,,,,,,,,,,,,
-g-ChIJA_fd03byTzURrOw7i_dDRUA,四季,伊予市,,,,,,,,,,,,,
-g-ChIJNaDDdgDzTzURFtN48ik27_M,志乃や,伊予市,cafe.fuku,,,,,,,,,,,,
-g-ChIJTVP-SdKNTzURQ5H5IElwOyw,上灘水産,伊予市,,,,,,,,,,,,,
+g-ChIJt34g1nDyTzURGpEVv7Zhl-4,ＨＩＫＡＲＩ,伊予市,,3.08,14,https://tabelog.com/ehime/A3801/A380103/38003687/,,,,,,,,,https://www.hotpepper.jp/strJ000547782/
+g-ChIJF_s3PgDzTzURqkzV87VYh2A,Jふらんく 伊予店,伊予市,,3.05,3,https://tabelog.com/ehime/A3801/A380103/38016122/,,,,,,,,,
+g-ChIJVSNyTH_zTzURDwHbtPl_D_w,いづし,伊予市,,3.21,19,https://tabelog.com/ehime/A3801/A380103/38014293/,,,,,,,,,
+g-ChIJW6rc8_ftTzURAf0TFV716b8,えい吉,伊予市,eikichi1125,3.25,57,https://tabelog.com/ehime/A3801/A380103/38001025/,,,,,10,https://retty.me/area/PRE38/ARE145/SUB14502/100000639368/,,4,https://www.hotpepper.jp/strJ000547820/
+g-ChIJj3GCjvbtTzURA6BtaGK7DuU,おが多,伊予市,,3.09,10,https://tabelog.com/ehime/A3801/A380103/38001766/,,,,,1,https://retty.me/area/PRE38/ARE145/SUB14502/100000712995/,,0,https://www.hotpepper.jp/strJ000547801/
+g-ChIJqzenOZfyTzUR_KGZ0KaUoIc,キッチンイチニチ,伊予市,,3.46,68,https://tabelog.com/ehime/A3801/A380103/38005530/,,,,,17,https://retty.me/area/PRE38/ARE145/SUB14502/100000866825/,,0,https://www.hotpepper.jp/strJ000792847/
+g-ChIJN1MKv33yTzURRV2nTpf2XBY,くし坊らーめん麺人,伊予市,mento_club,3.23,38,https://tabelog.com/ehime/A3801/A380103/38002113/,81.639,3,https://ramendb.supleks.jp/s/83740.html,,2,https://retty.me/area/PRE38/ARE145/SUB14502/100000639365/,,1,https://www.hotpepper.jp/strJ000547802/
+g-ChIJtT3zIwzzTzURyIL4hcgwBJY,テイクアウト専門店「四川料理の店 Chusen」,伊予市,chusen_nakagawa_tengaiten,3.02,3,https://tabelog.com/ehime/A3801/A380103/38014180/,,,,,,,,,
+g-ChIJVVVlwo_uTzURdGE2LE94OsY,フードコート｜伊予灘SA下り,伊予市,nexco_west_sapa,3.07,24,https://tabelog.com/ehime/A3801/A380103/38007870/,,,,,,,,,
+g-ChIJ0c56loXuTzURTTBkFc2vqFI,フードコート｜伊予灘SA上り,伊予市,nexco_west_sapa,3.1,52,https://tabelog.com/ehime/A3801/A380103/38007193/,,,,,4,https://retty.me/area/PRE38/ARE145/SUB14502/100000639377/,,,
+g-ChIJE1DFx1zzTzURgu22vLE0XpA,ふじた食堂,伊予市,fujita_eatery,3.05,3,https://tabelog.com/ehime/A3801/A380103/38016006/,,,,,,,,,
+g-ChIJKfZIXobyTzURjTmYeEe25MQ,みかさ,伊予市,,3.39,103,https://tabelog.com/ehime/A3801/A380103/38001614/,,,,,,,,,
+g-ChIJ17WCdQCNTzURjtptL28Y6DI,ユンゲ モルゲン,伊予市,jungmorgen202,3.02,2,https://tabelog.com/ehime/A3801/A380103/38016985/,,,,,,,,,
+osm-w612765302,ラーメンショップKANTO 双海店,伊予市,,3.08,22,https://tabelog.com/ehime/A3801/A380103/38010984/,,,,,,,,,
+g-ChIJYUH6W4blTzURP37OHNz6Hh8,俺のギョーザ,伊予市,ore.no.gyoza,3.04,10,https://tabelog.com/ehime/A3801/A380103/38013600/,,,,,1,https://retty.me/area/PRE38/ARE145/SUB14502/100001718775/,,,
+g-ChIJA_fd03byTzURrOw7i_dDRUA,四季,伊予市,,,,,,,,,,,,0,https://www.hotpepper.jp/strJ000547800/
+g-ChIJNaDDdgDzTzURFtN48ik27_M,志乃や,伊予市,cafe.fuku,3.03,6,https://tabelog.com/ehime/A3801/A380103/38008252/,,,,,,,,,
+g-ChIJTVP-SdKNTzURQ5H5IElwOyw,上灘水産,伊予市,,3.05,22,https://tabelog.com/ehime/A3801/A380103/38012552/,,,,,2,https://retty.me/area/PRE38/ARE145/SUB14502/100001499470/,,,
 g-ChIJjQrM4HbyTzURL_zTUPcQ_7A,森店（もりみせ）食堂,伊予市,,,,,,,,,,,,,
-g-ChIJ7aSkvAjyTzUR2JNyBEsZ3zQ,中華料理 東龍,伊予市,chuka_touryuu,,,,,,,,,,,,
-g-ChIJ99x91XbyTzURgX11B7gb1WQ,朝日食堂,伊予市,,,,,,,,,,,,,
-g-ChIJPQ2rRr3yTzURscufie5jp14,豚太郎 伊予店,伊予市,,,,,,,,,,,,,
-g-ChIJBSok_obyTzURI9SvHgPs0mU,味芳,伊予市,,,,,,,,,,,,,
-g-ChIJhXdsS3HyTzURaEHeDWqWO6c,濱田屋,伊予市,hamadaya_,,,,,,,,,,,,
-g-ChIJLSU3D1eNTzURw3ZVcGdboi0,珈食亭,伊予市,,,,,,,,,,,,,
+g-ChIJ7aSkvAjyTzUR2JNyBEsZ3zQ,中華料理 東龍,伊予市,chuka_touryuu,3.16,22,https://tabelog.com/ehime/A3801/A380103/38001168/,,,,,,,,,
+g-ChIJ99x91XbyTzURgX11B7gb1WQ,朝日食堂,伊予市,,3.2,19,https://tabelog.com/ehime/A3801/A380103/38002343/,,,,,,,,0,https://www.hotpepper.jp/strJ000547770/
+g-ChIJPQ2rRr3yTzURscufie5jp14,豚太郎 伊予店,伊予市,,3.09,37,https://tabelog.com/ehime/A3801/A380103/38006100/,,,https://ramendb.supleks.jp/s/84372.html,,,,,3,https://www.hotpepper.jp/strJ000547768/
+g-ChIJBSok_obyTzURI9SvHgPs0mU,味芳,伊予市,,3.34,55,https://tabelog.com/ehime/A3801/A380103/38000744/,,,,,,,,0,https://www.hotpepper.jp/strJ000547834/
+g-ChIJhXdsS3HyTzURaEHeDWqWO6c,濱田屋,伊予市,hamadaya_,3.34,55,https://tabelog.com/ehime/A3801/A380103/38001501/,,0,https://ramendb.supleks.jp/s/41335.html,,7,https://retty.me/area/PRE38/ARE145/SUB14502/100000819620/,,1,https://www.hotpepper.jp/strJ000547769/
+g-ChIJLSU3D1eNTzURw3ZVcGdboi0,珈食亭,伊予市,,3.09,25,https://tabelog.com/ehime/A3801/A380103/38004195/,,,,,1,https://retty.me/area/PRE38/ARE145/SUB14502/100001459112/,,,https://www.hotpepper.jp/strJ000547837/
 g-ChIJbUC0tcthTzURDtPHmCx7J1A,Ji-Ba,宇和島市,,,0,https://tabelog.com/ehime/A3804/A380401/38004569/,,,,,,,,,
 osm-n13904181632,いごっそ,宇和島市,igosso_uwajima,3.02,7,https://tabelog.com/ehime/A3804/A380401/38007295/,,,,,4,https://retty.me/area/PRE38/ARE255/SUB25501/100001108058/,,0,https://www.hotpepper.jp/strJ001083151/
 g-ChIJW2Y4mwRjTzUR5mUkr06Fpf0,いろり茶屋,宇和島市,,3.04,5,https://tabelog.com/ehime/A3804/A380401/38012524/,,,,,,,,,
@@ -485,30 +484,28 @@ g-ChIJq6qeD4zlTzURCGO0Yf1Und4,拉麺 閏 （ラーメン ウルウ）,松山市,
 g-ChIJVVSLIJTlTzURBFduhAvsazo,眞心 SHIN-SHIN,松山市,,3.21,22,https://tabelog.com/ehime/A3801/A380101/38011454/,,,,,,,,,
 g-ChIJz3rxRe7lTzUR2uvNrnD8A7o,萬楽 塩田屋,松山市,shiotaya_ramen,3.1,35,https://tabelog.com/ehime/A3801/A380101/38005431/,,,,,,,,,
 osm-n10605774688,餃子 のぶ,松山市,gyozanobu,3.18,31,https://tabelog.com/ehime/A3801/A380101/38009907/,,,,,,,,,
-g-ChIJva3BphzuTzURMEidFcPsxec,hanari ハンアリ,松前町,,,,,,,,,,,,,
+g-ChIJva3BphzuTzURMEidFcPsxec,hanari ハンアリ,松前町,hanari.miki328,3.04,6,https://tabelog.com/ehime/A3801/A380103/38011836/,,,,,,,,,
 g-ChIJT7mWlyPvTzURt7VkB62znKI,M2BASE,松前町,m2base_ehime,,,,,,,,,,,,
-g-ChIJjxYPs_XuTzURWz2sY9Bs7c8,あっぱれ亭,松前町,,,,,,,,,,,,,
-g-ChIJszAb-GDuTzURl65oIFcWe8w,いよ翁,松前町,iyo.okina,,,,,,,,,,,,
-osm-n2109276990,エミグルメ,松前町,,,,,,,,,,,,,
-g-ChIJSTnPOf7tTzUR7naOSQ0hoeI,がんば亭 松前店,松前町,,,,,,,,,,,,,
-osm-n2386746113,ごはんやいよ松前食堂,松前町,,,,,,,,,,,,,
-g-ChIJo8lj3f7xTzURSVWOYDVJDoA,すずろ,松前町,,,,,,,,,,,,,
-g-ChIJ-08h_TfuTzURSsnBqehGzZ8,ていきびん,松前町,,,,,,,,,,,,,
-g-ChIJh0leQf7tTzUROUJsTlqQHI4,てんてん丸 伊予松前店,松前町,,,,,,,,,,,,,
-g-ChIJKRADP0juTzURxVDVg3v_kDM,ひまわり,松前町,,,,,,,,,,,,,
-g-ChIJb3M6vvvxTzURaLnWR19ZLZs,めん処矢磨樹松前店,松前町,,,,,,,,,,,,,
-g-ChIJH1qo_jbtTzURQbDFJYQiUVM,モカチャーゼ,松前町,,,,,,,,,,,,,
-osm-w1434978177,ラーメンショップ R56店,松前町,,,,,,,,,,,,,
-osm-n2386739845,らーめん工房りょう花松前店,松前町,,,,,,,,,,,,,
-osm-n12848296788,リンガーハット,松前町,ringerhut_jp,,,,,,,,,,,,
-g-ChIJmUDi9BruTzURcBPzUOVaFeo,リンガーハット エミフルMASAKI店,松前町,iyotsubaki,,,,,,,,,,,,
-g-ChIJq-bnNfnxTzURjHVbcQDNgQw,割烹 仕出し 川﨑屋,松前町,,,,,,,,,,,,,
-g-ChIJ1cnj0zjuTzURQg8SXFqktL8,郷家松前店,松前町,,,,,,,,,,,,,
-g-ChIJmSaJuavvTzURk0FAFx0opc0,芯せかい エミフルMASAKI店,松前町,hahifu1043,,,,,,,,,,,,
-g-ChIJr87wYADvTzURH12wvotlTJY,村一番食堂,松前町,mura1banshokudo,,,,,,,,,,,,
-g-ChIJmUDi9BruTzURnJV006U5RPE,大阪王将 エミフルMASAKI店,松前町,osakaohsho_japan,,,,,,,,,,,,
-osm-n2386756946,豚太郎松前店,松前町,,,,,,,,,,,,,
-g-ChIJxRZLKyXvTzURL7itRhlS5D0,羅座亜留 炭火焼自家焙煎所 ジャカランダコーヒー,松前町,,,,,,,,,,,,,
+g-ChIJjxYPs_XuTzURWz2sY9Bs7c8,あっぱれ亭,松前町,,3.01,1,https://tabelog.com/ehime/A3801/A380103/38002230/,,,,,,,,0,https://www.hotpepper.jp/strJ000547876/
+g-ChIJszAb-GDuTzURl65oIFcWe8w,いよ翁,松前町,iyo.okina,3.73,279,https://tabelog.com/ehime/A3801/A380103/38007273/,,,,,38,https://retty.me/area/PRE38/ARE145/SUB14502/100000700484/,,,
+g-ChIJSTnPOf7tTzUR7naOSQ0hoeI,がんば亭 松前店,松前町,,3.06,23,https://tabelog.com/ehime/A3801/A380103/38001121/,,,,,1,https://retty.me/area/PRE38/ARE145/SUB14502/100000640141/,,,
+g-ChIJo8lj3f7xTzURSVWOYDVJDoA,すずろ,松前町,,3.02,1,https://tabelog.com/ehime/A3801/A380103/38003034/,,,,,,,,,
+g-ChIJ-08h_TfuTzURSsnBqehGzZ8,ていきびん,松前町,,3.14,22,https://tabelog.com/ehime/A3801/A380103/38003857/,,,,,,,,1,https://www.hotpepper.jp/strJ000547839/
+g-ChIJh0leQf7tTzUROUJsTlqQHI4,てんてん丸 伊予松前店,松前町,tentenmaru_masaki,3.34,43,https://tabelog.com/ehime/A3801/A380103/38006636/,,,,,2,https://retty.me/area/PRE38/ARE145/SUB14502/100000853119/,,0,https://www.hotpepper.jp/strJ000792893/
+g-ChIJKRADP0juTzURxVDVg3v_kDM,ひまわり,松前町,,3.04,3,https://tabelog.com/ehime/A3801/A380103/38005433/,,,,,,,,,
+g-ChIJb3M6vvvxTzURaLnWR19ZLZs,めん処矢磨樹松前店,松前町,,3.17,27,https://tabelog.com/ehime/A3801/A380103/38005078/,,,,,5,https://retty.me/area/PRE38/ARE145/SUB14502/100000881095/,,0,https://www.hotpepper.jp/strJ000547853/
+g-ChIJH1qo_jbtTzURQbDFJYQiUVM,モカチャーゼ,松前町,,3.25,52,https://tabelog.com/ehime/A3801/A380103/38004835/,,,,,,,,0,https://www.hotpepper.jp/strJ000547855/
+osm-w1434978177,ラーメンショップ R56店,松前町,,3.07,20,https://tabelog.com/ehime/A3801/A380103/38000316/,,,,,,,,1,https://www.hotpepper.jp/strJ000547877/
+osm-n2386739845,らーめん工房りょう花松前店,松前町,ryoka_masaki,3.03,37,https://tabelog.com/ehime/A3801/A380103/38005398/,,,,,5,https://retty.me/area/PRE38/ARE145/SUB14502/100000640167/,,,
+osm-n12848296788,リンガーハット,松前町,ringerhut_jp,3.05,35,https://tabelog.com/ehime/A3801/A380103/38006314/,,,,,2,https://retty.me/area/PRE38/ARE145/SUB14502/100000922894/,,0,https://www.hotpepper.jp/strJ000770013/
+g-ChIJmUDi9BruTzURcBPzUOVaFeo,リンガーハット エミフルMASAKI店,松前町,ringerhut_jp,3.02,18,https://tabelog.com/ehime/A3801/A380103/38012239/,,,,,,,,,
+g-ChIJq-bnNfnxTzURjHVbcQDNgQw,割烹 仕出し 川﨑屋,松前町,kawasakiya_masaki,3.3,37,https://tabelog.com/ehime/A3801/A380103/38006131/,,,,,12,https://retty.me/area/PRE38/ARE145/SUB14502/100001201143/,,0,https://www.hotpepper.jp/strJ000547841/
+g-ChIJ1cnj0zjuTzURQg8SXFqktL8,郷家松前店,松前町,motsunabe58,3.05,11,https://tabelog.com/ehime/A3801/A380103/38004422/,,,,,,,,2,https://www.hotpepper.jp/strJ000738112/
+g-ChIJmSaJuavvTzURk0FAFx0opc0,芯せかい エミフルMASAKI店,松前町,shinsekai_emifull,3.24,52,https://tabelog.com/ehime/A3801/A380103/38013736/,,,,,0,https://retty.me/area/PRE38/ARE145/SUB14502/100001576272/,,,
+g-ChIJr87wYADvTzURH12wvotlTJY,村一番食堂,松前町,mura1banshokudo,3.02,3,https://tabelog.com/ehime/A3801/A380103/38017319/,,,,,,,,,
+g-ChIJmUDi9BruTzURnJV006U5RPE,大阪王将 エミフルMASAKI店,松前町,osakaohsho_japan,3.02,21,https://tabelog.com/ehime/A3801/A380103/38007430/,,,,,,,,20,https://www.hotpepper.jp/strJ000997029/
+osm-n2386756946,豚太郎松前店,松前町,,3.28,99,https://tabelog.com/ehime/A3801/A380103/38000195/,,,,,6,https://retty.me/area/PRE38/ARE145/SUB14502/100000054145/,,21,https://www.hotpepper.jp/strJ000831780/
+g-ChIJxRZLKyXvTzURL7itRhlS5D0,羅座亜留 炭火焼自家焙煎所 ジャカランダコーヒー,松前町,jacaranda_coffee_roastery_,3.2,24,https://tabelog.com/ehime/A3801/A380101/38015103/,,,,,,,,,
 g-ChIJRWm1NiR_RTURwiMWGnViWkM,甘味霧中/菓子工房KAZU,松野町,kanmi_muchu,,,,,,,,,,,,
 g-ChIJMclU5n9vTzUR_-LJM_9uzXM,食堂BAR！！濱匠,松野町,,,,,,,,,,,,,
 g-ChIJaTjDHH5vTzURFLlxddQFP_Q,長太郎,松野町,,,,,,,,,,,,,
@@ -667,42 +664,41 @@ g-ChIJYYbbvLzSUTURdfz1ZRIiZHc,毎日食堂,西条市,,3.15,36,https://tabelog.co
 osm-n8430959261,麺屋 田所商店 西条店,西条市,tadokoro_shoten_official,3.04,56,https://tabelog.com/ehime/A3802/A380202/38011881/,,,,,7,https://retty.me/area/PRE38/ARE232/SUB23202/100001345545/,,,
 g-ChIJr2SGC5kuUDUR4nIK0jyx1Xk,梵字,西条市,bonji0813,3.16,28,https://tabelog.com/ehime/A3802/A380202/38003315/,,,,,,,,0,https://www.hotpepper.jp/strJ000792805/
 g-ChIJR9C7omORUTUR3FMRN4oVtqs,餃子香月西条店,西条市,gyouza_kagetsu,,,,,,,,,,,,
-g-ChIJWffhWI6HRTURzab550uu7lk,ARISU,西予市,arisu.seiyo,,,,,,,,,,,,
-g-ChIJn2AsWpCPRTURcaiuiSWYfBg,いさか食堂,西予市,,,,,,,,,,,,,
-osm-n12269032266,ケンちゃん食堂,西予市,,,,,,,,,,,,,
-g-ChIJMTIEl3R5TzURS_1VvGXyuF4,ココ食堂,西予市,,,,,,,,,,,,,
-g-ChIJU-jjjjV2TzURE-LF8Ccq0ys,コスモス,西予市,,,,,,,,,,,,,
-g-ChIJnWRzafuGRTUR171BuRyvv-0,シャルール,西予市,yurininomiya2180,,,,,,,,,,,,
-g-ChIJOR9V8EWHRTUR18He6wzvkvA,ステーション,西予市,,,,,,,,,,,,,
-g-ChIJmUH_85aHRTUR0BTn6TTq69Q,たちばな,西予市,,,,,,,,,,,,,
-g-ChIJFTnAYrOHRTURjcf51ZyGhrA,ディーヤ,西予市,,,,,,,,,,,,,
+g-ChIJWffhWI6HRTURzab550uu7lk,ARISU,西予市,arisu.seiyo,3.09,11,https://tabelog.com/ehime/A3804/A380402/38009754/,,,,,,,,,
+g-ChIJn2AsWpCPRTURcaiuiSWYfBg,いさか食堂,西予市,,,,,,,,,,,,,https://www.hotpepper.jp/strJ000629626/
+g-ChIJMTIEl3R5TzURS_1VvGXyuF4,ココ食堂,西予市,,3.02,1,https://tabelog.com/ehime/A3804/A380402/38017050/,,,,,,,,,
+g-ChIJU-jjjjV2TzURE-LF8Ccq0ys,コスモス,西予市,,3.04,3,https://tabelog.com/ehime/A3804/A380402/38013426/,,,,,1,https://retty.me/area/PRE38/ARE255/SUB25501/100001266618/,,,https://www.hotpepper.jp/strJ000543021/
+g-ChIJnWRzafuGRTUR171BuRyvv-0,シャルール,西予市,yurininomiya2180,3.08,12,https://tabelog.com/ehime/A3804/A380402/38012312/,,,,,,,,,
+g-ChIJOR9V8EWHRTUR18He6wzvkvA,ステーション,西予市,,3.03,3,https://tabelog.com/ehime/A3804/A380402/38012651/,,,,,,,,,
+g-ChIJmUH_85aHRTUR0BTn6TTq69Q,たちばな,西予市,,3.07,13,https://tabelog.com/ehime/A3804/A380402/38001359/,,,,,3,https://retty.me/area/PRE38/ARE255/SUB25501/100001001008/,,0,https://www.hotpepper.jp/strJ000542953/
+g-ChIJFTnAYrOHRTURjcf51ZyGhrA,ディーヤ,西予市,,3.05,5,https://tabelog.com/ehime/A3804/A380402/38015288/,,,,,,,,,
 g-ChIJv8j_cyh1TzURzq4m8nwmQRE,テルメ食堂,西予市,,,,,,,,,,,,,
-g-ChIJy6ENvFx5TzURSOKK7dR5l0U,ときわ食堂,西予市,,,,,,,,,,,,,
-g-ChIJiwB8WgCPRTURdpbh1ZMwFiE,にの味屋,西予市,,,,,,,,,,,,,
-g-ChIJ-7iCCzmHRTURDHqAI1FcCOo,みのり,西予市,,,,,,,,,,,,,
-g-ChIJPRqvWk-GRTURbM3m29v7y5Q,めん坊,西予市,,,,,,,,,,,,,
-g-ChIJr0yDymKHRTURVKxoJf2QJiI,やすい食堂,西予市,,,,,,,,,,,,,
-g-ChIJ7zRaelqGRTURUC50DV1kgQY,ゆうぼく牧場直営レストラン / ゆうぼく民,西予市,yubokunosato,,,,,,,,,,,,
-g-ChIJcTKZgDV2TzUR68DU8zzyld8,レストラン 停満里,西予市,,,,,,,,,,,,,
-g-ChIJ0WP4B1OHRTURc-B_14mnl9g,レストランいっぷく,西予市,,,,,,,,,,,,,
-g-ChIJ33b5e7yHRTURD0nrsf-shFM,れんげそう,西予市,,,,,,,,,,,,,
-g-ChIJS7tZ_HaHRTURq2aRH_tfda4,卯之町バールOTO,西予市,unomachi.bar.oto,,,,,,,,,,,,
-g-ChIJBS_7c82HRTUR67RQuxY-doM,下ノ町ハシエンダ,西予市,,,,,,,,,,,,,
-g-ChIJj7ZxPGyHRTUR3mtgpeSw0EM,菊水,西予市,,,,,,,,,,,,,
+g-ChIJy6ENvFx5TzURSOKK7dR5l0U,ときわ食堂,西予市,,3.01,1,https://tabelog.com/ehime/A3804/A380402/38010079/,,,,,,,,,https://www.hotpepper.jp/strJ000542999/
+g-ChIJiwB8WgCPRTURdpbh1ZMwFiE,にの味屋,西予市,ninomiya_takayama,,,,,,,,,,,,
+g-ChIJ-7iCCzmHRTURDHqAI1FcCOo,みのり,西予市,,3.17,20,https://tabelog.com/ehime/A3804/A380402/38001213/,,,,,,,,0,https://www.hotpepper.jp/strJ000542938/
+g-ChIJPRqvWk-GRTURbM3m29v7y5Q,めん坊,西予市,,3.06,10,https://tabelog.com/ehime/A3804/A380402/38002295/,,,,,3,https://retty.me/area/PRE38/ARE255/SUB25501/100001156450/,,,
+g-ChIJr0yDymKHRTURVKxoJf2QJiI,やすい食堂,西予市,,3.01,5,https://tabelog.com/ehime/A3804/A380402/38003932/,,,,,,,,,https://www.hotpepper.jp/strJ000648817/
+g-ChIJ7zRaelqGRTURUC50DV1kgQY,ゆうぼく牧場直営レストラン / ゆうぼく民,西予市,yubokunosato,3.6,37,https://tabelog.com/ehime/A3804/A380402/38010777/,,,,,2,https://retty.me/area/PRE38/ARE255/SUB25501/100001293423/,,1,https://www.hotpepper.jp/strJ000910919/
+g-ChIJcTKZgDV2TzUR68DU8zzyld8,レストラン 停満里,西予市,,3.14,21,https://tabelog.com/ehime/A3804/A380402/38007474/,,,,,6,https://retty.me/area/PRE38/ARE255/SUB25501/100000950584/,,,
+g-ChIJ0WP4B1OHRTURc-B_14mnl9g,レストランいっぷく,西予市,,3.15,17,https://tabelog.com/ehime/A3804/A380402/38013419/,,,,,,,,,
+g-ChIJ33b5e7yHRTURD0nrsf-shFM,れんげそう,西予市,,,2,https://tabelog.com/ehime/A3804/A380402/38003947/,,,,,,,,0,https://www.hotpepper.jp/strJ000542947/
+g-ChIJS7tZ_HaHRTURq2aRH_tfda4,卯之町バールOTO,西予市,unomachi.bar.oto,3.04,5,https://tabelog.com/ehime/A3804/A380402/38012443/,,,,,,,,7,https://www.hotpepper.jp/strJ003916315/
+g-ChIJBS_7c82HRTUR67RQuxY-doM,下ノ町ハシエンダ,西予市,,3.01,4,https://tabelog.com/ehime/A3804/A380402/38010588/,,,,,,,,,
+g-ChIJj7ZxPGyHRTUR3mtgpeSw0EM,菊水,西予市,,3.04,5,https://tabelog.com/ehime/A3804/A380402/38003583/,,,,,,,,,https://www.hotpepper.jp/strJ000542948/
 osm-n12269045004,幸楽,西予市,,,,,,,,,,,,,
-g-ChIJVU-_1wqHRTUR6sHmdcdSDQE,咲咲-SAKU SAKU-,西予市,,,,,,,,,,,,,
-g-ChIJm8873quHRTURlQo3PE4o44s,社長たちのサンドイッチ,西予市,syacho_sandwich,,,,,,,,,,,,
-g-ChIJq4WiQuZ1TzURGUM7zFw67eQ,食酔坊・宝,西予市,,,,,,,,,,,,,
-g-ChIJ-8ssE7SdTzURTyxquFzo8sU,食堂ゆすかわ(遊子川ザ・リコピンズ),西予市,,,,,,,,,,,,,
-g-ChIJqa9E4EmHRTURLDXVDqMm07Q,粋,西予市,,,,,,,,,,,,,
-g-ChIJVVVVVcSHRTURs00GNuYa0kM,中国料理 舞華,西予市,,,,,,,,,,,,,
-g-ChIJ9c-3nHWHRTURV3KdnVJbYvg,東洋軒 宇和店,西予市,toyokaihatsu,,,,,,,,,,,,
-g-ChIJuYqjWQCHRTUR2nQ5Yd25bRU,肉専科しんみや,西予市,,,,,,,,,,,,,
+g-ChIJVU-_1wqHRTUR6sHmdcdSDQE,咲咲-SAKU SAKU-,西予市,,,1,https://tabelog.com/ehime/A3804/A380402/38015369/,,,,,,,,,
+g-ChIJm8873quHRTURlQo3PE4o44s,社長たちのサンドイッチ,西予市,syacho_sandwich,3.05,3,https://tabelog.com/ehime/A3804/A380402/38015227/,,,,,,,,,
+g-ChIJq4WiQuZ1TzURGUM7zFw67eQ,食酔坊・宝,西予市,housenbou_lodge,3.09,11,https://tabelog.com/ehime/A3804/A380402/38000876/,,,,,1,https://retty.me/area/PRE38/ARE255/SUB25501/100001027578/,,3,https://www.hotpepper.jp/strJ000648820/
+g-ChIJ-8ssE7SdTzURTyxquFzo8sU,食堂ゆすかわ(遊子川ザ・リコピンズ),西予市,,,0,https://tabelog.com/ehime/A3804/A380402/38014039/,,,,,3,https://retty.me/area/PRE38/ARE255/SUB25501/100001338984/,,,https://www.hotpepper.jp/strJ003294512/
+g-ChIJqa9E4EmHRTURLDXVDqMm07Q,粋,西予市,,3.15,17,https://tabelog.com/ehime/A3804/A380402/38001082/,,,,,,,,0,https://www.hotpepper.jp/strJ000552146/
+g-ChIJVVVVVcSHRTURs00GNuYa0kM,中国料理 舞華,西予市,maika_since2009,3.15,15,https://tabelog.com/ehime/A3804/A380402/38012730/,,,,,2,https://retty.me/area/PRE38/ARE255/SUB25501/100001547458/,,,
+g-ChIJ9c-3nHWHRTURV3KdnVJbYvg,東洋軒 宇和店,西予市,toyokaihatsu,3.08,15,https://tabelog.com/ehime/A3804/A380402/38001110/,,,,,1,https://retty.me/area/PRE38/ARE255/SUB25501/100000639865/,,8,https://www.hotpepper.jp/strJ000542972/
+g-ChIJuYqjWQCHRTUR2nQ5Yd25bRU,肉専科しんみや,西予市,,3.09,14,https://tabelog.com/ehime/A3804/A380402/38011315/,,,,,2,https://retty.me/area/PRE38/ARE255/SUB25501/100001297805/,,,
 g-ChIJr3c8CuZ1TzURtmYi2fkRqXI,農家食堂なごみ亭,西予市,,,,,,,,,,,,,
-g-ChIJsawc6sSHRTURZi-b8lWc4zI,豊源 西予店,西予市,,,,,,,,,,,,,
-g-ChIJw8M0ww2HRTURDcf7TguAFCM,麺や だんここ,西予市,dan_coco_ramen,,,,,,,,,,,,
-g-ChIJd_lN5Fh5TzURIuCRZmUxmeY,麺や 一心,西予市,shogo.menyaissin,,,,,,,,,,,,
-g-ChIJB1xOAEmGRTURzYQGRdTcaFQ,野福,西予市,,,,,,,,,,,,,
+g-ChIJsawc6sSHRTURZi-b8lWc4zI,豊源 西予店,西予市,,3.04,9,https://tabelog.com/ehime/A3804/A380402/38013557/,,,,,,,,,
+g-ChIJw8M0ww2HRTURDcf7TguAFCM,麺や だんここ,西予市,dan_coco_ramen,,0,https://tabelog.com/ehime/A3804/A380402/38017344/,,,,,,,,,
+g-ChIJd_lN5Fh5TzURIuCRZmUxmeY,麺や 一心,西予市,shogo.menyaissin,3.18,43,https://tabelog.com/ehime/A3804/A380402/38011504/,83.476,2,https://ramendb.supleks.jp/s/94624.html,,2,https://retty.me/area/PRE38/ARE255/SUB25501/100001330567/,,,
+g-ChIJB1xOAEmGRTURzYQGRdTcaFQ,野福,西予市,nofuku.seiyo,3.09,6,https://tabelog.com/ehime/A3804/A380402/38013880/,,,,,2,https://retty.me/area/PRE38/ARE255/SUB25501/100000639894/,,1,https://www.hotpepper.jp/strJ000542969/
 g-ChIJTf5Hhr-ATzUReSwFLomSHrc,Bar&Cafe Roy's,大洲市,roysoozu56,3.12,34,https://tabelog.com/ehime/A3803/A380301/38008119/,,,,,7,https://retty.me/area/PRE38/ARE255/SUB25502/100000928153/,,,
 g-ChIJLSf1Nvh_RTURzmSNhROAReQ,CO-CO,大洲市,,,1,https://tabelog.com/ehime/A3803/A380301/38004495/,,,,,,,,0,https://www.hotpepper.jp/strJ000542696/
 g-ChIJaSX2rTKBTzURZHmmLB_x1vE,MAY’S KITCHEN,大洲市,,,3,https://tabelog.com/ehime/A3803/A380301/38015302/,,,,,,,,,
@@ -766,39 +762,39 @@ osm-n4593625390,豚太郎砥部店,砥部町,,,,,,,,,,,,,
 g-ChIJLwKxFy3pTzURs6uMT2tW0Qo,変幻自在 かめりあ,砥部町,,,,,,,,,,,,,
 g-ChIJ_z3kE1bpTzURxx2cldxQ3VQ,和酔食菜ｋｅｎ,砥部町,,,,,,,,,,,,,
 g-ChIJOQowSWTpTzURa6ImiOFLuHY,炒飯専門店トーマス,砥部町,tms.burger,,,,,,,,,,,,
-g-ChIJ9VhNV4TdTzURWNFKgjkYjG0,cafe ナナハン 750,東温市,caf_e750,,,,,,,,,,,,
-g-ChIJJUF54h_dTzURo-bLCIVf5x4,Okinawa🏝Kitchen美ら島160 オキナワキッチンチュラシマヒャクロクジュウ,東温市,2883328036803255029,,,,,,,,,,,,
-g-ChIJp4WNzEfdTzURtvTV4guVe08,いしづち山麓マルシェ,東温市,i.marche0428,,,,,,,,,,,,
-g-ChIJrV-dWXXoTzURDMEHtBf5wY8,いろは,東温市,,,,,,,,,,,,,
-g-ChIJpbjaFcPdTzURc1k93X0u2zs,ぎんなん,東温市,ginnan.syowa,,,,,,,,,,,,
-g-ChIJOfi56_HcTzURaLCqMzXMZ6E,そば 町谷,東温市,,,,,,,,,,,,,
-g-ChIJ5TMwW3roTzURMlKjLd4vaiw,どんと 重信店,東温市,,,,,,,,,,,,,
-g-ChIJByLI6groTzURULMbXSQDQ2E,にしきそば,東温市,nishikisoba31,,,,,,,,,,,,
-g-ChIJpQZ4EuPcTzURRMgd5bz192Y,フィレンツェ,東温市,trattoria_firenze,,,,,,,,,,,,
-g-ChIJY_OqQ3roTzURPBYWKpz_-7c,フードコート 重信店（ミョンドンヤ）,東温市,,,,,,,,,,,,,
-g-ChIJn1_11vfcTzURgFtV2DVQ8VM,ふるさと交流館 さくらの湯,東温市,sakuranoyu.toon,,,,,,,,,,,,
-g-ChIJ2zAT83voTzURPjbCvRSelD0,ペッティロッソ,東温市,,,,,,,,,,,,,
-g-ChIJVbhpskzdTzURbFZAjtPvEWE,マニフィーク,東温市,,,,,,,,,,,,,
-g-ChIJwY3ErGrdTzURiVE8I7TQLp8,やすまるキッチン,東温市,,,,,,,,,,,,,
-osm-w1434979125,ラーメンショップ 11号バイパス店,東温市,,,,,,,,,,,,,
-osm-w1434979126,ラーメンショップ 川内店,東温市,,,,,,,,,,,,,
-g-ChIJ46MnjPnnTzURSAzwOBZPk6o,りょう花重信店,東温市,,,,,,,,,,,,,
-g-ChIJp8SRbHroTzURRUEMntgTn1w,リンガーハット フジグラン重信店,東温市,ringerhut_jp,,,,,,,,,,,,
-g-ChIJAypVZwroTzURhnW_xdJwOxE,ロカンダ デルクオーレ,東温市,,,,,,,,,,,,,
-g-ChIJNzHA1fjnTzURzcDfVmfOPVE,一汁三菜五感,東温市,gokan.ichijusansai,,,,,,,,,,,,
-g-ChIJZ3_Am3DoTzURQ-781qrN08k,一心,東温市,,,,,,,,,,,,,
-g-ChIJh0l4aADpTzURazyiHqJKvug,横浜家系ラーメン 一門家東温店,東温市,ichimonya_toon,,,,,,,,,,,,
-g-ChIJb_KLBxPdTzUR2E0UvrBez3Y,吾平,東温市,,,,,,,,,,,,,
-g-ChIJNWMgFODnTzURebU2I7AzLCE,旬彩武,東温市,,,,,,,,,,,,,
-g-ChIJY3wUMi_nTzURkWHRUj5BTUk,笑夢,東温市,emu05.01,,,,,,,,,,,,
-g-ChIJ___rzVXdTzUR2rpywGAKJ1o,食堂COSO,東温市,caffetteria_coso,,,,,,,,,,,,
+g-ChIJ9VhNV4TdTzURWNFKgjkYjG0,cafe ナナハン 750,東温市,caf_e750,3.02,1,https://tabelog.com/ehime/A3801/A380102/38016652/,,,,,,,,,
+g-ChIJJUF54h_dTzURo-bLCIVf5x4,Okinawa🏝Kitchen美ら島160 オキナワキッチンチュラシマヒャクロクジュウ,東温市,churashima160,3.33,32,https://tabelog.com/ehime/A3801/A380102/38014471/,,,,,,,,,
+g-ChIJp4WNzEfdTzURtvTV4guVe08,いしづち山麓マルシェ,東温市,i.marche0428,3.03,4,https://tabelog.com/ehime/A3801/A380102/38009809/,,,,,,,,,
+g-ChIJrV-dWXXoTzURDMEHtBf5wY8,いろは,東温市,,3.02,5,https://tabelog.com/ehime/A3801/A380102/38003707/,,,,,,,,,https://www.hotpepper.jp/strJ000898465/
+g-ChIJpbjaFcPdTzURc1k93X0u2zs,ぎんなん,東温市,ginnan.syowa,3.04,4,https://tabelog.com/ehime/A3801/A380102/38005287/,,,,,,,,1,https://www.hotpepper.jp/strJ000547373/
+g-ChIJOfi56_HcTzURaLCqMzXMZ6E,そば 町谷,東温市,,3.08,20,https://tabelog.com/ehime/A3801/A380102/38003503/,,,,,,,,,https://www.hotpepper.jp/strJ000938460/
+g-ChIJ5TMwW3roTzURMlKjLd4vaiw,どんと 重信店,東温市,,3.03,25,https://tabelog.com/ehime/A3801/A380102/38003651/,,,,,,,,,
+g-ChIJByLI6groTzURULMbXSQDQ2E,にしきそば,東温市,nishikisoba31,3.34,60,https://tabelog.com/ehime/A3801/A380102/38001291/,,,,,10,https://retty.me/area/PRE38/ARE145/SUB39003/100000640023/,,2,https://www.hotpepper.jp/strJ000547385/
+g-ChIJpQZ4EuPcTzURRMgd5bz192Y,フィレンツェ,東温市,trattoria_firenze,3.27,47,https://tabelog.com/ehime/A3801/A380102/38010167/,,,,,,,,,
+g-ChIJY_OqQ3roTzURPBYWKpz_-7c,フードコート 重信店（ミョンドンヤ）,東温市,,3.03,14,https://tabelog.com/ehime/A3801/A380102/38008564/,,,,,,,,,
+g-ChIJn1_11vfcTzURgFtV2DVQ8VM,ふるさと交流館 さくらの湯,東温市,sakuranoyu.toon,3.15,14,https://tabelog.com/ehime/A3801/A380102/38009376/,,,,,,,,,
+g-ChIJ2zAT83voTzURPjbCvRSelD0,ペッティロッソ,東温市,,3.63,50,https://tabelog.com/ehime/A3801/A380102/38009497/,,,,,6,https://retty.me/area/PRE38/ARE145/SUB39003/100000839671/,,,
+g-ChIJVbhpskzdTzURbFZAjtPvEWE,マニフィーク,東温市,magnifique_mayumi,3.22,19,https://tabelog.com/ehime/A3801/A380102/38011349/,,,,,,,,0,https://www.hotpepper.jp/strJ001274864/
+g-ChIJwY3ErGrdTzURiVE8I7TQLp8,やすまるキッチン,東温市,,3.01,1,https://tabelog.com/ehime/A3801/A380102/38013609/,,,,,,,,,
+osm-w1434979125,ラーメンショップ 11号バイパス店,東温市,,3.14,38,https://tabelog.com/ehime/A3801/A380102/38007814/,,,,,,,,1,https://www.hotpepper.jp/strJ000547156/
+osm-w1434979126,ラーメンショップ 川内店,東温市,,3.1,21,https://tabelog.com/ehime/A3801/A380102/38010368/,,,,,1,https://retty.me/area/PRE38/ARE145/SUB39003/100001381583/,,0,https://www.hotpepper.jp/strJ000917069/
+g-ChIJ46MnjPnnTzURSAzwOBZPk6o,りょう花重信店,東温市,,3.1,42,https://tabelog.com/ehime/A3801/A380102/38006206/,,,,,4,https://retty.me/area/PRE38/ARE145/SUB39003/100001167377/,,,
+g-ChIJp8SRbHroTzURRUEMntgTn1w,リンガーハット フジグラン重信店,東温市,ringerhut_jp,3.03,16,https://tabelog.com/ehime/A3801/A380102/38011387/,,,,,,,,,
+g-ChIJAypVZwroTzURhnW_xdJwOxE,ロカンダ デルクオーレ,東温市,,3.17,21,https://tabelog.com/ehime/A3801/A380102/38003209/,,,,,6,https://retty.me/area/PRE38/ARE145/SUB39003/100001228202/,,,
+g-ChIJNzHA1fjnTzURzcDfVmfOPVE,一汁三菜五感,東温市,gokan.ichijusansai,3.24,27,https://tabelog.com/ehime/A3801/A380102/38011431/,,,,,4,https://retty.me/area/PRE38/ARE145/SUB39003/100001476154/,,,
+g-ChIJZ3_Am3DoTzURQ-781qrN08k,一心,東温市,,,,,,,,,,,,1,https://www.hotpepper.jp/strJ000674439/
+g-ChIJh0l4aADpTzURazyiHqJKvug,横浜家系ラーメン 一門家東温店,東温市,ichimonya_toon,3.06,10,https://tabelog.com/ehime/A3801/A380102/38016798/,,,,,,,,,
+g-ChIJb_KLBxPdTzUR2E0UvrBez3Y,吾平,東温市,,3.02,1,https://tabelog.com/ehime/A3801/A380102/38004019/,,,,,,,,,
+g-ChIJNWMgFODnTzURebU2I7AzLCE,旬彩武,東温市,,3.2,11,https://tabelog.com/ehime/A3801/A380102/38003242/,,,,,,,,0,https://www.hotpepper.jp/strJ000703513/
+g-ChIJY3wUMi_nTzURkWHRUj5BTUk,笑夢,東温市,emu05.01,3.04,2,https://tabelog.com/ehime/A3801/A380102/38016140/,,,,,,,,,
+g-ChIJ___rzVXdTzUR2rpywGAKJ1o,食堂COSO,東温市,caffetteria_coso,3.12,21,https://tabelog.com/ehime/A3801/A380102/38009946/,,,,,,,,,
 g-ChIJ6_fg3prdTzURk8cAR-q__jo,水餃子 花木蘭。,東温市,huamulan8899,,,,,,,,,,,,
-g-ChIJoSFKhEjdTzURmAaPA6C4uoQ,中華 老香港菜館,東温市,,,,,,,,,,,,,
-g-ChIJpUMsrXHoTzURuJbGNhGpqMY,中華そば 芯せかい 本店,東温市,,,,,,,,,,,,,
-g-ChIJ5WJMLZXpTzUR4j9EU9raUMc,中華料理 髙爛,東温市,,,,,,,,,,,,,
-g-ChIJtSbdOEnDTzURG7I4mz_O4Bw,農家レストランぼたん 茶屋,東温市,jinku_den,,,,,,,,,,,,
-g-ChIJkWsv9QroTzURfIOFoqN6CfU,来来亭 東温店,東温市,rairaitei_2000,,,,,,,,,,,,
-g-ChIJOc1VMhTbTzURFMD9Q-ppYwQ,離れ流水庵,東温市,,,,,,,,,,,,,
+g-ChIJoSFKhEjdTzURmAaPA6C4uoQ,中華 老香港菜館,東温市,,3.16,30,https://tabelog.com/ehime/A3801/A380102/38000593/,,,,,,,,1,https://www.hotpepper.jp/strJ000704442/
+g-ChIJpUMsrXHoTzURuJbGNhGpqMY,中華そば 芯せかい 本店,東温市,shinsekai_honten,3.48,204,https://tabelog.com/ehime/A3801/A380102/38011146/,,,,,,,,,
+g-ChIJ5WJMLZXpTzUR4j9EU9raUMc,中華料理 髙爛,東温市,koran4147,3.17,10,https://tabelog.com/ehime/A3801/A380102/38012635/,,,,,,,,,
+g-ChIJtSbdOEnDTzURG7I4mz_O4Bw,農家レストランぼたん 茶屋,東温市,jinku_den,3.03,5,https://tabelog.com/ehime/A3801/A380102/38008511/,,,,,,,,,
+g-ChIJkWsv9QroTzURfIOFoqN6CfU,来来亭 東温店,東温市,rairaitei_2000,3.02,33,https://tabelog.com/ehime/A3801/A380102/38011436/,,,,,0,https://retty.me/area/PRE38/ARE145/SUB39003/100001368053/,,,
+g-ChIJOc1VMhTbTzURFMD9Q-ppYwQ,離れ流水庵,東温市,kondoke_ehime,3.15,15,https://tabelog.com/ehime/A3801/A380102/38013263/,,,,,,,,,
 g-ChIJL-6gbG2PTzURf4BRr13s4aI,atochi,内子町,atochi2019,,,,,,,,,,,,
 g-ChIJ_0wGZ7-FTzURRdysqhUb1Wo,IZAKAYAにこり,内子町,,,,,,,,,,,,,
 g-ChIJdSByrNyWTzUR8hArGHbops8,かじか亭,内子町,,,,,,,,,,,,,

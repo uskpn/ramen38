@@ -231,6 +231,38 @@
       "osmId": "node/5919824185",
       "placeId": null,
       "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-w1012999465",
+      "name": "ゆうき食堂",
+      "city": "愛南町",
+      "osmId": "way/1012999465",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n2109276990",
+      "name": "エミグルメ",
+      "city": "松前町",
+      "osmId": "node/2109276990",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n2386746113",
+      "name": "ごはんやいよ松前食堂",
+      "city": "松前町",
+      "osmId": "node/2386746113",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
+    },
+    {
+      "id": "osm-n12269032266",
+      "name": "ケンちゃん食堂",
+      "city": "西予市",
+      "osmId": "node/12269032266",
+      "placeId": null,
+      "reason": "閉店・移転の可能性（Google・各サイトで見つからず）"
     }
   ]
 }
