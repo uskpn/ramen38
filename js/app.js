@@ -2,32 +2,32 @@
   'use strict';
 
   const CATEGORIES = {
-    ramen: { label: 'ラーメン専門店', color: '#d9480f' },
-    chinese: { label: '中華料理', color: '#c92a2a' },
-    shokudo: { label: '食堂・定食', color: '#2b8a3e' },
-    'chain-sushi': { label: '回転寿司', color: '#6741d9' },
-    chain: { label: 'その他チェーン', color: '#1971c2' },
-    restaurant: { label: 'その他の飲食店', color: '#0c8599' },
-    other: { label: 'その他（未確認）', color: '#868e96', off: true },
+    ramen: { label: 'ラーメン専門店' },
+    chinese: { label: '中華料理' },
+    shokudo: { label: '食堂・定食' },
+    'chain-sushi': { label: '回転寿司' },
+    chain: { label: 'チェーン' },
+    restaurant: { label: 'その他の飲食店' },
+    other: { label: '未確認', off: true },
   };
   const RAMEN_LABEL = {
-    specialty: 'ラーメン専門',
-    menu: 'メニューにラーメンあり',
-    likely: 'ラーメンあり?（未確認）',
+    specialty: '',
+    menu: 'ラーメンあり',
+    likely: 'ラーメンあり?',
   };
   // 評価を並べるサイト。url が無い店舗は各サイトの検索ページへリンクする
   const SITES = [
-    { key: 'google', label: 'Google', color: '#1a73e8', max: 5,
+    { key: 'google', label: 'Google', max: 5,
       search: (s) => s.placeId
         ? `https://www.google.com/maps/search/?api=1&query=${enc(s.name)}&query_place_id=${s.placeId}`
         : `https://www.google.com/maps/search/?api=1&query=${enc(`${s.name} ${s.city}`)}` },
-    { key: 'tabelog', label: '食べログ', color: '#f08c00', max: 5,
+    { key: 'tabelog', label: 'Tabelog', max: 5,
       search: (s) => `https://tabelog.com/ehime/rstLst/?vs=1&sk=${enc(s.name)}` },
-    { key: 'rdb', label: 'ラーメンDB', color: '#e03131', max: 100,
+    { key: 'rdb', label: 'Ramen DB', max: 100,
       search: (s) => siteSearch('ramendb.supleks.jp', s) },
-    { key: 'retty', label: 'Retty', color: '#f76707', max: 5,
+    { key: 'retty', label: 'Retty', max: 5,
       search: (s) => siteSearch('retty.me', s) },
-    { key: 'hotpepper', label: 'ホットペッパー', color: '#c2255c', max: 5,
+    { key: 'hotpepper', label: 'Hot Pepper', max: 5,
       search: (s) => siteSearch('hotpepper.jp', s) },
   ];
 
@@ -42,12 +42,16 @@
     cats: new Set(Object.keys(CATEGORIES).filter((k) => !CATEGORIES[k].off)),
     igOnly: false, ratedOnly: false, hideClosed: true,
     view: 'map',
+    limit: 60,
     activeId: null,
   };
   const markers = new Map();
+  let activeMarker = null;
 
   // ---------- 地図 ----------
-  const map = L.map('map', { zoomControl: true }).setView([33.65, 132.8], 9);
+  const map = L.map('map', { zoomControl: true, scrollWheelZoom: false }).setView([33.65, 132.8], 9);
+  map.on('focus', () => map.scrollWheelZoom.enable());
+  map.on('blur', () => map.scrollWheelZoom.disable());
   // 地理院タイル（淡色地図）
   L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
     maxZoom: 18,
@@ -59,64 +63,74 @@
     disableClusteringAtZoom: 16,
     iconCreateFunction: (c) => {
       const n = c.getChildCount();
-      const size = n < 10 ? 32 : n < 50 ? 40 : 48;
+      const size = n < 10 ? 30 : n < 50 ? 38 : 46;
       return L.divIcon({ className: '', html: `<div class="cluster" style="width:${size}px;height:${size}px">${n}</div>`, iconSize: [size, size] });
     },
   });
   map.addLayer(cluster);
 
-  function icon(shop) {
-    const c = CATEGORIES[shop.category]?.color || '#888';
+  function icon(shop, active = false) {
     return L.divIcon({
       className: '',
-      html: `<div class="marker-dot ${shop.ramen === 'likely' ? 'maybe' : ''}" style="--c:${c}"></div>`,
-      iconSize: [18, 18], iconAnchor: [9, 9], popupAnchor: [0, -10],
+      html: `<div class="dot ${shop.ramen === 'likely' ? 'maybe' : ''} ${active ? 'active' : ''}"></div>`,
+      iconSize: [14, 14], iconAnchor: [7, 7], popupAnchor: [0, -8],
     });
   }
 
   // ---------- 表示部品 ----------
-  function badges(shop) {
-    const cat = CATEGORIES[shop.category];
-    let html = `<span class="badge" style="--c:${cat?.color}">${esc(cat?.label || shop.category)}</span>`;
-    if (shop.ramen !== 'specialty') html += `<span class="badge maybe">${esc(RAMEN_LABEL[shop.ramen])}</span>`;
-    if (shop.closed) html += `<span class="badge closed">${shop.closed === 'temporary' ? '休業中' : '閉店'}</span>`;
+  // 「松山市 — ラーメン専門店 · ラーメンあり?」のような1行の説明
+  function meta(shop, withCity = true) {
+    const parts = [];
+    if (withCity) parts.push(esc(shop.city));
+    parts.push(esc(CATEGORIES[shop.category]?.label || shop.category));
+    let html = parts.join('<span class="sep">—</span>');
+    if (RAMEN_LABEL[shop.ramen]) {
+      const cls = shop.ramen === 'likely' ? 'tag-maybe' : '';
+      const title = shop.ramen === 'likely' ? ' title="メニュー未確認"' : '';
+      html += `<span class="sep">·</span><span class="${cls}"${title}>${esc(RAMEN_LABEL[shop.ramen])}</span>`;
+    }
+    if (shop.closed) html += `<span class="sep">·</span><span class="tag-closed">${shop.closed === 'temporary' ? '休業中' : '閉店'}</span>`;
     return html;
   }
 
-  function ratingChip(shop, site) {
+  const fmt = (site, v) => v.toFixed(site.max === 100 ? 1 : site.key === 'google' ? 1 : 2);
+
+  function ratingCell(shop, site) {
     const r = shop.ratings?.[site.key];
+    const href = esc(r?.url || site.search(shop));
     if (r?.score != null) {
-      const count = r.count ? `<small>(${r.count.toLocaleString()})</small>` : '';
-      return `<a class="rating" style="--c:${site.color}" href="${esc(r.url || site.search(shop))}" target="_blank" rel="noopener">
-        <span class="site">${site.label}</span><b>${r.score.toFixed(site.max === 100 ? 1 : 2)}</b>${count}</a>`;
+      const count = r.count ? `<small>${r.count.toLocaleString()} reviews</small>` : '<small>&nbsp;</small>';
+      return `<a class="rating" href="${href}" target="_blank" rel="noopener"><span class="site">${site.label}</span><b>${fmt(site, r.score)}</b>${count}</a>`;
     }
-    return `<a class="rating none" href="${esc(r?.url || site.search(shop))}" target="_blank" rel="noopener" title="${site.label}で探す">
-      <span class="site">${site.label}</span><small>${r?.url ? '評価なし' : '検索 ↗'}</small></a>`;
+    return `<a class="rating none" href="${href}" target="_blank" rel="noopener" title="${site.label}${r?.url ? 'のページを開く' : 'で探す'}">
+      <span class="site">${site.label}</span><b>—</b><small>${r?.url ? 'page' : 'search'}</small></a>`;
   }
 
   function instagramLink(shop) {
-    if (shop.instagram) {
-      return `<a class="ig-link" href="https://www.instagram.com/${esc(shop.instagram)}/" target="_blank" rel="noopener">📷 @${esc(shop.instagram)}</a>`;
-    }
-    return '';
+    if (!shop.instagram) return '';
+    return `<a class="ig" href="https://www.instagram.com/${esc(shop.instagram)}/" target="_blank" rel="noopener">@${esc(shop.instagram)}</a>`;
   }
+
+  // 「月曜日: 11時00分～15時00分」→「月 11:00–15:00」
+  const compactHours = (h) => h.replace(/曜日:\s*/, ' ').replace(/(\d+)時(\d+)分/g, (_, a, b) => `${a}:${b}`).replace(/～/g, '–');
 
   function popupHtml(shop) {
     const rows = [
       ['住所', shop.address],
-      ['営業時間', shop.hoursText ? shop.hoursText.map(esc).join('<br>') : esc(shop.hours)],
+      ['営業時間', shop.hoursText ? shop.hoursText.map((h) => esc(compactHours(h))).join('<br>') : esc(shop.hours)],
       ['電話', shop.phone && `<a href="tel:${esc(shop.phone)}">${esc(shop.phone)}</a>`],
       ['Web', shop.website && `<a href="${esc(shop.website)}" target="_blank" rel="noopener">公式サイト</a>`],
-      ['Instagram', instagramLink(shop)],
+      ['Instagram', shop.instagram && `<a href="https://www.instagram.com/${esc(shop.instagram)}/" target="_blank" rel="noopener">@${esc(shop.instagram)}</a>`],
     ].filter(([, v]) => v);
+    const label = { 住所: 'Address', 営業時間: 'Hours', 電話: 'Tel', Web: 'Web', Instagram: 'Instagram' };
     return `<div class="popup">
-      <h3>${esc(shop.name)}</h3>
-      <div>${badges(shop)}</div>
-      <dl>${rows.map(([k, v]) => `<dt>${k}</dt><dd>${k === '住所' ? esc(v) : v}</dd>`).join('')}</dl>
-      <div class="rating-grid">${SITES.map((s) => ratingChip(shop, s)).join('')}</div>
-      <p style="margin:8px 0 0;font-size:.75rem">
-        <a href="https://www.google.com/maps/dir/?api=1&destination=${shop.lat},${shop.lng}" target="_blank" rel="noopener">経路を調べる</a>
-        ${shop.instagram ? '' : ` ・ <a href="https://www.google.com/search?q=${enc(`site:instagram.com ${shop.name} ${shop.city}`)}" target="_blank" rel="noopener">Instagramを探す</a>`}
+      <p class="shop-meta">${meta(shop)}</p>
+      <p class="shop-name">${esc(shop.name)}</p>
+      <dl>${rows.map(([k, v]) => `<dt>${label[k]}</dt><dd>${k === '住所' ? esc(v) : v}</dd>`).join('')}</dl>
+      <div class="ratings">${SITES.map((s) => ratingCell(shop, s)).join('')}</div>
+      <p class="popup-links">
+        <a href="https://www.google.com/maps/dir/?api=1&destination=${shop.lat},${shop.lng}" target="_blank" rel="noopener">経路</a>
+        ${shop.instagram ? '' : `<a href="https://www.google.com/search?q=${enc(`site:instagram.com ${shop.name} ${shop.city}`)}" target="_blank" rel="noopener">Instagramを探す</a>`}
       </p>
     </div>`;
   }
@@ -154,31 +168,37 @@
   // ---------- 描画 ----------
   function render() {
     const list = filtered();
-    $('#count').textContent = `${list.length} / ${state.shops.length} 件`;
+    $('#count').innerHTML = `<b>${list.length}</b> / ${state.shops.length} shops`;
+    const no = (i) => String(i + 1).padStart(3, '0');
 
     cluster.clearLayers();
     cluster.addLayers(list.map((s) => markers.get(s.id)));
 
-    $('#list').innerHTML = list.map((s) => `
+    $('#list').innerHTML = list.slice(0, state.limit).map((s, i) => `
       <li data-id="${esc(s.id)}" class="${s.id === state.activeId ? 'active' : ''}">
+        <span class="shop-no">${no(i)}</span>
         <p class="shop-name">${esc(s.name)}</p>
-        <p class="shop-meta">${badges(s)} ${esc(s.city)} ${instagramLink(s)}</p>
-        <div class="ratings">${SITES.map((site) => ratingChip(s, site)).join('')}</div>
-      </li>`).join('') || '<li>条件に合うお店がありません</li>';
+        <p class="shop-meta">${meta(s)}</p>
+        <div class="ratings">${SITES.map((site) => ratingCell(s, site)).join('')}</div>
+        ${instagramLink(s)}
+      </li>`).join('') + (list.length > state.limit ? `<li class="more"><button type="button" id="more">More — ${list.length - state.limit}</button></li>` : '')
+      || '<li class="empty">条件に合うお店がありません</li>';
 
-    $('#table-body').innerHTML = list.map((s) => `
+    if (state.view !== 'table') return;
+    $('#table-body').innerHTML = list.map((s, i) => `
       <tr>
+        <td class="no">${no(i)}</td>
         <td class="name-cell" data-id="${esc(s.id)}">${esc(s.name)}</td>
         <td>${esc(s.city)}</td>
-        <td>${badges(s)}</td>
+        <td class="type">${meta(s, false)}</td>
         ${SITES.map((site) => {
           const r = s.ratings?.[site.key];
           const href = esc(r?.url || site.search(s));
           return r?.score != null
-            ? `<td class="num" style="--c:${site.color}"><a href="${href}" target="_blank" rel="noopener"><span class="score">${r.score.toFixed(site.max === 100 ? 1 : 2)}</span>${r.count ? `<small>${r.count.toLocaleString()}件</small>` : ''}</a></td>`
-            : `<td class="num"><a class="search" href="${href}" target="_blank" rel="noopener">${r?.url ? 'ページ↗' : '検索↗'}</a></td>`;
+            ? `<td class="num"><a href="${href}" target="_blank" rel="noopener"><span class="score">${fmt(site, r.score)}</span>${r.count ? `<small>${r.count.toLocaleString()}</small>` : ''}</a></td>`
+            : `<td class="num"><a class="link" href="${href}" target="_blank" rel="noopener">${r?.url ? 'Page' : 'Search'}</a></td>`;
         }).join('')}
-        <td>${instagramLink(s) || '<span style="color:var(--muted)">—</span>'}</td>
+        <td class="ig-cell">${instagramLink(s) || '<span class="dash">—</span>'}</td>
       </tr>`).join('');
   }
 
@@ -188,6 +208,10 @@
     state.activeId = id;
     if (state.view !== 'map') setView('map');
     const m = markers.get(id);
+    if (activeMarker && activeMarker !== m) activeMarker.setIcon(icon(activeMarker.shop));
+    m.setIcon(icon(shop, true));
+    activeMarker = m;
+    document.getElementById('view-map').scrollIntoView({ behavior: 'smooth', block: 'start' });
     map.setView([shop.lat, shop.lng], Math.max(map.getZoom(), 16));
     m.openPopup();
     document.querySelectorAll('#list li').forEach((li) => li.classList.toggle('active', li.dataset.id === id));
@@ -195,30 +219,34 @@
 
   function setView(view) {
     state.view = view;
-    document.querySelectorAll('.view-tabs button').forEach((b) => b.setAttribute('aria-selected', b.dataset.view === view));
+    document.querySelectorAll('.view-switch button').forEach((b) => b.setAttribute('aria-selected', b.dataset.view === view));
     $('#view-map').hidden = view !== 'map';
     $('#view-table').hidden = view !== 'table';
     if (view === 'map') map.invalidateSize();
+    else render();
   }
 
   // ---------- イベント ----------
   function bind() {
-    $('#q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
-    $('#city').addEventListener('change', (e) => { state.city = e.target.value; render(); fitToList(); });
-    $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; render(); });
-    $('#igOnly').addEventListener('change', (e) => { state.igOnly = e.target.checked; render(); });
-    $('#ratedOnly').addEventListener('change', (e) => { state.ratedOnly = e.target.checked; render(); });
-    $('#hideClosed').addEventListener('change', (e) => { state.hideClosed = e.target.checked; render(); });
+    const reset = () => { state.limit = 60; render(); };
+    $('#q').addEventListener('input', (e) => { state.q = e.target.value; reset(); });
+    $('#city').addEventListener('change', (e) => { state.city = e.target.value; reset(); fitToList(); });
+    $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; reset(); });
+    $('#igOnly').addEventListener('change', (e) => { state.igOnly = e.target.checked; reset(); });
+    $('#ratedOnly').addEventListener('change', (e) => { state.ratedOnly = e.target.checked; reset(); });
+    $('#hideClosed').addEventListener('change', (e) => { state.hideClosed = e.target.checked; reset(); });
     $('#categories').addEventListener('click', (e) => {
-      const btn = e.target.closest('.chip');
+      const btn = e.target.closest('.toggle');
       if (!btn) return;
       const on = btn.getAttribute('aria-pressed') !== 'true';
       btn.setAttribute('aria-pressed', on);
       state.cats[on ? 'add' : 'delete'](btn.dataset.cat);
-      render();
+      reset();
     });
-    document.querySelectorAll('.view-tabs button').forEach((b) => b.addEventListener('click', () => setView(b.dataset.view)));
+    document.querySelectorAll('.view-switch button, .site-nav a[data-view]').forEach((b) =>
+      b.addEventListener('click', () => setView(b.dataset.view)));
     $('#list').addEventListener('click', (e) => {
+      if (e.target.closest('#more')) { state.limit += 60; render(); return; }
       if (e.target.closest('a')) return;
       const li = e.target.closest('li[data-id]');
       if (li) focusShop(li.dataset.id);
@@ -242,7 +270,8 @@
 
     for (const s of state.shops) {
       const m = L.marker([s.lat, s.lng], { icon: icon(s), title: s.name });
-      m.bindPopup(() => popupHtml(s), { maxWidth: 340, minWidth: 280 });
+      m.shop = s;
+      m.bindPopup(() => popupHtml(s), { maxWidth: 360, minWidth: 250 });
       markers.set(s.id, m);
     }
 
@@ -252,8 +281,18 @@
       return `<option value="${esc(c)}">${esc(c)} (${n})</option>`;
     }).join(''));
     $('#categories').innerHTML = Object.entries(CATEGORIES).map(([k, v]) =>
-      `<button type="button" class="chip" data-cat="${k}" aria-pressed="${!v.off}" style="--c:${v.color}"><span class="dot"></span>${v.label}</button>`).join('');
-    if (db.updatedAt) $('#updated').textContent = `データ更新日: ${new Date(db.updatedAt).toLocaleDateString('ja-JP')}`;
+      `<button type="button" class="toggle" data-cat="${k}" aria-pressed="${!v.off}">${v.label}</button>`).join('');
+    if (db.updatedAt) $('#updated').textContent = new Date(db.updatedAt).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+
+    // ヒーローの数字（閉店を除く）
+    const open = state.shops.filter((s) => s.closed !== true);
+    const stat = {
+      shops: open.length,
+      cities: new Set(open.map((s) => s.city)).size,
+      rated: open.filter(hasRating).length,
+      instagram: open.filter((s) => s.instagram).length,
+    };
+    for (const [k, v] of Object.entries(stat)) document.querySelector(`[data-stat="${k}"]`).textContent = v.toLocaleString();
 
     bind();
     render();

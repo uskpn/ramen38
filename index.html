@@ -3,65 +3,142 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>愛媛ラーメンマップ</title>
-  <meta name="description" content="愛媛県内でラーメンが食べられるお店をマップで探せます。ラーメン専門店だけでなく中華料理店・食堂・チェーン店も掲載。Google・食べログなど各サイトの評価とInstagramをまとめて比較。">
+  <title>RAMEN 38 — Explore Ehime Ramen</title>
+  <meta name="description" content="一杯から、愛媛を知る。RAMEN 38 は、愛媛県でラーメンが食べられるお店を地図で探せるガイドです。ラーメン専門店から中華料理店・食堂まで、Google・食べログなど各サイトの評価とInstagramをまとめて比較できます。">
+  <meta name="theme-color" content="#ffffff">
+  <meta property="og:title" content="RAMEN 38 — Explore Ehime Ramen">
+  <meta property="og:description" content="一杯から、愛媛を知る。愛媛のラーメンを探すための地図。">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/og.png">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500&family=Noto+Sans+JP:wght@300;400;500&display=swap">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <header class="site-header">
-    <h1>🍜 愛媛ラーメンマップ</h1>
-    <p class="lead">ラーメン屋さんに限らず、愛媛県内で<strong>ラーメンが食べられるお店</strong>をまとめています。</p>
+    <a class="brand" href="#top" aria-label="RAMEN 38 トップへ">
+      <img src="assets/logo-horizontal.png" alt="RAMEN 38" width="817" height="137">
+    </a>
+    <nav class="site-nav" aria-label="メインメニュー">
+      <a href="#explore" data-view="map">Map</a>
+      <a href="#explore" data-view="table">Index</a>
+      <a href="#about">About</a>
+    </nav>
   </header>
 
-  <section class="filters" aria-label="絞り込み">
-    <input id="q" type="search" placeholder="店名・住所で検索" autocomplete="off">
-    <select id="city" aria-label="市町"><option value="">すべての市町</option></select>
-    <select id="sort" aria-label="並び順">
-      <option value="name">名前順</option>
-      <option value="google">Google評価が高い順</option>
-      <option value="tabelog">食べログ評価が高い順</option>
-      <option value="rdb">ラーメンDB評価が高い順</option>
-      <option value="count">口コミ数が多い順</option>
-    </select>
-    <div class="chips" id="categories" role="group" aria-label="お店の種類"></div>
-    <label class="check"><input type="checkbox" id="igOnly"> Instagramあり</label>
-    <label class="check"><input type="checkbox" id="ratedOnly"> 評価ありのみ</label>
-    <label class="check"><input type="checkbox" id="hideClosed" checked> 閉店を隠す</label>
-  </section>
+  <main>
+    <section class="hero" id="top">
+      <img class="hero-mark" src="assets/mark.png" alt="" width="848" height="822">
+      <h1 class="hero-title">一杯から、愛媛を知る。</h1>
+      <p class="hero-sub">Explore Ehime Ramen</p>
+      <dl class="stats" id="stats" aria-label="掲載データ">
+        <div><dt>Shops</dt><dd data-stat="shops">—</dd></div>
+        <div><dt>Cities</dt><dd data-stat="cities">—</dd></div>
+        <div><dt>Ratings</dt><dd data-stat="rated">—</dd></div>
+        <div><dt>Instagram</dt><dd data-stat="instagram">—</dd></div>
+      </dl>
+      <a class="hero-cta" href="#explore">地図をひらく<span aria-hidden="true">↓</span></a>
+    </section>
 
-  <div class="view-tabs" role="tablist">
-    <button role="tab" data-view="map" aria-selected="true">マップ＋リスト</button>
-    <button role="tab" data-view="table" aria-selected="false">評価くらべ表</button>
-    <span class="count" id="count"></span>
-  </div>
+    <section class="explore" id="explore" aria-labelledby="explore-title">
+      <header class="section-head">
+        <p class="section-no">01</p>
+        <h2 id="explore-title"><span class="en">Explore</span><span class="ja">愛媛のラーメンを探す</span></h2>
+        <div class="view-switch" role="tablist" aria-label="表示の切り替え">
+          <button role="tab" data-view="map" aria-selected="true">Map</button>
+          <button role="tab" data-view="table" aria-selected="false">Index</button>
+        </div>
+      </header>
 
-  <main id="view-map" class="map-layout">
-    <div id="map" aria-label="地図"></div>
-    <ul id="list" class="shop-list"></ul>
-  </main>
+      <div class="filters" aria-label="絞り込み">
+        <div class="filter-row">
+          <label class="field field-search">
+            <span class="field-label">Search</span>
+            <input id="q" type="search" placeholder="店名・住所" autocomplete="off">
+          </label>
+          <label class="field">
+            <span class="field-label">City</span>
+            <select id="city"><option value="">すべての市町</option></select>
+          </label>
+          <label class="field">
+            <span class="field-label">Sort</span>
+            <select id="sort">
+              <option value="name">市町・店名順</option>
+              <option value="google">Google 評価順</option>
+              <option value="tabelog">食べログ 評価順</option>
+              <option value="rdb">ラーメンDB 評価順</option>
+              <option value="count">口コミ数順</option>
+            </select>
+          </label>
+        </div>
+        <div class="filter-row filter-row-sub">
+          <div class="toggles" id="categories" role="group" aria-label="お店の種類"></div>
+          <div class="toggles toggles-options">
+            <label class="opt"><input type="checkbox" id="igOnly"><span>Instagram あり</span></label>
+            <label class="opt"><input type="checkbox" id="ratedOnly"><span>評価あり</span></label>
+            <label class="opt"><input type="checkbox" id="hideClosed" checked><span>閉店を隠す</span></label>
+          </div>
+          <p class="count" id="count" aria-live="polite"></p>
+        </div>
+      </div>
 
-  <main id="view-table" class="table-wrap" hidden>
-    <table class="compare">
-      <thead>
-        <tr>
-          <th>店名</th><th>市町</th><th>種類</th>
-          <th>Google</th><th>食べログ</th><th>ラーメンDB</th><th>Retty</th><th>ホットペッパー</th>
-          <th>Instagram</th>
-        </tr>
-      </thead>
-      <tbody id="table-body"></tbody>
-    </table>
+      <div id="view-map" class="map-layout">
+        <div id="map" aria-label="地図"></div>
+        <ol id="list" class="shop-list"></ol>
+      </div>
+
+      <div id="view-table" class="table-wrap" hidden>
+        <table class="index-table">
+          <thead>
+            <tr>
+              <th class="col-no">No.</th>
+              <th>Name</th><th>City</th><th>Type</th>
+              <th class="num">Google</th><th class="num">Tabelog</th><th class="num">Ramen DB</th><th class="num">Retty</th><th class="num">Hot Pepper</th>
+              <th>Instagram</th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="about" id="about" aria-labelledby="about-title">
+      <header class="section-head">
+        <p class="section-no">02</p>
+        <h2 id="about-title"><span class="en">About</span><span class="ja">RAMEN 38 について</span></h2>
+      </header>
+      <div class="about-body">
+        <div class="about-lead">
+          <p class="about-38" aria-hidden="true">38</p>
+          <p class="about-catch">箸から麺へ。<br>麺から愛媛へ。<br>そして、一杯から<br>まだ知らない愛媛へ。</p>
+        </div>
+        <div class="about-text">
+          <p>RAMEN 38 は、愛媛のラーメンを「探す」ための地図であり、愛媛を「巡る」ための入口です。ラーメン専門店だけでなく、中華料理店や食堂、ラーメンを出すお店まで、県内20市町の一杯を一枚の地図にまとめました。</p>
+          <p>ロゴの上部の2本の線は箸、そこから伸びるラインは麺。麺は緩やかに流れながら、愛媛県の輪郭へとつながっていきます。一杯のラーメンをきっかけに、新しい店、新しい街、新しい味に出会ってほしい——そんな思いを込めています。</p>
+          <p>「38」は愛媛県の都道府県コード。数字そのものを愛媛のシンボルとして扱っています。</p>
+          <dl class="about-notes">
+            <dt>Data</dt>
+            <dd>店舗情報は OpenStreetMap と Google Places をもとに作成し、食べログ・ラーメンデータベース・Retty・ホットペッパーの評価は各サイトから転記しています。最新の情報は各サイトでご確認ください。「ラーメンあり?」と表示されているお店は、メニューを確認できていません。</dd>
+            <dt>Updated</dt>
+            <dd id="updated">—</dd>
+          </dl>
+        </div>
+      </div>
+    </section>
   </main>
 
   <footer class="site-footer">
-    <p>
-      店舗データ: © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a> / Google Places。
-      評価は各サイトからの転記で、最新の値は各サイトでご確認ください。「ラーメンあり?」の店舗はメニュー未確認です。
+    <img src="assets/mark.png" alt="" class="footer-mark" width="848" height="822">
+    <p class="footer-brand">RAMEN 38 <span>Explore Ehime Ramen</span></p>
+    <p class="footer-credit">
+      Map © <a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">国土地理院</a>
+      · Data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>, Google
     </p>
-    <p id="updated"></p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
