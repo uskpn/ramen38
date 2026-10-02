@@ -52,13 +52,17 @@ button, input, select { font: inherit; color: inherit; }
 .site-nav a { font-size: 15px; letter-spacing: .28em; font-weight: 400; }
 
 /* ---------- Hero ---------- */
+/* 左右いっぱいのサイト名 */
 .hero {
   min-height: calc(100svh - var(--header-h));
-  display: flex; flex-direction: column; align-items: center; justify-content: center;
-  padding: 72px var(--gutter) 56px;
+  display: flex; flex-direction: column;
+  padding: clamp(28px, 4vw, 56px) var(--gutter) 56px;
   text-align: center;
 }
-.hero-mark { width: clamp(180px, 26vw, 300px); margin-bottom: 48px; }
+.hero-wordmark { margin: 0; padding-bottom: clamp(20px, 3vw, 40px); border-bottom: 1px solid var(--ink); }
+.hero-wordmark img { width: 100%; height: auto; }
+.hero-body { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding-top: clamp(48px, 7vw, 96px); }
+.hero-mark { width: clamp(140px, 18vw, 220px); margin-bottom: 40px; }
 .hero-title {
   margin: 0;
   font-weight: 300;
@@ -273,7 +277,7 @@ button, input, select { font: inherit; color: inherit; }
   .brand img { height: 18px; }
   .site-nav { gap: 16px; }
   .site-nav a { font-size: 13px; letter-spacing: .18em; }
-  .hero { padding-top: 48px; }
+  .hero { padding-top: 24px; }
   .hero-mark { margin-bottom: 36px; }
   .hero-title { letter-spacing: .2em; padding-left: .2em; }
   .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: 44px; }
@@ -302,3 +306,7 @@ button, input, select { font: inherit; color: inherit; }
 .leaflet-container .leaflet-control-attribution a { color: var(--muted); }
 .index-table .ig::before { content: none; }
 .index-table .ig { margin-top: 0; }
+
+/* ページ最上部では大きなサイト名と重複するため、ヘッダーのロゴを隠す */
+.brand { transition: opacity .4s ease; }
+.site-header.at-top .brand { opacity: 0; pointer-events: none; }
