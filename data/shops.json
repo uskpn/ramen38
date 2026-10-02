@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T06:55:13.213Z",
+  "updatedAt": "2026-10-02T06:55:43.774Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -23226,7 +23226,11 @@
           "count": 68,
           "url": "https://maps.google.com/?cid=4853299803533484994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.08,
+          "count": 11,
+          "url": "https://tabelog.com/ehime/A3804/A380403/38015708/"
+        },
         "rdb": null,
         "retty": null,
         "hotpepper": null
@@ -23255,7 +23259,11 @@
           "count": 20,
           "url": "https://maps.google.com/?cid=8344447726951981823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": null,
+          "count": null,
+          "url": "https://tabelog.com/ehime/A3804/A380403/38012182/"
+        },
         "rdb": null,
         "retty": null,
         "hotpepper": null
@@ -23293,7 +23301,11 @@
           "count": 19,
           "url": "https://maps.google.com/?cid=17599792278848780564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": null,
+          "count": 0,
+          "url": "https://tabelog.com/ehime/A3804/A380403/38002050/"
+        },
         "rdb": null,
         "retty": null,
         "hotpepper": null
@@ -23331,9 +23343,17 @@
           "count": 150,
           "url": "https://maps.google.com/?cid=15115342508807998434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.13,
+          "count": 20,
+          "url": "https://tabelog.com/ehime/A3802/A380205/38001621/"
+        },
         "rdb": null,
-        "retty": null,
+        "retty": {
+          "score": null,
+          "count": 4,
+          "url": "https://retty.me/area/PRE38/ARE232/SUB23201/100000840764/"
+        },
         "hotpepper": null
       },
       "sources": [
@@ -23369,7 +23389,11 @@
           "count": 26,
           "url": "https://maps.google.com/?cid=203753432493340059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.01,
+          "count": 2,
+          "url": "https://tabelog.com/ehime/A3802/A380205/38014809/"
+        },
         "rdb": null,
         "retty": null,
         "hotpepper": null
@@ -23407,10 +23431,18 @@
           "count": 80,
           "url": "https://maps.google.com/?cid=13535886183328982035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
         },
-        "tabelog": null,
+        "tabelog": {
+          "score": 3.04,
+          "count": 5,
+          "url": "https://tabelog.com/ehime/A3802/A380205/38008229/"
+        },
         "rdb": null,
         "retty": null,
-        "hotpepper": null
+        "hotpepper": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.hotpepper.jp/strJ000897244/"
+        }
       },
       "sources": [
         "google"
