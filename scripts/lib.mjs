@@ -97,7 +97,11 @@ export function isSameShop(a, b) {
 // Instagram URL / ハンドルを正規化してハンドル名だけ返す
 export function instagramHandle(value) {
   if (!value) return null;
-  const m = String(value).match(/(?:instagram\.com\/)?@?([A-Za-z0-9._]{1,30})\/?(?:\?.*)?$/);
+  const s = String(value).trim();
+  // URL の場合はパスの最初の部分がアカウント名（/p/xxx のような投稿URLは除外）
+  const m = /instagram\.com\//.test(s)
+    ? s.match(/instagram\.com\/([A-Za-z0-9._]{1,30})(?:[/?#]|$)/)
+    : s.match(/^@?([A-Za-z0-9._]{1,30})$/);
   if (!m || ['p', 'v', 'tv', 'reel', 'reels', 'stories', 'explore', 'accounts', 'share', 'sharer'].includes(m[1])) return null;
   return m[1];
 }
