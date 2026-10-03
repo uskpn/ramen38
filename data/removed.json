@@ -606,6 +606,22 @@
       "placeId": null,
       "osmId": null,
       "reason": "大街道店に移転"
+    },
+    {
+      "id": "rdb-100746",
+      "name": "ワたナベ商店",
+      "city": "今治市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "rdb-149205",
+      "name": "一休食堂",
+      "city": "東温市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "閉業"
     }
   ]
 }
