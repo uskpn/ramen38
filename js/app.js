@@ -17,7 +17,7 @@
   };
   // 評価を並べるサイト。url が無い店舗は各サイトの検索ページへリンクする
   const SITES = [
-    { key: 'google', label: 'Google', max: 5,
+    { key: 'google', label: 'Google', max: 5, linkOnly: true, // 点数は規約上保存・掲載せず、Google マップへ案内する
       search: (s) => s.placeId
         ? `https://www.google.com/maps/search/?api=1&query=${enc(s.name)}&query_place_id=${s.placeId}`
         : `https://www.google.com/maps/search/?api=1&query=${enc(`${s.name} ${s.city}`)}` },
@@ -108,6 +108,10 @@
   function ratingCell(shop, site) {
     const r = shop.ratings?.[site.key];
     const href = esc(r?.url || site.search(shop));
+    if (site.linkOnly) {
+      return `<a class="rating none" href="${href}" target="_blank" rel="noopener" title="Google マップで評価を見る">
+      <span class="site">${site.label}</span><b>Maps</b><small>open</small></a>`;
+    }
     if (r?.score != null) {
       const count = r.count ? `<small>${r.count.toLocaleString()} reviews</small>` : '<small>&nbsp;</small>';
       return `<a class="rating" href="${href}" target="_blank" rel="noopener"><span class="site">${site.label}</span><b>${fmt(site, r.score)}</b>${count}</a>`;
@@ -121,9 +125,6 @@
     return `<a class="ig" href="https://www.instagram.com/${esc(shop.instagram)}/" target="_blank" rel="noopener">@${esc(shop.instagram)}</a>`;
   }
 
-  // 「月曜日: 11時00分～15時00分」→「月 11:00–15:00」
-  const compactHours = (h) => h.replace(/曜日:\s*/, ' ').replace(/(\d+)時(\d+)分/g, (_, a, b) => `${a}:${b}`).replace(/～/g, '–');
-
   // 総合ランキング（ラーメン専門店のみ・200位まで）。順位は scripts/compute-ranking.mjs が算出
   const rankBadge = (shop) => shop.rank
     ? `<span class="rank${shop.rank <= 3 ? ' rank-top' : ''}" title="総合スコア ${shop.score}"><small>RANK</small>${shop.rank}</span>`
@@ -132,7 +133,7 @@
   function popupHtml(shop) {
     const rows = [
       ['住所', shop.address],
-      ['営業時間', shop.hoursText ? shop.hoursText.map((h) => esc(compactHours(h))).join('<br>') : esc(shop.hours)],
+      ['営業時間', esc(shop.hours)],
       ['電話', shop.phone && `<a href="tel:${esc(shop.phone)}">${esc(shop.phone)}</a>`],
       ['Web', shop.website && `<a href="${esc(shop.website)}" target="_blank" rel="noopener">公式サイト</a>`],
       ['Instagram', shop.instagram && `<a href="https://www.instagram.com/${esc(shop.instagram)}/" target="_blank" rel="noopener">@${esc(shop.instagram)}</a>`],
@@ -152,7 +153,7 @@
 
   // ---------- 絞り込み・並び替え ----------
   // 口コミが少ない店が上位に来ないよう、件数が少ないほど平均的な値に寄せて並べる（ベイズ平均）
-  const PRIOR = { google: 3.6, tabelog: 3.1, rdb: 75 };
+  const PRIOR = { tabelog: 3.1, rdb: 75 };
   const score = (shop, key) => {
     const r = shop.ratings?.[key];
     if (r?.score == null) return -1;
@@ -160,8 +161,8 @@
     const m = 20;
     return (r.score * r.count + PRIOR[key] * m) / (r.count + m);
   };
-  const totalCount = (shop) => SITES.reduce((n, s) => n + (shop.ratings?.[s.key]?.count || 0), 0);
-  const hasRating = (shop) => SITES.some((s) => shop.ratings?.[s.key]?.score != null);
+  const totalCount = (shop) => SITES.filter((s) => !s.linkOnly).reduce((n, s) => n + (shop.ratings?.[s.key]?.count || 0), 0);
+  const hasRating = (shop) => SITES.some((s) => !s.linkOnly && shop.ratings?.[s.key]?.score != null);
 
   function filtered() {
     const q = state.q.trim().normalize('NFKC').toLowerCase();

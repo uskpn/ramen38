@@ -41,7 +41,6 @@ npm run serve        # http://localhost:8080
   "address": "...", "hours": "...", "phone": "...", "website": "...",
   "instagram": "shop_account",    // Instagram ハンドル（@なし）
   "ratings": {
-    "google":    { "score": 4.1, "count": 523, "url": "https://maps.google.com/?cid=..." },
     "tabelog":   { "score": 3.52, "count": 120, "url": "https://tabelog.com/ehime/..." },
     "rdb":       null             // ラーメンデータベース（100点満点）
   },
@@ -55,7 +54,7 @@ npm run serve        # http://localhost:8080
 | やること | コマンド | 備考 |
 |---|---|---|
 | OpenStreetMap から店舗を取り込む | `npm run fetch:osm` | キー不要。手入力した評価・Instagram は保持されます |
-| Google の評価を付与＋店舗を追加発見 | `GOOGLE_MAPS_API_KEY=xxx npm run fetch:google` | Places API (New) のキーが必要。市町×「ラーメン」「中華そば」等で検索し、OSM に無い店も追加します |
+| Google の placeId を付与＋店舗を追加発見（評価・営業時間は保存しません） | `GOOGLE_MAPS_API_KEY=xxx npm run fetch:google` | Places API (New) のキーが必要。市町×「ラーメン」「中華そば」等で検索し、OSM に無い店も追加します |
 | 公式サイトから Instagram を自動検出 | `npm run find:instagram` | |
 | 食べログ等の評価・Instagram を手入力 | `npm run ratings:template` → `data/ratings.csv` を Excel 等で編集 → `npm run ratings:import` | 空欄は変更なし、`-` で削除 |
 

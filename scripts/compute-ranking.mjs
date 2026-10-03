@@ -14,7 +14,6 @@ import { loadShops, saveShops } from './lib.mjs';
 export const RANK_LIMIT = 200;
 // m = 何件ぶんの口コミを「平均の評価」として加えるか／weight = サイトの重み
 const SITES = {
-  google: { m: 30, weight: 1 },
   tabelog: { m: 15, weight: 1 },
   rdb: { m: 5, weight: 1 },
 };

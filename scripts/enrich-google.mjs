@@ -37,12 +37,11 @@ async function textSearch(body) {
 
 function applyGoogle(shop, p) {
   shop.placeId = p.id;
-  shop.ratings.google = p.rating ? { score: p.rating, count: p.userRatingCount ?? 0, url: p.googleMapsUri } : { score: null, count: 0, url: p.googleMapsUri };
+  // Google の評価・営業時間は規約上サイトに保存しない（placeId のみ保持し、リンクで案内する）
   if (p.businessStatus === 'CLOSED_PERMANENTLY') shop.closed = true;
   if (p.businessStatus === 'CLOSED_TEMPORARILY') shop.closed = 'temporary';
   if (!shop.address && p.formattedAddress) shop.address = p.formattedAddress.replace(/^日本、(〒\d{3}-\d{4} )?/, '');
   if (!shop.phone && p.nationalPhoneNumber) shop.phone = p.nationalPhoneNumber;
-  if (p.regularOpeningHours?.weekdayDescriptions) shop.hoursText = p.regularOpeningHours.weekdayDescriptions;
   if (p.websiteUri) {
     const ig = /instagram\.com/.test(p.websiteUri) ? instagramHandle(p.websiteUri) : null;
     if (ig && !shop.instagram) shop.instagram = ig;
