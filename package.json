@@ -12,6 +12,8 @@
     "ratings:template": "node scripts/import-ratings.mjs --template",
     "ratings:import": "node scripts/import-ratings.mjs",
     "menu:import": "node scripts/import-menu-check.mjs",
-    "rank": "node scripts/compute-ranking.mjs"
+    "rank": "node scripts/compute-ranking.mjs",
+    "tags:template": "node scripts/import-tags.mjs --template",
+    "tags:import": "node scripts/import-tags.mjs"
   }
 }
