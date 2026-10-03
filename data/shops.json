@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T19:58:52.316Z",
+  "updatedAt": "2026-10-03T20:04:19.737Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -42,7 +42,11 @@
           "count": 50,
           "url": "https://tabelog.com/ehime/A3804/A380404/38007190/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.57,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/116332.html"
+        }
       },
       "sources": [
         "google"
@@ -361,7 +365,11 @@
           "count": 6,
           "url": "https://tabelog.com/ehime/A3804/A380404/38013020/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.48,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/120479.html"
+        }
       },
       "sources": [
         "google"
@@ -793,7 +801,11 @@
           "count": 57,
           "url": "https://tabelog.com/ehime/A3801/A380103/38001025/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.32,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/88950.html"
+        }
       },
       "sources": [
         "google"
@@ -810,8 +822,8 @@
           "鶏"
         ]
       },
-      "score": 52.8,
-      "rank": 66
+      "score": 50.5,
+      "rank": 74
     },
     {
       "id": "g-ChIJj3GCjvbtTzURA6BtaGK7DuU",
@@ -885,7 +897,7 @@
           "url": "https://tabelog.com/ehime/A3801/A380103/38002113/"
         },
         "rdb": {
-          "score": 81.639,
+          "score": 82.34,
           "count": 3,
           "url": "https://ramendb.supleks.jp/s/83740.html"
         }
@@ -903,8 +915,8 @@
           "豚骨"
         ]
       },
-      "score": 46.5,
-      "rank": 115
+      "score": 47.3,
+      "rank": 108
     },
     {
       "id": "g-ChIJtT3zIwzzTzURyIL4hcgwBJY",
@@ -1029,7 +1041,11 @@
           "count": 103,
           "url": "https://tabelog.com/ehime/A3801/A380103/38001614/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.21,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/5859.html"
+        }
       },
       "sources": [
         "google"
@@ -1047,8 +1063,8 @@
           "あっさり"
         ]
       },
-      "score": 63.7,
-      "rank": 36
+      "score": 52.9,
+      "rank": 61
     },
     {
       "id": "g-ChIJ17WCdQCNTzURjtptL28Y6DI",
@@ -1096,7 +1112,11 @@
           "count": 22,
           "url": "https://tabelog.com/ehime/A3801/A380103/38010984/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 80.65,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/77126.html"
+        }
       },
       "sources": [
         "osm",
@@ -1115,8 +1135,7 @@
           "背脂"
         ]
       },
-      "score": 43.1,
-      "rank": 188
+      "score": 41.7
     },
     {
       "id": "g-ChIJYUH6W4blTzURP37OHNz6Hh8",
@@ -1137,7 +1156,11 @@
           "count": 10,
           "url": "https://tabelog.com/ehime/A3801/A380103/38013600/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/133527.html"
+        }
       },
       "sources": [
         "google"
@@ -1197,8 +1220,8 @@
           "冷やし"
         ]
       },
-      "score": 44.6,
-      "rank": 145
+      "score": 44.9,
+      "rank": 150
     },
     {
       "id": "g-ChIJTVP-SdKNTzURQ5H5IElwOyw",
@@ -1219,7 +1242,11 @@
           "count": 22,
           "url": "https://tabelog.com/ehime/A3801/A380103/38012552/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 85.22,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/111186.html"
+        }
       },
       "sources": [
         "google"
@@ -1234,7 +1261,8 @@
           "魚介"
         ]
       },
-      "score": 41.5
+      "score": 45.2,
+      "rank": 142
     },
     {
       "id": "g-ChIJjQrM4HbyTzURL_zTUPcQ_7A",
@@ -1303,7 +1331,11 @@
           "count": 19,
           "url": "https://tabelog.com/ehime/A3801/A380103/38002343/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 80.1,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/74185.html"
+        }
       },
       "sources": [
         "google"
@@ -1320,8 +1352,8 @@
           "あっさり"
         ]
       },
-      "score": 49.1,
-      "rank": 89
+      "score": 46.2,
+      "rank": 126
     },
     {
       "id": "g-ChIJPQ2rRr3yTzURscufie5jp14",
@@ -1343,8 +1375,8 @@
           "url": "https://tabelog.com/ehime/A3801/A380103/38006100/"
         },
         "rdb": {
-          "score": null,
-          "count": null,
+          "score": 82.45,
+          "count": 1,
           "url": "https://ramendb.supleks.jp/s/84372.html"
         }
       },
@@ -1357,7 +1389,8 @@
           "豚骨"
         ]
       },
-      "score": 42.6
+      "score": 43.7,
+      "rank": 195
     },
     {
       "id": "g-ChIJBSok_obyTzURI9SvHgPs0mU",
@@ -1487,7 +1520,11 @@
           "count": 7,
           "url": "https://tabelog.com/ehime/A3804/A380401/38007295/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 81.8,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/94571.html"
+        }
       },
       "sources": [
         "osm",
@@ -1509,8 +1546,8 @@
           "背脂"
         ]
       },
-      "score": 43.9,
-      "rank": 160
+      "score": 44.1,
+      "rank": 177
     },
     {
       "id": "g-ChIJW2Y4mwRjTzUR5mUkr06Fpf0",
@@ -1605,7 +1642,11 @@
       "instagram": "kisaiyahiroba",
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": 82.38,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/152130.html"
+        }
       },
       "sources": [
         "google"
@@ -1653,7 +1694,11 @@
       "instagram": null,
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/163130.html"
+        }
       },
       "sources": [
         "google"
@@ -1687,7 +1732,11 @@
           "count": 39,
           "url": "https://tabelog.com/ehime/A3804/A380401/38003788/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/127553.html"
+        }
       },
       "sources": [
         "google"
@@ -1739,7 +1788,11 @@
           "count": 28,
           "url": "https://tabelog.com/ehime/A3804/A380401/38016058/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.14,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/160809.html"
+        }
       },
       "sources": [
         "google"
@@ -1757,7 +1810,7 @@
         ]
       },
       "score": 47,
-      "rank": 107
+      "rank": 113
     },
     {
       "id": "g-ChIJbZV2h8lhTzUR_FXhtrNCEY4",
@@ -1830,7 +1883,11 @@
           "count": 37,
           "url": "https://tabelog.com/ehime/A3804/A380401/38013396/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.06,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/113042.html"
+        }
       },
       "sources": [
         "google"
@@ -1841,7 +1898,8 @@
           "豚骨"
         ]
       },
-      "score": 42.6
+      "score": 44,
+      "rank": 183
     },
     {
       "id": "g-ChIJ52mUpephTzURVxhGcdVKcSw",
@@ -2098,7 +2156,7 @@
           "濃厚"
         ]
       },
-      "score": 42.6
+      "score": 42.9
     },
     {
       "id": "g-ChIJCxzDPs1hTzURKH0rFVhxVPE",
@@ -2554,7 +2612,11 @@
           "count": 12,
           "url": "https://tabelog.com/ehime/A3804/A380401/38009998/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.57,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/120260.html"
+        }
       },
       "sources": [
         "google"
@@ -2581,7 +2643,11 @@
           "count": 9,
           "url": "https://tabelog.com/ehime/A3804/A380401/38009587/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/155753.html"
+        }
       },
       "sources": [
         "osm",
@@ -2609,7 +2675,11 @@
           "count": 30,
           "url": "https://tabelog.com/ehime/A3804/A380401/38001469/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/152575.html"
+        }
       },
       "sources": [
         "osm",
@@ -2762,7 +2832,11 @@
           "count": 17,
           "url": "https://tabelog.com/ehime/A3804/A380401/38005440/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/121640.html"
+        }
       },
       "sources": [
         "google"
@@ -2778,7 +2852,7 @@
           "味噌"
         ]
       },
-      "score": 42.3
+      "score": 42.6
     },
     {
       "id": "g-ChIJ_ZUwexFjTzURbyXoKD1smNU",
@@ -2894,7 +2968,7 @@
           "煮干し"
         ]
       },
-      "score": 69.2,
+      "score": 68.3,
       "rank": 21
     },
     {
@@ -2942,7 +3016,11 @@
           "count": 12,
           "url": "https://tabelog.com/ehime/A3804/A380401/38001711/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/150165.html"
+        }
       },
       "sources": [
         "google"
@@ -3014,8 +3092,8 @@
           "あっさり"
         ]
       },
-      "score": 48.7,
-      "rank": 92
+      "score": 48.8,
+      "rank": 88
     },
     {
       "id": "g-ChIJxxvQlh9lTzURGhqNT7_77ek",
@@ -3292,7 +3370,11 @@
           "count": 9,
           "url": "https://tabelog.com/ehime/A3804/A380403/38009527/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/115497.html"
+        }
       },
       "sources": [
         "google"
@@ -3459,8 +3541,8 @@
           "煮干し"
         ]
       },
-      "score": 43.4,
-      "rank": 175
+      "score": 43.7,
+      "rank": 192
     },
     {
       "id": "g-ChIJMVV8ALrFTzUR05a__uSfqvs",
@@ -3481,7 +3563,11 @@
           "count": 1,
           "url": "https://tabelog.com/ehime/A3803/A380304/38017323/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/168911.html"
+        }
       },
       "sources": [
         "google"
@@ -3530,7 +3616,11 @@
           "count": 6,
           "url": "https://tabelog.com/ehime/A3803/A380304/38015817/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/166278.html"
+        }
       },
       "sources": [
         "osm",
@@ -3631,7 +3721,11 @@
           "count": 29,
           "url": "https://tabelog.com/ehime/A3803/A380304/38011476/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.49,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/94876.html"
+        }
       },
       "sources": [
         "google"
@@ -3642,8 +3736,8 @@
           "豚骨"
         ]
       },
-      "score": 46.4,
-      "rank": 116
+      "score": 46.1,
+      "rank": 128
     },
     {
       "id": "g-ChIJo2tDrWLPTzURWQTFlzlxap8",
@@ -3700,8 +3794,8 @@
           "魚介"
         ]
       },
-      "score": 46.8,
-      "rank": 110
+      "score": 46.9,
+      "rank": 115
     },
     {
       "id": "g-ChIJz38EEaA7UDUR3HVVLQdNZIU",
@@ -3752,7 +3846,11 @@
           "count": 25,
           "url": "https://tabelog.com/ehime/A3802/A380201/38016043/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.88,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/161193.html"
+        }
       },
       "sources": [
         "google"
@@ -3774,8 +3872,8 @@
           "清湯"
         ]
       },
-      "score": 49.2,
-      "rank": 87
+      "score": 47.7,
+      "rank": 101
     },
     {
       "id": "g-ChIJZzHonX05UDURfKYoRGp71ps",
@@ -3822,7 +3920,11 @@
           "count": 9,
           "url": "https://tabelog.com/ehime/A3802/A380201/38014774/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.64,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/146883.html"
+        }
       },
       "sources": [
         "google"
@@ -3875,7 +3977,11 @@
           "count": 80,
           "url": "https://tabelog.com/ehime/A3802/A380201/38000824/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.37,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/124097.html"
+        }
       },
       "sources": [
         "osm",
@@ -3902,7 +4008,11 @@
           "count": 13,
           "url": "https://tabelog.com/ehime/A3802/A380201/38014311/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.2,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/141647.html"
+        }
       },
       "sources": [
         "google"
@@ -3917,8 +4027,8 @@
           "鶏白湯"
         ]
       },
-      "score": 43.8,
-      "rank": 162
+      "score": 44.8,
+      "rank": 155
     },
     {
       "id": "osm-n4716843160",
@@ -3967,7 +4077,11 @@
           "count": 52,
           "url": "https://tabelog.com/ehime/A3802/A380201/38002271/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.79,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/113687.html"
+        }
       },
       "sources": [
         "google"
@@ -4022,7 +4136,11 @@
           "count": 240,
           "url": "https://tabelog.com/ehime/A3802/A380201/38001018/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 90.9,
+          "count": 13,
+          "url": "https://ramendb.supleks.jp/s/6535.html"
+        }
       },
       "sources": [
         "osm",
@@ -4047,8 +4165,8 @@
           "清湯"
         ]
       },
-      "score": 70.5,
-      "rank": 13
+      "score": 75,
+      "rank": 11
     },
     {
       "id": "osm-w806278288",
@@ -4119,7 +4237,11 @@
           "count": 6,
           "url": "https://tabelog.com/ehime/A3802/A380201/38016430/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/166186.html"
+        }
       },
       "sources": [
         "google"
@@ -4138,8 +4260,8 @@
           "濃厚"
         ]
       },
-      "score": 44.9,
-      "rank": 137
+      "score": 45.1,
+      "rank": 145
     },
     {
       "id": "g-ChIJwdPwW3YvUDURDCKR6GHGwjg",
@@ -4238,7 +4360,11 @@
           "count": 12,
           "url": "https://tabelog.com/ehime/A3802/A380201/38004117/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/101580.html"
+        }
       },
       "sources": [
         "google"
@@ -4255,8 +4381,8 @@
           "清湯"
         ]
       },
-      "score": 45.9,
-      "rank": 123
+      "score": 46.3,
+      "rank": 125
     },
     {
       "id": "osm-n8292222174",
@@ -4278,7 +4404,11 @@
           "count": 9,
           "url": "https://tabelog.com/ehime/A3802/A380201/38003862/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/151700.html"
+        }
       },
       "sources": [
         "osm",
@@ -4305,7 +4435,11 @@
           "count": 20,
           "url": "https://tabelog.com/ehime/A3802/A380201/38003868/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/121004.html"
+        }
       },
       "sources": [
         "google"
@@ -4316,8 +4450,8 @@
           "ちゃんぽん"
         ]
       },
-      "score": 49.1,
-      "rank": 88
+      "score": 49.2,
+      "rank": 85
     },
     {
       "id": "osm-n8288823645",
@@ -4387,8 +4521,8 @@
           "あっさり"
         ]
       },
-      "score": 44.7,
-      "rank": 143
+      "score": 44.9,
+      "rank": 149
     },
     {
       "id": "g-ChIJtwUOBSA7UDURWgfABs3-5NU",
@@ -4435,7 +4569,11 @@
           "count": 4,
           "url": "https://tabelog.com/ehime/A3802/A380201/38011397/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.35,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/163129.html"
+        }
       },
       "sources": [
         "google"
@@ -4452,8 +4590,8 @@
           "背脂"
         ]
       },
-      "score": 46,
-      "rank": 122
+      "score": 45.6,
+      "rank": 136
     },
     {
       "id": "g-ChIJCyZFzhk7UDURXuHOa7gOf3s",
@@ -4474,7 +4612,11 @@
           "count": 13,
           "url": "https://tabelog.com/ehime/A3802/A380201/38016587/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/167612.html"
+        }
       },
       "sources": [
         "google"
@@ -4491,8 +4633,8 @@
           "清湯"
         ]
       },
-      "score": 43.8,
-      "rank": 163
+      "score": 44.1,
+      "rank": 176
     },
     {
       "id": "osm-n13189759750",
@@ -4514,7 +4656,11 @@
           "count": 15,
           "url": "https://tabelog.com/ehime/A3802/A380201/38007409/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.37,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/52868.html"
+        }
       },
       "sources": [
         "osm",
@@ -4533,7 +4679,7 @@
           "背脂"
         ]
       },
-      "score": 42.6
+      "score": 42.1
     },
     {
       "id": "osm-n11527404085",
@@ -4555,7 +4701,11 @@
           "count": 9,
           "url": "https://tabelog.com/ehime/A3802/A380201/38008690/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.36,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/63412.html"
+        }
       },
       "sources": [
         "osm",
@@ -4574,8 +4724,7 @@
           "背脂"
         ]
       },
-      "score": 43.8,
-      "rank": 170
+      "score": 42.7
     },
     {
       "id": "osm-n8252622178",
@@ -4597,7 +4746,11 @@
           "count": 10,
           "url": "https://tabelog.com/ehime/A3802/A380201/38007612/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.29,
+          "count": 5,
+          "url": "https://ramendb.supleks.jp/s/73672.html"
+        }
       },
       "sources": [
         "osm",
@@ -4617,7 +4770,7 @@
         ]
       },
       "score": 43.8,
-      "rank": 167
+      "rank": 191
     },
     {
       "id": "osm-w806460114",
@@ -4639,7 +4792,11 @@
           "count": 36,
           "url": "https://tabelog.com/ehime/A3802/A380201/38011143/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.92,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/91692.html"
+        }
       },
       "sources": [
         "osm",
@@ -4657,8 +4814,8 @@
           "柑橘"
         ]
       },
-      "score": 46.3,
-      "rank": 118
+      "score": 47.6,
+      "rank": 105
     },
     {
       "id": "osm-w880917293",
@@ -4681,7 +4838,7 @@
           "url": "https://tabelog.com/ehime/A3802/A380201/38006548/"
         },
         "rdb": {
-          "score": 82.331,
+          "score": 81.99,
           "count": 2,
           "url": "https://ramendb.supleks.jp/s/93207.html"
         }
@@ -4705,8 +4862,7 @@
           "中太麺"
         ]
       },
-      "score": 43,
-      "rank": 192
+      "score": 42.9
     },
     {
       "id": "g-ChIJvTIOB5MYUDURLJhvc4R2jMg",
@@ -4741,8 +4897,8 @@
           "豚骨"
         ]
       },
-      "score": 44.1,
-      "rank": 156
+      "score": 44.3,
+      "rank": 170
     },
     {
       "id": "g-ChIJxYT89No7UDURO9wXZg0FURM",
@@ -4763,7 +4919,11 @@
           "count": 13,
           "url": "https://tabelog.com/ehime/A3802/A380201/38002090/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.63,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/101651.html"
+        }
       },
       "sources": [
         "google"
@@ -4783,7 +4943,8 @@
           "中太麺"
         ]
       },
-      "score": 42.7
+      "score": 44.1,
+      "rank": 180
     },
     {
       "id": "g-ChIJjz0-_vwxUDURWRpt5fH6iBQ",
@@ -4826,8 +4987,8 @@
           "にんにく"
         ]
       },
-      "score": 51.3,
-      "rank": 76
+      "score": 51.2,
+      "rank": 70
     },
     {
       "id": "osm-w806362857",
@@ -4849,7 +5010,11 @@
           "count": 46,
           "url": "https://tabelog.com/ehime/A3802/A380201/38000128/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.98,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/57278.html"
+        }
       },
       "sources": [
         "osm",
@@ -4865,7 +5030,7 @@
           "節"
         ]
       },
-      "score": 39
+      "score": 41.1
     },
     {
       "id": "g-ChIJv26cgto6UDUR9F4gKXiPn18",
@@ -4912,7 +5077,11 @@
           "count": 14,
           "url": "https://tabelog.com/ehime/A3802/A380201/38016818/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/169899.html"
+        }
       },
       "sources": [
         "google"
@@ -4927,8 +5096,8 @@
           "豚骨"
         ]
       },
-      "score": 44.1,
-      "rank": 158
+      "score": 44.3,
+      "rank": 172
     },
     {
       "id": "g-ChIJQyOP8CE7UDURDQwGKTw2F80",
@@ -4963,8 +5132,8 @@
           "あっさり"
         ]
       },
-      "score": 43.3,
-      "rank": 181
+      "score": 43.6,
+      "rank": 199
     },
     {
       "id": "osm-n11527413036",
@@ -5005,8 +5174,7 @@
           "背脂"
         ]
       },
-      "score": 43.2,
-      "rank": 186
+      "score": 43.5
     },
     {
       "id": "osm-n8323931369",
@@ -5028,7 +5196,11 @@
           "count": 10,
           "url": "https://tabelog.com/ehime/A3802/A380201/38007014/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/151723.html"
+        }
       },
       "sources": [
         "osm",
@@ -5107,7 +5279,11 @@
           "count": 6,
           "url": "https://tabelog.com/ehime/A3802/A380201/38015775/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/158581.html"
+        }
       },
       "sources": [
         "google"
@@ -5129,7 +5305,11 @@
       "instagram": null,
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": 83.85,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/100101.html"
+        }
       },
       "sources": [
         "google"
@@ -5142,7 +5322,9 @@
         "soup": [
           "豚骨"
         ]
-      }
+      },
+      "score": 47.6,
+      "rank": 104
     },
     {
       "id": "osm-n11422947210",
@@ -5164,7 +5346,11 @@
           "count": 23,
           "url": "https://tabelog.com/ehime/A3802/A380201/38014264/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/139037.html"
+        }
       },
       "sources": [
         "osm",
@@ -5179,7 +5365,7 @@
           "醤油"
         ]
       },
-      "score": 39.9
+      "score": 40.3
     },
     {
       "id": "osm-n8202430157",
@@ -5201,7 +5387,11 @@
           "count": 19,
           "url": "https://tabelog.com/ehime/A3802/A380201/38005437/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 85.41,
+          "count": 6,
+          "url": "https://ramendb.supleks.jp/s/93540.html"
+        }
       },
       "sources": [
         "osm",
@@ -5223,8 +5413,8 @@
           "海老・蟹"
         ]
       },
-      "score": 42.9,
-      "rank": 194
+      "score": 46.6,
+      "rank": 120
     },
     {
       "id": "osm-w806424880",
@@ -5246,7 +5436,11 @@
           "count": 368,
           "url": "https://tabelog.com/ehime/A3802/A380201/38005273/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 89.86,
+          "count": 30,
+          "url": "https://ramendb.supleks.jp/s/90311.html"
+        }
       },
       "sources": [
         "osm",
@@ -5258,7 +5452,7 @@
           "豚骨"
         ]
       },
-      "score": 74.3,
+      "score": 77.1,
       "rank": 8
     },
     {
@@ -5280,7 +5474,11 @@
           "count": 27,
           "url": "https://tabelog.com/ehime/A3802/A380201/38003995/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 81.21,
+          "count": 5,
+          "url": "https://ramendb.supleks.jp/s/51325.html"
+        }
       },
       "sources": [
         "google"
@@ -5295,8 +5493,7 @@
           "鶏"
         ]
       },
-      "score": 45.4,
-      "rank": 131
+      "score": 41.6
     },
     {
       "id": "osm-w884615813",
@@ -5346,7 +5543,11 @@
           "count": 37,
           "url": "https://tabelog.com/ehime/A3802/A380201/38006246/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.85,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/96758.html"
+        }
       },
       "sources": [
         "osm",
@@ -5374,7 +5575,11 @@
           "count": 34,
           "url": "https://tabelog.com/ehime/A3802/A380201/38010742/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.84,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/85772.html"
+        }
       },
       "sources": [
         "osm",
@@ -5395,7 +5600,7 @@
           "にんにく"
         ]
       },
-      "score": 42.8
+      "score": 43.1
     },
     {
       "id": "osm-n8321885045",
@@ -5527,7 +5732,11 @@
           "count": 707,
           "url": "https://tabelog.com/ehime/A3802/A380201/38000101/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.55,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/113058.html"
+        }
       },
       "sources": [
         "osm",
@@ -5555,7 +5764,11 @@
           "count": 18,
           "url": "https://tabelog.com/ehime/A3802/A380201/38012932/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.25,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/118037.html"
+        }
       },
       "sources": [
         "osm",
@@ -5570,8 +5783,8 @@
           "辛い"
         ]
       },
-      "score": 44,
-      "rank": 159
+      "score": 44.5,
+      "rank": 163
     },
     {
       "id": "osm-n8256307943",
@@ -5593,7 +5806,11 @@
           "count": 18,
           "url": "https://tabelog.com/ehime/A3802/A380201/38010191/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/78243.html"
+        }
       },
       "sources": [
         "osm",
@@ -5674,7 +5891,11 @@
           "count": 19,
           "url": "https://tabelog.com/ehime/A3802/A380201/38006916/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.84,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/112417.html"
+        }
       },
       "sources": [
         "google"
@@ -5691,8 +5912,8 @@
           "あっさり"
         ]
       },
-      "score": 42.9,
-      "rank": 195
+      "score": 44.3,
+      "rank": 174
     },
     {
       "id": "g-ChIJoXES0kI6UDURwuZq41MAem0",
@@ -5713,7 +5934,11 @@
           "count": 25,
           "url": "https://tabelog.com/ehime/A3802/A380201/38004337/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.31,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/109893.html"
+        }
       },
       "sources": [
         "google"
@@ -5730,7 +5955,7 @@
           "あっさり"
         ]
       },
-      "score": 39.6
+      "score": 42
     },
     {
       "id": "osm-w881949796",
@@ -5776,8 +6001,8 @@
           "セメント系"
         ]
       },
-      "score": 63.9,
-      "rank": 34
+      "score": 65.6,
+      "rank": 28
     },
     {
       "id": "osm-n8315503592",
@@ -5799,7 +6024,11 @@
           "count": 14,
           "url": "https://tabelog.com/ehime/A3802/A380201/38007053/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.97,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/114285.html"
+        }
       },
       "sources": [
         "osm",
@@ -5811,8 +6040,7 @@
           "中華そば"
         ]
       },
-      "score": 42.8,
-      "rank": 198
+      "score": 43.6
     },
     {
       "id": "g-ChIJJ2EgyUI6UDURQyRKx5yXeuY",
@@ -5833,7 +6061,11 @@
           "count": 13,
           "url": "https://tabelog.com/ehime/A3802/A380201/38010972/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/163131.html"
+        }
       },
       "sources": [
         "google"
@@ -5911,7 +6143,11 @@
           "count": 61,
           "url": "https://tabelog.com/ehime/A3802/A380201/38012399/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 89.05,
+          "count": 7,
+          "url": "https://ramendb.supleks.jp/s/107910.html"
+        }
       },
       "sources": [
         "google"
@@ -5930,8 +6166,8 @@
           "清湯"
         ]
       },
-      "score": 52.2,
-      "rank": 69
+      "score": 58.5,
+      "rank": 41
     },
     {
       "id": "osm-w806420430",
@@ -6007,7 +6243,11 @@
           "count": 12,
           "url": "https://tabelog.com/ehime/A3802/A380201/38015706/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/121709.html"
+        }
       },
       "sources": [
         "osm",
@@ -6063,7 +6303,11 @@
           "count": 20,
           "url": "https://tabelog.com/ehime/A3802/A380201/38013225/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.72,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/121872.html"
+        }
       },
       "sources": [
         "google"
@@ -6074,7 +6318,8 @@
           "塩"
         ]
       },
-      "score": 41.8
+      "score": 44.5,
+      "rank": 162
     },
     {
       "id": "g-ChIJ5WL0Jmg6UDURmxHlmHDeGOs",
@@ -6122,7 +6367,11 @@
           "count": 1384,
           "url": "https://tabelog.com/ehime/A3802/A380201/38000122/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.39,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/137599.html"
+        }
       },
       "sources": [
         "osm",
@@ -6191,8 +6440,8 @@
           "冷やし"
         ]
       },
-      "score": 64.5,
-      "rank": 30
+      "score": 63.8,
+      "rank": 31
     },
     {
       "id": "g-ChIJaWzynn06UDURtSLzHc0VN10",
@@ -6240,7 +6489,11 @@
           "count": 25,
           "url": "https://tabelog.com/ehime/A3802/A380201/38006934/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/161478.html"
+        }
       },
       "sources": [
         "osm",
@@ -6268,7 +6521,11 @@
           "count": 18,
           "url": "https://tabelog.com/ehime/A3802/A380201/38007139/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/140355.html"
+        }
       },
       "sources": [
         "osm",
@@ -6352,7 +6609,11 @@
           "count": 100,
           "url": "https://tabelog.com/ehime/A3802/A380201/38001449/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 87.4,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/82757.html"
+        }
       },
       "sources": [
         "osm",
@@ -6372,8 +6633,8 @@
           "魚介"
         ]
       },
-      "score": 57,
-      "rank": 51
+      "score": 58.6,
+      "rank": 40
     },
     {
       "id": "osm-n8252656518",
@@ -6395,7 +6656,11 @@
           "count": 38,
           "url": "https://tabelog.com/ehime/A3802/A380201/38004745/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 85.7,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/95858.html"
+        }
       },
       "sources": [
         "osm",
@@ -6422,7 +6687,11 @@
           "count": 59,
           "url": "https://tabelog.com/ehime/A3802/A380201/38014824/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 86.76,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/145918.html"
+        }
       },
       "sources": [
         "google"
@@ -6445,8 +6714,8 @@
           "白湯"
         ]
       },
-      "score": 56.2,
-      "rank": 54
+      "score": 55.7,
+      "rank": 48
     },
     {
       "id": "g-ChIJfdunizA7UDUR-fm-VIlRGuk",
@@ -6521,7 +6790,11 @@
           "count": 12,
           "url": "https://tabelog.com/ehime/A3802/A380201/38004187/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.51,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/134557.html"
+        }
       },
       "sources": [
         "google"
@@ -6532,8 +6805,8 @@
           "中華そば"
         ]
       },
-      "score": 43.3,
-      "rank": 183
+      "score": 44.3,
+      "rank": 173
     },
     {
       "id": "g-ChIJNfXvYwA7UDUR3gQK1JKw_PA",
@@ -6657,7 +6930,11 @@
           "count": 26,
           "url": "https://tabelog.com/ehime/A3802/A380201/38014265/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/161232.html"
+        }
       },
       "sources": [
         "osm",
@@ -6764,7 +7041,11 @@
           "count": 25,
           "url": "https://tabelog.com/ehime/A3802/A380204/38014352/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/142109.html"
+        }
       },
       "sources": [
         "google"
@@ -6779,7 +7060,7 @@
         ]
       },
       "score": 50.3,
-      "rank": 82
+      "rank": 76
     },
     {
       "id": "g-ChIJszaZCAKVUTUR-4FOCngmCvg",
@@ -6904,7 +7185,11 @@
           "count": 24,
           "url": "https://tabelog.com/ehime/A3802/A380204/38016460/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/166545.html"
+        }
       },
       "sources": [
         "google"
@@ -6918,8 +7203,8 @@
           "煮干し"
         ]
       },
-      "score": 47.6,
-      "rank": 102
+      "score": 47.7,
+      "rank": 99
     },
     {
       "id": "g-ChIJKw3wD1GRUTURj5XgTpzrn2w",
@@ -6966,7 +7251,11 @@
           "count": 25,
           "url": "https://tabelog.com/ehime/A3802/A380204/38007005/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.68,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/126167.html"
+        }
       },
       "sources": [
         "google"
@@ -6984,8 +7273,8 @@
           "濃厚"
         ]
       },
-      "score": 42.8,
-      "rank": 200
+      "score": 43.9,
+      "rank": 187
     },
     {
       "id": "g-ChIJhRMeb5LGUTURC6iLL1yqHB4",
@@ -7054,7 +7343,11 @@
           "count": 14,
           "url": "https://tabelog.com/ehime/A3802/A380204/38013660/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/148663.html"
+        }
       },
       "sources": [
         "google"
@@ -7080,7 +7373,11 @@
           "count": 263,
           "url": "https://tabelog.com/ehime/A3802/A380204/38003879/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 92.34,
+          "count": 35,
+          "url": "https://ramendb.supleks.jp/s/59410.html"
+        }
       },
       "sources": [
         "google"
@@ -7106,8 +7403,8 @@
           "白湯"
         ]
       },
-      "score": 77.1,
-      "rank": 3
+      "score": 85.6,
+      "rank": 2
     },
     {
       "id": "g-ChIJ8wESrzeRUTURvNt2YGmwYBE",
@@ -7244,8 +7541,8 @@
           "つけ麺"
         ]
       },
-      "score": 45.9,
-      "rank": 124
+      "score": 46.1,
+      "rank": 129
     },
     {
       "id": "g-ChIJa8fLaluUUTURsb2SgDrx64A",
@@ -7292,7 +7589,11 @@
           "count": 41,
           "url": "https://tabelog.com/ehime/A3802/A380204/38014063/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.66,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/138115.html"
+        }
       },
       "sources": [
         "google"
@@ -7311,8 +7612,8 @@
           "自家製麺"
         ]
       },
-      "score": 52.5,
-      "rank": 67
+      "score": 50.4,
+      "rank": 75
     },
     {
       "id": "g-ChIJe8ZV_H6RUTUR9Gf3sU1Fcpo",
@@ -7333,7 +7634,11 @@
           "count": 21,
           "url": "https://tabelog.com/ehime/A3802/A380204/38013814/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.43,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/133162.html"
+        }
       },
       "sources": [
         "google"
@@ -7350,8 +7655,8 @@
           "あっさり"
         ]
       },
-      "score": 47.7,
-      "rank": 101
+      "score": 47.6,
+      "rank": 103
     },
     {
       "id": "osm-w1434979129",
@@ -7373,7 +7678,11 @@
           "count": 14,
           "url": "https://tabelog.com/ehime/A3802/A380204/38010360/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 86.22,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/73475.html"
+        }
       },
       "sources": [
         "osm",
@@ -7392,8 +7701,8 @@
           "背脂"
         ]
       },
-      "score": 43.2,
-      "rank": 184
+      "score": 48.6,
+      "rank": 91
     },
     {
       "id": "g-ChIJ12E-dmiUUTURjh_zpTPd6wQ",
@@ -7414,7 +7723,11 @@
           "count": 45,
           "url": "https://tabelog.com/ehime/A3802/A380204/38001117/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 79.75,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/8972.html"
+        }
       },
       "sources": [
         "google"
@@ -7429,7 +7742,7 @@
           "節"
         ]
       },
-      "score": 39.1
+      "score": 36.5
     },
     {
       "id": "g-ChIJu-wNKkGRUTURwTSNdBM1aS4",
@@ -7524,7 +7837,11 @@
           "count": 11,
           "url": "https://tabelog.com/ehime/A3802/A380204/38001737/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/128495.html"
+        }
       },
       "sources": [
         "google"
@@ -7624,8 +7941,8 @@
           "濃厚"
         ]
       },
-      "score": 43.4,
-      "rank": 177
+      "score": 43.7,
+      "rank": 194
     },
     {
       "id": "g-ChIJU2st0mmUUTURWW96xE2HPAc",
@@ -7776,7 +8093,11 @@
           "count": 35,
           "url": "https://tabelog.com/ehime/A3802/A380204/38009643/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.96,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/157365.html"
+        }
       },
       "sources": [
         "google"
@@ -7876,7 +8197,11 @@
           "count": 17,
           "url": "https://tabelog.com/ehime/A3802/A380204/38013485/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/159624.html"
+        }
       },
       "sources": [
         "google"
@@ -7902,7 +8227,11 @@
           "count": 9,
           "url": "https://tabelog.com/ehime/A3802/A380204/38015330/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/155084.html"
+        }
       },
       "sources": [
         "google"
@@ -7928,7 +8257,11 @@
           "count": 40,
           "url": "https://tabelog.com/ehime/A3802/A380204/38001534/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/159623.html"
+        }
       },
       "sources": [
         "google"
@@ -7980,7 +8313,11 @@
           "count": 30,
           "url": "https://tabelog.com/ehime/A3802/A380204/38013799/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.45,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/132380.html"
+        }
       },
       "sources": [
         "google"
@@ -7998,8 +8335,8 @@
           "あっさり"
         ]
       },
-      "score": 49.3,
-      "rank": 86
+      "score": 47.7,
+      "rank": 100
     },
     {
       "id": "osm-w407607874",
@@ -8021,7 +8358,11 @@
           "count": 32,
           "url": "https://tabelog.com/ehime/A3802/A380204/38006192/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 81.88,
+          "count": 5,
+          "url": "https://ramendb.supleks.jp/s/26063.html"
+        }
       },
       "sources": [
         "osm",
@@ -8037,7 +8378,7 @@
           "濃厚"
         ]
       },
-      "score": 39.4
+      "score": 39.1
     },
     {
       "id": "g-ChIJXbTfchqRUTURmVfxm251X6g",
@@ -8058,7 +8399,11 @@
           "count": 8,
           "url": "https://tabelog.com/ehime/A3802/A380204/38014468/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.01,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/153717.html"
+        }
       },
       "sources": [
         "google"
@@ -8077,8 +8422,8 @@
           "清湯"
         ]
       },
-      "score": 44.1,
-      "rank": 155
+      "score": 44.8,
+      "rank": 154
     },
     {
       "id": "g-ChIJGXp5Rv6VUTURUu7NhtDcJ64",
@@ -8130,7 +8475,11 @@
           "count": 14,
           "url": "https://tabelog.com/ehime/A3802/A380204/38007267/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/60002.html"
+        }
       },
       "sources": [
         "google"
@@ -8141,8 +8490,7 @@
           "担々麺"
         ]
       },
-      "score": 43.2,
-      "rank": 185
+      "score": 43.5
     },
     {
       "id": "osm-w1168234816",
@@ -8317,8 +8665,8 @@
           "自家製麺"
         ]
       },
-      "score": 45.9,
-      "rank": 125
+      "score": 46,
+      "rank": 131
     },
     {
       "id": "g-ChIJl9OFK_HlTzURICRU3-z-yxM",
@@ -8416,8 +8764,8 @@
           "白湯"
         ]
       },
-      "score": 61.9,
-      "rank": 39
+      "score": 62.3,
+      "rank": 32
     },
     {
       "id": "g-ChIJjS5yYbDvTzURAt1jjDLP4-s",
@@ -8520,7 +8868,7 @@
         ]
       },
       "score": 46.1,
-      "rank": 121
+      "rank": 130
     },
     {
       "id": "g-ChIJt5d4SL7lTzURSOiXGayDGjg",
@@ -8588,8 +8936,8 @@
           "節"
         ]
       },
-      "score": 44.8,
-      "rank": 139
+      "score": 45.2,
+      "rank": 144
     },
     {
       "id": "g-ChIJq2oumtDlTzURkBZswTu2Uv0",
@@ -8625,7 +8973,7 @@
           "中華そば"
         ]
       },
-      "score": 41.8
+      "score": 42.1
     },
     {
       "id": "g-ChIJn5CqXE7vTzURctavJPixj9E",
@@ -8724,8 +9072,8 @@
           "胡麻"
         ]
       },
-      "score": 43.9,
-      "rank": 161
+      "score": 43.8,
+      "rank": 190
     },
     {
       "id": "osm-n2441099695",
@@ -8763,8 +9111,8 @@
           "豚骨"
         ]
       },
-      "score": 47.1,
-      "rank": 106
+      "score": 47.2,
+      "rank": 110
     },
     {
       "id": "osm-n5025570564",
@@ -8867,8 +9215,8 @@
           "煮干し"
         ]
       },
-      "score": 44.9,
-      "rank": 136
+      "score": 45.4,
+      "rank": 140
     },
     {
       "id": "g-ChIJtXxoVwDpTzURjpw9OfRmH3o",
@@ -8890,9 +9238,9 @@
           "url": "https://tabelog.com/ehime/A3801/A380101/38017421/"
         },
         "rdb": {
-          "score": null,
-          "count": 0,
-          "url": "https://ramendb.supleks.jp/s/173659"
+          "score": 83.38,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/173659.html"
         }
       },
       "sources": [
@@ -8906,7 +9254,9 @@
         "character": [
           "辛い"
         ]
-      }
+      },
+      "score": 47.4,
+      "rank": 107
     },
     {
       "id": "g-ChIJKcU8SZrlTzURSch77SRYGVY",
@@ -8974,8 +9324,8 @@
           "魚介"
         ]
       },
-      "score": 47.7,
-      "rank": 99
+      "score": 47.8,
+      "rank": 98
     },
     {
       "id": "g-ChIJzROZBgDlTzURRB64ce3eXLI",
@@ -8997,9 +9347,9 @@
           "url": "https://tabelog.com/ehime/A3801/A380101/38017037/"
         },
         "rdb": {
-          "score": null,
-          "count": 0,
-          "url": "https://ramendb.supleks.jp/s/172915"
+          "score": 83.06,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/172915.html"
         }
       },
       "sources": [
@@ -9020,8 +9370,8 @@
           "清湯"
         ]
       },
-      "score": 44.4,
-      "rank": 149
+      "score": 45,
+      "rank": 146
     },
     {
       "id": "g-ChIJoaLdfsPvTzURu9TObmXOWUQ",
@@ -9061,8 +9411,8 @@
           "醤油"
         ]
       },
-      "score": 43.7,
-      "rank": 172
+      "score": 43.9,
+      "rank": 186
     },
     {
       "id": "osm-w1498210928",
@@ -9278,8 +9628,8 @@
           "つけ麺"
         ]
       },
-      "score": 44.7,
-      "rank": 141
+      "score": 44.5,
+      "rank": 165
     },
     {
       "id": "g-ChIJl-BUOuzlTzURkZrKPwNLaME",
@@ -9315,8 +9665,8 @@
           "つけ麺"
         ]
       },
-      "score": 76,
-      "rank": 5
+      "score": 77.4,
+      "rank": 7
     },
     {
       "id": "g-ChIJ5bn4xwLlTzURQnD60re6yqg",
@@ -9411,8 +9761,8 @@
           "濃厚"
         ]
       },
-      "score": 57.5,
-      "rank": 47
+      "score": 57.7,
+      "rank": 43
     },
     {
       "id": "g-ChIJQ1tqr2bvTzURUTNmR-NcfEI",
@@ -9528,8 +9878,8 @@
           "胡麻"
         ]
       },
-      "score": 55.5,
-      "rank": 58
+      "score": 55.2,
+      "rank": 53
     },
     {
       "id": "g-ChIJnzKS8O7lTzURwU80Eh2lrTY",
@@ -9564,8 +9914,8 @@
           "辛い"
         ]
       },
-      "score": 46.2,
-      "rank": 120
+      "score": 46.4,
+      "rank": 124
     },
     {
       "id": "g-ChIJT2bJHLjoTzURcW53dnWYowY",
@@ -9654,7 +10004,7 @@
         ]
       },
       "score": 49.8,
-      "rank": 83
+      "rank": 79
     },
     {
       "id": "g-ChIJJeHaqbHlTzURtbyVviZ6gx0",
@@ -9693,7 +10043,7 @@
           "辛い"
         ]
       },
-      "score": 42.8
+      "score": 43.1
     },
     {
       "id": "g-ChIJyd9xaM76TzURc8dq1ZFlgC4",
@@ -9798,8 +10148,8 @@
           "にんにく"
         ]
       },
-      "score": 55.5,
-      "rank": 59
+      "score": 55.4,
+      "rank": 50
     },
     {
       "id": "osm-n2387958471",
@@ -9847,8 +10197,8 @@
           "こってり"
         ]
       },
-      "score": 48.5,
-      "rank": 95
+      "score": 48.6,
+      "rank": 90
     },
     {
       "id": "g-ChIJ9XK-47_vTzURSPU8XJsnHlQ",
@@ -9893,8 +10243,8 @@
           "にんにく"
         ]
       },
-      "score": 44.4,
-      "rank": 151
+      "score": 44.5,
+      "rank": 160
     },
     {
       "id": "g-ChIJAchVPITlTzURM9_H_Eqz6Fs",
@@ -9916,7 +10266,7 @@
           "url": "https://tabelog.com/ehime/A3801/A380101/38001126/"
         },
         "rdb": {
-          "score": 88.999,
+          "score": 89.01,
           "count": 21,
           "url": "https://ramendb.supleks.jp/s/5968.html"
         }
@@ -9937,8 +10287,8 @@
           "あっさり"
         ]
       },
-      "score": 70.4,
-      "rank": 14
+      "score": 71.5,
+      "rank": 16
     },
     {
       "id": "osm-n13189759734",
@@ -9983,8 +10333,8 @@
           "背脂"
         ]
       },
-      "score": 44.7,
-      "rank": 140
+      "score": 44.8,
+      "rank": 151
     },
     {
       "id": "osm-w305044128",
@@ -10029,8 +10379,8 @@
           "背脂"
         ]
       },
-      "score": 61.8,
-      "rank": 40
+      "score": 61.9,
+      "rank": 34
     },
     {
       "id": "osm-w625669744",
@@ -10105,8 +10455,8 @@
           "豚骨"
         ]
       },
-      "score": 54,
-      "rank": 63
+      "score": 53.9,
+      "rank": 57
     },
     {
       "id": "g-ChIJO3gHTXLlTzURF6zo-fRyLVk",
@@ -10152,8 +10502,8 @@
           "こってり"
         ]
       },
-      "score": 51.9,
-      "rank": 72
+      "score": 51.7,
+      "rank": 65
     },
     {
       "id": "g-ChIJ2QS5M1_vTzURvmJ8a1sNlng",
@@ -10199,8 +10549,8 @@
           "こってり"
         ]
       },
-      "score": 51,
-      "rank": 80
+      "score": 51.3,
+      "rank": 69
     },
     {
       "id": "g-ChIJ8bgwlQnmTzURcOuwb8DKgOI",
@@ -10240,7 +10590,7 @@
           "節"
         ]
       },
-      "score": 41.7
+      "score": 42.5
     },
     {
       "id": "g-ChIJz6nTcvPvTzURFuc8v2kZH0I",
@@ -10294,7 +10644,7 @@
           "url": "https://tabelog.com/ehime/A3801/A380101/38010679/"
         },
         "rdb": {
-          "score": 85.231,
+          "score": 84.3,
           "count": 3,
           "url": "https://ramendb.supleks.jp/s/84088.html"
         }
@@ -10314,8 +10664,8 @@
           "にんにく"
         ]
       },
-      "score": 54.8,
-      "rank": 61
+      "score": 53.9,
+      "rank": 58
     },
     {
       "id": "osm-n2305044388",
@@ -10361,7 +10711,7 @@
           "背脂"
         ]
       },
-      "score": 38
+      "score": 38.4
     },
     {
       "id": "g-ChIJUxzyEYDvTzURMm75EfM-roQ",
@@ -10383,9 +10733,9 @@
           "url": "https://tabelog.com/ehime/A3801/A380101/38016902/"
         },
         "rdb": {
-          "score": null,
-          "count": 0,
-          "url": "https://ramendb.supleks.jp/s/170800"
+          "score": 82.97,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/170800.html"
         }
       },
       "sources": [
@@ -10405,8 +10755,8 @@
           "泡系"
         ]
       },
-      "score": 45.5,
-      "rank": 129
+      "score": 45.6,
+      "rank": 135
     },
     {
       "id": "osm-n2308403680",
@@ -10448,7 +10798,7 @@
           "節"
         ]
       },
-      "score": 42.3
+      "score": 42.7
     },
     {
       "id": "g-ChIJz5F-eFfvTzURHNfPjHNmPBQ",
@@ -10661,8 +11011,8 @@
           "辛い"
         ]
       },
-      "score": 60.9,
-      "rank": 41
+      "score": 61.8,
+      "rank": 35
     },
     {
       "id": "g-ChIJdce-SADnTzURB72TcqKI0Y0",
@@ -10702,8 +11052,8 @@
           "豚骨"
         ]
       },
-      "score": 44.1,
-      "rank": 154
+      "score": 44.4,
+      "rank": 167
     },
     {
       "id": "g-ChIJ9za_agDvTzURO9Pz-QXsmPY",
@@ -10743,8 +11093,8 @@
           "豚骨"
         ]
       },
-      "score": 44.6,
-      "rank": 146
+      "score": 44.8,
+      "rank": 153
     },
     {
       "id": "osm-n10275126705",
@@ -10786,8 +11136,8 @@
           "豚骨"
         ]
       },
-      "score": 47.7,
-      "rank": 100
+      "score": 48.3,
+      "rank": 93
     },
     {
       "id": "g-ChIJKUCQWmflTzURxvENa7jVIVw",
@@ -10880,7 +11230,7 @@
           "醤油"
         ]
       },
-      "score": 40.9
+      "score": 41.4
     },
     {
       "id": "g-ChIJ1Z3pYIDgTzURJHcATMKNuxg",
@@ -11030,7 +11380,7 @@
           "豚骨"
         ]
       },
-      "score": 84.1,
+      "score": 85.8,
       "rank": 1
     },
     {
@@ -11076,8 +11426,8 @@
           "白湯"
         ]
       },
-      "score": 83.1,
-      "rank": 2
+      "score": 85,
+      "rank": 3
     },
     {
       "id": "g-ChIJi0-7egDpTzUR_2CGh9T5ZlM",
@@ -11114,8 +11464,8 @@
           "豚骨"
         ]
       },
-      "score": 46.4,
-      "rank": 117
+      "score": 46.5,
+      "rank": 121
     },
     {
       "id": "g-ChIJh6qjlvPlTzURRdhkON-EnzM",
@@ -11152,8 +11502,8 @@
           "豚骨"
         ]
       },
-      "score": 54.4,
-      "rank": 62
+      "score": 54.1,
+      "rank": 55
     },
     {
       "id": "osm-n8244379251",
@@ -11203,8 +11553,8 @@
           "濃厚"
         ]
       },
-      "score": 73,
-      "rank": 10
+      "score": 74.4,
+      "rank": 12
     },
     {
       "id": "g-ChIJy873QhPvTzURreIiTQRLS3g",
@@ -11221,7 +11571,11 @@
       "instagram": null,
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": 84.16,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/98498.html"
+        }
       },
       "sources": [
         "google"
@@ -11236,7 +11590,9 @@
         "noodle": [
           "太麺"
         ]
-      }
+      },
+      "score": 48,
+      "rank": 96
     },
     {
       "id": "g-ChIJ7WUZGx_lTzUR9zPxDX4mKY4",
@@ -11302,8 +11658,8 @@
           "中華そば"
         ]
       },
-      "score": 51.4,
-      "rank": 75
+      "score": 51.3,
+      "rank": 68
     },
     {
       "id": "g-ChIJaz1TVyruTzURS4ozf2z58dE",
@@ -11393,8 +11749,8 @@
           "url": "https://tabelog.com/ehime/A3801/A380101/38007614/"
         },
         "rdb": {
-          "score": 89.054,
-          "count": 22,
+          "score": 89.87,
+          "count": 23,
           "url": "https://ramendb.supleks.jp/s/59844.html"
         }
       },
@@ -11416,8 +11772,8 @@
           "にんにく"
         ]
       },
-      "score": 63.4,
-      "rank": 37
+      "score": 67,
+      "rank": 23
     },
     {
       "id": "g-ChIJgxnrJMXlTzURAZx1LhppCOc",
@@ -11524,8 +11880,8 @@
           "辛い"
         ]
       },
-      "score": 57.6,
-      "rank": 46
+      "score": 57.3,
+      "rank": 44
     },
     {
       "id": "g-ChIJtQsnt9vvTzURfwZHGTYToY8",
@@ -11546,7 +11902,11 @@
           "count": 318,
           "url": "https://tabelog.com/ehime/A3801/A380101/38010063/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/122345.html"
+        }
       },
       "sources": [
         "google"
@@ -11652,7 +12012,7 @@
           "にんにく"
         ]
       },
-      "score": 46.6,
+      "score": 46.9,
       "rank": 114
     },
     {
@@ -11699,8 +12059,8 @@
           "背脂"
         ]
       },
-      "score": 44.1,
-      "rank": 157
+      "score": 44.3,
+      "rank": 171
     },
     {
       "id": "g-ChIJky_aKADlTzURSyT6QRDgXYA",
@@ -11743,8 +12103,8 @@
           "背脂"
         ]
       },
-      "score": 51.2,
-      "rank": 77
+      "score": 51.1,
+      "rank": 71
     },
     {
       "id": "g-ChIJO_3eJJrlTzUR93CkLLJGciY",
@@ -11780,8 +12140,8 @@
           "鯛・鮮魚"
         ]
       },
-      "score": 56.6,
-      "rank": 52
+      "score": 56.3,
+      "rank": 46
     },
     {
       "id": "g-ChIJdfqhgt3lTzUR0INHkJ38Koc",
@@ -11821,8 +12181,8 @@
           "豚骨"
         ]
       },
-      "score": 45.3,
-      "rank": 135
+      "score": 45.5,
+      "rank": 139
     },
     {
       "id": "g-ChIJDYgZCe_lTzURNFtfN1MhRlI",
@@ -11884,8 +12244,8 @@
           "醤油"
         ]
       },
-      "score": 57.4,
-      "rank": 50
+      "score": 57,
+      "rank": 45
     },
     {
       "id": "g-ChIJOXToZ1vvTzURVFnYDoKsWDo",
@@ -11987,7 +12347,7 @@
           "url": "https://tabelog.com/ehime/A3801/A380101/38015747/"
         },
         "rdb": {
-          "score": 83.914,
+          "score": 83.9,
           "count": 4,
           "url": "https://ramendb.supleks.jp/s/158127.html"
         }
@@ -12004,8 +12364,8 @@
           "辛い"
         ]
       },
-      "score": 45.7,
-      "rank": 126
+      "score": 46.1,
+      "rank": 127
     },
     {
       "id": "g-ChIJ_wVeX-7lTzURrv4GSx0zaDY",
@@ -12051,8 +12411,8 @@
           "節"
         ]
       },
-      "score": 68.3,
-      "rank": 22
+      "score": 69,
+      "rank": 20
     },
     {
       "id": "g-ChIJU9VgzHjlTzUR2xotKTdQsv8",
@@ -12099,8 +12459,8 @@
           "セメント系"
         ]
       },
-      "score": 46.9,
-      "rank": 108
+      "score": 47.2,
+      "rank": 111
     },
     {
       "id": "g-ChIJUdsX5N_lTzURjcXN98zfldk",
@@ -12141,8 +12501,8 @@
           "豚骨"
         ]
       },
-      "score": 43.4,
-      "rank": 178
+      "score": 43.6,
+      "rank": 197
     },
     {
       "id": "g-ChIJ3_lsF5vlTzURRSW9-bv6gjY",
@@ -12178,8 +12538,8 @@
           "貝"
         ]
       },
-      "score": 46.6,
-      "rank": 113
+      "score": 46.7,
+      "rank": 117
     },
     {
       "id": "g-ChIJm6z3j4vlTzURrWfHJCzmTBQ",
@@ -12409,8 +12769,8 @@
           "中華そば"
         ]
       },
-      "score": 44.4,
-      "rank": 150
+      "score": 44.6,
+      "rank": 157
     },
     {
       "id": "g-ChIJkYpGno7lTzURD3Zo3dr7jNs",
@@ -12446,8 +12806,8 @@
           "中華そば"
         ]
       },
-      "score": 74.8,
-      "rank": 7
+      "score": 75.9,
+      "rank": 10
     },
     {
       "id": "g-ChIJMTjcLgDvTzURQeBU3m6NGhQ",
@@ -12483,8 +12843,8 @@
           "中華そば"
         ]
       },
-      "score": 47.2,
-      "rank": 105
+      "score": 47.3,
+      "rank": 109
     },
     {
       "id": "g-ChIJkVu4OCzuTzURcSaZBEh6mY0",
@@ -12520,8 +12880,8 @@
           "中華そば"
         ]
       },
-      "score": 64.1,
-      "rank": 32
+      "score": 64.7,
+      "rank": 29
     },
     {
       "id": "osm-n2441105205",
@@ -12559,8 +12919,8 @@
           "つけ麺"
         ]
       },
-      "score": 49.5,
-      "rank": 84
+      "score": 49.6,
+      "rank": 80
     },
     {
       "id": "g-ChIJ1XnfOHPlTzURmugxSD3FAa0",
@@ -12767,7 +13127,11 @@
           "count": 90,
           "url": "https://tabelog.com/ehime/A3801/A380101/38000588/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/146064.html"
+        }
       },
       "sources": [
         "google"
@@ -12793,7 +13157,11 @@
           "count": 51,
           "url": "https://tabelog.com/ehime/A3801/A380101/38012842/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.45,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/146065.html"
+        }
       },
       "sources": [
         "google"
@@ -12819,7 +13187,11 @@
           "count": 65,
           "url": "https://tabelog.com/ehime/A3801/A380101/38000125/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/146066.html"
+        }
       },
       "sources": [
         "google"
@@ -12845,7 +13217,11 @@
           "count": 28,
           "url": "https://tabelog.com/ehime/A3801/A380101/38015641/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/157556.html"
+        }
       },
       "sources": [
         "google"
@@ -12897,7 +13273,11 @@
           "count": 61,
           "url": "https://tabelog.com/ehime/A3801/A380101/38001564/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/158789.html"
+        }
       },
       "sources": [
         "google"
@@ -13001,7 +13381,11 @@
           "count": 167,
           "url": "https://tabelog.com/ehime/A3801/A380101/38000056/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.73,
+          "count": 22,
+          "url": "https://ramendb.supleks.jp/s/5783.html"
+        }
       },
       "sources": [
         "google"
@@ -13012,8 +13396,8 @@
           "豚骨"
         ]
       },
-      "score": 70,
-      "rank": 17
+      "score": 58.9,
+      "rank": 39
     },
     {
       "id": "osm-w230964592",
@@ -13035,7 +13419,11 @@
           "count": 73,
           "url": "https://tabelog.com/ehime/A3801/A380101/38000335/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 81.27,
+          "count": 12,
+          "url": "https://ramendb.supleks.jp/s/6410.html"
+        }
       },
       "sources": [
         "osm",
@@ -13051,7 +13439,7 @@
           "濃厚"
         ]
       },
-      "score": 38.8
+      "score": 36
     },
     {
       "id": "g-ChIJF23jEOzlTzURoYSHOeLRpNs",
@@ -13098,7 +13486,11 @@
           "count": 28,
           "url": "https://tabelog.com/ehime/A3801/A380101/38015032/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/151668.html"
+        }
       },
       "sources": [
         "google"
@@ -13109,8 +13501,8 @@
           "油そば"
         ]
       },
-      "score": 44.8,
-      "rank": 138
+      "score": 45,
+      "rank": 147
     },
     {
       "id": "g-ChIJNfG2IaDlTzURzsYNBEsF_dQ",
@@ -13149,8 +13541,8 @@
           "あっさり"
         ]
       },
-      "score": 66.9,
-      "rank": 25
+      "score": 66.1,
+      "rank": 26
     },
     {
       "id": "osm-n6363720469",
@@ -13184,8 +13576,8 @@
           "豚骨"
         ]
       },
-      "score": 52.1,
-      "rank": 70
+      "score": 52,
+      "rank": 64
     },
     {
       "id": "osm-n5907316483",
@@ -13207,7 +13599,11 @@
           "count": 53,
           "url": "https://tabelog.com/ehime/A3801/A380101/38009011/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.85,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/65500.html"
+        }
       },
       "sources": [
         "osm",
@@ -13219,8 +13615,8 @@
           "豚骨"
         ]
       },
-      "score": 53.4,
-      "rank": 65
+      "score": 50.1,
+      "rank": 78
     },
     {
       "id": "g-ChIJQQ4qjyzlTzURa3S2refmHdA",
@@ -13241,7 +13637,11 @@
           "count": 442,
           "url": "https://tabelog.com/ehime/A3801/A380101/38000204/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 89.87,
+          "count": 28,
+          "url": "https://ramendb.supleks.jp/s/2046.html"
+        }
       },
       "sources": [
         "google"
@@ -13259,7 +13659,7 @@
           "野菜"
         ]
       },
-      "score": 75.3,
+      "score": 77.6,
       "rank": 6
     },
     {
@@ -13281,7 +13681,11 @@
           "count": 38,
           "url": "https://tabelog.com/ehime/A3801/A380101/38013214/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 86.43,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/122934.html"
+        }
       },
       "sources": [
         "google"
@@ -13303,8 +13707,8 @@
           "にんにく"
         ]
       },
-      "score": 44.4,
-      "rank": 148
+      "score": 48.1,
+      "rank": 95
     },
     {
       "id": "g-ChIJI7ts9lzlTzUR66LUMRNhFZs",
@@ -13325,7 +13729,11 @@
           "count": 47,
           "url": "https://tabelog.com/ehime/A3801/A380101/38004963/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/111584.html"
+        }
       },
       "sources": [
         "google"
@@ -13351,7 +13759,11 @@
           "count": 79,
           "url": "https://tabelog.com/ehime/A3801/A380101/38013859/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 86.17,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/134005.html"
+        }
       },
       "sources": [
         "google"
@@ -13369,7 +13781,7 @@
           "濃厚"
         ]
       },
-      "score": 60.3,
+      "score": 58.2,
       "rank": 42
     },
     {
@@ -13391,7 +13803,11 @@
           "count": 17,
           "url": "https://tabelog.com/ehime/A3801/A380101/38016915/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/172108.html"
+        }
       },
       "sources": [
         "google"
@@ -13417,7 +13833,11 @@
           "count": 84,
           "url": "https://tabelog.com/ehime/A3801/A380101/38007620/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 81.74,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/73426.html"
+        }
       },
       "sources": [
         "google"
@@ -13436,8 +13856,8 @@
           "濃厚"
         ]
       },
-      "score": 57.5,
-      "rank": 49
+      "score": 50.9,
+      "rank": 73
     },
     {
       "id": "g-ChIJ3bdhHgseUDURfb9bnjcOzMo",
@@ -13458,7 +13878,11 @@
           "count": 28,
           "url": "https://tabelog.com/ehime/A3801/A380101/38007387/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.96,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/113544.html"
+        }
       },
       "sources": [
         "google"
@@ -13475,7 +13899,7 @@
           "魚介"
         ]
       },
-      "score": 42
+      "score": 43.1
     },
     {
       "id": "g-ChIJRZf0Cq_oTzURXUrIMPZ6itA",
@@ -13516,8 +13940,7 @@
           "あっさり"
         ]
       },
-      "score": 43.1,
-      "rank": 189
+      "score": 43.4
     },
     {
       "id": "g-ChIJ3Toeas3oTzURk3kzjVSgrfQ",
@@ -13590,7 +14013,11 @@
           "count": 3,
           "url": "https://tabelog.com/ehime/A3801/A380101/38014636/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/153716.html"
+        }
       },
       "sources": [
         "google"
@@ -13617,7 +14044,11 @@
           "count": 40,
           "url": "https://tabelog.com/ehime/A3801/A380101/38001207/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.31,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/115205.html"
+        }
       },
       "sources": [
         "osm",
@@ -13658,7 +14089,7 @@
           "豚骨"
         ]
       },
-      "score": 37.9
+      "score": 38.5
     },
     {
       "id": "g-ChIJHUP4cZXlTzURoyF1eYXRZOg",
@@ -13679,7 +14110,11 @@
           "count": 89,
           "url": "https://tabelog.com/ehime/A3801/A380101/38012616/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 86.21,
+          "count": 7,
+          "url": "https://ramendb.supleks.jp/s/113124.html"
+        }
       },
       "sources": [
         "google"
@@ -13691,8 +14126,8 @@
           "豚骨"
         ]
       },
-      "score": 65.6,
-      "rank": 29
+      "score": 61.2,
+      "rank": 36
     },
     {
       "id": "g-ChIJpxXitIHlTzURf2_0nRRw9Sg",
@@ -13713,7 +14148,11 @@
           "count": 103,
           "url": "https://tabelog.com/ehime/A3801/A380101/38013435/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 90.17,
+          "count": 12,
+          "url": "https://ramendb.supleks.jp/s/126228.html"
+        }
       },
       "sources": [
         "google"
@@ -13731,8 +14170,8 @@
           "にんにく"
         ]
       },
-      "score": 67.4,
-      "rank": 23
+      "score": 71.3,
+      "rank": 17
     },
     {
       "id": "g-ChIJQVoKNfPlTzURwmIwkny6ueg",
@@ -13753,7 +14192,11 @@
           "count": 152,
           "url": "https://tabelog.com/ehime/A3801/A380101/38013958/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 89.78,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/135943.html"
+        }
       },
       "sources": [
         "google"
@@ -13764,8 +14207,8 @@
           "節"
         ]
       },
-      "score": 72.2,
-      "rank": 11
+      "score": 71.7,
+      "rank": 15
     },
     {
       "id": "g-ChIJJ4GP3s7lTzURDUtdmDVly_g",
@@ -13786,7 +14229,11 @@
           "count": 40,
           "url": "https://tabelog.com/ehime/A3801/A380101/38016603/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.47,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/167789.html"
+        }
       },
       "sources": [
         "google"
@@ -13806,8 +14253,8 @@
           "清湯"
         ]
       },
-      "score": 52.4,
-      "rank": 68
+      "score": 49.3,
+      "rank": 83
     },
     {
       "id": "g-ChIJ63LeUMPlTzUR_brlGzl4lAE",
@@ -13828,7 +14275,11 @@
           "count": 162,
           "url": "https://tabelog.com/ehime/A3801/A380101/38011943/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 92.15,
+          "count": 37,
+          "url": "https://ramendb.supleks.jp/s/101009.html"
+        }
       },
       "sources": [
         "google"
@@ -13843,8 +14294,8 @@
           "濃厚"
         ]
       },
-      "score": 69.9,
-      "rank": 18
+      "score": 81.1,
+      "rank": 4
     },
     {
       "id": "g-ChIJsRC7vfnlTzURiXdgC3QRBAY",
@@ -13865,7 +14316,11 @@
           "count": 16,
           "url": "https://tabelog.com/ehime/A3801/A380101/38014887/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.97,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/148212.html"
+        }
       },
       "sources": [
         "google"
@@ -13879,8 +14334,8 @@
           "豚骨"
         ]
       },
-      "score": 42.9,
-      "rank": 197
+      "score": 44.1,
+      "rank": 178
     },
     {
       "id": "g-ChIJu8dtFtjvTzURkmSiNz1jcKY",
@@ -13901,7 +14356,11 @@
           "count": 55,
           "url": "https://tabelog.com/ehime/A3801/A380101/38008963/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.5,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/115393.html"
+        }
       },
       "sources": [
         "google"
@@ -13921,8 +14380,8 @@
           "濃厚"
         ]
       },
-      "score": 57.5,
-      "rank": 48
+      "score": 53.4,
+      "rank": 59
     },
     {
       "id": "g-ChIJq1Rmyu3lTzURs_48FrDZGCQ",
@@ -13961,8 +14420,8 @@
           "背脂"
         ]
       },
-      "score": 70.1,
-      "rank": 16
+      "score": 69.2,
+      "rank": 19
     },
     {
       "id": "g-ChIJxxft0ojlTzURVNSD0_-1bgQ",
@@ -13983,7 +14442,11 @@
           "count": 43,
           "url": "https://tabelog.com/ehime/A3801/A380101/38007186/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.63,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/102070.html"
+        }
       },
       "sources": [
         "google"
@@ -14001,8 +14464,8 @@
           "背脂"
         ]
       },
-      "score": 55.7,
-      "rank": 56
+      "score": 51.5,
+      "rank": 66
     },
     {
       "id": "g-ChIJYbhOBgDlTzURQnOdNzVTGkM",
@@ -14023,7 +14486,11 @@
           "count": 5,
           "url": "https://tabelog.com/ehime/A3801/A380101/38016143/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/161233.html"
+        }
       },
       "sources": [
         "google"
@@ -14039,8 +14506,8 @@
           "味噌"
         ]
       },
-      "score": 45.3,
-      "rank": 133
+      "score": 45.5,
+      "rank": 138
     },
     {
       "id": "g-ChIJj-Oi2PrvTzURPEsBfZp081k",
@@ -14061,7 +14528,11 @@
           "count": 57,
           "url": "https://tabelog.com/ehime/A3801/A380101/38014848/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 87.45,
+          "count": 6,
+          "url": "https://ramendb.supleks.jp/s/147906.html"
+        }
       },
       "sources": [
         "google"
@@ -14086,8 +14557,8 @@
           "こってり"
         ]
       },
-      "score": 64.3,
-      "rank": 31
+      "score": 62.2,
+      "rank": 33
     },
     {
       "id": "g-ChIJD8FokKnlTzURDXSbDHiEo9M",
@@ -14108,7 +14579,11 @@
           "count": 43,
           "url": "https://tabelog.com/ehime/A3801/A380101/38015300/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.07,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/153142.html"
+        }
       },
       "sources": [
         "google"
@@ -14128,8 +14603,8 @@
           "白湯"
         ]
       },
-      "score": 48.7,
-      "rank": 91
+      "score": 47.9,
+      "rank": 97
     },
     {
       "id": "g-ChIJaSDV-e3lTzUR1O9mvs2WNkc",
@@ -14146,7 +14621,11 @@
       "instagram": null,
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": 91.42,
+          "count": 20,
+          "url": "https://ramendb.supleks.jp/s/7685.html"
+        }
       },
       "sources": [
         "google"
@@ -14165,7 +14644,9 @@
         "character": [
           "清湯"
         ]
-      }
+      },
+      "score": 76.8,
+      "rank": 9
     },
     {
       "id": "g-ChIJq6qpVhjmTzURx5LwDGeYg3I",
@@ -14186,7 +14667,11 @@
           "count": 49,
           "url": "https://tabelog.com/ehime/A3801/A380101/38000550/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 79.7,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/6718.html"
+        }
       },
       "sources": [
         "google"
@@ -14198,8 +14683,7 @@
           "創作系"
         ]
       },
-      "score": 43.5,
-      "rank": 173
+      "score": 42.8
     },
     {
       "id": "g-ChIJM2SvGaDlTzURKVx0S2pgTEA",
@@ -14220,7 +14704,11 @@
           "count": 33,
           "url": "https://tabelog.com/ehime/A3801/A380101/38015056/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.16,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/149067.html"
+        }
       },
       "sources": [
         "google"
@@ -14237,8 +14725,8 @@
           "魚介"
         ]
       },
-      "score": 51.1,
-      "rank": 79
+      "score": 48.9,
+      "rank": 86
     },
     {
       "id": "osm-n13954951301",
@@ -14260,7 +14748,11 @@
           "count": 21,
           "url": "https://tabelog.com/ehime/A3801/A380101/38016311/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/163766.html"
+        }
       },
       "sources": [
         "osm",
@@ -14272,7 +14764,7 @@
           "醤油"
         ]
       },
-      "score": 42.2
+      "score": 42.5
     },
     {
       "id": "g-ChIJbdYkoO7lTzURpDX2BvCC-Xs",
@@ -14293,7 +14785,11 @@
           "count": 260,
           "url": "https://tabelog.com/ehime/A3801/A380101/38000319/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 89.24,
+          "count": 43,
+          "url": "https://ramendb.supleks.jp/s/6049.html"
+        }
       },
       "sources": [
         "google"
@@ -14304,8 +14800,8 @@
           "醤油"
         ]
       },
-      "score": 69.8,
-      "rank": 19
+      "score": 73.6,
+      "rank": 13
     },
     {
       "id": "g-ChIJB1k0K_XnTzUR4hHW7IZuQTg",
@@ -14326,7 +14822,11 @@
           "count": 35,
           "url": "https://tabelog.com/ehime/A3801/A380101/38015285/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.13,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/153281.html"
+        }
       },
       "sources": [
         "google"
@@ -14348,8 +14848,8 @@
           "白湯"
         ]
       },
-      "score": 48.7,
-      "rank": 93
+      "score": 47.1,
+      "rank": 112
     },
     {
       "id": "osm-n12208660713",
@@ -14399,7 +14899,11 @@
           "count": 33,
           "url": "https://tabelog.com/ehime/A3801/A380101/38012446/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.18,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/110550.html"
+        }
       },
       "sources": [
         "google"
@@ -14410,8 +14914,8 @@
           "油そば"
         ]
       },
-      "score": 42.8,
-      "rank": 199
+      "score": 44.6,
+      "rank": 158
     },
     {
       "id": "g-ChIJq_6aoz3vTzURhJWGNx4sIO8",
@@ -14432,7 +14936,11 @@
           "count": 10,
           "url": "https://tabelog.com/ehime/A3801/A380101/38001659/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/137831.html"
+        }
       },
       "sources": [
         "google"
@@ -14458,7 +14966,11 @@
           "count": 8,
           "url": "https://tabelog.com/ehime/A3801/A380101/38005426/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.58,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/118603.html"
+        }
       },
       "sources": [
         "google"
@@ -14469,8 +14981,8 @@
           "中華そば"
         ]
       },
-      "score": 43.8,
-      "rank": 165
+      "score": 44.4,
+      "rank": 166
     },
     {
       "id": "osm-n2385956566",
@@ -14492,7 +15004,11 @@
           "count": 47,
           "url": "https://tabelog.com/ehime/A3801/A380101/38008968/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 81.87,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/65115.html"
+        }
       },
       "sources": [
         "osm",
@@ -14512,7 +15028,7 @@
           "背脂"
         ]
       },
-      "score": 39
+      "score": 39.8
     },
     {
       "id": "g-ChIJ4Uaj00HlTzURl9OlS6i8PTY",
@@ -14601,8 +15117,8 @@
           "鶏"
         ]
       },
-      "score": 56,
-      "rank": 55
+      "score": 55.7,
+      "rank": 47
     },
     {
       "id": "g-ChIJq6qeD4zlTzURCGO0Yf1Und4",
@@ -14623,7 +15139,11 @@
           "count": 103,
           "url": "https://tabelog.com/ehime/A3801/A380101/38011335/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 90.09,
+          "count": 22,
+          "url": "https://ramendb.supleks.jp/s/93079.html"
+        }
       },
       "sources": [
         "google"
@@ -14637,8 +15157,8 @@
           "味噌"
         ]
       },
-      "score": 63,
-      "rank": 38
+      "score": 70.5,
+      "rank": 18
     },
     {
       "id": "g-ChIJVVSLIJTlTzURBFduhAvsazo",
@@ -14685,7 +15205,11 @@
           "count": 35,
           "url": "https://tabelog.com/ehime/A3801/A380101/38005431/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 85.42,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/85707.html"
+        }
       },
       "sources": [
         "google"
@@ -14707,8 +15231,8 @@
           "清湯"
         ]
       },
-      "score": 43.3,
-      "rank": 182
+      "score": 46.5,
+      "rank": 122
     },
     {
       "id": "osm-n10605774688",
@@ -14730,7 +15254,11 @@
           "count": 31,
           "url": "https://tabelog.com/ehime/A3801/A380101/38009907/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.94,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/74089.html"
+        }
       },
       "sources": [
         "osm",
@@ -14883,7 +15411,11 @@
           "count": 22,
           "url": "https://tabelog.com/ehime/A3801/A380103/38003857/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/115699.html"
+        }
       },
       "sources": [
         "google"
@@ -15014,7 +15546,11 @@
           "count": 20,
           "url": "https://tabelog.com/ehime/A3801/A380103/38000316/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.83,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/79041.html"
+        }
       },
       "sources": [
         "osm",
@@ -15055,7 +15591,11 @@
           "count": 37,
           "url": "https://tabelog.com/ehime/A3801/A380103/38005398/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.22,
+          "count": 7,
+          "url": "https://ramendb.supleks.jp/s/34570.html"
+        }
       },
       "sources": [
         "osm",
@@ -15071,7 +15611,7 @@
           "節"
         ]
       },
-      "score": 39
+      "score": 42.4
     },
     {
       "id": "osm-n12848296788",
@@ -15120,7 +15660,11 @@
           "count": 18,
           "url": "https://tabelog.com/ehime/A3801/A380103/38012239/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.85,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/164513.html"
+        }
       },
       "sources": [
         "google"
@@ -15198,7 +15742,11 @@
           "count": 52,
           "url": "https://tabelog.com/ehime/A3801/A380103/38013736/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.77,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/130879.html"
+        }
       },
       "sources": [
         "google"
@@ -15219,8 +15767,8 @@
           "清湯"
         ]
       },
-      "score": 52.1,
-      "rank": 71
+      "score": 49.3,
+      "rank": 84
     },
     {
       "id": "g-ChIJr87wYADvTzURH12wvotlTJY",
@@ -15306,8 +15854,8 @@
           "豚骨"
         ]
       },
-      "score": 55.5,
-      "rank": 60
+      "score": 55.2,
+      "rank": 52
     },
     {
       "id": "g-ChIJxRZLKyXvTzURL7itRhlS5D0",
@@ -15380,7 +15928,11 @@
           "count": null,
           "url": "https://tabelog.com/ehime/A3804/A380403/38012182/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/161947.html"
+        }
       },
       "sources": [
         "google"
@@ -15458,7 +16010,11 @@
           "count": 2,
           "url": "https://tabelog.com/ehime/A3802/A380205/38014809/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/155027.html"
+        }
       },
       "sources": [
         "google"
@@ -15475,8 +16031,8 @@
           "背脂"
         ]
       },
-      "score": 46.7,
-      "rank": 112
+      "score": 46.8,
+      "rank": 116
     },
     {
       "id": "g-ChIJ3ZyotSSxUTURAxUktYTpTDU",
@@ -15593,7 +16149,11 @@
           "count": 38,
           "url": "https://tabelog.com/ehime/A3802/A380203/38002098/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/121113.html"
+        }
       },
       "sources": [
         "google"
@@ -15610,7 +16170,7 @@
         ]
       },
       "score": 49.3,
-      "rank": 85
+      "rank": 82
     },
     {
       "id": "g-ChIJvRQ1m9nPUTURO9UlwK3BCSA",
@@ -15706,7 +16266,11 @@
           "count": 103,
           "url": "https://tabelog.com/ehime/A3802/A380203/38003347/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.79,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/101382.html"
+        }
       },
       "sources": [
         "osm",
@@ -15721,8 +16285,8 @@
           "辛い"
         ]
       },
-      "score": 63.7,
-      "rank": 35
+      "score": 55.4,
+      "rank": 51
     },
     {
       "id": "osm-n696846346",
@@ -15793,7 +16357,11 @@
           "count": 16,
           "url": "https://tabelog.com/ehime/A3802/A380203/38010882/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/87756.html"
+        }
       },
       "sources": [
         "google"
@@ -15807,8 +16375,8 @@
           "味噌"
         ]
       },
-      "score": 43.3,
-      "rank": 180
+      "score": 43.6,
+      "rank": 198
     },
     {
       "id": "g-ChIJL9Oodr3PUTURH-gme2_RAGs",
@@ -15852,8 +16420,8 @@
           "背脂"
         ]
       },
-      "score": 44.5,
-      "rank": 147
+      "score": 44.7,
+      "rank": 156
     },
     {
       "id": "g-ChIJiVctfxHPUTURmMmi1Qn6PgI",
@@ -15874,7 +16442,11 @@
           "count": 43,
           "url": "https://tabelog.com/ehime/A3802/A380203/38002868/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 77.47,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/25947.html"
+        }
       },
       "sources": [
         "google"
@@ -15952,7 +16524,11 @@
           "count": 4,
           "url": "https://tabelog.com/ehime/A3802/A380203/38010825/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/128780.html"
+        }
       },
       "sources": [
         "google"
@@ -16026,7 +16602,11 @@
           "count": 19,
           "url": "https://tabelog.com/ehime/A3802/A380203/38016275/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/164379.html"
+        }
       },
       "sources": [
         "google"
@@ -16037,8 +16617,8 @@
           "二郎系"
         ]
       },
-      "score": 43.4,
-      "rank": 179
+      "score": 43.7,
+      "rank": 196
     },
     {
       "id": "g-ChIJmY-NacvIUTURU7i-t-HRFZo",
@@ -16111,7 +16691,11 @@
           "count": 170,
           "url": "https://tabelog.com/ehime/A3802/A380203/38011043/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 91.85,
+          "count": 23,
+          "url": "https://ramendb.supleks.jp/s/90822.html"
+        }
       },
       "sources": [
         "google"
@@ -16135,8 +16719,8 @@
           "清湯"
         ]
       },
-      "score": 73.2,
-      "rank": 9
+      "score": 80.8,
+      "rank": 5
     },
     {
       "id": "g-ChIJKwgGJkvJUTUR5liL_v6Gb6w",
@@ -16157,7 +16741,11 @@
           "count": 16,
           "url": "https://tabelog.com/ehime/A3802/A380203/38012798/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.66,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/117051.html"
+        }
       },
       "sources": [
         "google"
@@ -16174,8 +16762,8 @@
           "豚骨"
         ]
       },
-      "score": 42.9,
-      "rank": 196
+      "score": 43.9,
+      "rank": 185
     },
     {
       "id": "g-ChIJ_THo1c_OUTUR868-lz0qdXE",
@@ -16196,7 +16784,11 @@
           "count": 31,
           "url": "https://tabelog.com/ehime/A3802/A380203/38000310/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.64,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/174137.html"
+        }
       },
       "sources": [
         "google"
@@ -16216,8 +16808,8 @@
           "中太麺"
         ]
       },
-      "score": 42.9,
-      "rank": 193
+      "score": 44,
+      "rank": 184
     },
     {
       "id": "g-ChIJK55oEcLOUTURhtj5YFANuh0",
@@ -16238,7 +16830,11 @@
           "count": 234,
           "url": "https://tabelog.com/ehime/A3802/A380203/38005961/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 86.14,
+          "count": 10,
+          "url": "https://ramendb.supleks.jp/s/56974.html"
+        }
       },
       "sources": [
         "google"
@@ -16257,8 +16853,8 @@
           "濃厚"
         ]
       },
-      "score": 76.1,
-      "rank": 4
+      "score": 67.5,
+      "rank": 22
     },
     {
       "id": "g-ChIJI1Zu3sjOUTURl09wjt0MOYQ",
@@ -16279,7 +16875,11 @@
           "count": 11,
           "url": "https://tabelog.com/ehime/A3802/A380203/38011825/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/144962.html"
+        }
       },
       "sources": [
         "google"
@@ -16302,7 +16902,7 @@
         ]
       },
       "score": 48.6,
-      "rank": 94
+      "rank": 89
     },
     {
       "id": "osm-w1442586905",
@@ -16340,7 +16940,7 @@
           "節"
         ]
       },
-      "score": 40
+      "score": 40.5
     },
     {
       "id": "g-ChIJsxhEZgXPUTURDD37lmUcX6E",
@@ -16387,7 +16987,11 @@
           "count": 47,
           "url": "https://tabelog.com/ehime/A3802/A380203/38013442/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.47,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/126359.html"
+        }
       },
       "sources": [
         "google"
@@ -16402,8 +17006,8 @@
           "豚骨"
         ]
       },
-      "score": 50.7,
-      "rank": 81
+      "score": 48.5,
+      "rank": 92
     },
     {
       "id": "g-ChIJ_wqFrkHPUTUR21VN6k3uktw",
@@ -16424,7 +17028,11 @@
           "count": 19,
           "url": "https://tabelog.com/ehime/A3802/A380203/38014421/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.54,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/141320.html"
+        }
       },
       "sources": [
         "google"
@@ -16440,7 +17048,7 @@
         ]
       },
       "score": 45.3,
-      "rank": 134
+      "rank": 141
     },
     {
       "id": "g-ChIJ3eOFHADPUTURzgorjAtZHi4",
@@ -16461,7 +17069,11 @@
           "count": 16,
           "url": "https://tabelog.com/ehime/A3802/A380203/38016067/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.86,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/160511.html"
+        }
       },
       "sources": [
         "google"
@@ -16478,8 +17090,8 @@
           "魚介"
         ]
       },
-      "score": 43.8,
-      "rank": 168
+      "score": 44.6,
+      "rank": 159
     },
     {
       "id": "g-ChIJV_uUOHzPUTUR7Ra50DlGqzM",
@@ -16500,7 +17112,11 @@
           "count": 17,
           "url": "https://tabelog.com/ehime/A3802/A380203/38014607/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/145409.html"
+        }
       },
       "sources": [
         "google"
@@ -16542,7 +17158,7 @@
           "醤油"
         ]
       },
-      "score": 40
+      "score": 40.4
     },
     {
       "id": "g-ChIJxTwZOMbOUTURTIRz0qZcgkU",
@@ -16563,7 +17179,11 @@
           "count": 11,
           "url": "https://tabelog.com/ehime/A3802/A380203/38001722/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/153004.html"
+        }
       },
       "sources": [
         "google"
@@ -16589,7 +17209,11 @@
           "count": 7,
           "url": "https://tabelog.com/ehime/A3802/A380203/38016525/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/167671.html"
+        }
       },
       "sources": [
         "google"
@@ -16615,7 +17239,11 @@
           "count": 29,
           "url": "https://tabelog.com/ehime/A3802/A380203/38000337/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/131492.html"
+        }
       },
       "sources": [
         "google"
@@ -16642,7 +17270,7 @@
           "url": "https://tabelog.com/ehime/A3802/A380203/38015508/"
         },
         "rdb": {
-          "score": 88.217,
+          "score": 88.2,
           "count": 8,
           "url": "https://ramendb.supleks.jp/s/156315.html"
         }
@@ -16672,8 +17300,8 @@
           "辛い"
         ]
       },
-      "score": 65.6,
-      "rank": 28
+      "score": 66.3,
+      "rank": 25
     },
     {
       "id": "g-ChIJI8ZAq2XPUTURyVVOnqoWWb0",
@@ -16768,7 +17396,11 @@
       "instagram": null,
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/159199.html"
+        }
       },
       "sources": [
         "google"
@@ -16888,8 +17520,8 @@
           "辛い"
         ]
       },
-      "score": 45.4,
-      "rank": 132
+      "score": 45.6,
+      "rank": 137
     },
     {
       "id": "g-ChIJJ8Xly4PPUTURQUF4NkEGjK0",
@@ -16925,7 +17557,7 @@
         ]
       },
       "score": 51.1,
-      "rank": 78
+      "rank": 72
     },
     {
       "id": "g-ChIJ2SGG_6jPUTURJAgMuKDgcOg",
@@ -17078,7 +17710,11 @@
           "count": 46,
           "url": "https://tabelog.com/ehime/A3802/A380203/38004095/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.93,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/111409.html"
+        }
       },
       "sources": [
         "google"
@@ -17095,8 +17731,8 @@
           "あっさり"
         ]
       },
-      "score": 56.5,
-      "rank": 53
+      "score": 52.1,
+      "rank": 63
     },
     {
       "id": "g-ChIJu3RfxtbOUTUR7A5MGiWyprk",
@@ -17170,7 +17806,11 @@
           "count": 53,
           "url": "https://tabelog.com/ehime/A3802/A380203/38014066/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.28,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/137586.html"
+        }
       },
       "sources": [
         "google"
@@ -17181,8 +17821,8 @@
           "つけ麺"
         ]
       },
-      "score": 60.1,
-      "rank": 43
+      "score": 54.6,
+      "rank": 54
     },
     {
       "id": "osm-n10681345782",
@@ -17204,7 +17844,11 @@
           "count": 20,
           "url": "https://tabelog.com/ehime/A3802/A380203/38013171/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/122742.html"
+        }
       },
       "sources": [
         "osm",
@@ -17361,7 +18005,11 @@
           "count": 34,
           "url": "https://tabelog.com/ehime/A3802/A380203/38002100/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/131573.html"
+        }
       },
       "sources": [
         "google"
@@ -17376,7 +18024,7 @@
           "節"
         ]
       },
-      "score": 42.2
+      "score": 42.5
     },
     {
       "id": "osm-n11814665969",
@@ -17398,7 +18046,11 @@
           "count": 46,
           "url": "https://tabelog.com/ehime/A3802/A380203/38006406/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.91,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/26062.html"
+        }
       },
       "sources": [
         "osm",
@@ -17414,7 +18066,7 @@
           "濃厚"
         ]
       },
-      "score": 39
+      "score": 41.4
     },
     {
       "id": "g-ChIJO66GTgDPUTURzi1bieNQtZQ",
@@ -17435,7 +18087,11 @@
           "count": 2,
           "url": "https://tabelog.com/ehime/A3802/A380203/38016826/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.14,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/172404.html"
+        }
       },
       "sources": [
         "google"
@@ -17449,8 +18105,8 @@
           "辛い"
         ]
       },
-      "score": 46.8,
-      "rank": 111
+      "score": 46,
+      "rank": 132
     },
     {
       "id": "osm-n2182962658",
@@ -17472,7 +18128,11 @@
           "count": 74,
           "url": "https://tabelog.com/ehime/A3802/A380203/38008075/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.82,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/144893.html"
+        }
       },
       "sources": [
         "osm",
@@ -17484,8 +18144,8 @@
           "豚骨"
         ]
       },
-      "score": 53.7,
-      "rank": 64
+      "score": 50.2,
+      "rank": 77
     },
     {
       "id": "g-ChIJVw4bFqrPUTURNt83o-F1BDg",
@@ -17582,7 +18242,11 @@
           "count": 36,
           "url": "https://tabelog.com/ehime/A3802/A380203/38001293/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.88,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/112796.html"
+        }
       },
       "sources": [
         "google"
@@ -17608,7 +18272,11 @@
           "count": 82,
           "url": "https://tabelog.com/ehime/A3802/A380203/38012118/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 86.47,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/105580.html"
+        }
       },
       "sources": [
         "google"
@@ -17623,8 +18291,8 @@
           "煮干し"
         ]
       },
-      "score": 64,
-      "rank": 33
+      "score": 60.9,
+      "rank": 37
     },
     {
       "id": "g-ChIJufMOfgDPUTURHl-QlJwHb5w",
@@ -17671,7 +18339,11 @@
           "count": 38,
           "url": "https://tabelog.com/ehime/A3802/A380203/38010397/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/80979.html"
+        }
       },
       "sources": [
         "google"
@@ -17690,7 +18362,7 @@
           "背脂"
         ]
       },
-      "score": 38.9
+      "score": 39.4
     },
     {
       "id": "g-ChIJq3JM08fOUTURLK_cuFuQpkw",
@@ -17711,7 +18383,11 @@
           "count": 23,
           "url": "https://tabelog.com/ehime/A3802/A380203/38007264/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.79,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/131572.html"
+        }
       },
       "sources": [
         "google"
@@ -17722,8 +18398,8 @@
           "中華そば"
         ]
       },
-      "score": 43.5,
-      "rank": 174
+      "score": 44.4,
+      "rank": 169
     },
     {
       "id": "g-ChIJ18AX-HstUDURxHSh9m7x744",
@@ -17770,7 +18446,11 @@
           "count": 2,
           "url": "https://tabelog.com/ehime/A3802/A380202/38008547/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/59847.html"
+        }
       },
       "sources": [
         "google"
@@ -17818,7 +18498,11 @@
       "instagram": null,
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": 80.74,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/88218.html"
+        }
       },
       "sources": [
         "google"
@@ -17834,7 +18518,9 @@
         "noodle": [
           "細麺"
         ]
-      }
+      },
+      "score": 45.2,
+      "rank": 143
     },
     {
       "id": "g-ChIJ08r3-bkvUDUREWx512OLY6U",
@@ -17881,7 +18567,11 @@
           "count": 27,
           "url": "https://tabelog.com/ehime/A3802/A380202/38003769/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/24965.html"
+        }
       },
       "sources": [
         "google"
@@ -17955,8 +18645,8 @@
           "あっさり"
         ]
       },
-      "score": 43.4,
-      "rank": 176
+      "score": 43.7,
+      "rank": 193
     },
     {
       "id": "g-ChIJC5FUNgArUDURSPyWU-EmhP8",
@@ -17999,7 +18689,11 @@
           "count": 6,
           "url": "https://tabelog.com/ehime/A3802/A380202/38007711/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.41,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/161405.html"
+        }
       },
       "sources": [
         "google"
@@ -18013,8 +18707,8 @@
           "味噌"
         ]
       },
-      "score": 44.6,
-      "rank": 144
+      "score": 44.8,
+      "rank": 152
     },
     {
       "id": "g-ChIJzzJ29xkvUDURNhuR9F6idSg",
@@ -18087,7 +18781,11 @@
           "count": 54,
           "url": "https://tabelog.com/ehime/A3802/A380202/38010990/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/89942.html"
+        }
       },
       "sources": [
         "google"
@@ -18102,7 +18800,7 @@
         ]
       },
       "score": 48.1,
-      "rank": 97
+      "rank": 94
     },
     {
       "id": "g-ChIJ9yyofx_TUTURLf31nzJoR40",
@@ -18223,7 +18921,11 @@
           "count": 21,
           "url": "https://tabelog.com/ehime/A3802/A380202/38010722/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 80.74,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/85131.html"
+        }
       },
       "sources": [
         "google"
@@ -18234,8 +18936,7 @@
           "中華そば"
         ]
       },
-      "score": 43.7,
-      "rank": 171
+      "score": 43.4
     },
     {
       "id": "g-ChIJKam_ysksUDURsA6OJrB3lUc",
@@ -18270,8 +18971,8 @@
           "味噌"
         ]
       },
-      "score": 43.8,
-      "rank": 169
+      "score": 44,
+      "rank": 181
     },
     {
       "id": "g-ChIJ580YFJstUDURUdYw5JiH16M",
@@ -18368,8 +19069,8 @@
           "味噌"
         ]
       },
-      "score": 47.4,
-      "rank": 103
+      "score": 47.5,
+      "rank": 106
     },
     {
       "id": "osm-w1434979128",
@@ -18391,7 +19092,11 @@
           "count": 36,
           "url": "https://tabelog.com/ehime/A3802/A380202/38010783/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 80.54,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/73477.html"
+        }
       },
       "sources": [
         "osm",
@@ -18410,8 +19115,8 @@
           "背脂"
         ]
       },
-      "score": 48.1,
-      "rank": 96
+      "score": 44.5,
+      "rank": 161
     },
     {
       "id": "osm-w1434979127",
@@ -18433,7 +19138,11 @@
           "count": 26,
           "url": "https://tabelog.com/ehime/A3802/A380202/38001282/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.23,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/77128.html"
+        }
       },
       "sources": [
         "osm",
@@ -18452,8 +19161,8 @@
           "背脂"
         ]
       },
-      "score": 43.8,
-      "rank": 166
+      "score": 43.9,
+      "rank": 188
     },
     {
       "id": "g-ChIJ0R8LOsLSUTURih3zosklW7Y",
@@ -18474,7 +19183,11 @@
           "count": 54,
           "url": "https://tabelog.com/ehime/A3802/A380202/38002106/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.9,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/168721.html"
+        }
       },
       "sources": [
         "google"
@@ -18490,8 +19203,8 @@
           "豚骨"
         ]
       },
-      "score": 47.4,
-      "rank": 104
+      "score": 46.6,
+      "rank": 119
     },
     {
       "id": "g-ChIJCed9Pc_SUTURvpQWzKPTUM8",
@@ -18512,7 +19225,11 @@
           "count": 72,
           "url": "https://tabelog.com/ehime/A3802/A380202/38001295/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.31,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/97122.html"
+        }
       },
       "sources": [
         "google"
@@ -18530,8 +19247,8 @@
           "あっさり"
         ]
       },
-      "score": 59.4,
-      "rank": 45
+      "score": 52.5,
+      "rank": 62
     },
     {
       "id": "g-ChIJVXEqtIorUDUR1xks7LW_X_I",
@@ -18578,7 +19295,11 @@
           "count": 44,
           "url": "https://tabelog.com/ehime/A3802/A380202/38003621/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.79,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/112481.html"
+        }
       },
       "sources": [
         "google"
@@ -18596,7 +19317,8 @@
           "背脂"
         ]
       },
-      "score": 42.3
+      "score": 44,
+      "rank": 182
     },
     {
       "id": "g-ChIJtWL9h18rUDUR3ZMsdL-KQdY",
@@ -18617,7 +19339,11 @@
           "count": 10,
           "url": "https://tabelog.com/ehime/A3802/A380202/38014692/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.54,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/145634.html"
+        }
       },
       "sources": [
         "google"
@@ -18643,7 +19369,11 @@
           "count": 13,
           "url": "https://tabelog.com/ehime/A3802/A380202/38016053/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/161758.html"
+        }
       },
       "sources": [
         "google"
@@ -18669,7 +19399,11 @@
           "count": 30,
           "url": "https://tabelog.com/ehime/A3802/A380202/38010975/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.34,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/89118.html"
+        }
       },
       "sources": [
         "google"
@@ -18680,7 +19414,7 @@
           "醤油"
         ]
       },
-      "score": 39
+      "score": 41.7
     },
     {
       "id": "g-ChIJ87TvWQDTUTURBktHgJXl0wM",
@@ -18753,7 +19487,11 @@
           "count": 51,
           "url": "https://tabelog.com/ehime/A3802/A380202/38000049/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 78.11,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/1521.html"
+        }
       },
       "sources": [
         "google"
@@ -18767,7 +19505,7 @@
           "豚骨"
         ]
       },
-      "score": 38.2
+      "score": 39
     },
     {
       "id": "g-ChIJ_VnTIwAtUDURl1fbrtpwXKs",
@@ -18980,8 +19718,8 @@
           "鶏"
         ]
       },
-      "score": 45.7,
-      "rank": 127
+      "score": 45.8,
+      "rank": 133
     },
     {
       "id": "g-ChIJMzI74xAvUDURz2c252VolcA",
@@ -19002,7 +19740,11 @@
           "count": 98,
           "url": "https://tabelog.com/ehime/A3802/A380202/38003250/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.08,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/161187.html"
+        }
       },
       "sources": [
         "google"
@@ -19045,7 +19787,7 @@
         ]
       },
       "score": 51.5,
-      "rank": 73
+      "rank": 67
     },
     {
       "id": "g-ChIJlRL_t7XSUTURninf_kSdKd4",
@@ -19140,7 +19882,11 @@
           "count": 29,
           "url": "https://tabelog.com/ehime/A3802/A380202/38008006/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/120639.html"
+        }
       },
       "sources": [
         "google"
@@ -19192,7 +19938,11 @@
           "count": 62,
           "url": "https://tabelog.com/ehime/A3802/A380202/38005903/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 85.43,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/113243.html"
+        }
       },
       "sources": [
         "google"
@@ -19219,8 +19969,8 @@
           "細麺"
         ]
       },
-      "score": 55.6,
-      "rank": 57
+      "score": 53.4,
+      "rank": 60
     },
     {
       "id": "g-ChIJMS_v2MksUDURSiXiGJlaThI",
@@ -19267,7 +20017,11 @@
           "count": 9,
           "url": "https://tabelog.com/ehime/A3802/A380202/38010525/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/143753.html"
+        }
       },
       "sources": [
         "google"
@@ -19293,7 +20047,11 @@
           "count": 136,
           "url": "https://tabelog.com/ehime/A3802/A380202/38012890/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 87.7,
+          "count": 9,
+          "url": "https://ramendb.supleks.jp/s/117035.html"
+        }
       },
       "sources": [
         "google"
@@ -19304,8 +20062,8 @@
           "中華そば"
         ]
       },
-      "score": 69.6,
-      "rank": 20
+      "score": 66.7,
+      "rank": 24
     },
     {
       "id": "g-ChIJjdzvsI7TUTURkE4LGnOF420",
@@ -19326,7 +20084,11 @@
           "count": 17,
           "url": "https://tabelog.com/ehime/A3802/A380202/38010426/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/128880.html"
+        }
       },
       "sources": [
         "google"
@@ -19400,7 +20162,11 @@
           "count": 22,
           "url": "https://tabelog.com/ehime/A3802/A380202/38016579/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/167879.html"
+        }
       },
       "sources": [
         "google"
@@ -19437,8 +20203,7 @@
           "豚骨"
         ]
       },
-      "score": 43,
-      "rank": 191
+      "score": 43.3
     },
     {
       "id": "g-ChIJY8eLGCgvUDUR03Q0tdmv9TU",
@@ -19459,7 +20224,11 @@
           "count": 22,
           "url": "https://tabelog.com/ehime/A3802/A380202/38006261/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.8,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/120619.html"
+        }
       },
       "sources": [
         "google"
@@ -19470,7 +20239,8 @@
           "豚骨"
         ]
       },
-      "score": 42.6
+      "score": 43.8,
+      "rank": 189
     },
     {
       "id": "g-ChIJD7BH98cpUDURWmISBDeGm2s",
@@ -19491,7 +20261,11 @@
           "count": 11,
           "url": "https://tabelog.com/ehime/A3802/A380202/38010516/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/152243.html"
+        }
       },
       "sources": [
         "google"
@@ -19517,7 +20291,11 @@
           "count": 25,
           "url": "https://tabelog.com/ehime/A3802/A380202/38004152/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.32,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/118312.html"
+        }
       },
       "sources": [
         "google"
@@ -19611,8 +20389,8 @@
           "清湯"
         ]
       },
-      "score": 46.3,
-      "rank": 119
+      "score": 46.4,
+      "rank": 123
     },
     {
       "id": "g-ChIJqRCIeM4vUDURwJpqDfqVycc",
@@ -19629,7 +20407,11 @@
       "instagram": "menno_toriko",
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/175115.html"
+        }
       },
       "sources": [
         "google"
@@ -19663,7 +20445,11 @@
           "count": 56,
           "url": "https://tabelog.com/ehime/A3802/A380202/38011881/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.48,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/100400.html"
+        }
       },
       "sources": [
         "osm",
@@ -19679,7 +20465,7 @@
           "豚骨"
         ]
       },
-      "score": 38.6
+      "score": 41.6
     },
     {
       "id": "g-ChIJr2SGC5kuUDUR4nIK0jyx1Xk",
@@ -20152,7 +20938,11 @@
           "count": 17,
           "url": "https://tabelog.com/ehime/A3804/A380402/38013419/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.46,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/120159.html"
+        }
       },
       "sources": [
         "google"
@@ -20358,7 +21148,11 @@
           "count": 11,
           "url": "https://tabelog.com/ehime/A3804/A380402/38000876/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/172945.html"
+        }
       },
       "sources": [
         "google"
@@ -20410,7 +21204,11 @@
           "count": 17,
           "url": "https://tabelog.com/ehime/A3804/A380402/38001082/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/118206.html"
+        }
       },
       "sources": [
         "google"
@@ -20562,7 +21360,11 @@
           "count": 0,
           "url": "https://tabelog.com/ehime/A3804/A380402/38017344/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/174821.html"
+        }
       },
       "sources": [
         "google"
@@ -20602,7 +21404,7 @@
           "url": "https://tabelog.com/ehime/A3804/A380402/38011504/"
         },
         "rdb": {
-          "score": 83.476,
+          "score": 84.15,
           "count": 2,
           "url": "https://ramendb.supleks.jp/s/94624.html"
         }
@@ -20627,8 +21429,8 @@
           "辛い"
         ]
       },
-      "score": 46.8,
-      "rank": 109
+      "score": 47.6,
+      "rank": 102
     },
     {
       "id": "g-ChIJB1xOAEmGRTURzYQGRdTcaFQ",
@@ -20803,8 +21605,8 @@
           "濃厚"
         ]
       },
-      "score": 66.5,
-      "rank": 26
+      "score": 65.7,
+      "rank": 27
     },
     {
       "id": "g-ChIJMX2ZE3B8RTURvlmtaQKlraI",
@@ -20998,8 +21800,8 @@
           "魚介"
         ]
       },
-      "score": 44.7,
-      "rank": 142
+      "score": 44.9,
+      "rank": 148
     },
     {
       "id": "g-ChIJGw4gjb-ATzURSBgVUZ5DrzM",
@@ -21037,7 +21839,7 @@
           "あっさり"
         ]
       },
-      "score": 42.3
+      "score": 42.6
     },
     {
       "id": "g-ChIJs50038CATzURc-vqlga9y0o",
@@ -21058,7 +21860,11 @@
           "count": 1,
           "url": "https://tabelog.com/ehime/A3803/A380301/38012132/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 81.92,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/132809.html"
+        }
       },
       "sources": [
         "google"
@@ -21104,8 +21910,7 @@
           "背脂"
         ]
       },
-      "score": 43.2,
-      "rank": 187
+      "score": 43.5
     },
     {
       "id": "g-ChIJ44hwAgB_RTURSrKn36QFXLE",
@@ -21143,8 +21948,8 @@
           "細麺"
         ]
       },
-      "score": 45.4,
-      "rank": 130
+      "score": 45.6,
+      "rank": 134
     },
     {
       "id": "g-ChIJJaPOapWATzURhYZxKWtjPJ8",
@@ -21165,7 +21970,11 @@
           "count": 32,
           "url": "https://tabelog.com/ehime/A3803/A380301/38005837/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.59,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/57330.html"
+        }
       },
       "sources": [
         "google"
@@ -21180,7 +21989,7 @@
           "節"
         ]
       },
-      "score": 39.4
+      "score": 42
     },
     {
       "id": "g-ChIJc6qCeNx_RTURpZXiWndEioY",
@@ -21271,7 +22080,11 @@
       "instagram": null,
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": 82.48,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/65928.html"
+        }
       },
       "sources": [
         "google"
@@ -21290,7 +22103,9 @@
         "character": [
           "あっさり"
         ]
-      }
+      },
+      "score": 46.7,
+      "rank": 118
     },
     {
       "id": "g-ChIJ25lTlsR_RTURjKK_XlKvKXE",
@@ -21359,7 +22174,11 @@
           "count": 12,
           "url": "https://tabelog.com/ehime/A3803/A380301/38003219/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.82,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/142238.html"
+        }
       },
       "sources": [
         "google"
@@ -21563,7 +22382,11 @@
           "count": 20,
           "url": "https://tabelog.com/ehime/A3803/A380301/38008655/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.68,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/137459.html"
+        }
       },
       "sources": [
         "google"
@@ -21589,7 +22412,11 @@
           "count": 199,
           "url": "https://tabelog.com/ehime/A3803/A380301/38008680/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/144051.html"
+        }
       },
       "sources": [
         "google"
@@ -21641,7 +22468,11 @@
           "count": 17,
           "url": "https://tabelog.com/ehime/A3803/A380301/38009562/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/149543.html"
+        }
       },
       "sources": [
         "google"
@@ -21693,7 +22524,11 @@
           "count": 36,
           "url": "https://tabelog.com/ehime/A3803/A380301/38003618/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/127894.html"
+        }
       },
       "sources": [
         "google"
@@ -21704,7 +22539,7 @@
           "豚骨"
         ]
       },
-      "score": 41.5
+      "score": 41.8
     },
     {
       "id": "g-ChIJbccUuuR_RTURw4Fu5SVIZDE",
@@ -21762,8 +22597,8 @@
           "豚骨"
         ]
       },
-      "score": 48.7,
-      "rank": 90
+      "score": 48.8,
+      "rank": 87
     },
     {
       "id": "g-ChIJLVis1NB_RTURnrnawDeISOk",
@@ -21836,7 +22671,11 @@
           "count": 101,
           "url": "https://tabelog.com/ehime/A3803/A380301/38002807/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.71,
+          "count": 5,
+          "url": "https://ramendb.supleks.jp/s/62460.html"
+        }
       },
       "sources": [
         "google"
@@ -21850,8 +22689,8 @@
           "味噌"
         ]
       },
-      "score": 65.9,
-      "rank": 27
+      "score": 55.6,
+      "rank": 49
     },
     {
       "id": "g-ChIJQV6cfmR_RTURlIBi2ro5QX0",
@@ -21898,7 +22737,11 @@
           "count": 13,
           "url": "https://tabelog.com/ehime/A3803/A380301/38004462/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/160352.html"
+        }
       },
       "sources": [
         "google"
@@ -21924,7 +22767,11 @@
           "count": 20,
           "url": "https://tabelog.com/ehime/A3803/A380301/38015874/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.33,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/158819.html"
+        }
       },
       "sources": [
         "google"
@@ -21935,7 +22782,8 @@
           "醤油"
         ]
       },
-      "score": 42.3
+      "score": 43.6,
+      "rank": 200
     },
     {
       "id": "g-ChIJaVa_7ex_RTUR_uxlzR2G06E",
@@ -22048,8 +22896,8 @@
           "味噌"
         ]
       },
-      "score": 43.8,
-      "rank": 164
+      "score": 44.1,
+      "rank": 179
     },
     {
       "id": "g-ChIJXaMLhv3rTzURqnQaBLDsxo4",
@@ -22122,7 +22970,11 @@
           "count": 56,
           "url": "https://tabelog.com/ehime/A3801/A380103/38000421/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.08,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/77145.html"
+        }
       },
       "sources": [
         "google"
@@ -22143,8 +22995,8 @@
           "こってり"
         ]
       },
-      "score": 51.4,
-      "rank": 74
+      "score": 49.4,
+      "rank": 81
     },
     {
       "id": "g-ChIJ01QG4aXpTzURIo1aukstOWI",
@@ -22165,7 +23017,11 @@
           "count": 138,
           "url": "https://tabelog.com/ehime/A3801/A380103/38013897/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 91.16,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/134162.html"
+        }
       },
       "sources": [
         "google"
@@ -22182,8 +23038,8 @@
           "細麺"
         ]
       },
-      "score": 70.4,
-      "rank": 15
+      "score": 73.3,
+      "rank": 14
     },
     {
       "id": "g-ChIJwUbQ5CzpTzURCwlsVnyQIc0",
@@ -22257,7 +23113,11 @@
           "count": 56,
           "url": "https://tabelog.com/ehime/A3801/A380103/38005434/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 81.27,
+          "count": 6,
+          "url": "https://ramendb.supleks.jp/s/31089.html"
+        }
       },
       "sources": [
         "osm",
@@ -22269,8 +23129,7 @@
           "豚骨"
         ]
       },
-      "score": 48.1,
-      "rank": 98
+      "score": 42.8
     },
     {
       "id": "g-ChIJLwKxFy3pTzURs6uMT2tW0Qo",
@@ -22317,7 +23176,11 @@
           "count": 12,
           "url": "https://tabelog.com/ehime/A3801/A380103/38006827/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.85,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/103744.html"
+        }
       },
       "sources": [
         "google"
@@ -22447,7 +23310,11 @@
           "count": 5,
           "url": "https://tabelog.com/ehime/A3801/A380102/38003707/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/61813.html"
+        }
       },
       "sources": [
         "google"
@@ -22708,7 +23575,11 @@
           "count": 38,
           "url": "https://tabelog.com/ehime/A3801/A380102/38007814/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.83,
+          "count": 5,
+          "url": "https://ramendb.supleks.jp/s/73674.html"
+        }
       },
       "sources": [
         "osm",
@@ -22727,8 +23598,8 @@
           "背脂"
         ]
       },
-      "score": 45.6,
-      "rank": 128
+      "score": 44.2,
+      "rank": 175
     },
     {
       "id": "osm-w1434979126",
@@ -22750,7 +23621,11 @@
           "count": 21,
           "url": "https://tabelog.com/ehime/A3801/A380102/38010368/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.01,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/73673.html"
+        }
       },
       "sources": [
         "osm",
@@ -22769,8 +23644,7 @@
           "背脂"
         ]
       },
-      "score": 44.2,
-      "rank": 152
+      "score": 42.5
     },
     {
       "id": "g-ChIJ46MnjPnnTzURSAzwOBZPk6o",
@@ -22791,7 +23665,11 @@
           "count": 42,
           "url": "https://tabelog.com/ehime/A3801/A380102/38006206/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.87,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/57259.html"
+        }
       },
       "sources": [
         "google"
@@ -22806,8 +23684,8 @@
           "節"
         ]
       },
-      "score": 43,
-      "rank": 190
+      "score": 44.5,
+      "rank": 164
     },
     {
       "id": "g-ChIJp8SRbHroTzURRUEMntgTn1w",
@@ -22928,7 +23806,11 @@
           "count": 10,
           "url": "https://tabelog.com/ehime/A3801/A380102/38016798/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/169502.html"
+        }
       },
       "sources": [
         "google"
@@ -22943,8 +23825,8 @@
           "豚骨"
         ]
       },
-      "score": 44.1,
-      "rank": 153
+      "score": 44.4,
+      "rank": 168
     },
     {
       "id": "g-ChIJb_KLBxPdTzUR2E0UvrBez3Y",
@@ -23091,7 +23973,11 @@
           "count": 30,
           "url": "https://tabelog.com/ehime/A3801/A380102/38000593/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/146067.html"
+        }
       },
       "sources": [
         "google"
@@ -23117,7 +24003,11 @@
           "count": 204,
           "url": "https://tabelog.com/ehime/A3801/A380102/38011146/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 86.08,
+          "count": 6,
+          "url": "https://ramendb.supleks.jp/s/91679.html"
+        }
       },
       "sources": [
         "google"
@@ -23128,8 +24018,8 @@
           "中華そば"
         ]
       },
-      "score": 71.9,
-      "rank": 12
+      "score": 64.3,
+      "rank": 30
     },
     {
       "id": "g-ChIJ5WJMLZXpTzUR4j9EU9raUMc",
@@ -23176,7 +24066,11 @@
           "count": 33,
           "url": "https://tabelog.com/ehime/A3801/A380102/38011436/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.99,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/94036.html"
+        }
       },
       "sources": [
         "google"
@@ -23195,7 +24089,7 @@
           "背脂"
         ]
       },
-      "score": 38.7
+      "score": 41.2
     },
     {
       "id": "g-ChIJL-6gbG2PTzURf4BRr13s4aI",
@@ -23476,7 +24370,11 @@
           "count": 46,
           "url": "https://tabelog.com/ehime/A3803/A380303/38000997/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.41,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/159239.html"
+        }
       },
       "sources": [
         "google"
@@ -23488,8 +24386,8 @@
           "ちゃんぽん"
         ]
       },
-      "score": 59.7,
-      "rank": 44
+      "score": 54,
+      "rank": 56
     },
     {
       "id": "g-ChIJSczdGX2XTzURXt01_U0ALLI",
@@ -23692,7 +24590,11 @@
           "count": 160,
           "url": "https://tabelog.com/ehime/A3803/A380302/38001292/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 88.92,
+          "count": 10,
+          "url": "https://ramendb.supleks.jp/s/53788.html"
+        }
       },
       "sources": [
         "google"
@@ -23745,7 +24647,11 @@
           "count": 173,
           "url": "https://tabelog.com/ehime/A3803/A380302/38010080/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 80.81,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/86899.html"
+        }
       },
       "sources": [
         "osm",
@@ -23786,7 +24692,7 @@
           "味噌"
         ]
       },
-      "score": 40.7
+      "score": 41.1
     },
     {
       "id": "g-ChIJkxAYp52ERTURKgVhE4ns7Fg",
@@ -23866,7 +24772,11 @@
           "count": 111,
           "url": "https://tabelog.com/ehime/A3803/A380302/38009539/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 83.42,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/100071.html"
+        }
       },
       "sources": [
         "google"
@@ -23997,7 +24907,11 @@
           "count": 187,
           "url": "https://tabelog.com/ehime/A3803/A380302/38001147/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 84.7,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/22193.html"
+        }
       },
       "sources": [
         "osm",
@@ -24018,8 +24932,8 @@
           "あっさり"
         ]
       },
-      "score": 67,
-      "rank": 24
+      "score": 59.1,
+      "rank": 38
     },
     {
       "id": "g-ChIJ4729HtuDRTURIs-lmiiQb-8",
@@ -24315,7 +25229,11 @@
           "count": 26,
           "url": "https://tabelog.com/ehime/A3803/A380302/38008286/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.98,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/113001.html"
+        }
       },
       "sources": [
         "osm",
@@ -24394,7 +25312,11 @@
           "count": 26,
           "url": "https://tabelog.com/ehime/A3803/A380302/38005840/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/146063.html"
+        }
       },
       "sources": [
         "google"
@@ -24421,7 +25343,11 @@
           "count": 56,
           "url": "https://tabelog.com/ehime/A3803/A380302/38005148/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.79,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/63918.html"
+        }
       },
       "sources": [
         "osm",
@@ -24474,7 +25400,11 @@
           "count": 4,
           "url": "https://tabelog.com/ehime/A3803/A380302/38010762/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/118124.html"
+        }
       },
       "sources": [
         "google"
