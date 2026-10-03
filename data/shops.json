@@ -12073,7 +12073,16 @@
       "placeId": "ChIJU9VgzHjlTzUR2xotKTdQsv8",
       "tags": {
         "soup": [
-          "鯛・鮮魚"
+          "鯛・鮮魚",
+          "醤油",
+          "塩"
+        ],
+        "style": [
+          "まぜそば",
+          "つけ麺"
+        ],
+        "character": [
+          "セメント系"
         ]
       },
       "score": 47.1,
