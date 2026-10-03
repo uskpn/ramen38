@@ -454,6 +454,126 @@
       "placeId": "ChIJgV0B6lKRTzURiF1GRQDBNIU",
       "osmId": "node/5923150586",
       "reason": "うどん店"
+    },
+    {
+      "id": "osm-n12189392385",
+      "name": "くら寿司",
+      "city": "宇和島市",
+      "placeId": "ChIJP89wh0NhTzURS0vF4_610bI",
+      "osmId": "node/12189392385",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-n12223988442",
+      "name": "スシロー",
+      "city": "宇和島市",
+      "placeId": "ChIJ4bpSIx9gTzURJwDxVCEfag0",
+      "osmId": "node/12223988442",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-w806280234",
+      "name": "くら寿司",
+      "city": "今治市",
+      "placeId": "ChIJ6VwkW8c6UDURG_vV0Lq1gRc",
+      "osmId": "way/806280234",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-w806280238",
+      "name": "スシロー",
+      "city": "今治市",
+      "placeId": "ChIJFWpZ3sI6UDURiGUwUhbTMcM",
+      "osmId": "way/806280238",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-w887783806",
+      "name": "はま寿司",
+      "city": "今治市",
+      "placeId": "ChIJXTCH3UQ6UDUR2cFxIFDBKZU",
+      "osmId": "way/887783806",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-w407607156",
+      "name": "スシロー四国中央店",
+      "city": "四国中央市",
+      "placeId": "ChIJjwsDn_2TUTURQ6UEBdeO2KY",
+      "osmId": "way/407607156",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-w1242616632",
+      "name": "くら寿司",
+      "city": "松山市",
+      "placeId": "ChIJwQAJdZzlTzURTFTUqGuMltA",
+      "osmId": "way/1242616632",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-n2387092821",
+      "name": "くら寿司松山枝松店",
+      "city": "松山市",
+      "placeId": "ChIJuxFmYgfmTzUR-gq_XGr71xM",
+      "osmId": "node/2387092821",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-n11559743711",
+      "name": "スシロー",
+      "city": "松山市",
+      "placeId": "ChIJk0Pgtp_lTzURNh-lkinTCog",
+      "osmId": "node/11559743711",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-w386594697",
+      "name": "スシロー",
+      "city": "松山市",
+      "placeId": "ChIJE1t0SYLvTzUR8Q6bYxYkOEY",
+      "osmId": "way/386594697",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-w443689862",
+      "name": "スシロー",
+      "city": "松山市",
+      "placeId": "ChIJeeRXUlbvTzURkH4Hmctk4C4",
+      "osmId": "way/443689862",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-n2385962867",
+      "name": "はま寿司",
+      "city": "松山市",
+      "placeId": "ChIJV5N9pnTvTzURUvZK2sgSgRA",
+      "osmId": "node/2385962867",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-w1150196616",
+      "name": "スシロー",
+      "city": "新居浜市",
+      "placeId": "ChIJR5cFAB3PUTURa-TxmcHdET4",
+      "osmId": "way/1150196616",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-w1148003241",
+      "name": "はま寿司",
+      "city": "新居浜市",
+      "placeId": "ChIJN7b8D-bOUTURMOa3a2l3jrg",
+      "osmId": "way/1148003241",
+      "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "osm-n2213881378",
+      "name": "スシロー",
+      "city": "西条市",
+      "placeId": "ChIJuXsVdLrSUTUR2Kjfvp1BcqY",
+      "osmId": "node/2213881378",
+      "reason": "回転寿司（ジャンル外）"
     }
   ]
 }

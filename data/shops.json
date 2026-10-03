@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T10:54:07.518Z",
+  "updatedAt": "2026-10-03T11:19:22.462Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -1639,34 +1639,6 @@
       "placeId": "ChIJ54tWILP1RTUR-nmL42h-htU"
     },
     {
-      "id": "osm-n12189392385",
-      "name": "くら寿司",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.2104919,
-      "lng": 132.5584992,
-      "city": "宇和島市",
-      "address": "〒798-0081 愛媛県宇和島市中沢町１丁目１−１１",
-      "hours": null,
-      "phone": "0895-28-9610",
-      "website": "https://shop.kurasushi.co.jp/detail/634?utm_source=&utm_medium=gmb&utm_campaign=gmb_access&utm_content=gmb_",
-      "osmId": "node/12189392385",
-      "instagram": "kurasushi.jp",
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38015213/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJP89wh0NhTzURS0vF4_610bI"
-    },
-    {
       "id": "g-ChIJPzTFEgBhTzUR0SCVe4dp0hE",
       "name": "げんきや",
       "category": "ramen",
@@ -1747,34 +1719,6 @@
         "google"
       ],
       "placeId": "ChIJ51_vUSFgTzURYO3TYzZXJBg"
-    },
-    {
-      "id": "osm-n12223988442",
-      "name": "スシロー",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.2038206,
-      "lng": 132.5545076,
-      "city": "宇和島市",
-      "address": "〒798-0084 愛媛県宇和島市寄松甲１７１−１",
-      "hours": "Mo-Fr 11:00-22:30; Sa-Su,PH 10:30-22:30",
-      "phone": "0895-20-1511",
-      "website": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=256",
-      "osmId": "node/12223988442",
-      "instagram": "akindosushiroco",
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 8,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38008200/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJ4bpSIx9gTzURJwDxVCEfag0"
     },
     {
       "id": "g-ChIJOfdmDQBhTzUR68Zq0f28xTA",
@@ -4005,34 +3949,6 @@
       "placeId": "ChIJAa9X43s6UDURoAf-NV4XqiI"
     },
     {
-      "id": "osm-w806280234",
-      "name": "くら寿司",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 34.0344664,
-      "lng": 132.9995469,
-      "city": "今治市",
-      "address": "〒794-0840 愛媛県今治市中寺 字樋掛242-1",
-      "hours": null,
-      "phone": "0898-35-3005",
-      "website": "https://shop.kurasushi.co.jp/detail/453?utm_source=&utm_medium=gmb&utm_campaign=gmb_access&utm_content=gmb_",
-      "osmId": "way/806280234",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 14,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38011518/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJ6VwkW8c6UDURG_vV0Lq1gRc"
-    },
-    {
       "id": "g-ChIJX69e5mc6UDURkIgCO9w1TPk",
       "name": "こきんや",
       "category": "restaurant",
@@ -4157,34 +4073,6 @@
         "google"
       ],
       "placeId": "ChIJD1J_q2UwUDURUqtRjNKWRPk"
-    },
-    {
-      "id": "osm-w806280238",
-      "name": "スシロー",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 34.0412767,
-      "lng": 132.9914019,
-      "city": "今治市",
-      "address": "〒794-0840 愛媛県今治市中寺５９９−１",
-      "hours": null,
-      "phone": "0898-33-8024",
-      "website": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=180",
-      "osmId": "way/806280238",
-      "instagram": "akindosushiroco",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 18,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38006387/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJFWpZ3sI6UDURiGUwUhbTMcM"
     },
     {
       "id": "g-ChIJEzUXCF06UDURGNwdb4RvAfA",
@@ -4458,34 +4346,6 @@
         "google"
       ],
       "placeId": "ChIJ-xaVDaM7UDURcj9of9m8puY"
-    },
-    {
-      "id": "osm-w887783806",
-      "name": "はま寿司",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 34.0708293,
-      "lng": 132.9934592,
-      "city": "今治市",
-      "address": "〒794-0026 愛媛県今治市別宮町４丁目５−１７",
-      "hours": null,
-      "phone": "0570-003-480",
-      "website": "https://maps.hama-sushi.co.jp/jp/detail/4253.html",
-      "osmId": "way/887783806",
-      "instagram": "hamasushi_jp",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 18,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38008849/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJXTCH3UQ6UDUR2cFxIFDBKZU"
     },
     {
       "id": "g-ChIJ3TRqr687UDURBLjN4Ymued8",
@@ -7076,34 +6936,6 @@
       "placeId": "ChIJKw3wD1GRUTURj5XgTpzrn2w"
     },
     {
-      "id": "osm-w407607156",
-      "name": "スシロー四国中央店",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.9907053,
-      "lng": 133.5673735,
-      "city": "四国中央市",
-      "address": "〒799-0113 愛媛県四国中央市妻鳥町１６７１−１",
-      "hours": null,
-      "phone": "0896-56-7821",
-      "website": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=255",
-      "osmId": "way/407607156",
-      "instagram": "akindosushiroco",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 20,
-          "url": "https://tabelog.com/ehime/A3802/A380204/38007754/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJjwsDn_2TUTURQ6UEBdeO2KY"
-    },
-    {
       "id": "g-ChIJaegPNBWUUTURQq4IjG82OXE",
       "name": "せんばやし",
       "category": "ramen",
@@ -8884,62 +8716,6 @@
       "rank": 153
     },
     {
-      "id": "osm-w1242616632",
-      "name": "くら寿司",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.8486328,
-      "lng": 132.751847,
-      "city": "松山市",
-      "address": "〒790-0065 愛媛県松山市宮西２丁目４−３７",
-      "hours": null,
-      "phone": "089-995-8125",
-      "website": "https://shop.kurasushi.co.jp/detail/438?utm_source=&utm_medium=gmb&utm_campaign=gmb_access&utm_content=gmb_",
-      "osmId": "way/1242616632",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 18,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38011040/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJwQAJdZzlTzURTFTUqGuMltA"
-    },
-    {
-      "id": "osm-n2387092821",
-      "name": "くら寿司松山枝松店",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.8284906,
-      "lng": 132.7857184,
-      "city": "松山市",
-      "address": "〒790-0962 愛媛県松山市枝松５丁目７−１６",
-      "hours": null,
-      "phone": "089-986-6610",
-      "website": "https://shop.kurasushi.co.jp/detail/16?utm_source=&utm_medium=gmb&utm_campaign=gmb_access&utm_content=gmb_",
-      "osmId": "node/2387092821",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 38,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38007394/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJuxFmYgfmTzUR-gq_XGr71xM"
-    },
-    {
       "id": "osm-n2441099695",
       "name": "こだわりラーメン海鮮とんこつ家",
       "category": "ramen",
@@ -9119,90 +8895,6 @@
           "辛い"
         ]
       }
-    },
-    {
-      "id": "osm-n11559743711",
-      "name": "スシロー",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.8547267,
-      "lng": 132.7476596,
-      "city": "松山市",
-      "address": "〒791-8015 愛媛県松山市中央２丁目３１−１",
-      "hours": null,
-      "phone": "089-911-5171",
-      "website": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=294",
-      "osmId": "node/11559743711",
-      "instagram": "akindosushiroco",
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 19,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38009225/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJk0Pgtp_lTzURNh-lkinTCog"
-    },
-    {
-      "id": "osm-w386594697",
-      "name": "スシロー",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.8336369,
-      "lng": 132.7445648,
-      "city": "松山市",
-      "address": "愛媛県松山市生石町6585",
-      "hours": null,
-      "phone": "+81-89-987-3377",
-      "website": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=211",
-      "osmId": "way/386594697",
-      "instagram": "akindosushiroco",
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 29,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38006423/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJE1t0SYLvTzUR8Q6bYxYkOEY"
-    },
-    {
-      "id": "osm-w443689862",
-      "name": "スシロー",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.8231342,
-      "lng": 132.7785364,
-      "city": "松山市",
-      "address": "〒790-0951 愛媛県松山市天山１丁目１０−３０",
-      "hours": null,
-      "phone": "089-987-7863",
-      "website": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=228",
-      "osmId": "way/443689862",
-      "instagram": "akindosushiroco",
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 40,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38007165/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJeeRXUlbvTzURkH4Hmctk4C4"
     },
     {
       "id": "g-ChIJKcU8SZrlTzURSch77SRYGVY",
@@ -9826,34 +9518,6 @@
       },
       "score": 55.8,
       "rank": 55
-    },
-    {
-      "id": "osm-n2385962867",
-      "name": "はま寿司",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.81913,
-      "lng": 132.7513337,
-      "city": "松山市",
-      "address": "愛媛県松山市保免上1丁目162",
-      "hours": null,
-      "phone": "0570-003-172",
-      "website": "https://maps.hama-sushi.co.jp/jp/detail/4162.html",
-      "osmId": "node/2385962867",
-      "instagram": "hamasushi_jp",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 24,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38007637/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJV5N9pnTvTzURUvZK2sgSgRA"
     },
     {
       "id": "g-ChIJnzKS8O7lTzURwU80Eh2lrTY",
@@ -16169,34 +15833,6 @@
       "rank": 148
     },
     {
-      "id": "osm-w1150196616",
-      "name": "スシロー",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.9416978,
-      "lng": 133.293162,
-      "city": "新居浜市",
-      "address": "〒792-0829 愛媛県新居浜市松木町３−３６",
-      "hours": null,
-      "phone": "0897-66-2215",
-      "website": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=235",
-      "osmId": "way/1150196616",
-      "instagram": "akindosushiroco",
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 22,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38007350/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJR5cFAB3PUTURa-TxmcHdET4"
-    },
-    {
       "id": "g-ChIJiVctfxHPUTURmMmi1Qn6PgI",
       "name": "チャイナハウス すけろく 星原店",
       "category": "chinese",
@@ -16247,34 +15883,6 @@
         "google"
       ],
       "placeId": "ChIJwSt7KszOUTURloQMURbyR9w"
-    },
-    {
-      "id": "osm-w1148003241",
-      "name": "はま寿司",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.9501054,
-      "lng": 133.2815251,
-      "city": "新居浜市",
-      "address": "〒792-0035 愛媛県新居浜市西の土居町１丁目８−１０",
-      "hours": null,
-      "phone": "0570-003-236",
-      "website": "https://maps.hama-sushi.co.jp/jp/detail/4203.html",
-      "osmId": "way/1148003241",
-      "instagram": "hamasushi_jp",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 11,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38008259/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJN7b8D-bOUTURMOa3a2l3jrg"
     },
     {
       "id": "g-ChIJ33sH5h_PUTURfxLeclkXG-0",
@@ -18108,35 +17716,6 @@
       "rank": 175
     },
     {
-      "id": "g-ChIJqRCIeM4vUDURwJpqDfqVycc",
-      "name": "麺のTORIKO",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.930702499999995,
-      "lng": 133.0897465,
-      "city": "西条市",
-      "address": "〒799-1353 愛媛県西条市三津屋南4−１３",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": "menno_toriko",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJqRCIeM4vUDURwJpqDfqVycc",
-      "tags": {
-        "style": [
-          "ラーメン",
-          "つけ麺",
-          "油そば"
-        ]
-      }
-    },
-    {
       "id": "g-ChIJ18AX-HstUDURxHSh9m7x744",
       "name": "sui café",
       "category": "other",
@@ -18426,34 +18005,6 @@
       },
       "score": 44.6,
       "rank": 146
-    },
-    {
-      "id": "osm-n2213881378",
-      "name": "スシロー",
-      "category": "chain-sushi",
-      "ramen": "menu",
-      "lat": 33.928726,
-      "lng": 133.184836,
-      "city": "西条市",
-      "address": "〒793-0027 愛媛県西条市朔日市７６８−１",
-      "hours": null,
-      "phone": "0897-52-5801",
-      "website": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=268",
-      "osmId": "node/2213881378",
-      "instagram": "akindosushiroco",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 17,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38007995/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJuXsVdLrSUTUR2Kjfvp1BcqY"
     },
     {
       "id": "g-ChIJzzJ29xkvUDURNhuR9F6idSg",
@@ -20052,6 +19603,35 @@
       },
       "score": 46.3,
       "rank": 120
+    },
+    {
+      "id": "g-ChIJqRCIeM4vUDURwJpqDfqVycc",
+      "name": "麺のTORIKO",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.930702499999995,
+      "lng": 133.0897465,
+      "city": "西条市",
+      "address": "〒799-1353 愛媛県西条市三津屋南4−１３",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": "menno_toriko",
+      "ratings": {
+        "tabelog": null,
+        "rdb": null
+      },
+      "sources": [
+        "google"
+      ],
+      "placeId": "ChIJqRCIeM4vUDURwJpqDfqVycc",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺",
+          "油そば"
+        ]
+      }
     },
     {
       "id": "osm-n8430959261",

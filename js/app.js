@@ -5,7 +5,6 @@
     ramen: { label: 'ラーメン専門店' },
     chinese: { label: '中華料理' },
     shokudo: { label: '食堂・定食' },
-    'chain-sushi': { label: '回転寿司' },
     chain: { label: 'チェーン' },
     restaurant: { label: 'その他の飲食店' },
     other: { label: '未確認', off: true },

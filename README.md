@@ -3,7 +3,7 @@
 一杯から、愛媛を知る。
 
 愛媛県内で **ラーメンが食べられるお店** を地図で探せる静的サイトです。
-ラーメン専門店だけでなく、中華料理店・食堂・回転寿司などラーメンを出しているお店もまとめて掲載します。
+ラーメン専門店だけでなく、中華料理店・食堂などラーメンを出しているお店もまとめて掲載します。
 
 - 地図（クラスタ表示）＋リスト、市町・種類・Instagram有無での絞り込み
 - **評価くらべ表**：Google / 食べログ / ラーメンデータベース の評価を横並びで比較
@@ -35,7 +35,7 @@ npm run serve        # http://localhost:8080
 {
   "id": "osm-n123",               // 一意なID
   "name": "〇〇ラーメン",
-  "category": "ramen",            // ramen / chinese / shokudo / chain-sushi / chain / restaurant / other
+  "category": "ramen",            // ramen / chinese / shokudo / chain / restaurant / other
   "ramen": "specialty",           // specialty=専門店, menu=メニューにあり(確認済み), likely=ありそう(未確認)
   "lat": 33.84, "lng": 132.77, "city": "松山市",
   "address": "...", "hours": "...", "phone": "...", "website": "...",
