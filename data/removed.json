@@ -622,6 +622,14 @@
       "placeId": null,
       "osmId": null,
       "reason": "閉業"
+    },
+    {
+      "id": "rdb-90513",
+      "name": "サッポロラーメン 西条東店",
+      "city": "西条市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "閉業"
     }
   ]
 }
