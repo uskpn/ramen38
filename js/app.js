@@ -15,6 +15,15 @@
     menu: 'ラーメンあり',
     likely: 'ラーメンあり?',
   };
+  // タグ（店ごとに無制限で付ける）。shop.tags = { style: [], soup: [], noodle: [], character: [] }
+  const TAG_GROUPS = [
+    { key: 'style', label: 'Style', tags: ['ラーメン', '中華そば', '家系', '二郎系', 'つけ麺', 'まぜそば', '担々麺', 'ちゃんぽん', '辛麺', '冷やし', '創作系'] },
+    { key: 'soup', label: 'Soup', tags: ['醤油', '塩', '味噌', '豚骨', '鶏', '鶏白湯', '魚介', '煮干し', '節', '鯛・鮮魚', '貝', '海老・蟹', '野菜', '胡麻', 'カレー', '柑橘'] },
+    { key: 'noodle', label: 'Noodle', tags: ['細麺', '太麺', '自家製麺'] },
+    { key: 'character', label: 'Character', tags: ['あっさり', 'こってり', '濃厚', '清湯', '白湯', 'セメント', '泡系', '背脂', '辛い', '痺れ', 'にんにく'] },
+  ];
+  const tagsOf = (shop, key) => shop.tags?.[key] || [];
+
   // 評価を並べるサイト。url が無い店舗は各サイトの検索ページへリンクする
   const SITES = [
     { key: 'google', label: 'Google', max: 5, linkOnly: true, // 点数は規約上保存・掲載せず、Google マップへ案内する
@@ -37,6 +46,7 @@
     q: '', city: '', sort: 'rank',
     cats: new Set(Object.keys(CATEGORIES).filter((k) => !CATEGORIES[k].off)),
     igOnly: false, ratedOnly: false, hideClosed: true,
+    tags: Object.fromEntries(TAG_GROUPS.map((g) => [g.key, new Set()])), // 同じ段の中は OR、段どうしは AND
     view: 'map',
     limit: 60,
     activeId: null,
@@ -120,6 +130,11 @@
       <span class="site">${site.label}</span><b>—</b><small>${r?.url ? 'page' : 'search'}</small></a>`;
   }
 
+  const tagsHtml = (shop) => {
+    const all = TAG_GROUPS.flatMap((g) => tagsOf(shop, g.key));
+    return all.length ? `<p class="tags">${all.map((x) => `<span>${esc(x)}</span>`).join('')}</p>` : '';
+  };
+
   function instagramLink(shop) {
     if (!shop.instagram) return '';
     return `<a class="ig" href="https://www.instagram.com/${esc(shop.instagram)}/" target="_blank" rel="noopener">@${esc(shop.instagram)}</a>`;
@@ -142,6 +157,7 @@
     return `<div class="popup">
       <p class="shop-meta">${meta(shop)}</p>
       <p class="shop-name">${rankBadge(shop)}${esc(shop.name)}</p>
+      ${tagsHtml(shop)}
       <dl>${rows.map(([k, v]) => `<dt>${label[k]}</dt><dd>${k === '住所' ? esc(v) : v}</dd>`).join('')}</dl>
       <div class="ratings">${SITES.map((s) => ratingCell(shop, s)).join('')}</div>
       <p class="popup-links">
@@ -172,6 +188,7 @@
       (!state.igOnly || s.instagram) &&
       (!state.ratedOnly || hasRating(s)) &&
       (!state.hideClosed || s.closed !== true) &&
+      TAG_GROUPS.every((g) => !state.tags[g.key].size || tagsOf(s, g.key).some((x) => state.tags[g.key].has(x))) &&
       (!q || `${s.name} ${s.address || ''} ${s.city}`.normalize('NFKC').toLowerCase().includes(q)));
     const byName = (a, b) => a.name.localeCompare(b.name, 'ja');
     const sorters = {
@@ -194,6 +211,7 @@
       <li data-id="${esc(s.id)}" class="${s.id === state.activeId ? 'active' : ''}">
         <p class="shop-name">${rankBadge(s)}${esc(s.name)}</p>
         <p class="shop-meta">${meta(s)}</p>
+        ${tagsHtml(s)}
         <div class="ratings">${SITES.map((site) => ratingCell(s, site)).join('')}</div>
         ${instagramLink(s)}
       </li>`).join('') + (list.length > state.limit ? `<li class="more"><button type="button" id="more">More — ${list.length - state.limit}</button></li>` : '')
@@ -258,6 +276,15 @@
       state.cats[on ? 'add' : 'delete'](btn.dataset.cat);
       reset();
     });
+    $('#tag-filters').addEventListener('click', (e) => {
+      const btn = e.target.closest('.tagchip');
+      if (!btn) return;
+      const set = state.tags[btn.dataset.group];
+      const on = !set.has(btn.dataset.tag);
+      set[on ? 'add' : 'delete'](btn.dataset.tag);
+      btn.setAttribute('aria-pressed', on);
+      reset();
+    });
     document.querySelectorAll('.view-switch button, .site-nav a[data-view]').forEach((b) =>
       b.addEventListener('click', () => setView(b.dataset.view)));
     $('#list').addEventListener('click', (e) => {
@@ -297,6 +324,13 @@
     }).join(''));
     $('#categories').innerHTML = Object.entries(CATEGORIES).map(([k, v]) =>
       `<button type="button" class="toggle" data-cat="${k}" aria-pressed="${!v.off}">${v.label}</button>`).join('');
+    // タグの絞り込み（実際に付いているタグだけ表示。1つも付いていなければ欄ごと隠す）
+    const used = (g) => g.tags.filter((x) => state.shops.some((s) => tagsOf(s, g.key).includes(x)));
+    const rows = TAG_GROUPS.map((g) => [g, used(g)]).filter(([, tags]) => tags.length);
+    $('#tag-filters').hidden = !rows.length;
+    $('#tag-filters').innerHTML = rows.map(([g, tags]) => `
+      <div class="tag-row"><span class="field-label">${g.label}</span><div class="tag-chips">${tags.map((x) =>
+        `<button type="button" class="tagchip" data-group="${g.key}" data-tag="${esc(x)}" aria-pressed="false">${esc(x)}</button>`).join('')}</div></div>`).join('');
     if (db.updatedAt) $('#updated').textContent = new Date(db.updatedAt).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 
     // ヒーローの数字（閉店を除く）

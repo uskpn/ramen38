@@ -313,3 +313,15 @@ button, input, select { font: inherit; color: inherit; }
 .leaflet-container .leaflet-control-attribution a { color: var(--muted); }
 .index-table .ig::before { content: none; }
 .index-table .ig { margin-top: 0; }
+
+/* タグ */
+.tag-filters { padding: 14px var(--gutter) 6px; border-bottom: 1px solid var(--line); display: grid; gap: 8px; }
+.tag-row { display: grid; grid-template-columns: 84px 1fr; align-items: baseline; gap: 12px; }
+.tag-row .field-label { margin: 0; }
+.tag-chips { display: flex; flex-wrap: wrap; gap: 6px 8px; }
+.tagchip { background: none; border: 1px solid var(--line); padding: 2px 10px; font: inherit; font-size: 12px; letter-spacing: .06em; color: var(--ink-2); cursor: pointer; }
+.tagchip:hover { border-color: var(--ink); }
+.tagchip[aria-pressed=true] { background: var(--ink); border-color: var(--ink); color: #fff; }
+.tags { display: flex; flex-wrap: wrap; gap: 4px 6px; margin: 0 0 12px; }
+.tags span { font-size: 11px; letter-spacing: .06em; color: var(--ink-2); border: 1px solid var(--line); padding: 0 7px; line-height: 1.7; }
+@media (max-width: 720px) { .tag-row { grid-template-columns: 1fr; gap: 4px; } }
