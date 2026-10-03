@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T07:13:02.047Z",
+  "updatedAt": "2026-10-03T07:51:29.192Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -790,8 +790,19 @@
         "google"
       ],
       "placeId": "ChIJW6rc8_ftTzURAf0TFV716b8",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "鶏"
+        ]
+      },
       "score": 52.8,
-      "rank": 70
+      "rank": 69
     },
     {
       "id": "g-ChIJj3GCjvbtTzURA6BtaGK7DuU",
@@ -874,8 +885,17 @@
         "google"
       ],
       "placeId": "ChIJN1MKv33yTzURRV2nTpf2XBY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌",
+          "豚骨"
+        ]
+      },
       "score": 46.7,
-      "rank": 117
+      "rank": 116
     },
     {
       "id": "g-ChIJtT3zIwzzTzURyIL4hcgwBJY",
@@ -1006,8 +1026,20 @@
         "google"
       ],
       "placeId": "ChIJKfZIXobyTzURjTmYeEe25MQ",
-      "score": 63.7,
-      "rank": 39
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "豚骨",
+          "鶏"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
+      "score": 63.8,
+      "rank": 38
     },
     {
       "id": "g-ChIJ17WCdQCNTzURjtptL28Y6DI",
@@ -1062,7 +1094,20 @@
         "google"
       ],
       "placeId": "ChIJIR9k1zyITzURcxtVxxt3oLM",
-      "score": 43
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
+      "score": 43,
+      "rank": 199
     },
     {
       "id": "g-ChIJYUH6W4blTzURP37OHNz6Hh8",
@@ -1137,8 +1182,14 @@
         "google"
       ],
       "placeId": "ChIJNaDDdgDzTzURFtN48ik27_M",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "冷やし"
+        ]
+      },
       "score": 44.6,
-      "rank": 158
+      "rank": 155
     },
     {
       "id": "g-ChIJTVP-SdKNTzURQ5H5IElwOyw",
@@ -1165,6 +1216,15 @@
         "google"
       ],
       "placeId": "ChIJTVP-SdKNTzURQ5H5IElwOyw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "魚介"
+        ]
+      },
       "score": 41.5
     },
     {
@@ -1240,8 +1300,19 @@
         "google"
       ],
       "placeId": "ChIJ99x91XbyTzURgX11B7gb1WQ",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "塩"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 49.1,
-      "rank": 95
+      "rank": 94
     },
     {
       "id": "g-ChIJPQ2rRr3yTzURscufie5jp14",
@@ -1272,6 +1343,11 @@
         "google"
       ],
       "placeId": "ChIJPQ2rRr3yTzURscufie5jp14",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 42.6
     },
     {
@@ -1409,8 +1485,23 @@
         "google"
       ],
       "placeId": "ChIJJ22KhC9gTzUR9kNjgmz6oEM",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 43.9,
-      "rank": 173
+      "rank": 170
     },
     {
       "id": "g-ChIJW2Y4mwRjTzUR5mUkr06Fpf0",
@@ -1586,7 +1677,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJPzTFEgBhTzUR0SCVe4dp0hE"
+      "placeId": "ChIJPzTFEgBhTzUR0SCVe4dp0hE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      }
     },
     {
       "id": "g-ChIJqVsIs8dhTzURk8uxqqqaPmg",
@@ -1693,8 +1792,19 @@
         "google"
       ],
       "placeId": "ChIJOfdmDQBhTzUR68Zq0f28xTA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "鶏白湯",
+          "魚介",
+          "貝"
+        ]
+      },
       "score": 47,
-      "rank": 116
+      "rank": 115
     },
     {
       "id": "g-ChIJbZV2h8lhTzUR_FXhtrNCEY4",
@@ -1773,6 +1883,11 @@
         "google"
       ],
       "placeId": "ChIJIVm56SNgTzUR_NC5byb3R60",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 42.6
     },
     {
@@ -1971,7 +2086,18 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ2SA6oMthTzURsNVMgDsLXEc"
+      "placeId": "ChIJ2SA6oMthTzURsNVMgDsLXEc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "辛い"
+        ]
+      }
     },
     {
       "id": "osm-n13744174061",
@@ -2000,6 +2126,25 @@
         "google"
       ],
       "placeId": "ChIJq6qGqsthTzUR2vmUSvBr7Cs",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "二郎系",
+          "つけ麺"
+        ],
+        "soup": [
+          "豚骨",
+          "鶏白湯",
+          "魚介",
+          "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
       "score": 42.5
     },
     {
@@ -2659,6 +2804,16 @@
         "google"
       ],
       "placeId": "ChIJhTJ1QcT1RTURkEZlpSkoTVM",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "塩",
+          "味噌"
+        ]
+      },
       "score": 42.2
     },
     {
@@ -2766,8 +2921,17 @@
         "google"
       ],
       "placeId": "ChIJhVeJy8thTzURPu7IqifkbkY",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "煮干し"
+        ]
+      },
       "score": 69.3,
-      "rank": 22
+      "rank": 21
     },
     {
       "id": "g-ChIJ4RhZZOiJRTURvkkXj2ef3kQ",
@@ -2874,8 +3038,20 @@
         "google"
       ],
       "placeId": "ChIJkePkeM1hTzUR4Z8kQ1xJjJE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 48.7,
-      "rank": 98
+      "rank": 97
     },
     {
       "id": "g-ChIJxxvQlh9lTzURGhqNT7_77ek",
@@ -3310,8 +3486,17 @@
         "google"
       ],
       "placeId": "ChIJ3U_YulfATzURintvm83Be-w",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "煮干し"
+        ]
+      },
       "score": 43.4,
-      "rank": 190
+      "rank": 186
     },
     {
       "id": "g-ChIJMVV8ALrFTzUR05a__uSfqvs",
@@ -3488,8 +3673,13 @@
         "google"
       ],
       "placeId": "ChIJC0TUAq3BTzUR2XDPdknKJEw",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 46.4,
-      "rank": 124
+      "rank": 123
     },
     {
       "id": "g-ChIJo2tDrWLPTzURWQTFlzlxap8",
@@ -3539,7 +3729,7 @@
       ],
       "placeId": "ChIJZ1OcY106UDURZQZsWkSANG0",
       "score": 46.7,
-      "rank": 120
+      "rank": 117
     },
     {
       "id": "g-ChIJz38EEaA7UDUR3HVVLQdNZIU",
@@ -3561,7 +3751,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJeZWpiJQ7UDURAEBCGe-Ip8I"
+      "placeId": "ChIJeZWpiJQ7UDURAEBCGe-Ip8I",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "貝"
+        ]
+      }
     },
     {
       "id": "g-ChIJpx9No9IxUDURSNonCT_HXxQ",
@@ -3588,8 +3786,24 @@
         "google"
       ],
       "placeId": "ChIJpx9No9IxUDURSNonCT_HXxQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "鶏",
+          "鶏白湯",
+          "煮干し",
+          "鯛・鮮魚",
+          "海老・蟹"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
       "score": 49.2,
-      "rank": 93
+      "rank": 92
     },
     {
       "id": "g-ChIJZzHonX05UDURfKYoRGp71ps",
@@ -3722,8 +3936,17 @@
         "google"
       ],
       "placeId": "ChIJw_gnDI07UDURHu4NWa6AuP0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨",
+          "鶏白湯"
+        ]
+      },
       "score": 43.8,
-      "rank": 174
+      "rank": 171
     },
     {
       "id": "osm-n4716843160",
@@ -3862,6 +4085,24 @@
         "google"
       ],
       "placeId": "ChIJGay7txRMUDURVaNR7BJAxPs",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "豚骨",
+          "鶏",
+          "煮干し"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
+        ]
+      },
       "score": 70.6,
       "rank": 14
     },
@@ -3968,8 +4209,21 @@
         "google"
       ],
       "placeId": "ChIJiycrDQA7UDURWbctFYCW1nM",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "まぜそば"
+        ],
+        "soup": [
+          "味噌",
+          "鶏"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
       "score": 44.8,
-      "rank": 150
+      "rank": 147
     },
     {
       "id": "g-ChIJwdPwW3YvUDURDCKR6GHGwjg",
@@ -4074,8 +4328,19 @@
         "google"
       ],
       "placeId": "ChIJgZwRrW08UDURAKPmYHFbBxc",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
       "score": 45.9,
-      "rank": 133
+      "rank": 131
     },
     {
       "id": "osm-n8292222174",
@@ -4130,8 +4395,13 @@
         "google"
       ],
       "placeId": "ChIJJUh3weM6UDUR72FxbSHhrjg",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ]
+      },
       "score": 49.1,
-      "rank": 94
+      "rank": 93
     },
     {
       "id": "osm-n8288823645",
@@ -4215,7 +4485,7 @@
       ],
       "placeId": "ChIJ3TRqr687UDURBLjN4Ymued8",
       "score": 44.6,
-      "rank": 155
+      "rank": 152
     },
     {
       "id": "g-ChIJtwUOBSA7UDURWgfABs3-5NU",
@@ -4268,8 +4538,19 @@
         "google"
       ],
       "placeId": "ChIJ9fohv9g7UDURoxgOuuBLEfA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 45.9,
-      "rank": 132
+      "rank": 130
     },
     {
       "id": "g-ChIJCyZFzhk7UDURXuHOa7gOf3s",
@@ -4296,8 +4577,19 @@
         "google"
       ],
       "placeId": "ChIJCyZFzhk7UDURXuHOa7gOf3s",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "鯛・鮮魚"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
       "score": 43.8,
-      "rank": 175
+      "rank": 172
     },
     {
       "id": "osm-n13189759750",
@@ -4326,6 +4618,18 @@
         "google"
       ],
       "placeId": "ChIJHaUluX06UDURo-VNcaMgVRg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 42.6
     },
     {
@@ -4355,8 +4659,20 @@
         "google"
       ],
       "placeId": "ChIJKZW8j2U7UDUR169-pwyjc1Q",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 43.7,
-      "rank": 183
+      "rank": 180
     },
     {
       "id": "osm-n8252622178",
@@ -4385,8 +4701,20 @@
         "google"
       ],
       "placeId": "ChIJgx3lXHE6UDURjsAl0UUWiP0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 43.7,
-      "rank": 179
+      "rank": 176
     },
     {
       "id": "osm-w806460114",
@@ -4415,8 +4743,19 @@
         "google"
       ],
       "placeId": "ChIJAQDwrBs7UDURTLovdbW5j4w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌",
+          "豚骨",
+          "鶏",
+          "柑橘"
+        ]
+      },
       "score": 46.3,
-      "rank": 126
+      "rank": 125
     },
     {
       "id": "osm-w880917293",
@@ -4449,7 +4788,8 @@
         "google"
       ],
       "placeId": "ChIJi_cQ7Yc6UDURG2r1MUplCEI",
-      "score": 43.1
+      "score": 43.1,
+      "rank": 197
     },
     {
       "id": "g-ChIJvTIOB5MYUDURLJhvc4R2jMg",
@@ -4476,8 +4816,16 @@
         "google"
       ],
       "placeId": "ChIJvTIOB5MYUDURLJhvc4R2jMg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 44,
-      "rank": 169
+      "rank": 166
     },
     {
       "id": "g-ChIJxYT89No7UDURO9wXZg0FURM",
@@ -4531,8 +4879,24 @@
         "google"
       ],
       "placeId": "ChIJjz0-_vwxUDURWRpt5fH6iBQ",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "家系",
+          "二郎系",
+          "つけ麺",
+          "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "にんにく"
+        ]
+      },
       "score": 51.3,
-      "rank": 81
+      "rank": 80
     },
     {
       "id": "osm-w806362857",
@@ -4561,6 +4925,15 @@
         "google"
       ],
       "placeId": "ChIJmeqqev06UDURDVltiale4BQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "節"
+        ]
+      },
       "score": 39
     },
     {
@@ -4614,8 +4987,17 @@
         "google"
       ],
       "placeId": "ChIJsbF1VAA7UDURsUPI1TNDQJY",
+      "tags": {
+        "style": [
+          "家系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
       "score": 44,
-      "rank": 171
+      "rank": 168
     },
     {
       "id": "g-ChIJQyOP8CE7UDURDQwGKTw2F80",
@@ -4642,8 +5024,16 @@
         "google"
       ],
       "placeId": "ChIJQyOP8CE7UDURDQwGKTw2F80",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 43.3,
-      "rank": 195
+      "rank": 191
     },
     {
       "id": "osm-n11527413036",
@@ -4672,8 +5062,20 @@
         "google"
       ],
       "placeId": "ChIJuetQZLw8UDURCCQKlAmIkV4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "魚介"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 43.1,
-      "rank": 200
+      "rank": 196
     },
     {
       "id": "osm-n8323931369",
@@ -4801,7 +5203,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ__-WNEcwUDUR_jiZx1RQhec"
+      "placeId": "ChIJ__-WNEcwUDUR_jiZx1RQhec",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      }
     },
     {
       "id": "osm-n11422947210",
@@ -4830,6 +5240,14 @@
         "google"
       ],
       "placeId": "ChIJ-c9ARm47UDURiNSd4tYo3F0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油"
+        ]
+      },
       "score": 39.8
     },
     {
@@ -4859,6 +5277,21 @@
         "google"
       ],
       "placeId": "ChIJzUk9GFo6UDURM98XZMtr5ZY",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "担々麺",
+          "冷やし"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌",
+          "豚骨",
+          "魚介",
+          "海老・蟹"
+        ]
+      },
       "score": 42.9
     },
     {
@@ -4888,7 +5321,12 @@
         "google"
       ],
       "placeId": "ChIJKUTaLV86UDURg59ztCL2fak",
-      "score": 74.3,
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
+      "score": 74.4,
       "rank": 8
     },
     {
@@ -4916,8 +5354,17 @@
         "google"
       ],
       "placeId": "ChIJB237U_Q6UDURwrI4JANzwWE",
-      "score": 45.3,
-      "rank": 140
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ]
+      },
+      "score": 45.4,
+      "rank": 138
     },
     {
       "id": "osm-w884615813",
@@ -5002,6 +5449,20 @@
         "google"
       ],
       "placeId": "ChIJ69tI2xUwUDURAmQAL8vF4Y4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "こってり",
+          "濃厚",
+          "背脂",
+          "にんにく"
+        ]
+      },
       "score": 42.7
     },
     {
@@ -5169,8 +5630,16 @@
         "google"
       ],
       "placeId": "ChIJmUab-sc7UDURiVMjZbJn4MQ",
+      "tags": {
+        "style": [
+          "辛麺"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
       "score": 43.9,
-      "rank": 172
+      "rank": 169
     },
     {
       "id": "osm-n8256307943",
@@ -5279,6 +5748,17 @@
         "google"
       ],
       "placeId": "ChIJldlHY086UDUR3Gknd_qsSLQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 42.9
     },
     {
@@ -5306,6 +5786,17 @@
         "google"
       ],
       "placeId": "ChIJoXES0kI6UDURwuZq41MAem0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 39.5
     },
     {
@@ -5335,8 +5826,13 @@
         "google"
       ],
       "placeId": "ChIJFUwMWVc6UDUR3GP52rut1vE",
-      "score": 53.1,
-      "rank": 69
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
+      "score": 53.2,
+      "rank": 68
     },
     {
       "id": "osm-n8315503592",
@@ -5365,6 +5861,11 @@
         "google"
       ],
       "placeId": "ChIJoZj1M-w6UDURc3NgD6d1ojc",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 42.8
     },
     {
@@ -5470,8 +5971,21 @@
         "google"
       ],
       "placeId": "ChIJoal08ehFUDURA2z06k8x03M",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
       "score": 52.2,
-      "rank": 74
+      "rank": 73
     },
     {
       "id": "osm-w806420430",
@@ -5577,7 +6091,12 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJ0UlUIbo6UDURqRQ5guBCz6Q"
+      "placeId": "ChIJ0UlUIbo6UDURqRQ5guBCz6Q",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      }
     },
     {
       "id": "g-ChIJ7ZNrdNA7UDURRoIir2cbg50",
@@ -5604,6 +6123,11 @@
         "google"
       ],
       "placeId": "ChIJ7ZNrdNA7UDURRoIir2cbg50",
+      "tags": {
+        "soup": [
+          "塩"
+        ]
+      },
       "score": 41.8
     },
     {
@@ -5632,7 +6156,7 @@
       ],
       "placeId": "ChIJ5WL0Jmg6UDURmxHlmHDeGOs",
       "score": 66.4,
-      "rank": 29
+      "rank": 28
     },
     {
       "id": "osm-w806282867",
@@ -5717,8 +6241,14 @@
         "google"
       ],
       "placeId": "ChIJSTiw_4EjUDURkVTa1Kwd3rY",
+      "tags": {
+        "style": [
+          "中華そば",
+          "冷やし"
+        ]
+      },
       "score": 64.5,
-      "rank": 33
+      "rank": 32
     },
     {
       "id": "g-ChIJaWzynn06UDURtSLzHc0VN10",
@@ -5885,8 +6415,21 @@
         "google"
       ],
       "placeId": "ChIJLzu_crK24RQRq6ZQ27K9TdU",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺",
+          "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "豚骨",
+          "魚介"
+        ]
+      },
       "score": 57,
-      "rank": 54
+      "rank": 53
     },
     {
       "id": "osm-n8252656518",
@@ -5941,8 +6484,25 @@
         "google"
       ],
       "placeId": "ChIJyQmUuH46UDURJXNLNAMU2W4",
-      "score": 56.2,
-      "rank": 57
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "醤油",
+          "鶏",
+          "鶏白湯",
+          "魚介"
+        ],
+        "character": [
+          "濃厚",
+          "清湯",
+          "白湯"
+        ]
+      },
+      "score": 56.3,
+      "rank": 56
     },
     {
       "id": "g-ChIJfdunizA7UDUR-fm-VIlRGuk",
@@ -6023,8 +6583,13 @@
         "google"
       ],
       "placeId": "ChIJJ2F6VGg6UDURLaB1FaP_LsI",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 43.2,
-      "rank": 197
+      "rank": 193
     },
     {
       "id": "g-ChIJNfXvYwA7UDUR3gQK1JKw_PA",
@@ -6100,7 +6665,7 @@
       ],
       "placeId": "ChIJf9LPu046UDUR2hD_QxMwoQo",
       "score": 49.2,
-      "rank": 92
+      "rank": 91
     },
     {
       "id": "osm-n8254952344",
@@ -6263,8 +6828,16 @@
         "google"
       ],
       "placeId": "ChIJEf1QFhKVUTURxXSt3BmYvT4",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 50.3,
-      "rank": 86
+      "rank": 85
     },
     {
       "id": "g-ChIJszaZCAKVUTUR-4FOCngmCvg",
@@ -6395,8 +6968,16 @@
         "google"
       ],
       "placeId": "ChIJg10MWgbBUTURipeF-FRVQbY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "煮干し"
+        ]
+      },
       "score": 47.6,
-      "rank": 109
+      "rank": 108
     },
     {
       "id": "g-ChIJKw3wD1GRUTURj5XgTpzrn2w",
@@ -6477,7 +7058,19 @@
         "google"
       ],
       "placeId": "ChIJaegPNBWUUTURQq4IjG82OXE",
-      "score": 42.7
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨",
+          "貝"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
+      "score": 42.8
     },
     {
       "id": "g-ChIJhRMeb5LGUTURC6iLL1yqHB4",
@@ -6578,6 +7171,26 @@
         "google"
       ],
       "placeId": "ChIJrdvpiqTAUTURcKzdaYYAquo",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "鶏",
+          "魚介"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "濃厚",
+          "清湯",
+          "白湯"
+        ]
+      },
       "score": 77.2,
       "rank": 3
     },
@@ -6710,8 +7323,14 @@
         "google"
       ],
       "placeId": "ChIJO3ag-ezAUTURBk969nXHuDw",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ]
+      },
       "score": 45.9,
-      "rank": 134
+      "rank": 132
     },
     {
       "id": "g-ChIJa8fLaluUUTURsb2SgDrx64A",
@@ -6764,8 +7383,21 @@
         "google"
       ],
       "placeId": "ChIJUXnbwU2RUTURci1xjN-B4ck",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺",
+          "まぜそば",
+          "担々麺"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺",
+          "自家製麺"
+        ]
+      },
       "score": 52.5,
-      "rank": 71
+      "rank": 70
     },
     {
       "id": "g-ChIJe8ZV_H6RUTUR9Gf3sU1Fcpo",
@@ -6792,8 +7424,19 @@
         "google"
       ],
       "placeId": "ChIJe8ZV_H6RUTUR9Gf3sU1Fcpo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 47.6,
-      "rank": 107
+      "rank": 106
     },
     {
       "id": "osm-w1434979129",
@@ -6822,8 +7465,20 @@
         "google"
       ],
       "placeId": "ChIJjS0821qUUTURiNjLhAG8uk0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 43.2,
-      "rank": 198
+      "rank": 194
     },
     {
       "id": "g-ChIJ12E-dmiUUTURjh_zpTPd6wQ",
@@ -6850,6 +7505,15 @@
         "google"
       ],
       "placeId": "ChIJ12E-dmiUUTURjh_zpTPd6wQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "節"
+        ]
+      },
       "score": 39.1
     },
     {
@@ -7030,7 +7694,7 @@
       ],
       "placeId": "ChIJ0Szc5z-RUTURTXNw1H2qcxo",
       "score": 43.4,
-      "rank": 192
+      "rank": 188
     },
     {
       "id": "g-ChIJU2st0mmUUTURWW96xE2HPAc",
@@ -7391,8 +8055,20 @@
         "google"
       ],
       "placeId": "ChIJxSaou3CRUTURwbE2R5qF2KI",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "冷やし"
+        ],
+        "soup": [
+          "塩"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 49.2,
-      "rank": 91
+      "rank": 90
     },
     {
       "id": "osm-w407607874",
@@ -7421,6 +8097,15 @@
         "google"
       ],
       "placeId": "ChIJW_1n_f2TUTURMh63BQb4WPQ",
+      "tags": {
+        "soup": [
+          "鶏"
+        ],
+        "character": [
+          "こってり",
+          "濃厚"
+        ]
+      },
       "score": 39.3
     },
     {
@@ -7448,8 +8133,21 @@
         "google"
       ],
       "placeId": "ChIJXbTfchqRUTURmVfxm251X6g",
-      "score": 44,
-      "rank": 168
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "鶏",
+          "煮干し"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
+      "score": 44.1,
+      "rank": 165
     },
     {
       "id": "g-ChIJGXp5Rv6VUTURUu7NhtDcJ64",
@@ -7471,7 +8169,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJGXp5Rv6VUTURUu7NhtDcJ64"
+      "placeId": "ChIJGXp5Rv6VUTURUu7NhtDcJ64",
+      "tags": {
+        "style": [
+          "二郎系",
+          "まぜそば"
+        ],
+        "noodle": [
+          "自家製麺"
+        ]
+      }
     },
     {
       "id": "g-ChIJ-VI7RECUUTURgUGPn73MN34",
@@ -7498,8 +8205,13 @@
         "google"
       ],
       "placeId": "ChIJ-VI7RECUUTURgUGPn73MN34",
+      "tags": {
+        "style": [
+          "担々麺"
+        ]
+      },
       "score": 43.2,
-      "rank": 199
+      "rank": 195
     },
     {
       "id": "osm-w1168234816",
@@ -7654,8 +8366,28 @@
         "google"
       ],
       "placeId": "ChIJHVZXYADlTzURGnXZsjEqKmU",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "家系",
+          "二郎系",
+          "つけ麺",
+          "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "鶏",
+          "煮干し"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺",
+          "自家製麺"
+        ]
+      },
       "score": 45.8,
-      "rank": 135
+      "rank": 133
     },
     {
       "id": "g-ChIJl9OFK_HlTzURICRU3-z-yxM",
@@ -7738,8 +8470,23 @@
         "google"
       ],
       "placeId": "ChIJq654e7HlTzURifL37KI5jQ8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨",
+          "鶏白湯",
+          "魚介",
+          "海老・蟹"
+        ],
+        "character": [
+          "濃厚",
+          "白湯"
+        ]
+      },
       "score": 62.3,
-      "rank": 42
+      "rank": 41
     },
     {
       "id": "g-ChIJjS5yYbDvTzURAt1jjDLP4-s",
@@ -7826,8 +8573,23 @@
         "google"
       ],
       "placeId": "ChIJq6qlkYzlTzURnqvS3guTSE8",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺",
+          "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "鶏",
+          "魚介",
+          "煮干し",
+          "節"
+        ]
+      },
       "score": 46.4,
-      "rank": 125
+      "rank": 124
     },
     {
       "id": "g-ChIJt5d4SL7lTzURSOiXGayDGjg",
@@ -7884,8 +8646,19 @@
         "google"
       ],
       "placeId": "ChIJ_6tKqRHvTzURIF0yjZHo__o",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "家系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "節"
+        ]
+      },
       "score": 45,
-      "rank": 148
+      "rank": 145
     },
     {
       "id": "g-ChIJq2oumtDlTzURkBZswTu2Uv0",
@@ -7916,6 +8689,11 @@
         "google"
       ],
       "placeId": "ChIJq2oumtDlTzURkBZswTu2Uv0",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 41.7
     },
     {
@@ -8005,8 +8783,18 @@
         "google"
       ],
       "placeId": "ChIJ5de_T4LlTzUROfIvEPJXwZw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "胡麻"
+        ]
+      },
       "score": 44.2,
-      "rank": 165
+      "rank": 162
     },
     {
       "id": "osm-w1242616632",
@@ -8095,8 +8883,13 @@
         "google"
       ],
       "placeId": "ChIJjY9rVkjvTzURlPsKj37SrXM",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 47.5,
-      "rank": 110
+      "rank": 109
     },
     {
       "id": "osm-n5025570564",
@@ -8187,8 +8980,20 @@
         "google"
       ],
       "placeId": "ChIJtaaEFADvTzUR3bsEKth8ZxI",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "家系",
+          "まぜそば"
+        ],
+        "soup": [
+          "塩",
+          "豚骨",
+          "煮干し"
+        ]
+      },
       "score": 45.1,
-      "rank": 146
+      "rank": 143
     },
     {
       "id": "g-ChIJtXxoVwDpTzURjpw9OfRmH3o",
@@ -8218,7 +9023,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJtXxoVwDpTzURjpw9OfRmH3o"
+      "placeId": "ChIJtXxoVwDpTzURjpw9OfRmH3o",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "character": [
+          "辛い"
+        ]
+      }
     },
     {
       "id": "osm-n11559743711",
@@ -8359,8 +9172,19 @@
         "google"
       ],
       "placeId": "ChIJs5SNPQDvTzUR9KBwSlVik8o",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "冷やし"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "魚介"
+        ]
+      },
       "score": 47.7,
-      "rank": 106
+      "rank": 105
     },
     {
       "id": "g-ChIJzROZBgDlTzURRB64ce3eXLI",
@@ -8391,8 +9215,22 @@
         "google"
       ],
       "placeId": "ChIJL7C5-yTlTzUROhBF_gdcins",
-      "score": 44.3,
-      "rank": 161
+      "tags": {
+        "style": [
+          "ラーメン",
+          "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "鶏",
+          "魚介"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
+      "score": 44.4,
+      "rank": 158
     },
     {
       "id": "g-ChIJMfZTw2rxTzURX9rsu_hwMDc",
@@ -8446,7 +9284,7 @@
       ],
       "placeId": "ChIJoaLdfsPvTzURu9TObmXOWUQ",
       "score": 43.6,
-      "rank": 185
+      "rank": 182
     },
     {
       "id": "osm-w1498210928",
@@ -8657,8 +9495,13 @@
         "google"
       ],
       "placeId": "ChIJYcHETVLlTzURJM6Deqt2NGA",
+      "tags": {
+        "style": [
+          "つけ麺"
+        ]
+      },
       "score": 45,
-      "rank": 147
+      "rank": 144
     },
     {
       "id": "g-ChIJl-BUOuzlTzURkZrKPwNLaME",
@@ -8689,6 +9532,11 @@
         "google"
       ],
       "placeId": "ChIJl-BUOuzlTzURkZrKPwNLaME",
+      "tags": {
+        "style": [
+          "つけ麺"
+        ]
+      },
       "score": 76.7,
       "rank": 4
     },
@@ -8773,8 +9621,20 @@
         "google"
       ],
       "placeId": "ChIJNTr1TI7vTzUReSBMHGEYNQE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "鶏"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
+        ]
+      },
       "score": 57.9,
-      "rank": 49
+      "rank": 48
     },
     {
       "id": "g-ChIJQ1tqr2bvTzURUTNmR-NcfEI",
@@ -8831,6 +9691,20 @@
         "google"
       ],
       "placeId": "ChIJcecK2EfvTzURFpcPxKZQJwE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "魚介",
+          "胡麻"
+        ],
+        "character": [
+          "あっさり",
+          "にんにく"
+        ]
+      },
       "score": 36.7
     },
     {
@@ -8862,8 +9736,22 @@
         "google"
       ],
       "placeId": "ChIJ36Ce2JjlTzUR-k8nbWATgYM",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺",
+          "担々麺"
+        ],
+        "soup": [
+          "豚骨",
+          "鶏",
+          "魚介",
+          "野菜",
+          "胡麻"
+        ]
+      },
       "score": 55.9,
-      "rank": 59
+      "rank": 58
     },
     {
       "id": "osm-n2385962867",
@@ -8918,8 +9806,16 @@
         "google"
       ],
       "placeId": "ChIJnzKS8O7lTzURwU80Eh2lrTY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
       "score": 46.2,
-      "rank": 128
+      "rank": 127
     },
     {
       "id": "osm-n5926081885",
@@ -8948,8 +9844,8 @@
         "google"
       ],
       "placeId": "ChIJvRLPIu3oTzUR4dhKD2bBtpw",
-      "score": 62.8,
-      "rank": 41
+      "score": 62.9,
+      "rank": 40
     },
     {
       "id": "g-ChIJT2bJHLjoTzURcW53dnWYowY",
@@ -9032,8 +9928,13 @@
         "google"
       ],
       "placeId": "ChIJm0BqGADlTzUR2_tv0U78oro",
-      "score": 49.7,
-      "rank": 87
+      "tags": {
+        "style": [
+          "まぜそば"
+        ]
+      },
+      "score": 49.8,
+      "rank": 86
     },
     {
       "id": "g-ChIJJeHaqbHlTzURtbyVviZ6gx0",
@@ -9064,6 +9965,14 @@
         "google"
       ],
       "placeId": "ChIJJeHaqbHlTzURtbyVviZ6gx0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
       "score": 42.7
     },
     {
@@ -9153,8 +10062,24 @@
         "google"
       ],
       "placeId": "ChIJI7UhQwDlTzURXTwLGgTlgLY",
+      "tags": {
+        "style": [
+          "二郎系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "背脂",
+          "にんにく"
+        ]
+      },
       "score": 55.8,
-      "rank": 60
+      "rank": 59
     },
     {
       "id": "osm-n2387958471",
@@ -9187,8 +10112,23 @@
         "google"
       ],
       "placeId": "ChIJ__9PoiHmTzURvOvdL4aUhKw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "こってり"
+        ]
+      },
       "score": 48.7,
-      "rank": 100
+      "rank": 99
     },
     {
       "id": "g-ChIJ9XK-47_vTzURSPU8XJsnHlQ",
@@ -9219,8 +10159,22 @@
         "google"
       ],
       "placeId": "ChIJ9XK-47_vTzURSPU8XJsnHlQ",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂",
+          "にんにく"
+        ]
+      },
       "score": 44.6,
-      "rank": 153
+      "rank": 151
     },
     {
       "id": "g-ChIJAchVPITlTzURM9_H_Eqz6Fs",
@@ -9251,7 +10205,19 @@
         "google"
       ],
       "placeId": "ChIJAchVPITlTzURM9_H_Eqz6Fs",
-      "score": 71,
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
+      "score": 71.1,
       "rank": 13
     },
     {
@@ -9285,8 +10251,20 @@
         "google"
       ],
       "placeId": "ChIJJWkjUoLvTzURabUmquutqyM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 44.9,
-      "rank": 149
+      "rank": 146
     },
     {
       "id": "osm-w305044128",
@@ -9319,8 +10297,20 @@
         "google"
       ],
       "placeId": "ChIJPUTlnIzlTzUR8EbS6GrmhxU",
-      "score": 62.2,
-      "rank": 43
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
+      "score": 62.3,
+      "rank": 42
     },
     {
       "id": "osm-w625669744",
@@ -9344,7 +10334,19 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJhwj8UwAdUDURIuIyg7m8w4Y"
+      "placeId": "ChIJhwj8UwAdUDURIuIyg7m8w4Y",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      }
     },
     {
       "id": "g-ChIJL0JyYgDvTzURbYNS7nB98Zo",
@@ -9375,8 +10377,16 @@
         "google"
       ],
       "placeId": "ChIJL0JyYgDvTzURbYNS7nB98Zo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 54.2,
-      "rank": 66
+      "rank": 65
     },
     {
       "id": "g-ChIJO3gHTXLlTzURF6zo-fRyLVk",
@@ -9407,8 +10417,23 @@
         "google"
       ],
       "placeId": "ChIJO3gHTXLlTzURF6zo-fRyLVk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "こってり"
+        ]
+      },
       "score": 52.2,
-      "rank": 73
+      "rank": 72
     },
     {
       "id": "g-ChIJ2QS5M1_vTzURvmJ8a1sNlng",
@@ -9439,8 +10464,23 @@
         "google"
       ],
       "placeId": "ChIJ2QS5M1_vTzURvmJ8a1sNlng",
-      "score": 51.4,
-      "rank": 78
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "こってり"
+        ]
+      },
+      "score": 51.5,
+      "rank": 77
     },
     {
       "id": "g-ChIJ8bgwlQnmTzURcOuwb8DKgOI",
@@ -9471,6 +10511,15 @@
         "google"
       ],
       "placeId": "ChIJ8bgwlQnmTzURcOuwb8DKgOI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "節"
+        ]
+      },
       "score": 42.1
     },
     {
@@ -9493,7 +10542,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJz6nTcvPvTzURFuc8v2kZH0I"
+      "placeId": "ChIJz6nTcvPvTzURFuc8v2kZH0I",
+      "tags": {
+        "style": [
+          "家系",
+          "二郎系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      }
     },
     {
       "id": "g-ChIJp09vKKboTzURaIuFu1jkmr4",
@@ -9524,8 +10583,19 @@
         "google"
       ],
       "placeId": "ChIJp09vKKboTzURaIuFu1jkmr4",
+      "tags": {
+        "style": [
+          "二郎系"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "にんにく"
+        ]
+      },
       "score": 55,
-      "rank": 64
+      "rank": 63
     },
     {
       "id": "osm-n2305044388",
@@ -9558,6 +10628,19 @@
         "google"
       ],
       "placeId": "ChIJOTrpmMblTzURUipm3-V5ESw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "character": [
+          "こってり",
+          "背脂"
+        ]
+      },
       "score": 38.3
     },
     {
@@ -9589,8 +10672,21 @@
         "google"
       ],
       "placeId": "ChIJUxzyEYDvTzURMm75EfM-roQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨",
+          "鶏"
+        ],
+        "character": [
+          "濃厚",
+          "泡系"
+        ]
+      },
       "score": 45.4,
-      "rank": 138
+      "rank": 136
     },
     {
       "id": "osm-n2308403680",
@@ -9623,6 +10719,15 @@
         "google"
       ],
       "placeId": "ChIJNxLB1n_lTzURN_YtcvYuCT8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "節"
+        ]
+      },
       "score": 42.4
     },
     {
@@ -9824,8 +10929,20 @@
         "google"
       ],
       "placeId": "ChIJyeLUSPPlTzUR5p6iPFffdyY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
       "score": 61.4,
-      "rank": 44
+      "rank": 43
     },
     {
       "id": "g-ChIJdce-SADnTzURB72TcqKI0Y0",
@@ -9856,8 +10973,17 @@
         "google"
       ],
       "placeId": "ChIJdce-SADnTzURB72TcqKI0Y0",
+      "tags": {
+        "style": [
+          "家系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
       "score": 44.3,
-      "rank": 164
+      "rank": 161
     },
     {
       "id": "g-ChIJ9za_agDvTzURO9Pz-QXsmPY",
@@ -9888,8 +11014,17 @@
         "google"
       ],
       "placeId": "ChIJ9za_agDvTzURO9Pz-QXsmPY",
-      "score": 44.7,
-      "rank": 151
+      "tags": {
+        "style": [
+          "家系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
+      "score": 44.8,
+      "rank": 148
     },
     {
       "id": "osm-n10275126705",
@@ -9922,8 +11057,17 @@
         "google"
       ],
       "placeId": "ChIJAyXBGADlTzURIBq2_LdH7NY",
+      "tags": {
+        "style": [
+          "家系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
       "score": 48,
-      "rank": 105
+      "rank": 104
     },
     {
       "id": "g-ChIJKUCQWmflTzURxvENa7jVIVw",
@@ -10008,6 +11152,14 @@
         "google"
       ],
       "placeId": "ChIJDRhJUknvTzURq4jdMWN__rQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油"
+        ]
+      },
       "score": 41.1
     },
     {
@@ -10153,6 +11305,11 @@
         "google"
       ],
       "placeId": "ChIJX1DQ0J_lTzURGXY9g5vkro4",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 84.9,
       "rank": 1
     },
@@ -10185,6 +11342,20 @@
         "google"
       ],
       "placeId": "ChIJcyg3BOzlTzURDtf3MCAd4hs",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "鶏",
+          "鯛・鮮魚"
+        ],
+        "character": [
+          "白湯"
+        ]
+      },
       "score": 83.9,
       "rank": 2
     },
@@ -10217,8 +11388,14 @@
         "google"
       ],
       "placeId": "ChIJi0-7egDpTzUR_2CGh9T5ZlM",
+      "tags": {
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
       "score": 46.6,
-      "rank": 123
+      "rank": 122
     },
     {
       "id": "g-ChIJh6qjlvPlTzURRdhkON-EnzM",
@@ -10249,8 +11426,14 @@
         "google"
       ],
       "placeId": "ChIJh6qjlvPlTzURRdhkON-EnzM",
+      "tags": {
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
       "score": 54.5,
-      "rank": 65
+      "rank": 64
     },
     {
       "id": "osm-n8244379251",
@@ -10283,6 +11466,23 @@
         "google"
       ],
       "placeId": "ChIJye3nOozlTzURhAeTfrmDSpw",
+      "tags": {
+        "style": [
+          "つけ麺",
+          "まぜそば"
+        ],
+        "soup": [
+          "豚骨",
+          "魚介"
+        ],
+        "noodle": [
+          "太麺",
+          "自家製麺"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
       "score": 73.7,
       "rank": 9
     },
@@ -10306,7 +11506,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJy873QhPvTzURreIiTQRLS3g"
+      "placeId": "ChIJy873QhPvTzURreIiTQRLS3g",
+      "tags": {
+        "style": [
+          "二郎系",
+          "つけ麺",
+          "まぜそば"
+        ],
+        "noodle": [
+          "太麺"
+        ]
+      }
     },
     {
       "id": "g-ChIJ7WUZGx_lTzUR9zPxDX4mKY4",
@@ -10367,8 +11577,13 @@
         "google"
       ],
       "placeId": "ChIJb7isTkXlTzURNDEsnamn5ak",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 51.4,
-      "rank": 80
+      "rank": 79
     },
     {
       "id": "g-ChIJaz1TVyruTzURS4ozf2z58dE",
@@ -10422,7 +11637,21 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJ9bHzHmHlTzURF8RtZd572Go"
+      "placeId": "ChIJ9bHzHmHlTzURF8RtZd572Go",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "こってり",
+          "濃厚",
+          "背脂",
+          "にんにく"
+        ]
+      }
     },
     {
       "id": "g-ChIJ42c2KuzlTzURXlIAe6cSEbs",
@@ -10453,8 +11682,22 @@
         "google"
       ],
       "placeId": "ChIJ42c2KuzlTzURXlIAe6cSEbs",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "こってり",
+          "濃厚",
+          "背脂",
+          "にんにく"
+        ]
+      },
       "score": 64,
-      "rank": 36
+      "rank": 35
     },
     {
       "id": "g-ChIJgxnrJMXlTzURAZx1LhppCOc",
@@ -10545,8 +11788,8 @@
         "google"
       ],
       "placeId": "ChIJG4LDwaXoTzURrd8KLEMoZbA",
-      "score": 57.6,
-      "rank": 50
+      "score": 57.7,
+      "rank": 49
     },
     {
       "id": "g-ChIJtQsnt9vvTzURfwZHGTYToY8",
@@ -10661,8 +11904,20 @@
         "google"
       ],
       "placeId": "ChIJBSfCXB7lTzURsF8BTdwyBdI",
+      "tags": {
+        "style": [
+          "二郎系"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "背脂",
+          "にんにく"
+        ]
+      },
       "score": 46.7,
-      "rank": 119
+      "rank": 120
     },
     {
       "id": "g-ChIJ5x4vIwDlTzURhsW7UUVF6ik",
@@ -10693,8 +11948,23 @@
         "google"
       ],
       "placeId": "ChIJ5x4vIwDlTzURhsW7UUVF6ik",
+      "tags": {
+        "style": [
+          "中華そば",
+          "まぜそば"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 44,
-      "rank": 170
+      "rank": 167
     },
     {
       "id": "g-ChIJky_aKADlTzURSyT6QRDgXYA",
@@ -10725,8 +11995,20 @@
         "google"
       ],
       "placeId": "ChIJky_aKADlTzURSyT6QRDgXYA",
-      "score": 51.1,
-      "rank": 82
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "塩"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
+      "score": 51.2,
+      "rank": 81
     },
     {
       "id": "g-ChIJO_3eJJrlTzUR93CkLLJGciY",
@@ -10757,8 +12039,13 @@
         "google"
       ],
       "placeId": "ChIJO_3eJJrlTzUR93CkLLJGciY",
+      "tags": {
+        "soup": [
+          "鯛・鮮魚"
+        ]
+      },
       "score": 56.8,
-      "rank": 55
+      "rank": 54
     },
     {
       "id": "g-ChIJdfqhgt3lTzUR0INHkJ38Koc",
@@ -10789,8 +12076,17 @@
         "google"
       ],
       "placeId": "ChIJdfqhgt3lTzUR0INHkJ38Koc",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "まぜそば"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 45.2,
-      "rank": 145
+      "rank": 142
     },
     {
       "id": "g-ChIJDYgZCe_lTzURNFtfN1MhRlI",
@@ -10847,8 +12143,13 @@
         "google"
       ],
       "placeId": "ChIJ8xtCuGrvTzUR8290HgkWdao",
+      "tags": {
+        "soup": [
+          "醤油"
+        ]
+      },
       "score": 57.5,
-      "rank": 51
+      "rank": 50
     },
     {
       "id": "g-ChIJOXToZ1vvTzURVFnYDoKsWDo",
@@ -10959,8 +12260,16 @@
         "google"
       ],
       "placeId": "ChIJS4ESIgDlTzUR5_Jb22KYuUY",
+      "tags": {
+        "style": [
+          "辛麺"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
       "score": 46,
-      "rank": 131
+      "rank": 129
     },
     {
       "id": "g-ChIJ_wVeX-7lTzURrv4GSx0zaDY",
@@ -10991,8 +12300,23 @@
         "google"
       ],
       "placeId": "ChIJ_wVeX-7lTzURrv4GSx0zaDY",
-      "score": 68.8,
-      "rank": 23
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺",
+          "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "鶏",
+          "魚介",
+          "煮干し",
+          "節"
+        ]
+      },
+      "score": 68.9,
+      "rank": 22
     },
     {
       "id": "g-ChIJU9VgzHjlTzUR2xotKTdQsv8",
@@ -11023,8 +12347,13 @@
         "google"
       ],
       "placeId": "ChIJU9VgzHjlTzUR2xotKTdQsv8",
+      "tags": {
+        "soup": [
+          "鯛・鮮魚"
+        ]
+      },
       "score": 47.1,
-      "rank": 114
+      "rank": 113
     },
     {
       "id": "g-ChIJUdsX5N_lTzURjcXN98zfldk",
@@ -11055,8 +12384,18 @@
         "google"
       ],
       "placeId": "ChIJUdsX5N_lTzURjcXN98zfldk",
+      "tags": {
+        "style": [
+          "中華そば",
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
       "score": 43.5,
-      "rank": 186
+      "rank": 183
     },
     {
       "id": "g-ChIJ3_lsF5vlTzURRSW9-bv6gjY",
@@ -11087,8 +12426,13 @@
         "google"
       ],
       "placeId": "ChIJhTyA7JrlTzUR8TFwn_1cMOw",
+      "tags": {
+        "soup": [
+          "貝"
+        ]
+      },
       "score": 46.7,
-      "rank": 118
+      "rank": 119
     },
     {
       "id": "g-ChIJm6z3j4vlTzURrWfHJCzmTBQ",
@@ -11287,8 +12631,8 @@
     {
       "id": "osm-n5929052187",
       "name": "大地の母",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "restaurant",
+      "ramen": null,
       "lat": 33.889864,
       "lng": 132.735537,
       "city": "松山市",
@@ -11310,9 +12654,7 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJh09yk-_kTzURJR-uwWxoct0",
-      "score": 43.5,
-      "rank": 187
+      "placeId": "ChIJh09yk-_kTzURJR-uwWxoct0"
     },
     {
       "id": "g-ChIJ7yJlegDpTzURBhNkcBeXkXY",
@@ -11343,8 +12685,13 @@
         "google"
       ],
       "placeId": "ChIJ7yJlegDpTzURBhNkcBeXkXY",
-      "score": 44.3,
-      "rank": 162
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
+      "score": 44.4,
+      "rank": 159
     },
     {
       "id": "g-ChIJkYpGno7lTzURD3Zo3dr7jNs",
@@ -11375,7 +12722,12 @@
         "google"
       ],
       "placeId": "ChIJkYpGno7lTzURD3Zo3dr7jNs",
-      "score": 75.5,
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
+      "score": 75.6,
       "rank": 6
     },
     {
@@ -11407,8 +12759,13 @@
         "google"
       ],
       "placeId": "ChIJMTjcLgDvTzURQeBU3m6NGhQ",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 47.1,
-      "rank": 113
+      "rank": 112
     },
     {
       "id": "g-ChIJkVu4OCzuTzURcSaZBEh6mY0",
@@ -11439,8 +12796,13 @@
         "google"
       ],
       "placeId": "ChIJkVu4OCzuTzURcSaZBEh6mY0",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 64.6,
-      "rank": 32
+      "rank": 31
     },
     {
       "id": "osm-n2441105205",
@@ -11473,8 +12835,13 @@
         "google"
       ],
       "placeId": "ChIJg0x6DEnvTzURF7qUtRXvQNA",
+      "tags": {
+        "style": [
+          "つけ麺"
+        ]
+      },
       "score": 49.7,
-      "rank": 88
+      "rank": 87
     },
     {
       "id": "g-ChIJ1XnfOHPlTzURmugxSD3FAa0",
@@ -11921,7 +13288,12 @@
         "google"
       ],
       "placeId": "ChIJf_25RlHlTzUR11i3dh_rP1U",
-      "score": 70,
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
+      "score": 70.1,
       "rank": 17
     },
     {
@@ -11951,6 +13323,15 @@
         "google"
       ],
       "placeId": "ChIJ0RFS3nPvTzURLwiPBV3o_es",
+      "tags": {
+        "soup": [
+          "鶏"
+        ],
+        "character": [
+          "こってり",
+          "濃厚"
+        ]
+      },
       "score": 38.8
     },
     {
@@ -12004,8 +13385,13 @@
         "google"
       ],
       "placeId": "ChIJgQBS7lblTzURARY9vhCMZSs",
-      "score": 44.7,
-      "rank": 152
+      "tags": {
+        "style": [
+          "まぜそば"
+        ]
+      },
+      "score": 44.8,
+      "rank": 149
     },
     {
       "id": "g-ChIJNfG2IaDlTzURzsYNBEsF_dQ",
@@ -12032,8 +13418,20 @@
         "google"
       ],
       "placeId": "ChIJNfG2IaDlTzURzsYNBEsF_dQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 66.9,
-      "rank": 27
+      "rank": 26
     },
     {
       "id": "osm-n6363720469",
@@ -12062,8 +13460,13 @@
         "google"
       ],
       "placeId": "ChIJLSNitZjoTzURPqhd6-Olnhg",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 52.1,
-      "rank": 75
+      "rank": 74
     },
     {
       "id": "osm-n5907316483",
@@ -12092,8 +13495,13 @@
         "google"
       ],
       "placeId": "ChIJS0q7yBriTzURwZKAjaaieyI",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 53.4,
-      "rank": 68
+      "rank": 67
     },
     {
       "id": "g-ChIJQQ4qjyzlTzURa3S2refmHdA",
@@ -12120,7 +13528,19 @@
         "google"
       ],
       "placeId": "ChIJQQ4qjyzlTzURa3S2refmHdA",
-      "score": 75.3,
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "鶏",
+          "魚介",
+          "野菜"
+        ]
+      },
+      "score": 75.4,
       "rank": 7
     },
     {
@@ -12148,8 +13568,24 @@
         "google"
       ],
       "placeId": "ChIJVVVVVfLlTzURw8qhvYUg-tQ",
+      "tags": {
+        "style": [
+          "二郎系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "濃厚",
+          "にんにく"
+        ]
+      },
       "score": 44.4,
-      "rank": 160
+      "rank": 157
     },
     {
       "id": "g-ChIJI7ts9lzlTzUR66LUMRNhFZs",
@@ -12202,8 +13638,20 @@
         "google"
       ],
       "placeId": "ChIJ7zVgiqnlTzURvtM_81pJ-bw",
+      "tags": {
+        "style": [
+          "二郎系",
+          "まぜそば"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
       "score": 60.3,
-      "rank": 45
+      "rank": 44
     },
     {
       "id": "g-ChIJ5-KlnfTlTzURO7nq8MyPaPY",
@@ -12256,8 +13704,21 @@
         "google"
       ],
       "placeId": "ChIJP6otfZXvTzURDzlBFeMpqUA",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "味噌",
+          "煮干し"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
       "score": 57.5,
-      "rank": 52
+      "rank": 51
     },
     {
       "id": "g-ChIJ3bdhHgseUDURfb9bnjcOzMo",
@@ -12284,6 +13745,17 @@
         "google"
       ],
       "placeId": "ChIJ3bdhHgseUDURfb9bnjcOzMo",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "鶏",
+          "魚介"
+        ]
+      },
       "score": 42
     },
     {
@@ -12311,7 +13783,22 @@
         "google"
       ],
       "placeId": "ChIJRZf0Cq_oTzURXUrIMPZ6itA",
-      "score": 43
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
+      "score": 43,
+      "rank": 200
     },
     {
       "id": "g-ChIJ3Toeas3oTzURk3kzjVSgrfQ",
@@ -12365,7 +13852,7 @@
       ],
       "placeId": "ChIJOapX193oTzURxm1vXdTbwSM",
       "score": 43.7,
-      "rank": 181
+      "rank": 178
     },
     {
       "id": "g-ChIJPUKXWYTvTzURmKVaR2pQMOY",
@@ -12446,6 +13933,14 @@
         "google"
       ],
       "placeId": "ChIJxd1niFvvTzURtAVNjApCkyw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 37.9
     },
     {
@@ -12473,8 +13968,14 @@
         "google"
       ],
       "placeId": "ChIJHUP4cZXlTzURoyF1eYXRZOg",
-      "score": 65.6,
-      "rank": 31
+      "tags": {
+        "soup": [
+          "味噌",
+          "豚骨"
+        ]
+      },
+      "score": 65.7,
+      "rank": 30
     },
     {
       "id": "g-ChIJMe64pe7lTzURyG_s06PFwhg",
@@ -12523,8 +14024,20 @@
         "google"
       ],
       "placeId": "ChIJpxXitIHlTzURf2_0nRRw9Sg",
+      "tags": {
+        "style": [
+          "二郎系",
+          "まぜそば"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "にんにく"
+        ]
+      },
       "score": 67.5,
-      "rank": 25
+      "rank": 24
     },
     {
       "id": "g-ChIJQVoKNfPlTzURwmIwkny6ueg",
@@ -12551,6 +14064,11 @@
         "google"
       ],
       "placeId": "ChIJQVoKNfPlTzURwmIwkny6ueg",
+      "tags": {
+        "soup": [
+          "節"
+        ]
+      },
       "score": 72.2,
       "rank": 11
     },
@@ -12579,8 +14097,22 @@
         "google"
       ],
       "placeId": "ChIJJ4GP3s7lTzURDUtdmDVly_g",
-      "score": 52.4,
-      "rank": 72
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "塩",
+          "鶏",
+          "節"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
+      "score": 52.5,
+      "rank": 71
     },
     {
       "id": "g-ChIJ63LeUMPlTzUR_brlGzl4lAE",
@@ -12607,6 +14139,15 @@
         "google"
       ],
       "placeId": "ChIJ63LeUMPlTzUR_brlGzl4lAE",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
       "score": 70,
       "rank": 18
     },
@@ -12635,6 +14176,14 @@
         "google"
       ],
       "placeId": "ChIJsRC7vfnlTzURiXdgC3QRBAY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 42.8
     },
     {
@@ -12662,8 +14211,22 @@
         "google"
       ],
       "placeId": "ChIJu8dtFtjvTzURkmSiNz1jcKY",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "魚介"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
       "score": 57.5,
-      "rank": 53
+      "rank": 52
     },
     {
       "id": "g-ChIJq1Rmyu3lTzURs_48FrDZGCQ",
@@ -12690,7 +14253,19 @@
         "google"
       ],
       "placeId": "ChIJq1Rmyu3lTzURs_48FrDZGCQ",
-      "score": 70.1,
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "煮干し"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
+      "score": 70.2,
       "rank": 16
     },
     {
@@ -12718,8 +14293,20 @@
         "google"
       ],
       "placeId": "ChIJxxft0ojlTzURVNSD0_-1bgQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "煮干し"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 55.7,
-      "rank": 61
+      "rank": 60
     },
     {
       "id": "g-ChIJYbhOBgDlTzURQnOdNzVTGkM",
@@ -12746,8 +14333,18 @@
         "google"
       ],
       "placeId": "ChIJ_acr1-3lTzURTOBzXfvNDus",
-      "score": 45.2,
-      "rank": 144
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌"
+        ]
+      },
+      "score": 45.3,
+      "rank": 141
     },
     {
       "id": "g-ChIJj-Oi2PrvTzURPEsBfZp081k",
@@ -12774,8 +14371,27 @@
         "google"
       ],
       "placeId": "ChIJj-Oi2PrvTzURPEsBfZp081k",
-      "score": 64.3,
-      "rank": 35
+      "tags": {
+        "style": [
+          "ラーメン",
+          "中華そば",
+          "二郎系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "鶏",
+          "魚介"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "こってり"
+        ]
+      },
+      "score": 64.4,
+      "rank": 34
     },
     {
       "id": "g-ChIJD8FokKnlTzURDXSbDHiEo9M",
@@ -12802,8 +14418,22 @@
         "google"
       ],
       "placeId": "ChIJD8FokKnlTzURDXSbDHiEo9M",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "鶏白湯",
+          "煮干し"
+        ],
+        "character": [
+          "濃厚",
+          "白湯"
+        ]
+      },
       "score": 48.7,
-      "rank": 97
+      "rank": 96
     },
     {
       "id": "g-ChIJaSDV-e3lTzUR1O9mvs2WNkc",
@@ -12825,7 +14455,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJaSDV-e3lTzUR1O9mvs2WNkc"
+      "placeId": "ChIJaSDV-e3lTzUR1O9mvs2WNkc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "鶏",
+          "鯛・鮮魚"
+        ],
+        "character": [
+          "清湯"
+        ]
+      }
     },
     {
       "id": "g-ChIJq6qpVhjmTzURx5LwDGeYg3I",
@@ -12852,8 +14496,14 @@
         "google"
       ],
       "placeId": "ChIJq6qpVhjmTzURx5LwDGeYg3I",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "創作系"
+        ]
+      },
       "score": 43.5,
-      "rank": 188
+      "rank": 184
     },
     {
       "id": "g-ChIJM2SvGaDlTzURKVx0S2pgTEA",
@@ -12880,8 +14530,19 @@
         "google"
       ],
       "placeId": "ChIJM2SvGaDlTzURKVx0S2pgTEA",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "味噌",
+          "豚骨",
+          "魚介"
+        ]
+      },
       "score": 51,
-      "rank": 84
+      "rank": 83
     },
     {
       "id": "osm-n13954951301",
@@ -12910,6 +14571,11 @@
         "google"
       ],
       "placeId": "ChIJu_b4RADlTzUR7ua7mvrM0ck",
+      "tags": {
+        "soup": [
+          "醤油"
+        ]
+      },
       "score": 42.1
     },
     {
@@ -12937,6 +14603,11 @@
         "google"
       ],
       "placeId": "ChIJbdYkoO7lTzURpDX2BvCC-Xs",
+      "tags": {
+        "soup": [
+          "醤油"
+        ]
+      },
       "score": 69.9,
       "rank": 19
     },
@@ -12965,8 +14636,24 @@
         "google"
       ],
       "placeId": "ChIJB1k0K_XnTzUR4hHW7IZuQTg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "豚骨"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "白湯"
+        ]
+      },
       "score": 48.7,
-      "rank": 99
+      "rank": 98
     },
     {
       "id": "osm-n12208660713",
@@ -12990,7 +14677,12 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJFbWYzhzlTzURL0HXWktl2sI"
+      "placeId": "ChIJFbWYzhzlTzURL0HXWktl2sI",
+      "tags": {
+        "style": [
+          "まぜそば"
+        ]
+      }
     },
     {
       "id": "g-ChIJO04Kn7_lTzURfRAdwxyMbaw",
@@ -13017,6 +14709,11 @@
         "google"
       ],
       "placeId": "ChIJO04Kn7_lTzURfRAdwxyMbaw",
+      "tags": {
+        "style": [
+          "まぜそば"
+        ]
+      },
       "score": 42.8
     },
     {
@@ -13070,8 +14767,8 @@
         "google"
       ],
       "placeId": "ChIJR5XVeW_mTzUR-eygRq-a65g",
-      "score": 43.7,
-      "rank": 178
+      "score": 43.8,
+      "rank": 175
     },
     {
       "id": "osm-n2385956566",
@@ -13100,6 +14797,19 @@
         "google"
       ],
       "placeId": "ChIJLeVpjWXvTzURPleiXx6KJmg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "character": [
+          "こってり",
+          "背脂"
+        ]
+      },
       "score": 39
     },
     {
@@ -13179,8 +14889,18 @@
         "google"
       ],
       "placeId": "ChIJ8b0PAADlTzURdA-73DKoZO0",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ]
+      },
       "score": 56,
-      "rank": 58
+      "rank": 57
     },
     {
       "id": "g-ChIJq6qeD4zlTzURCGO0Yf1Und4",
@@ -13207,8 +14927,16 @@
         "google"
       ],
       "placeId": "ChIJq6qeD4zlTzURCGO0Yf1Und4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ]
+      },
       "score": 63,
-      "rank": 40
+      "rank": 39
     },
     {
       "id": "g-ChIJVVSLIJTlTzURBFduhAvsazo",
@@ -13261,8 +14989,24 @@
         "google"
       ],
       "placeId": "ChIJz3rxRe7lTzUR2uvNrnD8A7o",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌",
+          "豚骨",
+          "鶏"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
       "score": 43.3,
-      "rank": 196
+      "rank": 192
     },
     {
       "id": "osm-n10605774688",
@@ -13575,6 +15319,18 @@
         "google"
       ],
       "placeId": "ChIJ7TWYKT_uTzUR8JsyihUC5Ls",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 42.7
     },
     {
@@ -13604,6 +15360,15 @@
         "google"
       ],
       "placeId": "ChIJyWVDxwbuTzURXqNQSYY5Kms",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "節"
+        ]
+      },
       "score": 38.9
     },
     {
@@ -13737,8 +15502,23 @@
         "google"
       ],
       "placeId": "ChIJmSaJuavvTzURk0FAFx0opc0",
-      "score": 52,
-      "rank": 76
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "鶏",
+          "魚介"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
+      "score": 52.1,
+      "rank": 75
     },
     {
       "id": "g-ChIJr87wYADvTzURH12wvotlTJY",
@@ -13819,8 +15599,13 @@
         "google"
       ],
       "placeId": "ChIJ5TPoFzjuTzURqQigJ8GzbbA",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 55.5,
-      "rank": 63
+      "rank": 62
     },
     {
       "id": "g-ChIJxRZLKyXvTzURL7itRhlS5D0",
@@ -13977,14 +15762,25 @@
         "google"
       ],
       "placeId": "ChIJj9_7YMatUTURmzWI1arg0wI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 46.6,
-      "rank": 122
+      "rank": 121
     },
     {
       "id": "g-ChIJSTt0JwOtUTUREyRxfcQg2bs",
       "name": "ラーメン党和田",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "restaurant",
+      "ramen": null,
       "lat": 34.2569526,
       "lng": 133.2045372,
       "city": "上島町",
@@ -14004,9 +15800,7 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJSTt0JwOtUTUREyRxfcQg2bs",
-      "score": 45.2,
-      "rank": 143
+      "placeId": "ChIJSTt0JwOtUTUREyRxfcQg2bs"
     },
     {
       "id": "g-ChIJ3ZyotSSxUTURAxUktYTpTDU",
@@ -14129,8 +15923,18 @@
         "google"
       ],
       "placeId": "ChIJW9iTpe7OUTURttw5qiL2-rw",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "鶏",
+          "魚介"
+        ]
+      },
       "score": 49.3,
-      "rank": 89
+      "rank": 88
     },
     {
       "id": "g-ChIJvRQ1m9nPUTURO9UlwK3BCSA",
@@ -14233,8 +16037,16 @@
         "google"
       ],
       "placeId": "ChIJuUBUvN7OUTURq8SJ7Wfi_5Q",
-      "score": 63.7,
-      "rank": 38
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
+      "score": 63.8,
+      "rank": 37
     },
     {
       "id": "osm-w1442586909",
@@ -14340,8 +16152,16 @@
         "google"
       ],
       "placeId": "ChIJn14eepbOUTUR9AnzjuKQBWw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ]
+      },
       "score": 43.3,
-      "rank": 194
+      "rank": 190
     },
     {
       "id": "g-ChIJL9Oodr3PUTURH-gme2_RAGs",
@@ -14369,7 +16189,7 @@
       ],
       "placeId": "ChIJL9Oodr3PUTURH-gme2_RAGs",
       "score": 44.4,
-      "rank": 159
+      "rank": 156
     },
     {
       "id": "osm-w1150196616",
@@ -14604,8 +16424,13 @@
         "google"
       ],
       "placeId": "ChIJw0vsOcnPUTUR9gh8vzSOObs",
+      "tags": {
+        "style": [
+          "二郎系"
+        ]
+      },
       "score": 43.3,
-      "rank": 193
+      "rank": 189
     },
     {
       "id": "g-ChIJmY-NacvIUTURU7i-t-HRFZo",
@@ -14684,7 +16509,25 @@
         "google"
       ],
       "placeId": "ChIJy1m1IhnPUTURgL3ZNGFBFuU",
-      "score": 73.2,
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "鶏",
+          "煮干し"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
+      "score": 73.3,
       "rank": 10
     },
     {
@@ -14712,6 +16555,17 @@
         "google"
       ],
       "placeId": "ChIJKwgGJkvJUTUR5liL_v6Gb6w",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "醤油",
+          "味噌",
+          "豚骨"
+        ]
+      },
       "score": 42.8
     },
     {
@@ -14766,6 +16620,19 @@
         "google"
       ],
       "placeId": "ChIJK55oEcLOUTURhtj5YFANuh0",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "豚骨",
+          "魚介"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
       "score": 76.2,
       "rank": 5
     },
@@ -14794,8 +16661,8 @@
         "google"
       ],
       "placeId": "ChIJI1Zu3sjOUTURl09wjt0MOYQ",
-      "score": 48.5,
-      "rank": 101
+      "score": 48.6,
+      "rank": 100
     },
     {
       "id": "osm-w1442586905",
@@ -14824,6 +16691,15 @@
         "google"
       ],
       "placeId": "ChIJ58OXpM3IUTURHHOAI0EZVoU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "節"
+        ]
+      },
       "score": 40
     },
     {
@@ -14877,8 +16753,17 @@
         "google"
       ],
       "placeId": "ChIJMc3uuRXPUTURh5h7zIwQbos",
+      "tags": {
+        "style": [
+          "家系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
       "score": 50.7,
-      "rank": 85
+      "rank": 84
     },
     {
       "id": "g-ChIJ_wqFrkHPUTUR21VN6k3uktw",
@@ -14905,8 +16790,17 @@
         "google"
       ],
       "placeId": "ChIJ_wqFrkHPUTUR21VN6k3uktw",
+      "tags": {
+        "style": [
+          "家系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
       "score": 45.3,
-      "rank": 142
+      "rank": 140
     },
     {
       "id": "g-ChIJ3eOFHADPUTURzgorjAtZHi4",
@@ -14933,8 +16827,19 @@
         "google"
       ],
       "placeId": "ChIJ3eOFHADPUTURzgorjAtZHi4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌",
+          "魚介"
+        ]
+      },
       "score": 43.7,
-      "rank": 180
+      "rank": 177
     },
     {
       "id": "g-ChIJV_uUOHzPUTUR7Ra50DlGqzM",
@@ -14989,6 +16894,14 @@
         "google"
       ],
       "placeId": "ChIJS6XV-dfPUTURAhOITXOlaLI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油"
+        ]
+      },
       "score": 39.9
     },
     {
@@ -15094,8 +17007,24 @@
         "google"
       ],
       "placeId": "ChIJ170JLADPUTURPnGWNsOxKWs",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "煮干し"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺"
+        ],
+        "character": [
+          "清湯",
+          "背脂"
+        ]
+      },
       "score": 67.8,
-      "rank": 24
+      "rank": 23
     },
     {
       "id": "g-ChIJI8ZAq2XPUTURyVVOnqoWWb0",
@@ -15324,8 +17253,16 @@
         "google"
       ],
       "placeId": "ChIJ15x2PwDPUTURs8s6eTJ-8kw",
+      "tags": {
+        "style": [
+          "辛麺"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
       "score": 45.3,
-      "rank": 141
+      "rank": 139
     },
     {
       "id": "g-ChIJJ8Xly4PPUTURQUF4NkEGjK0",
@@ -15352,8 +17289,16 @@
         "google"
       ],
       "placeId": "ChIJJ8Xly4PPUTURQUF4NkEGjK0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 51.1,
-      "rank": 83
+      "rank": 82
     },
     {
       "id": "g-ChIJ2SGG_6jPUTURJAgMuKDgcOg",
@@ -15512,8 +17457,19 @@
         "google"
       ],
       "placeId": "ChIJ66YNKczOUTURvC_02O69qBk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 56.5,
-      "rank": 56
+      "rank": 55
     },
     {
       "id": "g-ChIJu3RfxtbOUTUR7A5MGiWyprk",
@@ -15561,7 +17517,12 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJz2VbHVbPUTURxjU8YgyIHyg"
+      "placeId": "ChIJz2VbHVbPUTURxjU8YgyIHyg",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      }
     },
     {
       "id": "g-ChIJewyucF_PUTURvIXnP2rames",
@@ -15588,8 +17549,13 @@
         "google"
       ],
       "placeId": "ChIJewyucF_PUTURvIXnP2rames",
+      "tags": {
+        "style": [
+          "つけ麺"
+        ]
+      },
       "score": 60.1,
-      "rank": 46
+      "rank": 45
     },
     {
       "id": "osm-n10681345782",
@@ -15774,6 +17740,15 @@
         "google"
       ],
       "placeId": "ChIJvX9wKMnOUTURu0G9nHEmwRo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "節"
+        ]
+      },
       "score": 42.1
     },
     {
@@ -15803,6 +17778,15 @@
         "google"
       ],
       "placeId": "ChIJDS9LdN7OUTURg7EjDF2vxqc",
+      "tags": {
+        "soup": [
+          "鶏"
+        ],
+        "character": [
+          "こってり",
+          "濃厚"
+        ]
+      },
       "score": 39
     },
     {
@@ -15830,8 +17814,16 @@
         "google"
       ],
       "placeId": "ChIJO66GTgDPUTURzi1bieNQtZQ",
+      "tags": {
+        "style": [
+          "辛麺"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
       "score": 46.7,
-      "rank": 121
+      "rank": 118
     },
     {
       "id": "osm-n2182962658",
@@ -15860,14 +17852,19 @@
         "google"
       ],
       "placeId": "ChIJFTh5Xt7OUTURaUI6PoQzd3c",
-      "score": 53.7,
-      "rank": 67
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
+      "score": 53.8,
+      "rank": 66
     },
     {
       "id": "osm-w1272396754",
       "name": "萩の茶屋",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "restaurant",
+      "ramen": null,
       "lat": 33.9625547,
       "lng": 133.2822535,
       "city": "新居浜市",
@@ -15889,9 +17886,7 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJExzxCtDOUTUR5cqxPWKlgig",
-      "score": 69.4,
-      "rank": 21
+      "placeId": "ChIJExzxCtDOUTUR5cqxPWKlgig"
     },
     {
       "id": "g-ChIJVw4bFqrPUTURNt83o-F1BDg",
@@ -15918,8 +17913,8 @@
     {
       "id": "osm-w1272324431",
       "name": "福々",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "restaurant",
+      "ramen": null,
       "lat": 33.9587837,
       "lng": 133.2856204,
       "city": "新居浜市",
@@ -15941,9 +17936,7 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJ6UKNLNrOUTURrNjGJNEVe5s",
-      "score": 46,
-      "rank": 130
+      "placeId": "ChIJ6UKNLNrOUTURrNjGJNEVe5s"
     },
     {
       "id": "g-ChIJhd8-Cs_OUTURoOJtiu65P1w",
@@ -15996,8 +17989,13 @@
         "google"
       ],
       "placeId": "ChIJkYJ7MczOUTURBARA36NuIcI",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 49.3,
-      "rank": 90
+      "rank": 89
     },
     {
       "id": "osm-n2201048594",
@@ -16026,8 +18024,13 @@
         "google"
       ],
       "placeId": "ChIJD-7SjIHOUTURzJQb1teAth0",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 47.6,
-      "rank": 108
+      "rank": 107
     },
     {
       "id": "g-ChIJTbcTDiDPUTUR89tyEd57XG0",
@@ -16054,8 +18057,17 @@
         "google"
       ],
       "placeId": "ChIJTbcTDiDPUTUR89tyEd57XG0",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "煮干し"
+        ]
+      },
       "score": 64,
-      "rank": 37
+      "rank": 36
     },
     {
       "id": "g-ChIJPYIEBczOUTURKtsVIk1JNQI",
@@ -16082,8 +18094,8 @@
         "google"
       ],
       "placeId": "ChIJPYIEBczOUTURKtsVIk1JNQI",
-      "score": 44.3,
-      "rank": 163
+      "score": 44.4,
+      "rank": 160
     },
     {
       "id": "g-ChIJufMOfgDPUTURHl-QlJwHb5w",
@@ -16136,6 +18148,19 @@
         "google"
       ],
       "placeId": "ChIJZWDXYxPPUTURUPTf5ePlvuQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "character": [
+          "こってり",
+          "背脂"
+        ]
+      },
       "score": 38.8
     },
     {
@@ -16163,8 +18188,13 @@
         "google"
       ],
       "placeId": "ChIJq3JM08fOUTURLK_cuFuQpkw",
-      "score": 43.4,
-      "rank": 189
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
+      "score": 43.5,
+      "rank": 185
     },
     {
       "id": "g-ChIJ18AX-HstUDURxHSh9m7x744",
@@ -16399,7 +18429,7 @@
       ],
       "placeId": "ChIJZa1Zv9rSUTUR4_MtSsSg9AE",
       "score": 43.4,
-      "rank": 191
+      "rank": 187
     },
     {
       "id": "g-ChIJC5FUNgArUDURSPyWU-EmhP8",
@@ -16448,8 +18478,16 @@
         "google"
       ],
       "placeId": "ChIJAYM0yNPSUTURCdISoHpQ-zc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ]
+      },
       "score": 44.6,
-      "rank": 157
+      "rank": 154
     },
     {
       "id": "osm-n2213881378",
@@ -16556,8 +18594,16 @@
         "google"
       ],
       "placeId": "ChIJCftfQ7rSUTURLud6ZmYd3Pc",
-      "score": 48,
-      "rank": 103
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ]
+      },
+      "score": 48.1,
+      "rank": 102
     },
     {
       "id": "g-ChIJ9yyofx_TUTURLf31nzJoR40",
@@ -16684,8 +18730,13 @@
         "google"
       ],
       "placeId": "ChIJd7qGT-0vUDURyn97tA-VEt8",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 43.6,
-      "rank": 184
+      "rank": 181
     },
     {
       "id": "g-ChIJKam_ysksUDURsA6OJrB3lUc",
@@ -16712,8 +18763,16 @@
         "google"
       ],
       "placeId": "ChIJKam_ysksUDURsA6OJrB3lUc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ]
+      },
       "score": 43.7,
-      "rank": 182
+      "rank": 179
     },
     {
       "id": "g-ChIJ580YFJstUDURUdYw5JiH16M",
@@ -16793,7 +18852,7 @@
       ],
       "placeId": "ChIJEyTDAnUtUDURPcQ-Y8BfAsE",
       "score": 47.4,
-      "rank": 112
+      "rank": 111
     },
     {
       "id": "g-ChIJqRCIeM4vUDURwJpqDfqVycc",
@@ -16844,8 +18903,20 @@
         "google"
       ],
       "placeId": "ChIJR6yc6_XNUTURYw42spmNEW4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 48.1,
-      "rank": 102
+      "rank": 101
     },
     {
       "id": "osm-w1434979127",
@@ -16874,8 +18945,20 @@
         "google"
       ],
       "placeId": "ChIJYyrePFwuUDURGhiHGfmE-v4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 43.8,
-      "rank": 176
+      "rank": 173
     },
     {
       "id": "g-ChIJ0R8LOsLSUTURih3zosklW7Y",
@@ -16902,8 +18985,18 @@
         "google"
       ],
       "placeId": "ChIJ0R8LOsLSUTURih3zosklW7Y",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "味噌",
+          "豚骨"
+        ]
+      },
       "score": 47.4,
-      "rank": 111
+      "rank": 110
     },
     {
       "id": "g-ChIJCed9Pc_SUTURvpQWzKPTUM8",
@@ -16930,8 +19023,20 @@
         "google"
       ],
       "placeId": "ChIJCed9Pc_SUTURvpQWzKPTUM8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "塩"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 59.4,
-      "rank": 48
+      "rank": 47
     },
     {
       "id": "g-ChIJVXEqtIorUDUR1xks7LW_X_I",
@@ -16984,6 +19089,18 @@
         "google"
       ],
       "placeId": "ChIJR5GRCbrSUTURiWwkY1X4rOg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 42.3
     },
     {
@@ -17063,6 +19180,11 @@
         "google"
       ],
       "placeId": "ChIJQeriArYuUDUR-AAQK5YHPqo",
+      "tags": {
+        "soup": [
+          "醤油"
+        ]
+      },
       "score": 38.9
     },
     {
@@ -17142,6 +19264,14 @@
         "google"
       ],
       "placeId": "ChIJ9zNxr7vSUTURvNvSi2FL_8c",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 38.1
     },
     {
@@ -17347,8 +19477,16 @@
         "google"
       ],
       "placeId": "ChIJh6zAANDSUTUR897iQJ2V6tI",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "鶏"
+        ]
+      },
       "score": 45.6,
-      "rank": 136
+      "rank": 134
     },
     {
       "id": "g-ChIJMzI74xAvUDURz2c252VolcA",
@@ -17376,7 +19514,7 @@
       ],
       "placeId": "ChIJMzI74xAvUDURz2c252VolcA",
       "score": 64.4,
-      "rank": 34
+      "rank": 33
     },
     {
       "id": "osm-n10314032064",
@@ -17405,8 +19543,16 @@
         "google"
       ],
       "placeId": "ChIJsQ8u_XsvUDURs6IAtyfR4uk",
-      "score": 51.5,
-      "rank": 77
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ]
+      },
+      "score": 51.6,
+      "rank": 76
     },
     {
       "id": "g-ChIJlRL_t7XSUTURninf_kSdKd4",
@@ -17559,8 +19705,29 @@
         "google"
       ],
       "placeId": "ChIJua18MMbSUTURxSA2zIzc9j0",
-      "score": 55.6,
-      "rank": 62
+      "tags": {
+        "style": [
+          "ラーメン",
+          "二郎系",
+          "つけ麺",
+          "担々麺"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌",
+          "豚骨",
+          "鶏",
+          "鶏白湯",
+          "煮干し",
+          "節"
+        ],
+        "noodle": [
+          "細麺"
+        ]
+      },
+      "score": 55.7,
+      "rank": 61
     },
     {
       "id": "g-ChIJMS_v2MksUDURSiXiGJlaThI",
@@ -17639,7 +19806,12 @@
         "google"
       ],
       "placeId": "ChIJTzYffWDZTzURb82Ncyiu_ls",
-      "score": 69.6,
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
+      "score": 69.7,
       "rank": 20
     },
     {
@@ -17767,7 +19939,12 @@
         "google"
       ],
       "placeId": "ChIJ07HvhCQoUDURTMSCipOEioM",
-      "score": 42.9
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
+      "score": 43
     },
     {
       "id": "g-ChIJY8eLGCgvUDUR03Q0tdmv9TU",
@@ -17794,6 +19971,11 @@
         "google"
       ],
       "placeId": "ChIJY8eLGCgvUDUR03Q0tdmv9TU",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 42.5
     },
     {
@@ -17822,7 +20004,7 @@
       ],
       "placeId": "ChIJD7BH98cpUDURWmISBDeGm2s",
       "score": 46,
-      "rank": 129
+      "rank": 128
     },
     {
       "id": "g-ChIJV0LqgQUpUDURorvk7UMFzHQ",
@@ -17929,8 +20111,16 @@
         "google"
       ],
       "placeId": "ChIJYYbbvLzSUTURdfz1ZRIiZHc",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "character": [
+          "清湯"
+        ]
+      },
       "score": 46.3,
-      "rank": 127
+      "rank": 126
     },
     {
       "id": "osm-n8430959261",
@@ -17959,6 +20149,15 @@
         "google"
       ],
       "placeId": "ChIJczGiF7rSUTURlFvxvYcNBk0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌",
+          "豚骨"
+        ]
+      },
       "score": 38.6
     },
     {
@@ -18878,8 +21077,24 @@
         "google"
       ],
       "placeId": "ChIJd_lN5Fh5TzURIuCRZmUxmeY",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "味噌",
+          "豚骨",
+          "鶏",
+          "魚介"
+        ],
+        "character": [
+          "濃厚",
+          "辛い"
+        ]
+      },
       "score": 47,
-      "rank": 115
+      "rank": 114
     },
     {
       "id": "g-ChIJB1xOAEmGRTURzYQGRdTcaFQ",
@@ -19036,8 +21251,26 @@
         "google"
       ],
       "placeId": "ChIJDRo62pCATzUR4GaQios4bgo",
-      "score": 66.5,
-      "rank": 28
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "豚骨",
+          "鶏白湯",
+          "魚介"
+        ],
+        "noodle": [
+          "太麺",
+          "自家製麺"
+        ],
+        "character": [
+          "濃厚"
+        ]
+      },
+      "score": 66.6,
+      "rank": 27
     },
     {
       "id": "g-ChIJMX2ZE3B8RTURvlmtaQKlraI",
@@ -19220,8 +21453,19 @@
         "google"
       ],
       "placeId": "ChIJ4QuFwlaBTzUR38UM9jxVaPw",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "味噌",
+          "魚介"
+        ]
+      },
       "score": 44.6,
-      "rank": 154
+      "rank": 150
     },
     {
       "id": "g-ChIJGw4gjb-ATzURSBgVUZ5DrzM",
@@ -19248,6 +21492,17 @@
         "google"
       ],
       "placeId": "ChIJGw4gjb-ATzURSBgVUZ5DrzM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
       "score": 42.2
     },
     {
@@ -19303,7 +21558,20 @@
         "google"
       ],
       "placeId": "ChIJnc6W6pCATzUR9dYrTlB3mpg",
-      "score": 43.1
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
+      "score": 43.1,
+      "rank": 198
     },
     {
       "id": "g-ChIJ44hwAgB_RTURSrKn36QFXLE",
@@ -19330,8 +21598,19 @@
         "google"
       ],
       "placeId": "ChIJ44hwAgB_RTURSrKn36QFXLE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "noodle": [
+          "細麺"
+        ]
+      },
       "score": 45.4,
-      "rank": 139
+      "rank": 137
     },
     {
       "id": "g-ChIJJaPOapWATzURhYZxKWtjPJ8",
@@ -19358,6 +21637,15 @@
         "google"
       ],
       "placeId": "ChIJJaPOapWATzURhYZxKWtjPJ8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "節"
+        ]
+      },
       "score": 39.3
     },
     {
@@ -19454,7 +21742,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ26FBQDB9RTURhPnwCCTuVqY"
+      "placeId": "ChIJ26FBQDB9RTURhPnwCCTuVqY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "貝"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJ25lTlsR_RTURjKK_XlKvKXE",
@@ -19630,7 +21932,7 @@
       ],
       "placeId": "ChIJh5tFnPyCTzUR04inkh6JcH4",
       "score": 44.6,
-      "rank": 156
+      "rank": 153
     },
     {
       "id": "g-ChIJd1kl4OCATzUR-1X2rI7cYHU",
@@ -19865,6 +22167,11 @@
         "google"
       ],
       "placeId": "ChIJYz49njKARTURWyjDNyEz_SY",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 41.4
     },
     {
@@ -19918,8 +22225,13 @@
         "google"
       ],
       "placeId": "ChIJb2K6Y4SATzUR3HPVzIwuq8E",
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
       "score": 48.7,
-      "rank": 96
+      "rank": 95
     },
     {
       "id": "g-ChIJLVis1NB_RTURnrnawDeISOk",
@@ -19998,8 +22310,16 @@
         "google"
       ],
       "placeId": "ChIJSYlOkdV_RTUR33H7u03NAlE",
-      "score": 65.9,
-      "rank": 30
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ]
+      },
+      "score": 66,
+      "rank": 29
     },
     {
       "id": "g-ChIJQV6cfmR_RTURlIBi2ro5QX0",
@@ -20078,7 +22398,12 @@
         "google"
       ],
       "placeId": "ChIJOSTE7DKBTzUReLA_54H3Bvc",
-      "score": 42.2
+      "tags": {
+        "soup": [
+          "醤油"
+        ]
+      },
+      "score": 42.3
     },
     {
       "id": "g-ChIJaVa_7ex_RTUR_uxlzR2G06E",
@@ -20183,8 +22508,16 @@
         "google"
       ],
       "placeId": "ChIJbS74BNjuTzURmFRPZQJ3FWk",
-      "score": 43.7,
-      "rank": 177
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ]
+      },
+      "score": 43.8,
+      "rank": 174
     },
     {
       "id": "g-ChIJXaMLhv3rTzURqnQaBLDsxo4",
@@ -20263,8 +22596,23 @@
         "google"
       ],
       "placeId": "ChIJq-FrCCvpTzUR7Uw1uaR1W6M",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "こってり"
+        ]
+      },
       "score": 51.4,
-      "rank": 79
+      "rank": 78
     },
     {
       "id": "g-ChIJ01QG4aXpTzURIo1aukstOWI",
@@ -20291,7 +22639,18 @@
         "google"
       ],
       "placeId": "ChIJ01QG4aXpTzURIo1aukstOWI",
-      "score": 70.4,
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "noodle": [
+          "細麺"
+        ]
+      },
+      "score": 70.5,
       "rank": 15
     },
     {
@@ -20373,8 +22732,13 @@
         "google"
       ],
       "placeId": "ChIJlVtRgDPpTzURtJIeDfwuRfY",
-      "score": 48,
-      "rank": 104
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
+      "score": 48.1,
+      "rank": 103
     },
     {
       "id": "g-ChIJLwKxFy3pTzURs6uMT2tW0Qo",
@@ -20846,8 +23210,20 @@
         "google"
       ],
       "placeId": "ChIJe5yJeXHoTzURmwdEAviIfJk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 45.6,
-      "rank": 137
+      "rank": 135
     },
     {
       "id": "osm-w1434979126",
@@ -20876,8 +23252,20 @@
         "google"
       ],
       "placeId": "ChIJF3Tc_JnbTzURcnURuXtJw5U",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "背脂"
+        ]
+      },
       "score": 44.1,
-      "rank": 166
+      "rank": 163
     },
     {
       "id": "g-ChIJ46MnjPnnTzURSAzwOBZPk6o",
@@ -20904,6 +23292,15 @@
         "google"
       ],
       "placeId": "ChIJ46MnjPnnTzURSAzwOBZPk6o",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "節"
+        ]
+      },
       "score": 43
     },
     {
@@ -21031,8 +23428,17 @@
         "google"
       ],
       "placeId": "ChIJh0l4aADpTzURazyiHqJKvug",
+      "tags": {
+        "style": [
+          "家系"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ]
+      },
       "score": 44.1,
-      "rank": 167
+      "rank": 164
     },
     {
       "id": "g-ChIJb_KLBxPdTzUR2E0UvrBez3Y",
@@ -21211,6 +23617,11 @@
         "google"
       ],
       "placeId": "ChIJpUMsrXHoTzURuJbGNhGpqMY",
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
       "score": 72,
       "rank": 12
     },
@@ -21265,6 +23676,19 @@
         "google"
       ],
       "placeId": "ChIJkWsv9QroTzURfIOFoqN6CfU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "character": [
+          "こってり",
+          "背脂"
+        ]
+      },
       "score": 38.6
     },
     {
@@ -21576,8 +24000,14 @@
         "google"
       ],
       "placeId": "ChIJSWeQv7CFTzURTt-YBYgUspI",
+      "tags": {
+        "style": [
+          "中華そば",
+          "ちゃんぽん"
+        ]
+      },
       "score": 59.7,
-      "rank": 47
+      "rank": 46
     },
     {
       "id": "g-ChIJSczdGX2XTzURXt01_U0ALLI",
@@ -21866,6 +24296,14 @@
         "google"
       ],
       "placeId": "ChIJ78c3r4SERTURuPcomRPzbrU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ]
+      },
       "score": 40.6
     },
     {
@@ -22073,8 +24511,22 @@
         "google"
       ],
       "placeId": "ChIJrQ0HRoOERTURHmvOjN43J38",
-      "score": 67,
-      "rank": 26
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "鶏"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      },
+      "score": 67.1,
+      "rank": 25
     },
     {
       "id": "g-ChIJ4729HtuDRTURIs-lmiiQb-8",

@@ -86,7 +86,7 @@ if (args[0] === '--template') {
       for (const k of KEYS) {
         const raw = (r[col[k]] ?? '').trim();
         if (!raw) continue;
-        const vals = [...new Set(raw.split(/[\/／、,・]/).map((x) => x.trim()).filter(Boolean))];
+        const vals = [...new Set(raw.split(/[\/／、,]/).map((x) => x.trim()).filter(Boolean))];
         const bad = vals.filter((v) => !TAGS[k].includes(v));
         if (bad.length) console.warn(`${shop.name} の ${k} に未定義のタグ: ${bad.join(', ')}`);
         shop.tags = { ...(shop.tags || {}), [k]: vals.filter((v) => TAGS[k].includes(v)) };
