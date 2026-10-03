@@ -582,6 +582,22 @@
       "placeId": "ChIJ9_Si0ynPUTUR-um0QaNks0Y",
       "osmId": null,
       "reason": "学食（ジャンル外）"
+    },
+    {
+      "id": "rdb-138037",
+      "name": "麺家崚久",
+      "city": "西条市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "rdb-137780",
+      "name": "らーめん 一鳥 フジグラン重信店",
+      "city": "東温市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "閉業"
     }
   ]
 }
