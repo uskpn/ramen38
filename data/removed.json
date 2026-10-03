@@ -358,6 +358,38 @@
       "city": "大洲市",
       "placeId": "ChIJ69DCPtp_RTUROE7iuVlHQR4",
       "reason": "醤油醸造元（ラーメン店ではない）"
+    },
+    {
+      "id": "osm-n5929052187",
+      "name": "大地の母",
+      "city": "松山市",
+      "placeId": "ChIJh09yk-_kTzURJR-uwWxoct0",
+      "osmId": "node/5929052187",
+      "reason": "お好み焼き店（ラーメンなし）"
+    },
+    {
+      "id": "g-ChIJSTt0JwOtUTUREyRxfcQg2bs",
+      "name": "ラーメン党和田",
+      "city": "上島町",
+      "placeId": "ChIJSTt0JwOtUTUREyRxfcQg2bs",
+      "osmId": null,
+      "reason": "お好み焼き店（ラーメンなし）"
+    },
+    {
+      "id": "osm-w1272396754",
+      "name": "萩の茶屋",
+      "city": "新居浜市",
+      "placeId": "ChIJExzxCtDOUTUR5cqxPWKlgig",
+      "osmId": "way/1272396754",
+      "reason": "そば店（ラーメンなし）"
+    },
+    {
+      "id": "osm-w1272324431",
+      "name": "福々",
+      "city": "新居浜市",
+      "placeId": "ChIJ6UKNLNrOUTURrNjGJNEVe5s",
+      "osmId": "way/1272324431",
+      "reason": "うどん店（ラーメンなし）"
     }
   ]
 }
