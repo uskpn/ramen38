@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T20:18:14.269Z",
+  "updatedAt": "2026-10-03T20:26:36.909Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -822,8 +822,8 @@
           "鶏"
         ]
       },
-      "score": 50.5,
-      "rank": 71
+      "score": 50.8,
+      "rank": 75
     },
     {
       "id": "g-ChIJj3GCjvbtTzURA6BtaGK7DuU",
@@ -915,8 +915,8 @@
           "豚骨"
         ]
       },
-      "score": 47.3,
-      "rank": 109
+      "score": 47.4,
+      "rank": 120
     },
     {
       "id": "g-ChIJtT3zIwzzTzURyIL4hcgwBJY",
@@ -989,7 +989,11 @@
           "count": 52,
           "url": "https://tabelog.com/ehime/A3801/A380103/38007193/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.51,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/103768.html"
+        }
       },
       "sources": [
         "google"
@@ -1063,8 +1067,8 @@
           "あっさり"
         ]
       },
-      "score": 52.8,
-      "rank": 60
+      "score": 53,
+      "rank": 62
     },
     {
       "id": "g-ChIJ17WCdQCNTzURjtptL28Y6DI",
@@ -1135,7 +1139,7 @@
           "背脂"
         ]
       },
-      "score": 41.7
+      "score": 41.6
     },
     {
       "id": "g-ChIJYUH6W4blTzURP37OHNz6Hh8",
@@ -1220,8 +1224,8 @@
           "冷やし"
         ]
       },
-      "score": 45,
-      "rank": 151
+      "score": 44.9,
+      "rank": 175
     },
     {
       "id": "g-ChIJTVP-SdKNTzURQ5H5IElwOyw",
@@ -1261,8 +1265,34 @@
           "魚介"
         ]
       },
-      "score": 45.3,
-      "rank": 143
+      "score": 45.5,
+      "rank": 166
+    },
+    {
+      "id": "rdb-173558",
+      "name": "森店",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.757984,
+      "lng": 132.704041,
+      "city": "伊予市",
+      "address": "愛媛県伊予市米湊803-29",
+      "hours": null,
+      "phone": "089-982-4569",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/173558.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJjQrM4HbyTzURL_zTUPcQ_7A",
@@ -1352,8 +1382,8 @@
           "あっさり"
         ]
       },
-      "score": 46.3,
-      "rank": 127
+      "score": 46.2,
+      "rank": 152
     },
     {
       "id": "g-ChIJPQ2rRr3yTzURscufie5jp14",
@@ -1389,8 +1419,7 @@
           "豚骨"
         ]
       },
-      "score": 43.7,
-      "rank": 196
+      "score": 43.7
     },
     {
       "id": "g-ChIJBSok_obyTzURI9SvHgPs0mU",
@@ -1546,8 +1575,7 @@
           "背脂"
         ]
       },
-      "score": 44.2,
-      "rank": 179
+      "score": 44.1
     },
     {
       "id": "g-ChIJW2Y4mwRjTzUR5mUkr06Fpf0",
@@ -1809,8 +1837,8 @@
           "貝"
         ]
       },
-      "score": 47.1,
-      "rank": 113
+      "score": 47.2,
+      "rank": 129
     },
     {
       "id": "g-ChIJbZV2h8lhTzUR_FXhtrNCEY4",
@@ -1898,8 +1926,7 @@
           "豚骨"
         ]
       },
-      "score": 44.1,
-      "rank": 184
+      "score": 44.1
     },
     {
       "id": "g-ChIJ52mUpephTzURVxhGcdVKcSw",
@@ -2160,8 +2187,8 @@
           "濃厚"
         ]
       },
-      "score": 46.8,
-      "rank": 117
+      "score": 47.1,
+      "rank": 130
     },
     {
       "id": "g-ChIJCxzDPs1hTzURKH0rFVhxVPE",
@@ -2857,7 +2884,7 @@
           "味噌"
         ]
       },
-      "score": 42.7
+      "score": 42.6
     },
     {
       "id": "g-ChIJ_ZUwexFjTzURbyXoKD1smNU",
@@ -2912,6 +2939,32 @@
         "google"
       ],
       "placeId": "ChIJtV_HI8thTzURbtfLEJ1ZJMQ"
+    },
+    {
+      "id": "rdb-122499",
+      "name": "本格中華料理 奉天",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.218403,
+      "lng": 132.567703,
+      "city": "宇和島市",
+      "address": "愛媛県宇和島市丸之内1-1-33",
+      "hours": null,
+      "phone": "0895-22-7772",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/122499.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJuYVab8xhTzURWHLm-Hqu8WI",
@@ -2977,8 +3030,8 @@
           "煮干し"
         ]
       },
-      "score": 56.7,
-      "rank": 45
+      "score": 56.8,
+      "rank": 47
     },
     {
       "id": "g-ChIJ4RhZZOiJRTURvkkXj2ef3kQ",
@@ -3102,7 +3155,38 @@
         ]
       },
       "score": 48.9,
-      "rank": 88
+      "rank": 96
+    },
+    {
+      "id": "rdb-160382",
+      "name": "凩紋二郎",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.219864,
+      "lng": 132.567932,
+      "city": "宇和島市",
+      "address": "愛媛県宇和島市中央町1-5-13",
+      "hours": null,
+      "phone": "0895-49-2314",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/160382.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "style": [
+          "二郎系"
+        ]
+      }
     },
     {
       "id": "g-ChIJxxvQlh9lTzURGhqNT7_77ek",
@@ -3550,8 +3634,7 @@
           "煮干し"
         ]
       },
-      "score": 43.8,
-      "rank": 191
+      "score": 43.8
     },
     {
       "id": "g-ChIJMVV8ALrFTzUR05a__uSfqvs",
@@ -3686,6 +3769,39 @@
       "placeId": "ChIJs0d9LszBTzURM-XRLLN1NSA"
     },
     {
+      "id": "rdb-138885",
+      "name": "中華そば 鶴姫",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.551849,
+      "lng": 133.043854,
+      "city": "久万高原町",
+      "address": "愛媛県上浮穴郡久万高原町中津7027-2",
+      "hours": null,
+      "phone": "0892-54-2518",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.11,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/138885.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
+      "score": 47.4,
+      "rank": 123
+    },
+    {
       "id": "g-ChIJWZCNZVTATzURGDruypoac5I",
       "name": "天空の郷 レストラン さんさん",
       "category": "other",
@@ -3746,7 +3862,7 @@
         ]
       },
       "score": 46.2,
-      "rank": 129
+      "rank": 153
     },
     {
       "id": "g-ChIJo2tDrWLPTzURWQTFlzlxap8",
@@ -3804,7 +3920,7 @@
         ]
       },
       "score": 47,
-      "rank": 115
+      "rank": 136
     },
     {
       "id": "g-ChIJz38EEaA7UDUR3HVVLQdNZIU",
@@ -3881,8 +3997,8 @@
           "清湯"
         ]
       },
-      "score": 47.7,
-      "rank": 101
+      "score": 47.8,
+      "rank": 113
     },
     {
       "id": "g-ChIJZzHonX05UDURfKYoRGp71ps",
@@ -3967,6 +4083,32 @@
       "placeId": "ChIJKxMPNWY6UDURY2D2NqHslwk"
     },
     {
+      "id": "rdb-154705",
+      "name": "お食事処 川志",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.020489,
+      "lng": 132.955215,
+      "city": "今治市",
+      "address": "愛媛県今治市玉川町中村103-2",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/154705.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
       "id": "osm-n8236301077",
       "name": "かねと食堂",
       "category": "shokudo",
@@ -4037,7 +4179,7 @@
         ]
       },
       "score": 44.8,
-      "rank": 155
+      "rank": 179
     },
     {
       "id": "osm-n4716843160",
@@ -4174,7 +4316,7 @@
           "清湯"
         ]
       },
-      "score": 75.3,
+      "score": 76.8,
       "rank": 11
     },
     {
@@ -4200,6 +4342,32 @@
         "google"
       ],
       "placeId": "ChIJD1J_q2UwUDURUqtRjNKWRPk"
+    },
+    {
+      "id": "rdb-168235",
+      "name": "せるすた秘密基地食堂",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.067783,
+      "lng": 133.003036,
+      "city": "今治市",
+      "address": "愛媛県今治市常盤町2-1-20 くろごま団地",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/168235.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJEzUXCF06UDURGNwdb4RvAfA",
@@ -4270,7 +4438,7 @@
         ]
       },
       "score": 45.2,
-      "rank": 146
+      "rank": 170
     },
     {
       "id": "g-ChIJwdPwW3YvUDURDCKR6GHGwjg",
@@ -4390,8 +4558,8 @@
           "清湯"
         ]
       },
-      "score": 46.3,
-      "rank": 126
+      "score": 46.4,
+      "rank": 150
     },
     {
       "id": "osm-n8292222174",
@@ -4460,7 +4628,7 @@
         ]
       },
       "score": 49.3,
-      "rank": 83
+      "rank": 90
     },
     {
       "id": "osm-n8288823645",
@@ -4489,6 +4657,32 @@
         "google"
       ],
       "placeId": "ChIJ-xaVDaM7UDURcj9of9m8puY"
+    },
+    {
+      "id": "rdb-26587",
+      "name": "マリンオアシス はかた",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 34.208508,
+      "lng": 133.079269,
+      "city": "今治市",
+      "address": "愛媛県今治市伯方町叶浦甲1668-1",
+      "hours": null,
+      "phone": "0897-72-3300",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 78.14,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/26587.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJ3TRqr687UDURBLjN4Ymued8",
@@ -4531,7 +4725,7 @@
         ]
       },
       "score": 45,
-      "rank": 150
+      "rank": 174
     },
     {
       "id": "g-ChIJtwUOBSA7UDURWgfABs3-5NU",
@@ -4600,7 +4794,7 @@
         ]
       },
       "score": 45.6,
-      "rank": 137
+      "rank": 160
     },
     {
       "id": "g-ChIJCyZFzhk7UDURXuHOa7gOf3s",
@@ -4642,8 +4836,7 @@
           "清湯"
         ]
       },
-      "score": 44.2,
-      "rank": 176
+      "score": 44.2
     },
     {
       "id": "osm-n13189759750",
@@ -4778,8 +4971,7 @@
           "背脂"
         ]
       },
-      "score": 43.8,
-      "rank": 194
+      "score": 43.9
     },
     {
       "id": "osm-w806460114",
@@ -4823,8 +5015,8 @@
           "柑橘"
         ]
       },
-      "score": 47.6,
-      "rank": 105
+      "score": 47.9,
+      "rank": 108
     },
     {
       "id": "osm-w880917293",
@@ -4871,7 +5063,7 @@
           "中太麺"
         ]
       },
-      "score": 43
+      "score": 42.9
     },
     {
       "id": "g-ChIJvTIOB5MYUDURLJhvc4R2jMg",
@@ -4907,7 +5099,7 @@
         ]
       },
       "score": 44.4,
-      "rank": 169
+      "rank": 196
     },
     {
       "id": "g-ChIJxYT89No7UDURO9wXZg0FURM",
@@ -4952,8 +5144,7 @@
           "中太麺"
         ]
       },
-      "score": 44.1,
-      "rank": 182
+      "score": 44.2
     },
     {
       "id": "g-ChIJjz0-_vwxUDURWRpt5fH6iBQ",
@@ -5000,8 +5191,8 @@
           "にんにく"
         ]
       },
-      "score": 49,
-      "rank": 84
+      "score": 49.1,
+      "rank": 91
     },
     {
       "id": "osm-w806362857",
@@ -5044,6 +5235,34 @@
         ]
       },
       "score": 41.1
+    },
+    {
+      "id": "rdb-100746",
+      "name": "ワたナベ商店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.062756,
+      "lng": 133.001602,
+      "city": "今治市",
+      "address": "愛媛県今治市旭町2-2-3",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 84.83,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/100746.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 49.6,
+      "rank": 85
     },
     {
       "id": "g-ChIJv26cgto6UDUR9F4gKXiPn18",
@@ -5110,7 +5329,7 @@
         ]
       },
       "score": 44.4,
-      "rank": 171
+      "rank": 198
     },
     {
       "id": "g-ChIJQyOP8CE7UDURDQwGKTw2F80",
@@ -5145,8 +5364,7 @@
           "あっさり"
         ]
       },
-      "score": 43.7,
-      "rank": 199
+      "score": 43.7
     },
     {
       "id": "osm-n11527413036",
@@ -5340,8 +5558,8 @@
           "豚骨"
         ]
       },
-      "score": 47.6,
-      "rank": 106
+      "score": 47.8,
+      "rank": 114
     },
     {
       "id": "osm-n11422947210",
@@ -5382,7 +5600,7 @@
           "醤油"
         ]
       },
-      "score": 40.4
+      "score": 40.3
     },
     {
       "id": "osm-n8202430157",
@@ -5430,8 +5648,8 @@
           "海老・蟹"
         ]
       },
-      "score": 46.7,
-      "rank": 121
+      "score": 47,
+      "rank": 135
     },
     {
       "id": "osm-w806424880",
@@ -5469,8 +5687,8 @@
           "豚骨"
         ]
       },
-      "score": 77.5,
-      "rank": 8
+      "score": 79,
+      "rank": 9
     },
     {
       "id": "g-ChIJB237U_Q6UDURwrI4JANzwWE",
@@ -5510,7 +5728,7 @@
           "鶏"
         ]
       },
-      "score": 41.5
+      "score": 41.4
     },
     {
       "id": "osm-w884615813",
@@ -5800,8 +6018,8 @@
           "辛い"
         ]
       },
-      "score": 44.5,
-      "rank": 163
+      "score": 44.6,
+      "rank": 187
     },
     {
       "id": "osm-n8256307943",
@@ -5929,8 +6147,8 @@
           "あっさり"
         ]
       },
-      "score": 44.3,
-      "rank": 175
+      "score": 44.4,
+      "rank": 195
     },
     {
       "id": "g-ChIJoXES0kI6UDURwuZq41MAem0",
@@ -6018,7 +6236,7 @@
           "セメント系"
         ]
       },
-      "score": 66,
+      "score": 67.3,
       "rank": 25
     },
     {
@@ -6057,7 +6275,40 @@
           "中華そば"
         ]
       },
-      "score": 43.6
+      "score": 43.7
+    },
+    {
+      "id": "rdb-124183",
+      "name": "中華そば 京楽軒",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.064121,
+      "lng": 132.995392,
+      "city": "今治市",
+      "address": "愛媛県今治市北宝来1-1-5",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.16,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/124183.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "style": [
+          "中華そば"
+        ]
+      },
+      "score": 47.4,
+      "rank": 119
     },
     {
       "id": "g-ChIJJ2EgyUI6UDURQyRKx5yXeuY",
@@ -6088,6 +6339,136 @@
         "google"
       ],
       "placeId": "ChIJJ2EgyUI6UDURQyRKx5yXeuY"
+    },
+    {
+      "id": "rdb-151188",
+      "name": "中華飯店 ごくう",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.065277,
+      "lng": 132.99791,
+      "city": "今治市",
+      "address": "愛媛県今治市南大門町1-2-18",
+      "hours": null,
+      "phone": "0898-22-3490",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/151188.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
+      "id": "rdb-124080",
+      "name": "中華料理 長安",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.062881,
+      "lng": 132.993713,
+      "city": "今治市",
+      "address": "愛媛県今治市中日吉町1-9-18",
+      "hours": null,
+      "phone": "0898-32-5178",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.75,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/124080.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
+      "id": "rdb-123846",
+      "name": "中華料理 福龍",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.045395,
+      "lng": 132.993179,
+      "city": "今治市",
+      "address": "愛媛県今治市郷本町3-4-19",
+      "hours": null,
+      "phone": "0898-31-1798",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/123846.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
+      "id": "rdb-131622",
+      "name": "中華料理 梁山泊 共栄町店",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.068832,
+      "lng": 132.998642,
+      "city": "今治市",
+      "address": "愛媛県今治市共栄町3-1-15",
+      "hours": null,
+      "phone": "0898-32-3997",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/131622.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
+      "id": "rdb-161479",
+      "name": "中華料理 潯陽",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.036934,
+      "lng": 133.031891,
+      "city": "今治市",
+      "address": "愛媛県今治市東村南1-10-11",
+      "hours": null,
+      "phone": "0898-47-4899",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/161479.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJ62EW04k7UDUR_fADOxrPfEU",
@@ -6142,6 +6523,32 @@
       "placeId": "ChIJAQAArWA6UDURVRml955pvvE"
     },
     {
+      "id": "rdb-100854",
+      "name": "中国料理 白龍",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 34.048168,
+      "lng": 132.99617,
+      "city": "今治市",
+      "address": "愛媛県今治市郷本町1-1-15",
+      "hours": null,
+      "phone": "0898-32-8797",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.48,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/100854.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
       "id": "g-ChIJoal08ehFUDURA2z06k8x03M",
       "name": "猪骨ラーメン",
       "category": "ramen",
@@ -6183,8 +6590,8 @@
           "清湯"
         ]
       },
-      "score": 58.7,
-      "rank": 40
+      "score": 59.5,
+      "rank": 39
     },
     {
       "id": "osm-w806420430",
@@ -6335,8 +6742,8 @@
           "塩"
         ]
       },
-      "score": 44.6,
-      "rank": 161
+      "score": 44.7,
+      "rank": 184
     },
     {
       "id": "g-ChIJ5WL0Jmg6UDURmxHlmHDeGOs",
@@ -6357,7 +6764,11 @@
           "count": 125,
           "url": "https://tabelog.com/ehime/A3802/A380201/38000110/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.5,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/131619.html"
+        }
       },
       "sources": [
         "google"
@@ -6461,7 +6872,7 @@
           "冷やし"
         ]
       },
-      "score": 65.9,
+      "score": 66.9,
       "rank": 26
     },
     {
@@ -6654,8 +7065,34 @@
           "魚介"
         ]
       },
-      "score": 58.7,
-      "rank": 39
+      "score": 59.5,
+      "rank": 40
+    },
+    {
+      "id": "rdb-151187",
+      "name": "麺屋 颯 今治店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 34.065277,
+      "lng": 132.99791,
+      "city": "今治市",
+      "address": "愛媛県今治市南大門町1-2-16",
+      "hours": null,
+      "phone": "080-6243-3413",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/151187.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "osm-n8252656518",
@@ -6735,8 +7172,8 @@
           "白湯"
         ]
       },
-      "score": 55.9,
-      "rank": 47
+      "score": 56.3,
+      "rank": 49
     },
     {
       "id": "g-ChIJfdunizA7UDUR-fm-VIlRGuk",
@@ -6827,7 +7264,7 @@
         ]
       },
       "score": 44.4,
-      "rank": 174
+      "rank": 193
     },
     {
       "id": "g-ChIJNfXvYwA7UDUR3gQK1JKw_PA",
@@ -6848,7 +7285,11 @@
           "count": 292,
           "url": "https://tabelog.com/ehime/A3802/A380201/38000010/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.75,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/137835.html"
+        }
       },
       "sources": [
         "google"
@@ -7044,6 +7485,32 @@
       "placeId": "ChIJzwN8iUGUUTURC4CGPlMKgA4"
     },
     {
+      "id": "rdb-155257",
+      "name": "いりの亭 入野パーキングエリア上り店",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.950935,
+      "lng": 133.421631,
+      "city": "四国中央市",
+      "address": "愛媛県四国中央市土居町入野301-6",
+      "hours": null,
+      "phone": "0896-75-6700",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/155257.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
       "id": "g-ChIJEf1QFhKVUTURxXSt3BmYvT4",
       "name": "うどん・ラーメン みしま屋",
       "category": "ramen",
@@ -7081,7 +7548,7 @@
         ]
       },
       "score": 50.4,
-      "rank": 73
+      "rank": 78
     },
     {
       "id": "g-ChIJszaZCAKVUTUR-4FOCngmCvg",
@@ -7225,7 +7692,7 @@
         ]
       },
       "score": 47.8,
-      "rank": 99
+      "rank": 111
     },
     {
       "id": "g-ChIJKw3wD1GRUTURj5XgTpzrn2w",
@@ -7294,8 +7761,7 @@
           "濃厚"
         ]
       },
-      "score": 44,
-      "rank": 188
+      "score": 43.9
     },
     {
       "id": "g-ChIJhRMeb5LGUTURC6iLL1yqHB4",
@@ -7424,7 +7890,7 @@
           "白湯"
         ]
       },
-      "score": 86.1,
+      "score": 88.1,
       "rank": 2
     },
     {
@@ -7563,7 +8029,7 @@
         ]
       },
       "score": 46.2,
-      "rank": 128
+      "rank": 154
     },
     {
       "id": "g-ChIJa8fLaluUUTURsb2SgDrx64A",
@@ -7633,8 +8099,8 @@
           "自家製麺"
         ]
       },
-      "score": 50.5,
-      "rank": 72
+      "score": 50.7,
+      "rank": 76
     },
     {
       "id": "g-ChIJe8ZV_H6RUTUR9Gf3sU1Fcpo",
@@ -7676,8 +8142,8 @@
           "あっさり"
         ]
       },
-      "score": 47.7,
-      "rank": 102
+      "score": 47.8,
+      "rank": 110
     },
     {
       "id": "osm-w1434979129",
@@ -7722,8 +8188,8 @@
           "背脂"
         ]
       },
-      "score": 48.6,
-      "rank": 91
+      "score": 49.1,
+      "rank": 92
     },
     {
       "id": "g-ChIJ12E-dmiUUTURjh_zpTPd6wQ",
@@ -7763,7 +8229,7 @@
           "節"
         ]
       },
-      "score": 36.4
+      "score": 36.2
     },
     {
       "id": "g-ChIJu-wNKkGRUTURwTSNdBM1aS4",
@@ -7962,8 +8428,7 @@
           "濃厚"
         ]
       },
-      "score": 43.8,
-      "rank": 193
+      "score": 43.8
     },
     {
       "id": "g-ChIJU2st0mmUUTURWW96xE2HPAc",
@@ -8356,8 +8821,8 @@
           "あっさり"
         ]
       },
-      "score": 47.7,
-      "rank": 100
+      "score": 47.8,
+      "rank": 109
     },
     {
       "id": "osm-w407607874",
@@ -8399,7 +8864,7 @@
           "濃厚"
         ]
       },
-      "score": 39.1
+      "score": 39
     },
     {
       "id": "g-ChIJXbTfchqRUTURmVfxm251X6g",
@@ -8444,7 +8909,7 @@
         ]
       },
       "score": 44.9,
-      "rank": 152
+      "rank": 176
     },
     {
       "id": "g-ChIJGXp5Rv6VUTURUu7NhtDcJ64",
@@ -8512,6 +8977,32 @@
         ]
       },
       "score": 43.6
+    },
+    {
+      "id": "rdb-156926",
+      "name": "馬立パーキングエリア 上り",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.920841,
+      "lng": 133.621658,
+      "city": "四国中央市",
+      "address": "愛媛県四国中央市新宮町馬立2",
+      "hours": null,
+      "phone": "0896-72-2468",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/156926.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "osm-w1168234816",
@@ -8687,7 +9178,59 @@
         ]
       },
       "score": 46.1,
-      "rank": 131
+      "rank": 155
+    },
+    {
+      "id": "rdb-173414",
+      "name": "55China 大街道店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.839588,
+      "lng": 132.770004,
+      "city": "松山市",
+      "address": "愛媛県松山市大街道2-3-7",
+      "hours": null,
+      "phone": "089-907-8477",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/173414.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
+      "id": "rdb-99417",
+      "name": "Chef's kitchen (松山空港)",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.827938,
+      "lng": 132.703964,
+      "city": "松山市",
+      "address": "愛媛県松山市南吉田町2731 松山空港ビル2F",
+      "hours": null,
+      "phone": "089-973-5011",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 86.55,
+          "count": 9,
+          "url": "https://ramendb.supleks.jp/s/99417.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJl9OFK_HlTzURICRU3-z-yxM",
@@ -8785,8 +9328,36 @@
           "白湯"
         ]
       },
-      "score": 62.5,
-      "rank": 30
+      "score": 63.1,
+      "rank": 31
+    },
+    {
+      "id": "rdb-159200",
+      "name": "LANTAN",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.848564,
+      "lng": 132.761978,
+      "city": "松山市",
+      "address": "愛媛県松山市高砂2-5-2",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.03,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/159200.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 46.5,
+      "rank": 148
     },
     {
       "id": "g-ChIJjS5yYbDvTzURAt1jjDLP4-s",
@@ -8889,7 +9460,7 @@
         ]
       },
       "score": 46,
-      "rank": 133
+      "rank": 157
     },
     {
       "id": "g-ChIJt5d4SL7lTzURSOiXGayDGjg",
@@ -8916,6 +9487,32 @@
         "google"
       ],
       "placeId": "ChIJt5d4SL7lTzURSOiXGayDGjg"
+    },
+    {
+      "id": "rdb-165706",
+      "name": "うさぎ家",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.889553,
+      "lng": 132.733627,
+      "city": "松山市",
+      "address": "愛媛県松山市太山寺町714-1",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/165706.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJ_6tKqRHvTzURIF0yjZHo__o",
@@ -8957,8 +9554,34 @@
           "節"
         ]
       },
-      "score": 45.3,
-      "rank": 144
+      "score": 45.4,
+      "rank": 167
+    },
+    {
+      "id": "rdb-153715",
+      "name": "おが多 神作麺房",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.838974,
+      "lng": 132.769608,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町3-1 古唐人ビルB1F",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/153715.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJq2oumtDlTzURkBZswTu2Uv0",
@@ -8994,7 +9617,7 @@
           "中華そば"
         ]
       },
-      "score": 42.2
+      "score": 42.1
     },
     {
       "id": "g-ChIJn5CqXE7vTzURctavJPixj9E",
@@ -9027,6 +9650,32 @@
       "placeId": "ChIJn5CqXE7vTzURctavJPixj9E"
     },
     {
+      "id": "rdb-150777",
+      "name": "お食事処 瀬戸",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.97821,
+      "lng": 132.623932,
+      "city": "松山市",
+      "address": "愛媛県松山市中島大浦1621-3",
+      "hours": null,
+      "phone": "089-997-1145",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/150777.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
       "id": "g-ChIJg-g9crblTzUR7NNNw6mL-Eg",
       "name": "かど八",
       "category": "other",
@@ -9051,6 +9700,32 @@
         "google"
       ],
       "placeId": "ChIJg-g9crblTzUR7NNNw6mL-Eg"
+    },
+    {
+      "id": "rdb-112194",
+      "name": "かめそば じゅん",
+      "category": "restaurant",
+      "ramen": "likely",
+      "lat": 33.83934,
+      "lng": 132.772781,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町1-4-11",
+      "hours": null,
+      "phone": "089-921-0332",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.78,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/112194.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "osm-n2305778256",
@@ -9093,8 +9768,35 @@
           "胡麻"
         ]
       },
-      "score": 43.7,
-      "rank": 197
+      "score": 43.6
+    },
+    {
+      "id": "rdb-168651",
+      "name": "ゴールデンゴリラ",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.842587,
+      "lng": 132.774567,
+      "city": "松山市",
+      "address": "愛媛県松山市歩行町1-13-3",
+      "hours": null,
+      "phone": "050-8883-5858",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.97,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/168651.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 47.2,
+      "rank": 126
     },
     {
       "id": "osm-n2441099695",
@@ -9132,8 +9834,8 @@
           "豚骨"
         ]
       },
-      "score": 47.2,
-      "rank": 111
+      "score": 47.3,
+      "rank": 125
     },
     {
       "id": "osm-n5025570564",
@@ -9236,8 +9938,8 @@
           "煮干し"
         ]
       },
-      "score": 45.5,
-      "rank": 141
+      "score": 45.6,
+      "rank": 161
     },
     {
       "id": "g-ChIJtXxoVwDpTzURjpw9OfRmH3o",
@@ -9276,8 +9978,8 @@
           "辛い"
         ]
       },
-      "score": 47.5,
-      "rank": 107
+      "score": 47.6,
+      "rank": 117
     },
     {
       "id": "g-ChIJKcU8SZrlTzURSch77SRYGVY",
@@ -9346,7 +10048,7 @@
         ]
       },
       "score": 47.9,
-      "rank": 98
+      "rank": 107
     },
     {
       "id": "g-ChIJzROZBgDlTzURRB64ce3eXLI",
@@ -9392,7 +10094,7 @@
         ]
       },
       "score": 45.1,
-      "rank": 148
+      "rank": 171
     },
     {
       "id": "g-ChIJoaLdfsPvTzURu9TObmXOWUQ",
@@ -9432,8 +10134,7 @@
           "醤油"
         ]
       },
-      "score": 44,
-      "rank": 185
+      "score": 44
     },
     {
       "id": "osm-w1498210928",
@@ -9616,6 +10317,32 @@
       "placeId": "ChIJ96fzoRbvTzURZ7oKFRjqh8Y"
     },
     {
+      "id": "rdb-114518",
+      "name": "チャイナ大岩 フジグラン松山店",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.844311,
+      "lng": 132.753036,
+      "city": "松山市",
+      "address": "愛媛県松山市宮西1-2-1",
+      "hours": null,
+      "phone": "089-926-7333",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.11,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/114518.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
       "id": "g-ChIJYcHETVLlTzURJM6Deqt2NGA",
       "name": "つけめん 真中（本店）",
       "category": "ramen",
@@ -9649,8 +10376,8 @@
           "つけ麺"
         ]
       },
-      "score": 44.4,
-      "rank": 173
+      "score": 44.2,
+      "rank": 200
     },
     {
       "id": "g-ChIJl-BUOuzlTzURkZrKPwNLaME",
@@ -9686,8 +10413,8 @@
           "つけ麺"
         ]
       },
-      "score": 77.8,
-      "rank": 7
+      "score": 79.4,
+      "rank": 8
     },
     {
       "id": "g-ChIJ5bn4xwLlTzURQnD60re6yqg",
@@ -9782,8 +10509,8 @@
           "濃厚"
         ]
       },
-      "score": 57.8,
-      "rank": 42
+      "score": 58.2,
+      "rank": 43
     },
     {
       "id": "g-ChIJQ1tqr2bvTzURUTNmR-NcfEI",
@@ -9854,7 +10581,7 @@
           "にんにく"
         ]
       },
-      "score": 36.4
+      "score": 36
     },
     {
       "id": "g-ChIJ36Ce2JjlTzUR-k8nbWATgYM",
@@ -9899,8 +10626,8 @@
           "胡麻"
         ]
       },
-      "score": 55.2,
-      "rank": 52
+      "score": 55.3,
+      "rank": 54
     },
     {
       "id": "g-ChIJnzKS8O7lTzURwU80Eh2lrTY",
@@ -9936,7 +10663,35 @@
         ]
       },
       "score": 46.5,
-      "rank": 125
+      "rank": 149
+    },
+    {
+      "id": "rdb-97456",
+      "name": "びいどろ",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.84063,
+      "lng": 132.77034,
+      "city": "松山市",
+      "address": "愛媛県松山市大街道2-5-9",
+      "hours": null,
+      "phone": "089-932-4130",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 86.75,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/97456.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 56.9,
+      "rank": 46
     },
     {
       "id": "g-ChIJT2bJHLjoTzURcW53dnWYowY",
@@ -10025,7 +10780,7 @@
         ]
       },
       "score": 49.9,
-      "rank": 76
+      "rank": 81
     },
     {
       "id": "g-ChIJJeHaqbHlTzURtbyVviZ6gx0",
@@ -10064,7 +10819,7 @@
           "辛い"
         ]
       },
-      "score": 43.2
+      "score": 43.1
     },
     {
       "id": "g-ChIJyd9xaM76TzURc8dq1ZFlgC4",
@@ -10169,8 +10924,8 @@
           "にんにく"
         ]
       },
-      "score": 55.5,
-      "rank": 49
+      "score": 55.8,
+      "rank": 51
     },
     {
       "id": "osm-n2387958471",
@@ -10218,8 +10973,8 @@
           "こってり"
         ]
       },
-      "score": 48.7,
-      "rank": 90
+      "score": 48.8,
+      "rank": 97
     },
     {
       "id": "g-ChIJ9XK-47_vTzURSPU8XJsnHlQ",
@@ -10265,7 +11020,7 @@
         ]
       },
       "score": 44.5,
-      "rank": 165
+      "rank": 188
     },
     {
       "id": "g-ChIJAchVPITlTzURM9_H_Eqz6Fs",
@@ -10308,7 +11063,7 @@
           "あっさり"
         ]
       },
-      "score": 71.8,
+      "score": 73.1,
       "rank": 17
     },
     {
@@ -10355,7 +11110,7 @@
         ]
       },
       "score": 44.8,
-      "rank": 157
+      "rank": 180
     },
     {
       "id": "osm-w305044128",
@@ -10400,8 +11155,8 @@
           "背脂"
         ]
       },
-      "score": 62,
-      "rank": 32
+      "score": 62.5,
+      "rank": 33
     },
     {
       "id": "osm-w625669744",
@@ -10476,8 +11231,8 @@
           "豚骨"
         ]
       },
-      "score": 54,
-      "rank": 56
+      "score": 54.2,
+      "rank": 57
     },
     {
       "id": "g-ChIJO3gHTXLlTzURF6zo-fRyLVk",
@@ -10523,8 +11278,8 @@
           "こってり"
         ]
       },
-      "score": 51.7,
-      "rank": 65
+      "score": 51.8,
+      "rank": 68
     },
     {
       "id": "g-ChIJ2QS5M1_vTzURvmJ8a1sNlng",
@@ -10570,8 +11325,36 @@
           "こってり"
         ]
       },
-      "score": 51.3,
-      "rank": 68
+      "score": 51.6,
+      "rank": 70
+    },
+    {
+      "id": "rdb-133749",
+      "name": "ラーメン源骨",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.847755,
+      "lng": 132.7677,
+      "city": "松山市",
+      "address": "愛媛県松山市平和通3-3-16",
+      "hours": null,
+      "phone": "089-924-7901",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 84.1,
+          "count": 14,
+          "url": "https://ramendb.supleks.jp/s/133749.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 47.9,
+      "rank": 106
     },
     {
       "id": "g-ChIJ8bgwlQnmTzURcOuwb8DKgOI",
@@ -10611,7 +11394,7 @@
           "節"
         ]
       },
-      "score": 42.5
+      "score": 42.6
     },
     {
       "id": "g-ChIJz6nTcvPvTzURFuc8v2kZH0I",
@@ -10685,8 +11468,8 @@
           "にんにく"
         ]
       },
-      "score": 53.9,
-      "rank": 57
+      "score": 54.2,
+      "rank": 59
     },
     {
       "id": "osm-n2305044388",
@@ -10732,7 +11515,7 @@
           "背脂"
         ]
       },
-      "score": 38.3
+      "score": 38.2
     },
     {
       "id": "g-ChIJUxzyEYDvTzURMm75EfM-roQ",
@@ -10776,8 +11559,34 @@
           "泡系"
         ]
       },
-      "score": 45.6,
-      "rank": 136
+      "score": 45.7,
+      "rank": 159
+    },
+    {
+      "id": "rdb-173409",
+      "name": "ラー麺ずんどう屋 松山問屋町店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.862808,
+      "lng": 132.751038,
+      "city": "松山市",
+      "address": "愛媛県松山市問屋町1-4",
+      "hours": null,
+      "phone": "089-908-6989",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/173409.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "osm-n2308403680",
@@ -10882,6 +11691,32 @@
       "placeId": "ChIJ51whzYTlTzURI83Q3QvjuWQ"
     },
     {
+      "id": "rdb-16812",
+      "name": "りんりん亭",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.808781,
+      "lng": 132.745239,
+      "city": "松山市",
+      "address": "愛媛県松山市市坪西町796-6",
+      "hours": null,
+      "phone": "089-971-8630",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 77.74,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/16812.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
       "id": "osm-n13866539537",
       "name": "伊予食堂おとら",
       "category": "shokudo",
@@ -10934,6 +11769,34 @@
         "google"
       ],
       "placeId": "ChIJr5cScQrvTzUR7iqfigZFR1w"
+    },
+    {
+      "id": "rdb-71307",
+      "name": "一天張",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.839596,
+      "lng": 132.76973,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町3-8-2",
+      "hours": null,
+      "phone": "089-934-5333",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 85.24,
+          "count": 9,
+          "url": "https://ramendb.supleks.jp/s/71307.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 52,
+      "rank": 67
     },
     {
       "id": "g-ChIJhYH9aADvTzURdZAigy_90KM",
@@ -11032,8 +11895,8 @@
           "辛い"
         ]
       },
-      "score": 62,
-      "rank": 33
+      "score": 62.8,
+      "rank": 32
     },
     {
       "id": "g-ChIJdce-SADnTzURB72TcqKI0Y0",
@@ -11074,7 +11937,7 @@
         ]
       },
       "score": 44.5,
-      "rank": 168
+      "rank": 189
     },
     {
       "id": "g-ChIJ9za_agDvTzURO9Pz-QXsmPY",
@@ -11114,8 +11977,45 @@
           "豚骨"
         ]
       },
-      "score": 44.8,
-      "rank": 154
+      "score": 44.9,
+      "rank": 178
+    },
+    {
+      "id": "rdb-86674",
+      "name": "横浜家系らーめん 黒帯",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.851555,
+      "lng": 132.75853,
+      "city": "松山市",
+      "address": "愛媛県松山市本町6-2-12",
+      "hours": null,
+      "phone": "089-922-9601",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 84.99,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/86674.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "style": [
+          "家系"
+        ],
+        "soup": [
+          "豚骨",
+          "醤油"
+        ]
+      },
+      "score": 51,
+      "rank": 74
     },
     {
       "id": "osm-n10275126705",
@@ -11157,8 +12057,8 @@
           "豚骨"
         ]
       },
-      "score": 48.3,
-      "rank": 93
+      "score": 48.6,
+      "rank": 100
     },
     {
       "id": "g-ChIJKUCQWmflTzURxvENa7jVIVw",
@@ -11211,6 +12111,33 @@
         "google"
       ],
       "placeId": "ChIJewxrn7roTzURPptT1tLgA18"
+    },
+    {
+      "id": "rdb-26036",
+      "name": "丸源ラーメン 松山中央通り店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.854465,
+      "lng": 132.750687,
+      "city": "松山市",
+      "address": "愛媛県松山市中央1-17-52",
+      "hours": null,
+      "phone": "089-911-1556",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 81.15,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/26036.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 42.1
     },
     {
       "id": "osm-w464219416",
@@ -11401,7 +12328,7 @@
           "豚骨"
         ]
       },
-      "score": 86.2,
+      "score": 88.2,
       "rank": 1
     },
     {
@@ -11447,7 +12374,7 @@
           "白湯"
         ]
       },
-      "score": 85.5,
+      "score": 87.6,
       "rank": 3
     },
     {
@@ -11486,7 +12413,7 @@
         ]
       },
       "score": 46.6,
-      "rank": 123
+      "rank": 145
     },
     {
       "id": "g-ChIJh6qjlvPlTzURRdhkON-EnzM",
@@ -11523,8 +12450,60 @@
           "豚骨"
         ]
       },
-      "score": 54.2,
-      "rank": 54
+      "score": 54.4,
+      "rank": 56
+    },
+    {
+      "id": "rdb-133861",
+      "name": "鶏と肴 とさ鳥",
+      "category": "restaurant",
+      "ramen": "likely",
+      "lat": 33.809364,
+      "lng": 132.777771,
+      "city": "松山市",
+      "address": "愛媛県松山市東石井6-2-8",
+      "hours": null,
+      "phone": "089-958-1616",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.87,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/133861.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
+      "id": "rdb-152574",
+      "name": "元帥 平和通り店",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.847504,
+      "lng": 132.760162,
+      "city": "松山市",
+      "address": "愛媛県松山市平和通5-2-9",
+      "hours": null,
+      "phone": "089-968-1920",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/152574.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "osm-n8244379251",
@@ -11574,7 +12553,7 @@
           "濃厚"
         ]
       },
-      "score": 74.7,
+      "score": 76.2,
       "rank": 12
     },
     {
@@ -11612,8 +12591,8 @@
           "太麺"
         ]
       },
-      "score": 48,
-      "rank": 96
+      "score": 48.3,
+      "rank": 102
     },
     {
       "id": "g-ChIJ7WUZGx_lTzUR9zPxDX4mKY4",
@@ -11680,7 +12659,7 @@
         ]
       },
       "score": 51.5,
-      "rank": 67
+      "rank": 71
     },
     {
       "id": "g-ChIJaz1TVyruTzURS4ozf2z58dE",
@@ -11793,8 +12772,8 @@
           "にんにく"
         ]
       },
-      "score": 67.3,
-      "rank": 22
+      "score": 68.6,
+      "rank": 21
     },
     {
       "id": "g-ChIJgxnrJMXlTzURAZx1LhppCOc",
@@ -11901,8 +12880,34 @@
           "辛い"
         ]
       },
-      "score": 57.4,
-      "rank": 43
+      "score": 57.6,
+      "rank": 44
+    },
+    {
+      "id": "rdb-137984",
+      "name": "四川料理 龍の子",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.840801,
+      "lng": 132.769394,
+      "city": "松山市",
+      "address": "愛媛県松山市一番町3-1-1 松山三越1F",
+      "hours": null,
+      "phone": "089-933-8555",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/137984.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJtQsnt9vvTzURfwZHGTYToY8",
@@ -12033,8 +13038,8 @@
           "にんにく"
         ]
       },
-      "score": 47,
-      "rank": 114
+      "score": 47.2,
+      "rank": 128
     },
     {
       "id": "g-ChIJ5x4vIwDlTzURhsW7UUVF6ik",
@@ -12081,7 +13086,7 @@
         ]
       },
       "score": 44.4,
-      "rank": 170
+      "rank": 197
     },
     {
       "id": "g-ChIJky_aKADlTzURSyT6QRDgXYA",
@@ -12124,8 +13129,8 @@
           "背脂"
         ]
       },
-      "score": 51.2,
-      "rank": 69
+      "score": 51.3,
+      "rank": 72
     },
     {
       "id": "g-ChIJO_3eJJrlTzUR93CkLLJGciY",
@@ -12161,8 +13166,8 @@
           "鯛・鮮魚"
         ]
       },
-      "score": 56.4,
-      "rank": 46
+      "score": 56.7,
+      "rank": 48
     },
     {
       "id": "g-ChIJdfqhgt3lTzUR0INHkJ38Koc",
@@ -12202,8 +13207,8 @@
           "豚骨"
         ]
       },
-      "score": 45.6,
-      "rank": 140
+      "score": 45.5,
+      "rank": 165
     },
     {
       "id": "g-ChIJDYgZCe_lTzURNFtfN1MhRlI",
@@ -12230,6 +13235,32 @@
         "google"
       ],
       "placeId": "ChIJIwjPDu_lTzURrWZTHI_mJ_w"
+    },
+    {
+      "id": "rdb-164374",
+      "name": "笑福",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.839615,
+      "lng": 132.771439,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町2-6-6 21ビル1F",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/164374.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJ8xtCuGrvTzUR8290HgkWdao",
@@ -12265,8 +13296,8 @@
           "醤油"
         ]
       },
-      "score": 57.1,
-      "rank": 44
+      "score": 57.3,
+      "rank": 45
     },
     {
       "id": "g-ChIJOXToZ1vvTzURVFnYDoKsWDo",
@@ -12349,6 +13380,142 @@
       "placeId": "ChIJc9tAbhXvTzURw3k0MJv48aY"
     },
     {
+      "id": "rdb-95928",
+      "name": "食房 夢而今",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.850834,
+      "lng": 132.785217,
+      "city": "松山市",
+      "address": "愛媛県松山市道後湯之町12-33",
+      "hours": null,
+      "phone": "089-921-7759",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.67,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/95928.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 47,
+      "rank": 137
+    },
+    {
+      "id": "rdb-157062",
+      "name": "辛麺 kitchen 彩 二番町店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.840187,
+      "lng": 132.770691,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町2-9-2",
+      "hours": null,
+      "phone": "089-993-8138",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.27,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/157062.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "style": [
+          "辛麺"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
+      "score": 47.5,
+      "rank": 118
+    },
+    {
+      "id": "rdb-110997",
+      "name": "辛麺kitchen 彩",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.838806,
+      "lng": 132.773849,
+      "city": "松山市",
+      "address": "愛媛県松山市三番町1-15-1",
+      "hours": null,
+      "phone": "089-993-7897",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.3,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/110997.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "style": [
+          "辛麺"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
+      "score": 46.9,
+      "rank": 138
+    },
+    {
+      "id": "rdb-126548",
+      "name": "辛麺kitchen 彩 山西店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.850952,
+      "lng": 132.727615,
+      "city": "松山市",
+      "address": "愛媛県松山市山西町544-8",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.34,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/126548.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "style": [
+          "辛麺"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
+      "score": 46.6,
+      "rank": 146
+    },
+    {
       "id": "g-ChIJS4ESIgDlTzUR5_Jb22KYuUY",
       "name": "辛麺屋 飛麻飛火",
       "category": "ramen",
@@ -12385,8 +13552,44 @@
           "辛い"
         ]
       },
-      "score": 46.2,
-      "rank": 130
+      "score": 46.3,
+      "rank": 151
+    },
+    {
+      "id": "rdb-118036",
+      "name": "辛麺屋 桝元 松山店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.839626,
+      "lng": 132.771011,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町2-5-45",
+      "hours": null,
+      "phone": "089-945-7306",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.05,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/118036.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "style": [
+          "辛麺"
+        ],
+        "character": [
+          "辛い"
+        ]
+      },
+      "score": 47.3,
+      "rank": 124
     },
     {
       "id": "g-ChIJ_wVeX-7lTzURrv4GSx0zaDY",
@@ -12432,7 +13635,7 @@
           "節"
         ]
       },
-      "score": 69.2,
+      "score": 70.3,
       "rank": 20
     },
     {
@@ -12480,8 +13683,8 @@
           "セメント系"
         ]
       },
-      "score": 47.2,
-      "rank": 110
+      "score": 47.4,
+      "rank": 122
     },
     {
       "id": "g-ChIJUdsX5N_lTzURjcXN98zfldk",
@@ -12522,8 +13725,7 @@
           "豚骨"
         ]
       },
-      "score": 43.7,
-      "rank": 200
+      "score": 43.6
     },
     {
       "id": "g-ChIJ3_lsF5vlTzURRSW9-bv6gjY",
@@ -12560,7 +13762,7 @@
         ]
       },
       "score": 46.8,
-      "rank": 118
+      "rank": 142
     },
     {
       "id": "g-ChIJm6z3j4vlTzURrWfHJCzmTBQ",
@@ -12757,6 +13959,99 @@
       "placeId": "ChIJAwsC5oLlTzURBsgxm3m5hlg"
     },
     {
+      "id": "rdb-58591",
+      "name": "大澤麺工房 一葵",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.837997,
+      "lng": 132.771469,
+      "city": "松山市",
+      "address": "愛媛県松山市三番町2-5-19",
+      "hours": null,
+      "phone": "089-946-3636",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.77,
+          "count": 6,
+          "url": "https://ramendb.supleks.jp/s/58591.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 44.1
+    },
+    {
+      "id": "rdb-82687",
+      "name": "地鶏白醤油拉麺 鶏真",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.837337,
+      "lng": 132.7715,
+      "city": "松山市",
+      "address": "愛媛県松山市三番町2-1-12",
+      "hours": null,
+      "phone": "089-934-3533",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 84.67,
+          "count": 8,
+          "url": "https://ramendb.supleks.jp/s/82687.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "soup": [
+          "醤油"
+        ]
+      },
+      "score": 49.9,
+      "rank": 80
+    },
+    {
+      "id": "rdb-100266",
+      "name": "地鶏白醤油拉麺 鶏真 大街道店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.838715,
+      "lng": 132.770279,
+      "city": "松山市",
+      "address": "愛媛県松山市大街道2-1-2",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 84.16,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/100266.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "soup": [
+          "醤油"
+        ]
+      },
+      "score": 48.3,
+      "rank": 103
+    },
+    {
       "id": "g-ChIJ7yJlegDpTzURBhNkcBeXkXY",
       "name": "中華そば 鯊",
       "category": "ramen",
@@ -12791,7 +14086,7 @@
         ]
       },
       "score": 44.7,
-      "rank": 158
+      "rank": 183
     },
     {
       "id": "g-ChIJkYpGno7lTzURD3Zo3dr7jNs",
@@ -12827,7 +14122,7 @@
           "中華そば"
         ]
       },
-      "score": 76.2,
+      "score": 77.6,
       "rank": 10
     },
     {
@@ -12865,7 +14160,7 @@
         ]
       },
       "score": 47.4,
-      "rank": 108
+      "rank": 121
     },
     {
       "id": "g-ChIJkVu4OCzuTzURcSaZBEh6mY0",
@@ -12901,7 +14196,7 @@
           "中華そば"
         ]
       },
-      "score": 64.9,
+      "score": 65.7,
       "rank": 27
     },
     {
@@ -12940,8 +14235,8 @@
           "つけ麺"
         ]
       },
-      "score": 49.7,
-      "rank": 77
+      "score": 49.8,
+      "rank": 82
     },
     {
       "id": "g-ChIJ1XnfOHPlTzURmugxSD3FAa0",
@@ -13020,6 +14315,58 @@
         "google"
       ],
       "placeId": "ChIJr5DPm6TlTzURzcAC9jDA26U"
+    },
+    {
+      "id": "rdb-120587",
+      "name": "中華菜飯 愛華",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.830147,
+      "lng": 132.776077,
+      "city": "松山市",
+      "address": "愛媛県松山市中村3-4-6 1F",
+      "hours": null,
+      "phone": "089-947-1668",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/120587.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
+      "id": "rdb-140216",
+      "name": "中華旬菜 西尾",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.836571,
+      "lng": 132.764328,
+      "city": "松山市",
+      "address": "愛媛県松山市千舟町5-1-5 ワークビル1F",
+      "hours": null,
+      "phone": "089-933-2028",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/140216.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJi5miqPcdUDURqJnsJxBD9ro",
@@ -13324,7 +14671,11 @@
           "count": 46,
           "url": "https://tabelog.com/ehime/A3801/A380101/38000739/"
         },
-        "rdb": null
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/125060.html"
+        }
       },
       "sources": [
         "google"
@@ -13417,8 +14768,8 @@
           "豚骨"
         ]
       },
-      "score": 58.9,
-      "rank": 38
+      "score": 59.4,
+      "rank": 41
     },
     {
       "id": "osm-w230964592",
@@ -13460,7 +14811,35 @@
           "濃厚"
         ]
       },
-      "score": 35.9
+      "score": 35.7
+    },
+    {
+      "id": "rdb-163493",
+      "name": "天領 二番町店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.838985,
+      "lng": 132.774658,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町1-1-10",
+      "hours": null,
+      "phone": "089-934-7215",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 85.5,
+          "count": 0,
+          "url": "https://ramendb.supleks.jp/s/163493.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 49.5,
+      "rank": 86
     },
     {
       "id": "g-ChIJF23jEOzlTzURoYSHOeLRpNs",
@@ -13523,7 +14902,7 @@
         ]
       },
       "score": 45.1,
-      "rank": 147
+      "rank": 172
     },
     {
       "id": "g-ChIJNfG2IaDlTzURzsYNBEsF_dQ",
@@ -13566,7 +14945,7 @@
           "あっさり"
         ]
       },
-      "score": 72,
+      "score": 73.3,
       "rank": 15
     },
     {
@@ -13605,8 +14984,41 @@
           "豚骨"
         ]
       },
-      "score": 49.5,
-      "rank": 78
+      "score": 49.6,
+      "rank": 84
+    },
+    {
+      "id": "rdb-99854",
+      "name": "豚太郎 松山駅前通り店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.848793,
+      "lng": 132.752563,
+      "city": "松山市",
+      "address": "愛媛県松山市宮西2-5-19",
+      "hours": null,
+      "phone": "089-995-8481",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.56,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/99854.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
+      "score": 46.9,
+      "rank": 140
     },
     {
       "id": "osm-n5907316483",
@@ -13644,8 +15056,8 @@
           "豚骨"
         ]
       },
-      "score": 50.1,
-      "rank": 75
+      "score": 50.2,
+      "rank": 79
     },
     {
       "id": "g-ChIJQQ4qjyzlTzURa3S2refmHdA",
@@ -13688,8 +15100,8 @@
           "野菜"
         ]
       },
-      "score": 77.9,
-      "rank": 6
+      "score": 79.5,
+      "rank": 7
     },
     {
       "id": "g-ChIJVVVVVfLlTzURw8qhvYUg-tQ",
@@ -13736,8 +15148,8 @@
           "にんにく"
         ]
       },
-      "score": 48.2,
-      "rank": 95
+      "score": 48.5,
+      "rank": 101
     },
     {
       "id": "g-ChIJI7ts9lzlTzUR66LUMRNhFZs",
@@ -13768,6 +15180,39 @@
         "google"
       ],
       "placeId": "ChIJI7ts9lzlTzUR66LUMRNhFZs"
+    },
+    {
+      "id": "rdb-7213",
+      "name": "博多一風堂 松山店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.839596,
+      "lng": 132.76973,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町3-8-12",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 86.85,
+          "count": 18,
+          "url": "https://ramendb.supleks.jp/s/7213.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
+      "score": 59.6,
+      "rank": 37
     },
     {
       "id": "g-ChIJ7zVgiqnlTzURvtM_81pJ-bw",
@@ -13810,8 +15255,8 @@
           "濃厚"
         ]
       },
-      "score": 58.3,
-      "rank": 41
+      "score": 58.9,
+      "rank": 42
     },
     {
       "id": "g-ChIJ5-KlnfTlTzURO7nq8MyPaPY",
@@ -13886,7 +15331,7 @@
         ]
       },
       "score": 51,
-      "rank": 70
+      "rank": 73
     },
     {
       "id": "g-ChIJ3bdhHgseUDURfb9bnjcOzMo",
@@ -13928,7 +15373,7 @@
           "魚介"
         ]
       },
-      "score": 43.1
+      "score": 43.2
     },
     {
       "id": "g-ChIJRZf0Cq_oTzURXUrIMPZ6itA",
@@ -13969,7 +15414,34 @@
           "あっさり"
         ]
       },
-      "score": 43.5
+      "score": 43.4
+    },
+    {
+      "id": "rdb-78024",
+      "name": "風風亭 樽味本店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.838966,
+      "lng": 132.786438,
+      "city": "松山市",
+      "address": "愛媛県松山市樽味1-3-9",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 80.49,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/78024.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 42.6
     },
     {
       "id": "g-ChIJ3Toeas3oTzURk3kzjVSgrfQ",
@@ -14086,6 +15558,58 @@
       "placeId": "ChIJXQUG4bvjTzURFmaAAACESSA"
     },
     {
+      "id": "rdb-108064",
+      "name": "本場中華料理 長楽",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.853992,
+      "lng": 132.720413,
+      "city": "松山市",
+      "address": "愛媛県松山市山西町960-19",
+      "hours": null,
+      "phone": "089-953-2824",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 85.28,
+          "count": 4,
+          "url": "https://ramendb.supleks.jp/s/108064.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
+      "id": "rdb-109161",
+      "name": "万寿",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.83934,
+      "lng": 132.772781,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町1-4-24",
+      "hours": null,
+      "phone": "089-945-9444",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 87.69,
+          "count": 7,
+          "url": "https://ramendb.supleks.jp/s/109161.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
       "id": "g-ChIJxd1niFvvTzURtAVNjApCkyw",
       "name": "味千拉麺 朝生田店",
       "category": "ramen",
@@ -14104,7 +15628,11 @@
           "count": 56,
           "url": "https://tabelog.com/ehime/A3801/A380101/38007851/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 82.81,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/86915.html"
+        }
       },
       "sources": [
         "google"
@@ -14118,7 +15646,7 @@
           "豚骨"
         ]
       },
-      "score": 38.6
+      "score": 41.2
     },
     {
       "id": "g-ChIJHUP4cZXlTzURoyF1eYXRZOg",
@@ -14155,7 +15683,7 @@
           "豚骨"
         ]
       },
-      "score": 61.3,
+      "score": 61.9,
       "rank": 34
     },
     {
@@ -14199,8 +15727,34 @@
           "にんにく"
         ]
       },
-      "score": 71.6,
+      "score": 72.9,
       "rank": 18
+    },
+    {
+      "id": "rdb-157557",
+      "name": "麺 一",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.843357,
+      "lng": 132.769653,
+      "city": "松山市",
+      "address": "愛媛県松山市大街道3-2-31",
+      "hours": null,
+      "phone": "089-913-6680",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/157557.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJQVoKNfPlTzURwmIwkny6ueg",
@@ -14236,7 +15790,7 @@
           "節"
         ]
       },
-      "score": 72,
+      "score": 73.1,
       "rank": 16
     },
     {
@@ -14282,8 +15836,8 @@
           "清湯"
         ]
       },
-      "score": 49.4,
-      "rank": 81
+      "score": 49.5,
+      "rank": 87
     },
     {
       "id": "g-ChIJ63LeUMPlTzUR_brlGzl4lAE",
@@ -14323,7 +15877,7 @@
           "濃厚"
         ]
       },
-      "score": 81.6,
+      "score": 83.5,
       "rank": 4
     },
     {
@@ -14363,8 +15917,7 @@
           "豚骨"
         ]
       },
-      "score": 44.2,
-      "rank": 178
+      "score": 44.2
     },
     {
       "id": "g-ChIJu8dtFtjvTzURkmSiNz1jcKY",
@@ -14409,8 +15962,8 @@
           "濃厚"
         ]
       },
-      "score": 53.5,
-      "rank": 58
+      "score": 53.8,
+      "rank": 60
     },
     {
       "id": "g-ChIJq1Rmyu3lTzURs_48FrDZGCQ",
@@ -14453,7 +16006,7 @@
           "背脂"
         ]
       },
-      "score": 59.9,
+      "score": 60.4,
       "rank": 36
     },
     {
@@ -14497,8 +16050,8 @@
           "背脂"
         ]
       },
-      "score": 51.6,
-      "rank": 66
+      "score": 51.8,
+      "rank": 69
     },
     {
       "id": "g-ChIJYbhOBgDlTzURQnOdNzVTGkM",
@@ -14540,7 +16093,7 @@
         ]
       },
       "score": 45.6,
-      "rank": 138
+      "rank": 164
     },
     {
       "id": "g-ChIJj-Oi2PrvTzURPEsBfZp081k",
@@ -14590,8 +16143,34 @@
           "こってり"
         ]
       },
-      "score": 62.4,
-      "rank": 31
+      "score": 63.1,
+      "rank": 30
+    },
+    {
+      "id": "rdb-156659",
+      "name": "麺屋 颯",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.98085,
+      "lng": 132.782913,
+      "city": "松山市",
+      "address": "愛媛県松山市下難波462-1",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/156659.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJD8FokKnlTzURDXSbDHiEo9M",
@@ -14636,8 +16215,8 @@
           "白湯"
         ]
       },
-      "score": 48,
-      "rank": 97
+      "score": 48.1,
+      "rank": 105
     },
     {
       "id": "g-ChIJaSDV-e3lTzUR1O9mvs2WNkc",
@@ -14678,8 +16257,8 @@
           "清湯"
         ]
       },
-      "score": 77.3,
-      "rank": 9
+      "score": 79.8,
+      "rank": 6
     },
     {
       "id": "g-ChIJq6qpVhjmTzURx5LwDGeYg3I",
@@ -14716,7 +16295,35 @@
           "創作系"
         ]
       },
-      "score": 42.8
+      "score": 42.7
+    },
+    {
+      "id": "rdb-173658",
+      "name": "麺工房 遥海",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.850639,
+      "lng": 132.787674,
+      "city": "松山市",
+      "address": "愛媛県松山市道後湯之町1-38",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.73,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/173658.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 47,
+      "rank": 134
     },
     {
       "id": "g-ChIJM2SvGaDlTzURKVx0S2pgTEA",
@@ -14758,8 +16365,36 @@
           "魚介"
         ]
       },
-      "score": 48.9,
-      "rank": 85
+      "score": 49,
+      "rank": 93
+    },
+    {
+      "id": "rdb-109964",
+      "name": "麺場 田所商店 新空港通り店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.838474,
+      "lng": 132.72789,
+      "city": "松山市",
+      "address": "愛媛県松山市北斎院町637-19",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.74,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/109964.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 47.6,
+      "rank": 116
     },
     {
       "id": "osm-n13954951301",
@@ -14797,7 +16432,7 @@
           "醤油"
         ]
       },
-      "score": 42.6
+      "score": 42.5
     },
     {
       "id": "g-ChIJbdYkoO7lTzURpDX2BvCC-Xs",
@@ -14833,7 +16468,7 @@
           "醤油"
         ]
       },
-      "score": 73.9,
+      "score": 75.3,
       "rank": 13
     },
     {
@@ -14881,8 +16516,8 @@
           "白湯"
         ]
       },
-      "score": 47.1,
-      "rank": 112
+      "score": 47.2,
+      "rank": 127
     },
     {
       "id": "osm-n12208660713",
@@ -14947,8 +16582,8 @@
           "油そば"
         ]
       },
-      "score": 44.6,
-      "rank": 159
+      "score": 44.8,
+      "rank": 182
     },
     {
       "id": "g-ChIJq_6aoz3vTzURhJWGNx4sIO8",
@@ -15015,7 +16650,7 @@
         ]
       },
       "score": 44.5,
-      "rank": 167
+      "rank": 190
     },
     {
       "id": "osm-n2385956566",
@@ -15061,7 +16696,7 @@
           "背脂"
         ]
       },
-      "score": 39.8
+      "score": 39.7
     },
     {
       "id": "g-ChIJ4Uaj00HlTzURl9OlS6i8PTY",
@@ -15154,8 +16789,34 @@
           "鶏"
         ]
       },
-      "score": 51.9,
-      "rank": 64
+      "score": 52.1,
+      "rank": 66
+    },
+    {
+      "id": "rdb-125108",
+      "name": "和菜 いたや",
+      "category": "restaurant",
+      "ramen": "likely",
+      "lat": 33.840649,
+      "lng": 132.771576,
+      "city": "松山市",
+      "address": "愛媛県松山市一番町2-4-11",
+      "hours": null,
+      "phone": "089-933-3002",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.97,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/125108.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJq6qeD4zlTzURCGO0Yf1Und4",
@@ -15194,8 +16855,36 @@
           "味噌"
         ]
       },
-      "score": 70.8,
+      "score": 72.2,
       "rank": 19
+    },
+    {
+      "id": "rdb-126592",
+      "name": "拉麺酒場 乙",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.83934,
+      "lng": 132.772781,
+      "city": "松山市",
+      "address": "愛媛県松山市二番町1-4-16 西原ビル10B",
+      "hours": null,
+      "phone": "089-954-4492",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.74,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/126592.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 47,
+      "rank": 133
     },
     {
       "id": "g-ChIJVVSLIJTlTzURBFduhAvsazo",
@@ -15268,8 +16957,8 @@
           "清湯"
         ]
       },
-      "score": 46.6,
-      "rank": 122
+      "score": 46.8,
+      "rank": 141
     },
     {
       "id": "osm-n10605774688",
@@ -15302,6 +16991,58 @@
         "google"
       ],
       "placeId": "ChIJzbTB3EXlTzURSJJNuLAm78Q"
+    },
+    {
+      "id": "rdb-121960",
+      "name": "餃子の王将 パルティ・フジ衣山店",
+      "category": "chinese",
+      "ramen": "menu",
+      "lat": 33.85305,
+      "lng": 132.746368,
+      "city": "松山市",
+      "address": "愛媛県松山市衣山町1-188",
+      "hours": null,
+      "phone": "089-922-5500",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/121960.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
+      "id": "rdb-121506",
+      "name": "餃子の王将 松山南久米店",
+      "category": "chinese",
+      "ramen": "menu",
+      "lat": 33.812962,
+      "lng": 132.796783,
+      "city": "松山市",
+      "address": "愛媛県松山市南久米町558-6",
+      "hours": null,
+      "phone": "089-976-8118",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.77,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/121506.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJva3BphzuTzURMEidFcPsxec",
@@ -15648,7 +17389,7 @@
           "節"
         ]
       },
-      "score": 42.4
+      "score": 42.6
     },
     {
       "id": "osm-n12848296788",
@@ -15707,6 +17448,32 @@
         "google"
       ],
       "placeId": "ChIJmUDi9BruTzURcBPzUOVaFeo"
+    },
+    {
+      "id": "rdb-164512",
+      "name": "一風堂 エミフルMASAKI",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.789639,
+      "lng": 132.715591,
+      "city": "松前町",
+      "address": "愛媛県伊予郡松前町筒井850 エミフルMASAKI 2F",
+      "hours": null,
+      "phone": "089-989-5363",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/164512.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJq-bnNfnxTzURjHVbcQDNgQw",
@@ -15804,8 +17571,8 @@
           "清湯"
         ]
       },
-      "score": 49.3,
-      "rank": 82
+      "score": 49.4,
+      "rank": 89
     },
     {
       "id": "g-ChIJr87wYADvTzURH12wvotlTJY",
@@ -15891,8 +17658,8 @@
           "豚骨"
         ]
       },
-      "score": 55.3,
-      "rank": 51
+      "score": 55.4,
+      "rank": 53
     },
     {
       "id": "g-ChIJxRZLKyXvTzURL7itRhlS5D0",
@@ -16069,7 +17836,7 @@
         ]
       },
       "score": 46.9,
-      "rank": 116
+      "rank": 139
     },
     {
       "id": "g-ChIJ3ZyotSSxUTURAxUktYTpTDU",
@@ -16207,7 +17974,7 @@
         ]
       },
       "score": 49.5,
-      "rank": 80
+      "rank": 88
     },
     {
       "id": "g-ChIJvRQ1m9nPUTURO9UlwK3BCSA",
@@ -16322,8 +18089,8 @@
           "辛い"
         ]
       },
-      "score": 55.5,
-      "rank": 50
+      "score": 55.7,
+      "rank": 52
     },
     {
       "id": "osm-n696846346",
@@ -16412,8 +18179,7 @@
           "味噌"
         ]
       },
-      "score": 43.7,
-      "rank": 198
+      "score": 43.7
     },
     {
       "id": "g-ChIJL9Oodr3PUTURH-gme2_RAGs",
@@ -16458,7 +18224,7 @@
         ]
       },
       "score": 44.8,
-      "rank": 156
+      "rank": 181
     },
     {
       "id": "g-ChIJiVctfxHPUTURmMmi1Qn6PgI",
@@ -16654,8 +18420,7 @@
           "二郎系"
         ]
       },
-      "score": 43.8,
-      "rank": 195
+      "score": 43.7
     },
     {
       "id": "g-ChIJmY-NacvIUTURU7i-t-HRFZo",
@@ -16756,7 +18521,7 @@
           "清湯"
         ]
       },
-      "score": 81.2,
+      "score": 83,
       "rank": 5
     },
     {
@@ -16799,8 +18564,7 @@
           "豚骨"
         ]
       },
-      "score": 44,
-      "rank": 187
+      "score": 44
     },
     {
       "id": "g-ChIJ_THo1c_OUTUR868-lz0qdXE",
@@ -16845,8 +18609,7 @@
           "中太麺"
         ]
       },
-      "score": 44,
-      "rank": 186
+      "score": 44
     },
     {
       "id": "g-ChIJK55oEcLOUTURhtj5YFANuh0",
@@ -16890,8 +18653,8 @@
           "濃厚"
         ]
       },
-      "score": 67.7,
-      "rank": 21
+      "score": 68.5,
+      "rank": 22
     },
     {
       "id": "g-ChIJI1Zu3sjOUTURl09wjt0MOYQ",
@@ -16939,7 +18702,7 @@
         ]
       },
       "score": 48.8,
-      "rank": 89
+      "rank": 98
     },
     {
       "id": "osm-w1442586905",
@@ -16981,7 +18744,7 @@
           "節"
         ]
       },
-      "score": 40.5
+      "score": 40.4
     },
     {
       "id": "g-ChIJsxhEZgXPUTURDD37lmUcX6E",
@@ -17047,8 +18810,8 @@
           "豚骨"
         ]
       },
-      "score": 48.6,
-      "rank": 92
+      "score": 48.7,
+      "rank": 99
     },
     {
       "id": "g-ChIJ_wqFrkHPUTUR21VN6k3uktw",
@@ -17089,7 +18852,7 @@
         ]
       },
       "score": 45.3,
-      "rank": 142
+      "rank": 168
     },
     {
       "id": "g-ChIJ3eOFHADPUTURzgorjAtZHi4",
@@ -17132,7 +18895,7 @@
         ]
       },
       "score": 44.6,
-      "rank": 160
+      "rank": 185
     },
     {
       "id": "g-ChIJV_uUOHzPUTUR7Ra50DlGqzM",
@@ -17199,7 +18962,7 @@
           "醤油"
         ]
       },
-      "score": 40.5
+      "score": 40.4
     },
     {
       "id": "g-ChIJxTwZOMbOUTURTIRz0qZcgkU",
@@ -17341,7 +19104,7 @@
           "辛い"
         ]
       },
-      "score": 66.5,
+      "score": 67.4,
       "rank": 24
     },
     {
@@ -17561,8 +19324,8 @@
           "辛い"
         ]
       },
-      "score": 45.7,
-      "rank": 135
+      "score": 45.6,
+      "rank": 162
     },
     {
       "id": "g-ChIJJ8Xly4PPUTURQUF4NkEGjK0",
@@ -17601,8 +19364,8 @@
           "豚骨"
         ]
       },
-      "score": 48.9,
-      "rank": 86
+      "score": 49,
+      "rank": 94
     },
     {
       "id": "g-ChIJ2SGG_6jPUTURJAgMuKDgcOg",
@@ -17776,8 +19539,8 @@
           "あっさり"
         ]
       },
-      "score": 52.2,
-      "rank": 63
+      "score": 52.4,
+      "rank": 65
     },
     {
       "id": "g-ChIJu3RfxtbOUTUR7A5MGiWyprk",
@@ -17866,8 +19629,8 @@
           "つけ麺"
         ]
       },
-      "score": 54.7,
-      "rank": 53
+      "score": 54.9,
+      "rank": 55
     },
     {
       "id": "osm-n10681345782",
@@ -17926,6 +19689,32 @@
         "google"
       ],
       "placeId": "ChIJmW89odHOUTURYvEC8FoQ4Ng"
+    },
+    {
+      "id": "rdb-125191",
+      "name": "中華料理 蘭華",
+      "category": "chinese",
+      "ramen": "likely",
+      "lat": 33.965439,
+      "lng": 133.277054,
+      "city": "新居浜市",
+      "address": "愛媛県新居浜市泉池町8-3",
+      "hours": null,
+      "phone": "0897-32-4233",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/125191.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJdccCRdDOUTUR8c0M6q9-C9s",
@@ -18069,7 +19858,7 @@
           "節"
         ]
       },
-      "score": 42.6
+      "score": 42.5
     },
     {
       "id": "osm-n11814665969",
@@ -18150,8 +19939,8 @@
           "辛い"
         ]
       },
-      "score": 46,
-      "rank": 132
+      "score": 46.1,
+      "rank": 156
     },
     {
       "id": "osm-n2182962658",
@@ -18189,8 +19978,8 @@
           "豚骨"
         ]
       },
-      "score": 50.3,
-      "rank": 74
+      "score": 50.4,
+      "rank": 77
     },
     {
       "id": "g-ChIJVw4bFqrPUTURNt83o-F1BDg",
@@ -18336,7 +20125,7 @@
           "煮干し"
         ]
       },
-      "score": 61,
+      "score": 61.7,
       "rank": 35
     },
     {
@@ -18407,7 +20196,7 @@
           "背脂"
         ]
       },
-      "score": 39.5
+      "score": 39.3
     },
     {
       "id": "g-ChIJq3JM08fOUTURLK_cuFuQpkw",
@@ -18444,7 +20233,7 @@
         ]
       },
       "score": 44.4,
-      "rank": 172
+      "rank": 194
     },
     {
       "id": "g-ChIJ18AX-HstUDURxHSh9m7x744",
@@ -18565,7 +20354,7 @@
         ]
       },
       "score": 45.2,
-      "rank": 145
+      "rank": 169
     },
     {
       "id": "g-ChIJ08r3-bkvUDUREWx512OLY6U",
@@ -18690,8 +20479,7 @@
           "あっさり"
         ]
       },
-      "score": 43.8,
-      "rank": 192
+      "score": 43.8
     },
     {
       "id": "g-ChIJC5FUNgArUDURSPyWU-EmhP8",
@@ -18753,7 +20541,33 @@
         ]
       },
       "score": 44.9,
-      "rank": 153
+      "rank": 177
+    },
+    {
+      "id": "rdb-90513",
+      "name": "サッポロラーメン 西条東店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.917767,
+      "lng": 133.219803,
+      "city": "西条市",
+      "address": "愛媛県西条市飯岡1930",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/90513.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJzzJ29xkvUDURNhuR9F6idSg",
@@ -18845,7 +20659,7 @@
         ]
       },
       "score": 48.3,
-      "rank": 94
+      "rank": 104
     },
     {
       "id": "g-ChIJ9yyofx_TUTURLf31nzJoR40",
@@ -18981,7 +20795,7 @@
           "中華そば"
         ]
       },
-      "score": 43.5
+      "score": 43.4
     },
     {
       "id": "g-ChIJKam_ysksUDURsA6OJrB3lUc",
@@ -19016,8 +20830,7 @@
           "味噌"
         ]
       },
-      "score": 44.1,
-      "rank": 181
+      "score": 44.1
     },
     {
       "id": "g-ChIJ580YFJstUDURUdYw5JiH16M",
@@ -19115,7 +20928,34 @@
         ]
       },
       "score": 47.6,
-      "rank": 104
+      "rank": 115
+    },
+    {
+      "id": "rdb-63851",
+      "name": "ラーメンショップ 小松店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.897343,
+      "lng": 133.114777,
+      "city": "西条市",
+      "address": "愛媛県西条市小松町新屋敷447-1",
+      "hours": null,
+      "phone": "0898-72-3991",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 80.41,
+          "count": 3,
+          "url": "https://ramendb.supleks.jp/s/63851.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 40.6
     },
     {
       "id": "osm-w1434979128",
@@ -19161,7 +21001,7 @@
         ]
       },
       "score": 44.5,
-      "rank": 164
+      "rank": 191
     },
     {
       "id": "osm-w1434979127",
@@ -19206,8 +21046,7 @@
           "背脂"
         ]
       },
-      "score": 43.9,
-      "rank": 190
+      "score": 43.9
     },
     {
       "id": "g-ChIJ0R8LOsLSUTURih3zosklW7Y",
@@ -19248,8 +21087,8 @@
           "豚骨"
         ]
       },
-      "score": 46.7,
-      "rank": 120
+      "score": 46.8,
+      "rank": 144
     },
     {
       "id": "g-ChIJCed9Pc_SUTURvpQWzKPTUM8",
@@ -19292,8 +21131,8 @@
           "あっさり"
         ]
       },
-      "score": 52.6,
-      "rank": 61
+      "score": 52.7,
+      "rank": 64
     },
     {
       "id": "g-ChIJVXEqtIorUDUR1xks7LW_X_I",
@@ -19362,8 +21201,7 @@
           "背脂"
         ]
       },
-      "score": 44.1,
-      "rank": 183
+      "score": 44.1
     },
     {
       "id": "g-ChIJtWL9h18rUDUR3ZMsdL-KQdY",
@@ -19550,7 +21388,7 @@
           "豚骨"
         ]
       },
-      "score": 39
+      "score": 38.8
     },
     {
       "id": "g-ChIJ_VnTIwAtUDURl1fbrtpwXKs",
@@ -19764,7 +21602,7 @@
         ]
       },
       "score": 45.9,
-      "rank": 134
+      "rank": 158
     },
     {
       "id": "g-ChIJMzI74xAvUDURz2c252VolcA",
@@ -19835,8 +21673,8 @@
           "豚骨"
         ]
       },
-      "score": 52.4,
-      "rank": 62
+      "score": 52.8,
+      "rank": 63
     },
     {
       "id": "g-ChIJlRL_t7XSUTURninf_kSdKd4",
@@ -19879,12 +21717,42 @@
       "instagram": null,
       "ratings": {
         "tabelog": null,
-        "rdb": null
+        "rdb": {
+          "score": 82.62,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/111888.html"
+        }
       },
       "sources": [
         "google"
       ],
       "placeId": "ChIJn9WJAwArUDURXtjV_HRiANw"
+    },
+    {
+      "id": "rdb-143266",
+      "name": "石鎚豚つけそば",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.92857,
+      "lng": 133.183792,
+      "city": "西条市",
+      "address": "愛媛県西条市朔日市280-4",
+      "hours": null,
+      "phone": "0897-53-6010",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/143266.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJqUp3ks_SUTUR92LvPDILRdA",
@@ -20018,8 +21886,8 @@
           "細麺"
         ]
       },
-      "score": 53.5,
-      "rank": 59
+      "score": 53.8,
+      "rank": 61
     },
     {
       "id": "g-ChIJMS_v2MksUDURSiXiGJlaThI",
@@ -20111,7 +21979,7 @@
           "中華そば"
         ]
       },
-      "score": 66.9,
+      "score": 67.8,
       "rank": 23
     },
     {
@@ -20252,7 +22120,7 @@
           "豚骨"
         ]
       },
-      "score": 43.4
+      "score": 43.3
     },
     {
       "id": "g-ChIJY8eLGCgvUDUR03Q0tdmv9TU",
@@ -20288,8 +22156,7 @@
           "豚骨"
         ]
       },
-      "score": 43.9,
-      "rank": 189
+      "score": 43.9
     },
     {
       "id": "g-ChIJD7BH98cpUDURWmISBDeGm2s",
@@ -20439,7 +22306,7 @@
         ]
       },
       "score": 46.5,
-      "rank": 124
+      "rank": 147
     },
     {
       "id": "g-ChIJqRCIeM4vUDURwJpqDfqVycc",
@@ -20515,6 +22382,34 @@
         ]
       },
       "score": 41.7
+    },
+    {
+      "id": "rdb-138037",
+      "name": "麺家崚久",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.915955,
+      "lng": 133.184708,
+      "city": "西条市",
+      "address": "愛媛県西条市大町1644-3 プラザアーリ1F",
+      "hours": null,
+      "phone": "0897-55-3373",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.78,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/138037.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "score": 47.1,
+      "rank": 132
     },
     {
       "id": "g-ChIJr2SGC5kuUDUR4nIK0jyx1Xk",
@@ -21478,8 +23373,8 @@
           "辛い"
         ]
       },
-      "score": 47.7,
-      "rank": 103
+      "score": 47.8,
+      "rank": 112
     },
     {
       "id": "g-ChIJB1xOAEmGRTURzYQGRdTcaFQ",
@@ -21658,7 +23553,7 @@
           "濃厚"
         ]
       },
-      "score": 64.2,
+      "score": 65,
       "rank": 29
     },
     {
@@ -21854,7 +23749,7 @@
         ]
       },
       "score": 45,
-      "rank": 149
+      "rank": 173
     },
     {
       "id": "g-ChIJGw4gjb-ATzURSBgVUZ5DrzM",
@@ -21892,7 +23787,7 @@
           "あっさり"
         ]
       },
-      "score": 42.7
+      "score": 42.6
     },
     {
       "id": "g-ChIJs50038CATzURc-vqlga9y0o",
@@ -21963,7 +23858,7 @@
           "背脂"
         ]
       },
-      "score": 43.6
+      "score": 43.5
     },
     {
       "id": "g-ChIJ44hwAgB_RTURSrKn36QFXLE",
@@ -22006,7 +23901,7 @@
         ]
       },
       "score": 45.6,
-      "rank": 139
+      "rank": 163
     },
     {
       "id": "g-ChIJJaPOapWATzURhYZxKWtjPJ8",
@@ -22161,8 +24056,8 @@
           "あっさり"
         ]
       },
-      "score": 46.7,
-      "rank": 119
+      "score": 46.8,
+      "rank": 143
     },
     {
       "id": "g-ChIJ25lTlsR_RTURjKK_XlKvKXE",
@@ -22335,7 +24230,11 @@
           "count": 13,
           "url": "https://tabelog.com/ehime/A3803/A380301/38007228/"
         },
-        "rdb": null
+        "rdb": {
+          "score": 79.73,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/76153.html"
+        }
       },
       "sources": [
         "google"
@@ -22596,7 +24495,7 @@
           "豚骨"
         ]
       },
-      "score": 41.9
+      "score": 41.8
     },
     {
       "id": "g-ChIJbccUuuR_RTURw4Fu5SVIZDE",
@@ -22623,6 +24522,39 @@
         "google"
       ],
       "placeId": "ChIJbccUuuR_RTURw4Fu5SVIZDE"
+    },
+    {
+      "id": "rdb-99977",
+      "name": "博多ラーメン 大郷 大洲本店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.521515,
+      "lng": 132.549225,
+      "city": "大洲市",
+      "address": "愛媛県大洲市若宮922-8",
+      "hours": null,
+      "phone": "0893-23-5115",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 82.82,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/99977.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ],
+      "tags": {
+        "soup": [
+          "豚骨"
+        ]
+      },
+      "score": 47.1,
+      "rank": 131
     },
     {
       "id": "g-ChIJb2K6Y4SATzUR3HPVzIwuq8E",
@@ -22655,7 +24587,7 @@
         ]
       },
       "score": 48.9,
-      "rank": 87
+      "rank": 95
     },
     {
       "id": "g-ChIJLVis1NB_RTURnrnawDeISOk",
@@ -22746,8 +24678,8 @@
           "味噌"
         ]
       },
-      "score": 55.6,
-      "rank": 48
+      "score": 55.8,
+      "rank": 50
     },
     {
       "id": "g-ChIJQV6cfmR_RTURlIBi2ro5QX0",
@@ -22839,7 +24771,7 @@
           "醤油"
         ]
       },
-      "score": 43.6
+      "score": 43.7
     },
     {
       "id": "g-ChIJaVa_7ex_RTUR_uxlzR2G06E",
@@ -22952,8 +24884,7 @@
           "味噌"
         ]
       },
-      "score": 44.2,
-      "rank": 177
+      "score": 44.1
     },
     {
       "id": "g-ChIJXaMLhv3rTzURqnQaBLDsxo4",
@@ -23051,8 +24982,8 @@
           "こってり"
         ]
       },
-      "score": 49.5,
-      "rank": 79
+      "score": 49.7,
+      "rank": 83
     },
     {
       "id": "g-ChIJ01QG4aXpTzURIo1aukstOWI",
@@ -23094,7 +25025,7 @@
           "細麺"
         ]
       },
-      "score": 73.6,
+      "score": 74.9,
       "rank": 14
     },
     {
@@ -23185,7 +25116,7 @@
           "豚骨"
         ]
       },
-      "score": 42.7
+      "score": 42.6
     },
     {
       "id": "g-ChIJLwKxFy3pTzURs6uMT2tW0Qo",
@@ -23320,6 +25251,32 @@
         "google"
       ],
       "placeId": "ChIJJUF54h_dTzURo-bLCIVf5x4"
+    },
+    {
+      "id": "rdb-143910",
+      "name": "OkinawaKitchen 美ら島160",
+      "category": "restaurant",
+      "ramen": "likely",
+      "lat": 33.799416,
+      "lng": 132.874969,
+      "city": "東温市",
+      "address": "愛媛県東温市志津川南4-8-10",
+      "hours": null,
+      "phone": "089-955-5002",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.06,
+          "count": 1,
+          "url": "https://ramendb.supleks.jp/s/143910.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJp4WNzEfdTzURtvTV4guVe08",
@@ -23612,6 +25569,32 @@
       "placeId": "ChIJwY3ErGrdTzURiVE8I7TQLp8"
     },
     {
+      "id": "rdb-137780",
+      "name": "らーめん 一鳥 フジグラン重信店",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.795582,
+      "lng": 132.833282,
+      "city": "東温市",
+      "address": "愛媛県東温市野田3-1-13 フジグラン重信",
+      "hours": null,
+      "phone": "089-964-3828",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/137780.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
+    },
+    {
       "id": "osm-w1434979125",
       "name": "ラーメンショップ 11号バイパス店",
       "category": "ramen",
@@ -23654,8 +25637,8 @@
           "背脂"
         ]
       },
-      "score": 44.1,
-      "rank": 180
+      "score": 44.2,
+      "rank": 199
     },
     {
       "id": "osm-w1434979126",
@@ -23740,8 +25723,8 @@
           "節"
         ]
       },
-      "score": 44.5,
-      "rank": 162
+      "score": 44.6,
+      "rank": 186
     },
     {
       "id": "g-ChIJp8SRbHroTzURRUEMntgTn1w",
@@ -23794,6 +25777,32 @@
         "google"
       ],
       "placeId": "ChIJAypVZwroTzURhnW_xdJwOxE"
+    },
+    {
+      "id": "rdb-149205",
+      "name": "一休食堂",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.780701,
+      "lng": 132.872864,
+      "city": "東温市",
+      "address": "愛媛県東温市下林1443-2",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": null,
+          "count": null,
+          "url": "https://ramendb.supleks.jp/s/149205.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJNzHA1fjnTzURzcDfVmfOPVE",
@@ -23881,8 +25890,8 @@
           "豚骨"
         ]
       },
-      "score": 44.5,
-      "rank": 166
+      "score": 44.4,
+      "rank": 192
     },
     {
       "id": "g-ChIJb_KLBxPdTzUR2E0UvrBez3Y",
@@ -24074,7 +26083,7 @@
           "中華そば"
         ]
       },
-      "score": 64.5,
+      "score": 65.1,
       "rank": 28
     },
     {
@@ -24442,8 +26451,8 @@
           "ちゃんぽん"
         ]
       },
-      "score": 54,
-      "rank": 55
+      "score": 54.2,
+      "rank": 58
     },
     {
       "id": "g-ChIJSczdGX2XTzURXt01_U0ALLI",
@@ -24748,7 +26757,7 @@
           "味噌"
         ]
       },
-      "score": 41.2
+      "score": 41.1
     },
     {
       "id": "g-ChIJkxAYp52ERTURKgVhE4ns7Fg",
@@ -24838,6 +26847,32 @@
         "google"
       ],
       "placeId": "ChIJS13HuAqFRTURC43Xj8Gf5-Y"
+    },
+    {
+      "id": "rdb-63916",
+      "name": "フジ観光",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.459232,
+      "lng": 132.418716,
+      "city": "八幡浜市",
+      "address": "愛媛県八幡浜市沖新田1583-15",
+      "hours": null,
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.55,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/63916.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJd6zNqISERTUR3l_v2x3_eI0",
@@ -24988,8 +27023,8 @@
           "あっさり"
         ]
       },
-      "score": 59.2,
-      "rank": 37
+      "score": 59.5,
+      "rank": 38
     },
     {
       "id": "g-ChIJ4729HtuDRTURIs-lmiiQb-8",
@@ -25164,6 +27199,32 @@
         "google"
       ],
       "placeId": "ChIJyxr2GHuDRTURrOu-8a7XMk4"
+    },
+    {
+      "id": "rdb-22192",
+      "name": "丸山ちゃんぽん",
+      "category": "shokudo",
+      "ramen": "likely",
+      "lat": 33.462883,
+      "lng": 132.42337,
+      "city": "八幡浜市",
+      "address": "愛媛県八幡浜市下道371-9",
+      "hours": null,
+      "phone": "0894-22-0984",
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": null,
+        "rdb": {
+          "score": 83.98,
+          "count": 5,
+          "url": "https://ramendb.supleks.jp/s/22192.html"
+        }
+      },
+      "closed": null,
+      "sources": [
+        "ramendb"
+      ]
     },
     {
       "id": "g-ChIJhQtPRn2DRTURmdOv9W6yW3Q",
