@@ -598,6 +598,14 @@
       "placeId": null,
       "osmId": null,
       "reason": "閉業"
+    },
+    {
+      "id": "rdb-82687",
+      "name": "地鶏白醤油拉麺 鶏真",
+      "city": "松山市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "大街道店に移転"
     }
   ]
 }
