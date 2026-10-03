@@ -390,6 +390,70 @@
       "placeId": "ChIJ6UKNLNrOUTURrNjGJNEVe5s",
       "osmId": "way/1272324431",
       "reason": "うどん店（ラーメンなし）"
+    },
+    {
+      "id": "g-ChIJMfZTw2rxTzURX9rsu_hwMDc",
+      "name": "ダルマラーメン",
+      "city": "松山市",
+      "placeId": "ChIJMfZTw2rxTzURX9rsu_hwMDc",
+      "osmId": null,
+      "reason": "キッチンカー"
+    },
+    {
+      "id": "osm-n5926081885",
+      "name": "ひょうげつ",
+      "city": "松山市",
+      "placeId": "ChIJvRLPIu3oTzUR4dhKD2bBtpw",
+      "osmId": "node/5926081885",
+      "reason": "うどん店"
+    },
+    {
+      "id": "g-ChIJMe64pe7lTzURyG_s06PFwhg",
+      "name": "夢や食堂",
+      "city": "松山市",
+      "placeId": "ChIJMe64pe7lTzURyG_s06PFwhg",
+      "osmId": null,
+      "reason": "閉店"
+    },
+    {
+      "id": "osm-w1442586909",
+      "name": "がんば亭",
+      "city": "新居浜市",
+      "placeId": "ChIJH8HCeNLIUTURS6diy4PgmwA",
+      "osmId": "way/1442586909",
+      "reason": "うどん店"
+    },
+    {
+      "id": "g-ChIJPYIEBczOUTURKtsVIk1JNQI",
+      "name": "麺処あわた",
+      "city": "新居浜市",
+      "placeId": "ChIJPYIEBczOUTURKtsVIk1JNQI",
+      "osmId": null,
+      "reason": "うどん店"
+    },
+    {
+      "id": "osm-w379012716",
+      "name": "がんば亭",
+      "city": "西条市",
+      "placeId": "ChIJx8_fI6PSUTURDDOsXwSzStY",
+      "osmId": "way/379012716",
+      "reason": "うどん店"
+    },
+    {
+      "id": "g-ChIJY_OqQ3roTzURPBYWKpz_-7c",
+      "name": "フードコート 重信店（ミョンドンヤ）",
+      "city": "東温市",
+      "placeId": "ChIJY_OqQ3roTzURPBYWKpz_-7c",
+      "osmId": null,
+      "reason": "フードコート"
+    },
+    {
+      "id": "osm-n5923150586",
+      "name": "なみへい",
+      "city": "内子町",
+      "placeId": "ChIJgV0B6lKRTzURiF1GRQDBNIU",
+      "osmId": "node/5923150586",
+      "reason": "うどん店"
     }
   ]
 }
