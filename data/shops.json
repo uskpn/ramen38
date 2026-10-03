@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T21:25:18.822Z",
+  "updatedAt": "2026-10-03T21:31:29.159Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -9668,11 +9668,10 @@
       ],
       "tags": {
         "style": [
-          "中華そば",
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [
-          "豚骨"
+          "煮干し"
         ]
       },
       "score": 46.8,
