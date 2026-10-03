@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T08:22:25.208Z",
+  "updatedAt": "2026-10-03T09:00:15.299Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -801,8 +801,8 @@
           "鶏"
         ]
       },
-      "score": 52.8,
-      "rank": 69
+      "score": 52.9,
+      "rank": 67
     },
     {
       "id": "g-ChIJj3GCjvbtTzURA6BtaGK7DuU",
@@ -895,7 +895,7 @@
         ]
       },
       "score": 46.7,
-      "rank": 118
+      "rank": 113
     },
     {
       "id": "g-ChIJtT3zIwzzTzURyIL4hcgwBJY",
@@ -1039,7 +1039,7 @@
         ]
       },
       "score": 63.7,
-      "rank": 38
+      "rank": 36
     },
     {
       "id": "g-ChIJ17WCdQCNTzURjtptL28Y6DI",
@@ -1106,8 +1106,8 @@
           "背脂"
         ]
       },
-      "score": 43,
-      "rank": 197
+      "score": 43.1,
+      "rank": 191
     },
     {
       "id": "g-ChIJYUH6W4blTzURP37OHNz6Hh8",
@@ -1189,7 +1189,7 @@
         ]
       },
       "score": 44.6,
-      "rank": 153
+      "rank": 148
     },
     {
       "id": "g-ChIJTVP-SdKNTzURQ5H5IElwOyw",
@@ -1225,7 +1225,7 @@
           "魚介"
         ]
       },
-      "score": 41.5
+      "score": 41.6
     },
     {
       "id": "g-ChIJjQrM4HbyTzURL_zTUPcQ_7A",
@@ -1311,8 +1311,8 @@
           "あっさり"
         ]
       },
-      "score": 49.1,
-      "rank": 93
+      "score": 49.2,
+      "rank": 90
     },
     {
       "id": "g-ChIJPQ2rRr3yTzURscufie5jp14",
@@ -1348,7 +1348,7 @@
           "豚骨"
         ]
       },
-      "score": 42.6
+      "score": 42.7
     },
     {
       "id": "g-ChIJBSok_obyTzURI9SvHgPs0mU",
@@ -1501,7 +1501,7 @@
         ]
       },
       "score": 43.9,
-      "rank": 168
+      "rank": 163
     },
     {
       "id": "g-ChIJW2Y4mwRjTzUR5mUkr06Fpf0",
@@ -1803,8 +1803,8 @@
           "貝"
         ]
       },
-      "score": 47,
-      "rank": 113
+      "score": 47.1,
+      "rank": 110
     },
     {
       "id": "g-ChIJbZV2h8lhTzUR_FXhtrNCEY4",
@@ -1888,7 +1888,7 @@
           "豚骨"
         ]
       },
-      "score": 42.6
+      "score": 42.7
     },
     {
       "id": "g-ChIJ52mUpephTzURVxhGcdVKcSw",
@@ -2145,7 +2145,7 @@
           "濃厚"
         ]
       },
-      "score": 42.5
+      "score": 42.6
     },
     {
       "id": "g-ChIJCxzDPs1hTzURKH0rFVhxVPE",
@@ -2814,7 +2814,7 @@
           "味噌"
         ]
       },
-      "score": 42.2
+      "score": 42.3
     },
     {
       "id": "g-ChIJ_ZUwexFjTzURbyXoKD1smNU",
@@ -3050,8 +3050,8 @@
           "あっさり"
         ]
       },
-      "score": 48.7,
-      "rank": 96
+      "score": 48.8,
+      "rank": 93
     },
     {
       "id": "g-ChIJxxvQlh9lTzURGhqNT7_77ek",
@@ -3495,8 +3495,8 @@
           "煮干し"
         ]
       },
-      "score": 43.4,
-      "rank": 184
+      "score": 43.5,
+      "rank": 178
     },
     {
       "id": "g-ChIJMVV8ALrFTzUR05a__uSfqvs",
@@ -3678,8 +3678,8 @@
           "豚骨"
         ]
       },
-      "score": 46.4,
-      "rank": 121
+      "score": 46.5,
+      "rank": 118
     },
     {
       "id": "g-ChIJo2tDrWLPTzURWQTFlzlxap8",
@@ -3729,7 +3729,7 @@
       ],
       "placeId": "ChIJZ1OcY106UDURZQZsWkSANG0",
       "score": 46.7,
-      "rank": 115
+      "rank": 114
     },
     {
       "id": "g-ChIJz38EEaA7UDUR3HVVLQdNZIU",
@@ -3803,7 +3803,7 @@
         ]
       },
       "score": 49.2,
-      "rank": 91
+      "rank": 88
     },
     {
       "id": "g-ChIJZzHonX05UDURfKYoRGp71ps",
@@ -3945,8 +3945,8 @@
           "鶏白湯"
         ]
       },
-      "score": 43.8,
-      "rank": 169
+      "score": 43.9,
+      "rank": 164
     },
     {
       "id": "osm-n4716843160",
@@ -4103,7 +4103,7 @@
           "清湯"
         ]
       },
-      "score": 70.5,
+      "score": 70.6,
       "rank": 14
     },
     {
@@ -4222,8 +4222,8 @@
           "濃厚"
         ]
       },
-      "score": 44.8,
-      "rank": 145
+      "score": 44.9,
+      "rank": 141
     },
     {
       "id": "g-ChIJwdPwW3YvUDURDCKR6GHGwjg",
@@ -4339,8 +4339,8 @@
           "清湯"
         ]
       },
-      "score": 45.9,
-      "rank": 129
+      "score": 46,
+      "rank": 125
     },
     {
       "id": "osm-n8292222174",
@@ -4400,8 +4400,8 @@
           "ちゃんぽん"
         ]
       },
-      "score": 49.1,
-      "rank": 92
+      "score": 49.2,
+      "rank": 89
     },
     {
       "id": "osm-n8288823645",
@@ -4484,8 +4484,8 @@
         "google"
       ],
       "placeId": "ChIJ3TRqr687UDURBLjN4Ymued8",
-      "score": 44.6,
-      "rank": 150
+      "score": 44.7,
+      "rank": 146
     },
     {
       "id": "g-ChIJtwUOBSA7UDURWgfABs3-5NU",
@@ -4549,8 +4549,8 @@
           "背脂"
         ]
       },
-      "score": 45.9,
-      "rank": 128
+      "score": 46,
+      "rank": 124
     },
     {
       "id": "g-ChIJCyZFzhk7UDURXuHOa7gOf3s",
@@ -4588,8 +4588,8 @@
           "清湯"
         ]
       },
-      "score": 43.8,
-      "rank": 170
+      "score": 43.9,
+      "rank": 165
     },
     {
       "id": "osm-n13189759750",
@@ -4630,7 +4630,7 @@
           "背脂"
         ]
       },
-      "score": 42.6
+      "score": 42.7
     },
     {
       "id": "osm-n11527404085",
@@ -4671,8 +4671,8 @@
           "背脂"
         ]
       },
-      "score": 43.7,
-      "rank": 178
+      "score": 43.8,
+      "rank": 172
     },
     {
       "id": "osm-n8252622178",
@@ -4714,7 +4714,7 @@
         ]
       },
       "score": 43.8,
-      "rank": 174
+      "rank": 169
     },
     {
       "id": "osm-w806460114",
@@ -4755,7 +4755,7 @@
         ]
       },
       "score": 46.3,
-      "rank": 123
+      "rank": 120
     },
     {
       "id": "osm-w880917293",
@@ -4788,8 +4788,8 @@
         "google"
       ],
       "placeId": "ChIJi_cQ7Yc6UDURG2r1MUplCEI",
-      "score": 43.1,
-      "rank": 195
+      "score": 43.2,
+      "rank": 190
     },
     {
       "id": "g-ChIJvTIOB5MYUDURLJhvc4R2jMg",
@@ -4824,8 +4824,8 @@
           "豚骨"
         ]
       },
-      "score": 44,
-      "rank": 164
+      "score": 44.1,
+      "rank": 160
     },
     {
       "id": "g-ChIJxYT89No7UDURO9wXZg0FURM",
@@ -4852,7 +4852,7 @@
         "google"
       ],
       "placeId": "ChIJxYT89No7UDURO9wXZg0FURM",
-      "score": 42.6
+      "score": 42.7
     },
     {
       "id": "g-ChIJjz0-_vwxUDURWRpt5fH6iBQ",
@@ -4895,8 +4895,8 @@
           "にんにく"
         ]
       },
-      "score": 51.3,
-      "rank": 80
+      "score": 51.4,
+      "rank": 78
     },
     {
       "id": "osm-w806362857",
@@ -4934,7 +4934,7 @@
           "節"
         ]
       },
-      "score": 39
+      "score": 39.1
     },
     {
       "id": "g-ChIJv26cgto6UDUR9F4gKXiPn18",
@@ -4996,8 +4996,8 @@
           "豚骨"
         ]
       },
-      "score": 44,
-      "rank": 166
+      "score": 44.1,
+      "rank": 159
     },
     {
       "id": "g-ChIJQyOP8CE7UDURDQwGKTw2F80",
@@ -5032,8 +5032,8 @@
           "あっさり"
         ]
       },
-      "score": 43.3,
-      "rank": 189
+      "score": 43.4,
+      "rank": 184
     },
     {
       "id": "osm-n11527413036",
@@ -5075,7 +5075,7 @@
         ]
       },
       "score": 43.2,
-      "rank": 194
+      "rank": 188
     },
     {
       "id": "osm-n8323931369",
@@ -5248,7 +5248,7 @@
           "醤油"
         ]
       },
-      "score": 39.8
+      "score": 39.9
     },
     {
       "id": "osm-n8202430157",
@@ -5292,7 +5292,8 @@
           "海老・蟹"
         ]
       },
-      "score": 42.9
+      "score": 43,
+      "rank": 196
     },
     {
       "id": "osm-w806424880",
@@ -5364,7 +5365,7 @@
         ]
       },
       "score": 45.4,
-      "rank": 136
+      "rank": 132
     },
     {
       "id": "osm-w884615813",
@@ -5463,7 +5464,7 @@
           "にんにく"
         ]
       },
-      "score": 42.7
+      "score": 42.8
     },
     {
       "id": "osm-n8321885045",
@@ -5638,8 +5639,8 @@
           "辛い"
         ]
       },
-      "score": 43.9,
-      "rank": 167
+      "score": 44,
+      "rank": 162
     },
     {
       "id": "osm-n8256307943",
@@ -5759,7 +5760,8 @@
           "あっさり"
         ]
       },
-      "score": 42.9
+      "score": 43,
+      "rank": 197
     },
     {
       "id": "g-ChIJoXES0kI6UDURwuZq41MAem0",
@@ -5831,8 +5833,8 @@
           "中華そば"
         ]
       },
-      "score": 53.1,
-      "rank": 68
+      "score": 53.2,
+      "rank": 66
     },
     {
       "id": "osm-n8315503592",
@@ -5866,7 +5868,7 @@
           "中華そば"
         ]
       },
-      "score": 42.8
+      "score": 42.9
     },
     {
       "id": "g-ChIJJ2EgyUI6UDURQyRKx5yXeuY",
@@ -5985,7 +5987,7 @@
         ]
       },
       "score": 52.2,
-      "rank": 72
+      "rank": 70
     },
     {
       "id": "osm-w806420430",
@@ -6128,13 +6130,13 @@
           "塩"
         ]
       },
-      "score": 41.8
+      "score": 41.9
     },
     {
       "id": "g-ChIJ5WL0Jmg6UDURmxHlmHDeGOs",
       "name": "白雅 餃子",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "chinese",
+      "ramen": "likely",
       "lat": 34.0683406,
       "lng": 133.00021329999998,
       "city": "今治市",
@@ -6154,9 +6156,7 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ5WL0Jmg6UDURmxHlmHDeGOs",
-      "score": 66.3,
-      "rank": 28
+      "placeId": "ChIJ5WL0Jmg6UDURmxHlmHDeGOs"
     },
     {
       "id": "osm-w806282867",
@@ -6247,8 +6247,8 @@
           "冷やし"
         ]
       },
-      "score": 64.4,
-      "rank": 32
+      "score": 64.5,
+      "rank": 31
     },
     {
       "id": "g-ChIJaWzynn06UDURtSLzHc0VN10",
@@ -6428,8 +6428,8 @@
           "魚介"
         ]
       },
-      "score": 56.9,
-      "rank": 53
+      "score": 57,
+      "rank": 51
     },
     {
       "id": "osm-n8252656518",
@@ -6501,8 +6501,8 @@
           "白湯"
         ]
       },
-      "score": 56.2,
-      "rank": 56
+      "score": 56.3,
+      "rank": 54
     },
     {
       "id": "g-ChIJfdunizA7UDUR-fm-VIlRGuk",
@@ -6588,8 +6588,8 @@
           "中華そば"
         ]
       },
-      "score": 43.2,
-      "rank": 191
+      "score": 43.3,
+      "rank": 185
     },
     {
       "id": "g-ChIJNfXvYwA7UDUR3gQK1JKw_PA",
@@ -6642,8 +6642,8 @@
     {
       "id": "g-ChIJf9LPu046UDUR2hD_QxMwoQo",
       "name": "梁山泊 本店",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "chinese",
+      "ramen": "likely",
       "lat": 34.0766434,
       "lng": 132.9863638,
       "city": "今治市",
@@ -6663,9 +6663,7 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJf9LPu046UDUR2hD_QxMwoQo",
-      "score": 49.2,
-      "rank": 90
+      "placeId": "ChIJf9LPu046UDUR2hD_QxMwoQo"
     },
     {
       "id": "osm-n8254952344",
@@ -6837,7 +6835,7 @@
         ]
       },
       "score": 50.3,
-      "rank": 85
+      "rank": 83
     },
     {
       "id": "g-ChIJszaZCAKVUTUR-4FOCngmCvg",
@@ -6976,8 +6974,8 @@
           "煮干し"
         ]
       },
-      "score": 47.6,
-      "rank": 106
+      "score": 47.7,
+      "rank": 103
     },
     {
       "id": "g-ChIJKw3wD1GRUTURj5XgTpzrn2w",
@@ -7191,7 +7189,7 @@
           "白湯"
         ]
       },
-      "score": 77.1,
+      "score": 77.2,
       "rank": 3
     },
     {
@@ -7330,7 +7328,7 @@
         ]
       },
       "score": 45.9,
-      "rank": 130
+      "rank": 127
     },
     {
       "id": "g-ChIJa8fLaluUUTURsb2SgDrx64A",
@@ -7397,7 +7395,7 @@
         ]
       },
       "score": 52.5,
-      "rank": 70
+      "rank": 68
     },
     {
       "id": "g-ChIJe8ZV_H6RUTUR9Gf3sU1Fcpo",
@@ -7435,8 +7433,8 @@
           "あっさり"
         ]
       },
-      "score": 47.6,
-      "rank": 105
+      "score": 47.7,
+      "rank": 102
     },
     {
       "id": "osm-w1434979129",
@@ -7477,8 +7475,8 @@
           "背脂"
         ]
       },
-      "score": 43.2,
-      "rank": 192
+      "score": 43.3,
+      "rank": 186
     },
     {
       "id": "g-ChIJ12E-dmiUUTURjh_zpTPd6wQ",
@@ -7514,7 +7512,7 @@
           "節"
         ]
       },
-      "score": 39.1
+      "score": 39.2
     },
     {
       "id": "g-ChIJu-wNKkGRUTURwTSNdBM1aS4",
@@ -7693,8 +7691,8 @@
         "google"
       ],
       "placeId": "ChIJ0Szc5z-RUTURTXNw1H2qcxo",
-      "score": 43.4,
-      "rank": 186
+      "score": 43.5,
+      "rank": 180
     },
     {
       "id": "g-ChIJU2st0mmUUTURWW96xE2HPAc",
@@ -8067,8 +8065,8 @@
           "あっさり"
         ]
       },
-      "score": 49.2,
-      "rank": 89
+      "score": 49.3,
+      "rank": 87
     },
     {
       "id": "osm-w407607874",
@@ -8147,7 +8145,7 @@
         ]
       },
       "score": 44.1,
-      "rank": 163
+      "rank": 158
     },
     {
       "id": "g-ChIJGXp5Rv6VUTURUu7NhtDcJ64",
@@ -8210,8 +8208,8 @@
           "担々麺"
         ]
       },
-      "score": 43.2,
-      "rank": 193
+      "score": 43.3,
+      "rank": 187
     },
     {
       "id": "osm-w1168234816",
@@ -8386,8 +8384,8 @@
           "自家製麺"
         ]
       },
-      "score": 45.8,
-      "rank": 131
+      "score": 45.9,
+      "rank": 126
     },
     {
       "id": "g-ChIJl9OFK_HlTzURICRU3-z-yxM",
@@ -8486,7 +8484,7 @@
         ]
       },
       "score": 62.3,
-      "rank": 41
+      "rank": 39
     },
     {
       "id": "g-ChIJjS5yYbDvTzURAt1jjDLP4-s",
@@ -8589,7 +8587,7 @@
         ]
       },
       "score": 46.4,
-      "rank": 122
+      "rank": 119
     },
     {
       "id": "g-ChIJt5d4SL7lTzURSOiXGayDGjg",
@@ -8658,7 +8656,7 @@
         ]
       },
       "score": 45,
-      "rank": 143
+      "rank": 139
     },
     {
       "id": "g-ChIJq2oumtDlTzURkBZswTu2Uv0",
@@ -8694,7 +8692,7 @@
           "中華そば"
         ]
       },
-      "score": 41.7
+      "score": 41.8
     },
     {
       "id": "g-ChIJn5CqXE7vTzURctavJPixj9E",
@@ -8794,7 +8792,7 @@
         ]
       },
       "score": 44.2,
-      "rank": 160
+      "rank": 155
     },
     {
       "id": "osm-w1242616632",
@@ -8889,7 +8887,7 @@
         ]
       },
       "score": 47.5,
-      "rank": 107
+      "rank": 104
     },
     {
       "id": "osm-n5025570564",
@@ -8992,8 +8990,8 @@
           "煮干し"
         ]
       },
-      "score": 45.1,
-      "rank": 141
+      "score": 45.2,
+      "rank": 137
     },
     {
       "id": "g-ChIJtXxoVwDpTzURjpw9OfRmH3o",
@@ -9183,8 +9181,8 @@
           "魚介"
         ]
       },
-      "score": 47.7,
-      "rank": 104
+      "score": 47.8,
+      "rank": 101
     },
     {
       "id": "g-ChIJzROZBgDlTzURRB64ce3eXLI",
@@ -9230,7 +9228,7 @@
         ]
       },
       "score": 44.4,
-      "rank": 156
+      "rank": 151
     },
     {
       "id": "g-ChIJMfZTw2rxTzURX9rsu_hwMDc",
@@ -9283,8 +9281,8 @@
         "google"
       ],
       "placeId": "ChIJoaLdfsPvTzURu9TObmXOWUQ",
-      "score": 43.6,
-      "rank": 180
+      "score": 43.7,
+      "rank": 174
     },
     {
       "id": "osm-w1498210928",
@@ -9501,7 +9499,7 @@
         ]
       },
       "score": 45,
-      "rank": 142
+      "rank": 138
     },
     {
       "id": "g-ChIJl-BUOuzlTzURkZrKPwNLaME",
@@ -9537,7 +9535,7 @@
           "つけ麺"
         ]
       },
-      "score": 76.6,
+      "score": 76.7,
       "rank": 4
     },
     {
@@ -9633,8 +9631,8 @@
           "濃厚"
         ]
       },
-      "score": 57.8,
-      "rank": 48
+      "score": 57.9,
+      "rank": 46
     },
     {
       "id": "g-ChIJQ1tqr2bvTzURUTNmR-NcfEI",
@@ -9705,7 +9703,7 @@
           "にんにく"
         ]
       },
-      "score": 36.7
+      "score": 36.8
     },
     {
       "id": "g-ChIJ36Ce2JjlTzUR-k8nbWATgYM",
@@ -9750,8 +9748,8 @@
           "胡麻"
         ]
       },
-      "score": 55.8,
-      "rank": 58
+      "score": 55.9,
+      "rank": 56
     },
     {
       "id": "osm-n2385962867",
@@ -9814,8 +9812,8 @@
           "辛い"
         ]
       },
-      "score": 46.2,
-      "rank": 125
+      "score": 46.3,
+      "rank": 122
     },
     {
       "id": "osm-n5926081885",
@@ -9845,7 +9843,7 @@
       ],
       "placeId": "ChIJvRLPIu3oTzUR4dhKD2bBtpw",
       "score": 62.8,
-      "rank": 40
+      "rank": 38
     },
     {
       "id": "g-ChIJT2bJHLjoTzURcW53dnWYowY",
@@ -9933,8 +9931,8 @@
           "まぜそば"
         ]
       },
-      "score": 49.7,
-      "rank": 86
+      "score": 49.8,
+      "rank": 84
     },
     {
       "id": "g-ChIJJeHaqbHlTzURtbyVviZ6gx0",
@@ -10078,8 +10076,8 @@
           "にんにく"
         ]
       },
-      "score": 55.7,
-      "rank": 59
+      "score": 55.8,
+      "rank": 57
     },
     {
       "id": "osm-n2387958471",
@@ -10128,7 +10126,7 @@
         ]
       },
       "score": 48.7,
-      "rank": 98
+      "rank": 95
     },
     {
       "id": "g-ChIJ9XK-47_vTzURSPU8XJsnHlQ",
@@ -10173,8 +10171,8 @@
           "にんにく"
         ]
       },
-      "score": 44.6,
-      "rank": 149
+      "score": 44.7,
+      "rank": 145
     },
     {
       "id": "g-ChIJAchVPITlTzURM9_H_Eqz6Fs",
@@ -10263,8 +10261,8 @@
           "背脂"
         ]
       },
-      "score": 44.9,
-      "rank": 144
+      "score": 45,
+      "rank": 140
     },
     {
       "id": "osm-w305044128",
@@ -10310,7 +10308,7 @@
         ]
       },
       "score": 62.2,
-      "rank": 42
+      "rank": 40
     },
     {
       "id": "osm-w625669744",
@@ -10386,7 +10384,7 @@
         ]
       },
       "score": 54.2,
-      "rank": 65
+      "rank": 63
     },
     {
       "id": "g-ChIJO3gHTXLlTzURF6zo-fRyLVk",
@@ -10433,7 +10431,7 @@
         ]
       },
       "score": 52.2,
-      "rank": 73
+      "rank": 71
     },
     {
       "id": "g-ChIJ2QS5M1_vTzURvmJ8a1sNlng",
@@ -10479,8 +10477,8 @@
           "こってり"
         ]
       },
-      "score": 51.4,
-      "rank": 77
+      "score": 51.5,
+      "rank": 76
     },
     {
       "id": "g-ChIJ8bgwlQnmTzURcOuwb8DKgOI",
@@ -10520,7 +10518,7 @@
           "節"
         ]
       },
-      "score": 42.1
+      "score": 42.2
     },
     {
       "id": "g-ChIJz6nTcvPvTzURFuc8v2kZH0I",
@@ -10594,8 +10592,8 @@
           "にんにく"
         ]
       },
-      "score": 55,
-      "rank": 63
+      "score": 55.1,
+      "rank": 61
     },
     {
       "id": "osm-n2305044388",
@@ -10641,7 +10639,7 @@
           "背脂"
         ]
       },
-      "score": 38.3
+      "score": 38.4
     },
     {
       "id": "g-ChIJUxzyEYDvTzURMm75EfM-roQ",
@@ -10685,8 +10683,8 @@
           "泡系"
         ]
       },
-      "score": 45.4,
-      "rank": 134
+      "score": 45.5,
+      "rank": 130
     },
     {
       "id": "osm-n2308403680",
@@ -10728,7 +10726,7 @@
           "節"
         ]
       },
-      "score": 42.4
+      "score": 42.5
     },
     {
       "id": "g-ChIJz5F-eFfvTzURHNfPjHNmPBQ",
@@ -10942,7 +10940,7 @@
         ]
       },
       "score": 61.4,
-      "rank": 43
+      "rank": 41
     },
     {
       "id": "g-ChIJdce-SADnTzURB72TcqKI0Y0",
@@ -10983,7 +10981,7 @@
         ]
       },
       "score": 44.3,
-      "rank": 159
+      "rank": 154
     },
     {
       "id": "g-ChIJ9za_agDvTzURO9Pz-QXsmPY",
@@ -11024,7 +11022,7 @@
         ]
       },
       "score": 44.8,
-      "rank": 146
+      "rank": 143
     },
     {
       "id": "osm-n10275126705",
@@ -11066,8 +11064,8 @@
           "豚骨"
         ]
       },
-      "score": 48,
-      "rank": 103
+      "score": 48.1,
+      "rank": 100
     },
     {
       "id": "g-ChIJKUCQWmflTzURxvENa7jVIVw",
@@ -11160,7 +11158,7 @@
           "醤油"
         ]
       },
-      "score": 41.1
+      "score": 41.2
     },
     {
       "id": "g-ChIJ1Z3pYIDgTzURJHcATMKNuxg",
@@ -11310,7 +11308,7 @@
           "豚骨"
         ]
       },
-      "score": 84.8,
+      "score": 84.9,
       "rank": 1
     },
     {
@@ -11356,7 +11354,7 @@
           "白湯"
         ]
       },
-      "score": 83.8,
+      "score": 83.9,
       "rank": 2
     },
     {
@@ -11395,7 +11393,7 @@
         ]
       },
       "score": 46.6,
-      "rank": 120
+      "rank": 117
     },
     {
       "id": "g-ChIJh6qjlvPlTzURRdhkON-EnzM",
@@ -11432,8 +11430,8 @@
           "豚骨"
         ]
       },
-      "score": 54.5,
-      "rank": 64
+      "score": 54.6,
+      "rank": 62
     },
     {
       "id": "osm-n8244379251",
@@ -11582,8 +11580,8 @@
           "中華そば"
         ]
       },
-      "score": 51.4,
-      "rank": 79
+      "score": 51.5,
+      "rank": 77
     },
     {
       "id": "g-ChIJaz1TVyruTzURS4ozf2z58dE",
@@ -11697,7 +11695,7 @@
         ]
       },
       "score": 64,
-      "rank": 35
+      "rank": 33
     },
     {
       "id": "g-ChIJgxnrJMXlTzURAZx1LhppCOc",
@@ -11788,8 +11786,8 @@
         "google"
       ],
       "placeId": "ChIJG4LDwaXoTzURrd8KLEMoZbA",
-      "score": 57.6,
-      "rank": 49
+      "score": 57.7,
+      "rank": 47
     },
     {
       "id": "g-ChIJtQsnt9vvTzURfwZHGTYToY8",
@@ -11917,7 +11915,7 @@
         ]
       },
       "score": 46.7,
-      "rank": 114
+      "rank": 112
     },
     {
       "id": "g-ChIJ5x4vIwDlTzURhsW7UUVF6ik",
@@ -11963,8 +11961,8 @@
           "背脂"
         ]
       },
-      "score": 44,
-      "rank": 165
+      "score": 44.1,
+      "rank": 161
     },
     {
       "id": "g-ChIJky_aKADlTzURSyT6QRDgXYA",
@@ -12007,8 +12005,8 @@
           "背脂"
         ]
       },
-      "score": 51.1,
-      "rank": 81
+      "score": 51.2,
+      "rank": 79
     },
     {
       "id": "g-ChIJO_3eJJrlTzUR93CkLLJGciY",
@@ -12045,7 +12043,7 @@
         ]
       },
       "score": 56.8,
-      "rank": 54
+      "rank": 52
     },
     {
       "id": "g-ChIJdfqhgt3lTzUR0INHkJ38Koc",
@@ -12085,8 +12083,8 @@
           "豚骨"
         ]
       },
-      "score": 45.2,
-      "rank": 140
+      "score": 45.3,
+      "rank": 136
     },
     {
       "id": "g-ChIJDYgZCe_lTzURNFtfN1MhRlI",
@@ -12269,7 +12267,7 @@
         ]
       },
       "score": 46,
-      "rank": 127
+      "rank": 123
     },
     {
       "id": "g-ChIJ_wVeX-7lTzURrv4GSx0zaDY",
@@ -12353,7 +12351,7 @@
         ]
       },
       "score": 47.1,
-      "rank": 111
+      "rank": 108
     },
     {
       "id": "g-ChIJUdsX5N_lTzURjcXN98zfldk",
@@ -12394,8 +12392,8 @@
           "豚骨"
         ]
       },
-      "score": 43.5,
-      "rank": 181
+      "score": 43.6,
+      "rank": 175
     },
     {
       "id": "g-ChIJ3_lsF5vlTzURRSW9-bv6gjY",
@@ -12431,8 +12429,8 @@
           "貝"
         ]
       },
-      "score": 46.7,
-      "rank": 117
+      "score": 46.8,
+      "rank": 111
     },
     {
       "id": "g-ChIJm6z3j4vlTzURrWfHJCzmTBQ",
@@ -12663,7 +12661,7 @@
         ]
       },
       "score": 44.4,
-      "rank": 157
+      "rank": 152
     },
     {
       "id": "g-ChIJkYpGno7lTzURD3Zo3dr7jNs",
@@ -12736,8 +12734,8 @@
           "中華そば"
         ]
       },
-      "score": 47.1,
-      "rank": 110
+      "score": 47.2,
+      "rank": 107
     },
     {
       "id": "g-ChIJkVu4OCzuTzURcSaZBEh6mY0",
@@ -12773,8 +12771,8 @@
           "中華そば"
         ]
       },
-      "score": 64.5,
-      "rank": 31
+      "score": 64.6,
+      "rank": 30
     },
     {
       "id": "osm-n2441105205",
@@ -12813,7 +12811,7 @@
         ]
       },
       "score": 49.7,
-      "rank": 87
+      "rank": 85
     },
     {
       "id": "g-ChIJ1XnfOHPlTzURmugxSD3FAa0",
@@ -13304,7 +13302,7 @@
           "濃厚"
         ]
       },
-      "score": 38.8
+      "score": 38.9
     },
     {
       "id": "g-ChIJF23jEOzlTzURoYSHOeLRpNs",
@@ -13363,7 +13361,7 @@
         ]
       },
       "score": 44.8,
-      "rank": 147
+      "rank": 142
     },
     {
       "id": "g-ChIJNfG2IaDlTzURzsYNBEsF_dQ",
@@ -13437,8 +13435,8 @@
           "豚骨"
         ]
       },
-      "score": 52.1,
-      "rank": 74
+      "score": 52.2,
+      "rank": 72
     },
     {
       "id": "osm-n5907316483",
@@ -13472,8 +13470,8 @@
           "豚骨"
         ]
       },
-      "score": 53.4,
-      "rank": 67
+      "score": 53.5,
+      "rank": 65
     },
     {
       "id": "g-ChIJQQ4qjyzlTzURa3S2refmHdA",
@@ -13556,8 +13554,8 @@
           "にんにく"
         ]
       },
-      "score": 44.4,
-      "rank": 155
+      "score": 44.5,
+      "rank": 150
     },
     {
       "id": "g-ChIJI7ts9lzlTzUR66LUMRNhFZs",
@@ -13622,8 +13620,8 @@
           "濃厚"
         ]
       },
-      "score": 60.2,
-      "rank": 44
+      "score": 60.3,
+      "rank": 42
     },
     {
       "id": "g-ChIJ5-KlnfTlTzURO7nq8MyPaPY",
@@ -13690,7 +13688,7 @@
         ]
       },
       "score": 57.5,
-      "rank": 51
+      "rank": 48
     },
     {
       "id": "g-ChIJ3bdhHgseUDURfb9bnjcOzMo",
@@ -13728,7 +13726,7 @@
           "魚介"
         ]
       },
-      "score": 42
+      "score": 42.1
     },
     {
       "id": "g-ChIJRZf0Cq_oTzURXUrIMPZ6itA",
@@ -13769,8 +13767,8 @@
           "あっさり"
         ]
       },
-      "score": 43,
-      "rank": 198
+      "score": 43.1,
+      "rank": 193
     },
     {
       "id": "g-ChIJ3Toeas3oTzURk3kzjVSgrfQ",
@@ -13801,8 +13799,8 @@
     {
       "id": "g-ChIJOapX193oTzURxm1vXdTbwSM",
       "name": "豊来",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "chinese",
+      "ramen": "likely",
       "lat": 33.782681499999995,
       "lng": 132.80343,
       "city": "松山市",
@@ -13822,9 +13820,7 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJOapX193oTzURxm1vXdTbwSM",
-      "score": 43.7,
-      "rank": 176
+      "placeId": "ChIJOapX193oTzURxm1vXdTbwSM"
     },
     {
       "id": "g-ChIJPUKXWYTvTzURmKVaR2pQMOY",
@@ -13913,7 +13909,7 @@
           "豚骨"
         ]
       },
-      "score": 37.9
+      "score": 38
     },
     {
       "id": "g-ChIJHUP4cZXlTzURoyF1eYXRZOg",
@@ -13947,7 +13943,7 @@
         ]
       },
       "score": 65.6,
-      "rank": 30
+      "rank": 29
     },
     {
       "id": "g-ChIJMe64pe7lTzURyG_s06PFwhg",
@@ -14008,7 +14004,7 @@
           "にんにく"
         ]
       },
-      "score": 67.4,
+      "score": 67.5,
       "rank": 24
     },
     {
@@ -14041,7 +14037,7 @@
           "節"
         ]
       },
-      "score": 72.1,
+      "score": 72.2,
       "rank": 11
     },
     {
@@ -14083,8 +14079,8 @@
           "清湯"
         ]
       },
-      "score": 52.4,
-      "rank": 71
+      "score": 52.5,
+      "rank": 69
     },
     {
       "id": "g-ChIJ63LeUMPlTzUR_brlGzl4lAE",
@@ -14120,7 +14116,7 @@
           "濃厚"
         ]
       },
-      "score": 69.9,
+      "score": 70,
       "rank": 18
     },
     {
@@ -14156,7 +14152,8 @@
           "豚骨"
         ]
       },
-      "score": 42.9
+      "score": 42.9,
+      "rank": 199
     },
     {
       "id": "g-ChIJu8dtFtjvTzURkmSiNz1jcKY",
@@ -14198,7 +14195,7 @@
         ]
       },
       "score": 57.5,
-      "rank": 52
+      "rank": 49
     },
     {
       "id": "g-ChIJq1Rmyu3lTzURs_48FrDZGCQ",
@@ -14278,7 +14275,7 @@
         ]
       },
       "score": 55.7,
-      "rank": 60
+      "rank": 58
     },
     {
       "id": "g-ChIJYbhOBgDlTzURQnOdNzVTGkM",
@@ -14316,7 +14313,7 @@
         ]
       },
       "score": 45.3,
-      "rank": 139
+      "rank": 135
     },
     {
       "id": "g-ChIJj-Oi2PrvTzURPEsBfZp081k",
@@ -14363,7 +14360,7 @@
         ]
       },
       "score": 64.3,
-      "rank": 34
+      "rank": 32
     },
     {
       "id": "g-ChIJD8FokKnlTzURDXSbDHiEo9M",
@@ -14404,8 +14401,8 @@
           "白湯"
         ]
       },
-      "score": 48.7,
-      "rank": 95
+      "score": 48.8,
+      "rank": 92
     },
     {
       "id": "g-ChIJaSDV-e3lTzUR1O9mvs2WNkc",
@@ -14474,8 +14471,8 @@
           "創作系"
         ]
       },
-      "score": 43.5,
-      "rank": 182
+      "score": 43.6,
+      "rank": 176
     },
     {
       "id": "g-ChIJM2SvGaDlTzURKVx0S2pgTEA",
@@ -14513,8 +14510,8 @@
           "魚介"
         ]
       },
-      "score": 51,
-      "rank": 83
+      "score": 51.1,
+      "rank": 81
     },
     {
       "id": "osm-n13954951301",
@@ -14548,7 +14545,7 @@
           "醤油"
         ]
       },
-      "score": 42.1
+      "score": 42.2
     },
     {
       "id": "g-ChIJbdYkoO7lTzURpDX2BvCC-Xs",
@@ -14580,7 +14577,7 @@
           "醤油"
         ]
       },
-      "score": 69.8,
+      "score": 69.9,
       "rank": 19
     },
     {
@@ -14624,8 +14621,8 @@
           "白湯"
         ]
       },
-      "score": 48.7,
-      "rank": 97
+      "score": 48.8,
+      "rank": 94
     },
     {
       "id": "osm-n12208660713",
@@ -14686,7 +14683,8 @@
           "まぜそば"
         ]
       },
-      "score": 42.8
+      "score": 42.9,
+      "rank": 200
     },
     {
       "id": "g-ChIJq_6aoz3vTzURhJWGNx4sIO8",
@@ -14740,7 +14738,7 @@
       ],
       "placeId": "ChIJR5XVeW_mTzUR-eygRq-a65g",
       "score": 43.8,
-      "rank": 173
+      "rank": 168
     },
     {
       "id": "osm-n2385956566",
@@ -14782,7 +14780,7 @@
           "背脂"
         ]
       },
-      "score": 39
+      "score": 39.1
     },
     {
       "id": "g-ChIJ4Uaj00HlTzURl9OlS6i8PTY",
@@ -14872,7 +14870,7 @@
         ]
       },
       "score": 56,
-      "rank": 57
+      "rank": 55
     },
     {
       "id": "g-ChIJq6qeD4zlTzURCGO0Yf1Und4",
@@ -14907,8 +14905,8 @@
           "味噌"
         ]
       },
-      "score": 62.9,
-      "rank": 39
+      "score": 63,
+      "rank": 37
     },
     {
       "id": "g-ChIJVVSLIJTlTzURBFduhAvsazo",
@@ -14977,8 +14975,8 @@
           "清湯"
         ]
       },
-      "score": 43.3,
-      "rank": 190
+      "score": 43.4,
+      "rank": 182
     },
     {
       "id": "osm-n10605774688",
@@ -15489,8 +15487,8 @@
           "清湯"
         ]
       },
-      "score": 52,
-      "rank": 75
+      "score": 52.1,
+      "rank": 73
     },
     {
       "id": "g-ChIJr87wYADvTzURH12wvotlTJY",
@@ -15576,8 +15574,8 @@
           "豚骨"
         ]
       },
-      "score": 55.4,
-      "rank": 62
+      "score": 55.5,
+      "rank": 60
     },
     {
       "id": "g-ChIJxRZLKyXvTzURL7itRhlS5D0",
@@ -15746,7 +15744,7 @@
         ]
       },
       "score": 46.6,
-      "rank": 119
+      "rank": 116
     },
     {
       "id": "g-ChIJ3ZyotSSxUTURAxUktYTpTDU",
@@ -15879,8 +15877,8 @@
           "魚介"
         ]
       },
-      "score": 49.3,
-      "rank": 88
+      "score": 49.4,
+      "rank": 86
     },
     {
       "id": "g-ChIJvRQ1m9nPUTURO9UlwK3BCSA",
@@ -15992,7 +15990,7 @@
         ]
       },
       "score": 63.7,
-      "rank": 37
+      "rank": 35
     },
     {
       "id": "osm-w1442586909",
@@ -16021,7 +16019,7 @@
         "google"
       ],
       "placeId": "ChIJH8HCeNLIUTURS6diy4PgmwA",
-      "score": 42.6
+      "score": 42.7
     },
     {
       "id": "osm-n696846346",
@@ -16106,8 +16104,8 @@
           "味噌"
         ]
       },
-      "score": 43.3,
-      "rank": 188
+      "score": 43.4,
+      "rank": 183
     },
     {
       "id": "g-ChIJL9Oodr3PUTURH-gme2_RAGs",
@@ -16134,8 +16132,8 @@
         "google"
       ],
       "placeId": "ChIJL9Oodr3PUTURH-gme2_RAGs",
-      "score": 44.4,
-      "rank": 154
+      "score": 44.5,
+      "rank": 149
     },
     {
       "id": "osm-w1150196616",
@@ -16376,7 +16374,7 @@
         ]
       },
       "score": 43.4,
-      "rank": 187
+      "rank": 181
     },
     {
       "id": "g-ChIJmY-NacvIUTURU7i-t-HRFZo",
@@ -16473,7 +16471,7 @@
           "清湯"
         ]
       },
-      "score": 73.1,
+      "score": 73.2,
       "rank": 10
     },
     {
@@ -16512,7 +16510,8 @@
           "豚骨"
         ]
       },
-      "score": 42.9
+      "score": 42.9,
+      "rank": 198
     },
     {
       "id": "g-ChIJ_THo1c_OUTUR868-lz0qdXE",
@@ -16539,7 +16538,8 @@
         "google"
       ],
       "placeId": "ChIJ_THo1c_OUTUR868-lz0qdXE",
-      "score": 42.9
+      "score": 43,
+      "rank": 195
     },
     {
       "id": "g-ChIJK55oEcLOUTURhtj5YFANuh0",
@@ -16579,7 +16579,7 @@
           "濃厚"
         ]
       },
-      "score": 76.1,
+      "score": 76.2,
       "rank": 5
     },
     {
@@ -16608,7 +16608,7 @@
       ],
       "placeId": "ChIJI1Zu3sjOUTURl09wjt0MOYQ",
       "score": 48.6,
-      "rank": 99
+      "rank": 96
     },
     {
       "id": "osm-w1442586905",
@@ -16646,7 +16646,7 @@
           "節"
         ]
       },
-      "score": 40
+      "score": 40.1
     },
     {
       "id": "g-ChIJsxhEZgXPUTURDD37lmUcX6E",
@@ -16709,7 +16709,7 @@
         ]
       },
       "score": 50.7,
-      "rank": 84
+      "rank": 82
     },
     {
       "id": "g-ChIJ_wqFrkHPUTUR21VN6k3uktw",
@@ -16746,7 +16746,7 @@
         ]
       },
       "score": 45.3,
-      "rank": 138
+      "rank": 134
     },
     {
       "id": "g-ChIJ3eOFHADPUTURzgorjAtZHi4",
@@ -16784,8 +16784,8 @@
           "魚介"
         ]
       },
-      "score": 43.7,
-      "rank": 175
+      "score": 43.8,
+      "rank": 170
     },
     {
       "id": "g-ChIJV_uUOHzPUTUR7Ra50DlGqzM",
@@ -16848,7 +16848,7 @@
           "醤油"
         ]
       },
-      "score": 40
+      "score": 40.1
     },
     {
       "id": "g-ChIJxTwZOMbOUTURTIRz0qZcgkU",
@@ -16969,7 +16969,7 @@
           "背脂"
         ]
       },
-      "score": 67.7,
+      "score": 67.8,
       "rank": 23
     },
     {
@@ -17207,8 +17207,8 @@
           "辛い"
         ]
       },
-      "score": 45.3,
-      "rank": 137
+      "score": 45.4,
+      "rank": 133
     },
     {
       "id": "g-ChIJJ8Xly4PPUTURQUF4NkEGjK0",
@@ -17243,8 +17243,8 @@
           "豚骨"
         ]
       },
-      "score": 51.1,
-      "rank": 82
+      "score": 51.2,
+      "rank": 80
     },
     {
       "id": "g-ChIJ2SGG_6jPUTURJAgMuKDgcOg",
@@ -17414,8 +17414,8 @@
           "あっさり"
         ]
       },
-      "score": 56.4,
-      "rank": 55
+      "score": 56.5,
+      "rank": 53
     },
     {
       "id": "g-ChIJu3RfxtbOUTUR7A5MGiWyprk",
@@ -17501,7 +17501,7 @@
         ]
       },
       "score": 60.1,
-      "rank": 45
+      "rank": 43
     },
     {
       "id": "osm-n10681345782",
@@ -17733,7 +17733,7 @@
           "濃厚"
         ]
       },
-      "score": 39
+      "score": 39.1
     },
     {
       "id": "g-ChIJO66GTgDPUTURzi1bieNQtZQ",
@@ -17769,7 +17769,7 @@
         ]
       },
       "score": 46.7,
-      "rank": 116
+      "rank": 115
     },
     {
       "id": "osm-n2182962658",
@@ -17803,8 +17803,8 @@
           "豚骨"
         ]
       },
-      "score": 53.7,
-      "rank": 66
+      "score": 53.8,
+      "rank": 64
     },
     {
       "id": "g-ChIJVw4bFqrPUTURNt83o-F1BDg",
@@ -17942,8 +17942,8 @@
           "煮干し"
         ]
       },
-      "score": 63.9,
-      "rank": 36
+      "score": 64,
+      "rank": 34
     },
     {
       "id": "g-ChIJPYIEBczOUTURKtsVIk1JNQI",
@@ -17971,7 +17971,7 @@
       ],
       "placeId": "ChIJPYIEBczOUTURKtsVIk1JNQI",
       "score": 44.4,
-      "rank": 158
+      "rank": 153
     },
     {
       "id": "g-ChIJufMOfgDPUTURHl-QlJwHb5w",
@@ -18037,7 +18037,7 @@
           "背脂"
         ]
       },
-      "score": 38.9
+      "score": 39
     },
     {
       "id": "g-ChIJq3JM08fOUTURLK_cuFuQpkw",
@@ -18070,7 +18070,7 @@
         ]
       },
       "score": 43.5,
-      "rank": 183
+      "rank": 177
     },
     {
       "id": "g-ChIJ18AX-HstUDURxHSh9m7x744",
@@ -18251,7 +18251,7 @@
         "google"
       ],
       "placeId": "ChIJx8_fI6PSUTURDDOsXwSzStY",
-      "score": 42.1
+      "score": 42.2
     },
     {
       "id": "g-ChIJz8xAsILSUTUR9baxkODGzf4",
@@ -18304,8 +18304,8 @@
         "google"
       ],
       "placeId": "ChIJZa1Zv9rSUTUR4_MtSsSg9AE",
-      "score": 43.4,
-      "rank": 185
+      "score": 43.5,
+      "rank": 179
     },
     {
       "id": "g-ChIJC5FUNgArUDURSPyWU-EmhP8",
@@ -18363,7 +18363,7 @@
         ]
       },
       "score": 44.6,
-      "rank": 152
+      "rank": 147
     },
     {
       "id": "osm-n2213881378",
@@ -18479,7 +18479,7 @@
         ]
       },
       "score": 48.1,
-      "rank": 101
+      "rank": 98
     },
     {
       "id": "g-ChIJ9yyofx_TUTURLf31nzJoR40",
@@ -18611,8 +18611,8 @@
           "中華そば"
         ]
       },
-      "score": 43.6,
-      "rank": 179
+      "score": 43.7,
+      "rank": 173
     },
     {
       "id": "g-ChIJKam_ysksUDURsA6OJrB3lUc",
@@ -18647,8 +18647,8 @@
           "味噌"
         ]
       },
-      "score": 43.7,
-      "rank": 177
+      "score": 43.8,
+      "rank": 171
     },
     {
       "id": "g-ChIJ580YFJstUDURUdYw5JiH16M",
@@ -18728,7 +18728,7 @@
       ],
       "placeId": "ChIJEyTDAnUtUDURPcQ-Y8BfAsE",
       "score": 47.4,
-      "rank": 109
+      "rank": 106
     },
     {
       "id": "g-ChIJqRCIeM4vUDURwJpqDfqVycc",
@@ -18791,8 +18791,8 @@
           "背脂"
         ]
       },
-      "score": 48.1,
-      "rank": 100
+      "score": 48.2,
+      "rank": 97
     },
     {
       "id": "osm-w1434979127",
@@ -18834,7 +18834,7 @@
         ]
       },
       "score": 43.8,
-      "rank": 171
+      "rank": 166
     },
     {
       "id": "g-ChIJ0R8LOsLSUTURih3zosklW7Y",
@@ -18871,8 +18871,8 @@
           "豚骨"
         ]
       },
-      "score": 47.4,
-      "rank": 108
+      "score": 47.5,
+      "rank": 105
     },
     {
       "id": "g-ChIJCed9Pc_SUTURvpQWzKPTUM8",
@@ -18912,7 +18912,7 @@
         ]
       },
       "score": 59.4,
-      "rank": 47
+      "rank": 45
     },
     {
       "id": "g-ChIJVXEqtIorUDUR1xks7LW_X_I",
@@ -18977,7 +18977,7 @@
           "背脂"
         ]
       },
-      "score": 42.3
+      "score": 42.4
     },
     {
       "id": "g-ChIJtWL9h18rUDUR3ZMsdL-KQdY",
@@ -19061,7 +19061,7 @@
           "醤油"
         ]
       },
-      "score": 39
+      "score": 39.1
     },
     {
       "id": "g-ChIJ87TvWQDTUTURBktHgJXl0wM",
@@ -19148,7 +19148,7 @@
           "豚骨"
         ]
       },
-      "score": 38.1
+      "score": 38.2
     },
     {
       "id": "g-ChIJ_VnTIwAtUDURl1fbrtpwXKs",
@@ -19361,14 +19361,14 @@
           "鶏"
         ]
       },
-      "score": 45.6,
-      "rank": 132
+      "score": 45.7,
+      "rank": 128
     },
     {
       "id": "g-ChIJMzI74xAvUDURz2c252VolcA",
       "name": "上海軒",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "chinese",
+      "ramen": "likely",
       "lat": 33.928506999999996,
       "lng": 133.087687,
       "city": "西条市",
@@ -19388,9 +19388,7 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJMzI74xAvUDURz2c252VolcA",
-      "score": 64.3,
-      "rank": 33
+      "placeId": "ChIJMzI74xAvUDURz2c252VolcA"
     },
     {
       "id": "osm-n10314032064",
@@ -19427,8 +19425,8 @@
           "豚骨"
         ]
       },
-      "score": 51.5,
-      "rank": 76
+      "score": 51.6,
+      "rank": 74
     },
     {
       "id": "g-ChIJlRL_t7XSUTURninf_kSdKd4",
@@ -19602,8 +19600,8 @@
           "細麺"
         ]
       },
-      "score": 55.6,
-      "rank": 61
+      "score": 55.7,
+      "rank": 59
     },
     {
       "id": "g-ChIJMS_v2MksUDURSiXiGJlaThI",
@@ -19821,7 +19819,7 @@
         ]
       },
       "score": 43,
-      "rank": 200
+      "rank": 194
     },
     {
       "id": "g-ChIJY8eLGCgvUDUR03Q0tdmv9TU",
@@ -19853,13 +19851,13 @@
           "豚骨"
         ]
       },
-      "score": 42.5
+      "score": 42.6
     },
     {
       "id": "g-ChIJD7BH98cpUDURWmISBDeGm2s",
       "name": "覇王樹",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "chinese",
+      "ramen": "likely",
       "lat": 33.907508199999995,
       "lng": 133.0641623,
       "city": "西条市",
@@ -19879,9 +19877,7 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJD7BH98cpUDURWmISBDeGm2s",
-      "score": 46,
-      "rank": 126
+      "placeId": "ChIJD7BH98cpUDURWmISBDeGm2s"
     },
     {
       "id": "g-ChIJV0LqgQUpUDURorvk7UMFzHQ",
@@ -19997,7 +19993,7 @@
         ]
       },
       "score": 46.3,
-      "rank": 124
+      "rank": 121
     },
     {
       "id": "osm-n8430959261",
@@ -20035,7 +20031,7 @@
           "豚骨"
         ]
       },
-      "score": 38.6
+      "score": 38.7
     },
     {
       "id": "g-ChIJr2SGC5kuUDUR4nIK0jyx1Xk",
@@ -20970,8 +20966,8 @@
           "辛い"
         ]
       },
-      "score": 47,
-      "rank": 112
+      "score": 47.1,
+      "rank": 109
     },
     {
       "id": "g-ChIJB1xOAEmGRTURzYQGRdTcaFQ",
@@ -21342,7 +21338,7 @@
         ]
       },
       "score": 44.7,
-      "rank": 148
+      "rank": 144
     },
     {
       "id": "g-ChIJGw4gjb-ATzURSBgVUZ5DrzM",
@@ -21380,7 +21376,7 @@
           "あっさり"
         ]
       },
-      "score": 42.2
+      "score": 42.3
     },
     {
       "id": "g-ChIJs50038CATzURc-vqlga9y0o",
@@ -21447,8 +21443,8 @@
           "背脂"
         ]
       },
-      "score": 43.1,
-      "rank": 196
+      "score": 43.2,
+      "rank": 189
     },
     {
       "id": "g-ChIJ44hwAgB_RTURSrKn36QFXLE",
@@ -21487,7 +21483,7 @@
         ]
       },
       "score": 45.4,
-      "rank": 135
+      "rank": 131
     },
     {
       "id": "g-ChIJJaPOapWATzURhYZxKWtjPJ8",
@@ -21786,8 +21782,8 @@
     {
       "id": "g-ChIJh5tFnPyCTzUR04inkh6JcH4",
       "name": "食べ処呑み処 味人-AJITO-",
-      "category": "ramen",
-      "ramen": "specialty",
+      "category": "chinese",
+      "ramen": "likely",
       "lat": 33.4611672,
       "lng": 132.67644719999998,
       "city": "大洲市",
@@ -21807,9 +21803,7 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJh5tFnPyCTzUR04inkh6JcH4",
-      "score": 44.6,
-      "rank": 151
+      "placeId": "ChIJh5tFnPyCTzUR04inkh6JcH4"
     },
     {
       "id": "g-ChIJd1kl4OCATzUR-1X2rI7cYHU",
@@ -22049,7 +22043,7 @@
           "豚骨"
         ]
       },
-      "score": 41.4
+      "score": 41.5
     },
     {
       "id": "g-ChIJbccUuuR_RTURw4Fu5SVIZDE",
@@ -22107,8 +22101,8 @@
           "豚骨"
         ]
       },
-      "score": 48.7,
-      "rank": 94
+      "score": 48.8,
+      "rank": 91
     },
     {
       "id": "g-ChIJLVis1NB_RTURnrnawDeISOk",
@@ -22196,7 +22190,7 @@
         ]
       },
       "score": 65.9,
-      "rank": 29
+      "rank": 28
     },
     {
       "id": "g-ChIJQV6cfmR_RTURlIBi2ro5QX0",
@@ -22394,7 +22388,7 @@
         ]
       },
       "score": 43.8,
-      "rank": 172
+      "rank": 167
     },
     {
       "id": "g-ChIJXaMLhv3rTzURqnQaBLDsxo4",
@@ -22488,8 +22482,8 @@
           "こってり"
         ]
       },
-      "score": 51.4,
-      "rank": 78
+      "score": 51.5,
+      "rank": 75
     },
     {
       "id": "g-ChIJ01QG4aXpTzURIo1aukstOWI",
@@ -22614,8 +22608,8 @@
           "豚骨"
         ]
       },
-      "score": 48,
-      "rank": 102
+      "score": 48.1,
+      "rank": 99
     },
     {
       "id": "g-ChIJLwKxFy3pTzURs6uMT2tW0Qo",
@@ -23099,8 +23093,8 @@
           "背脂"
         ]
       },
-      "score": 45.6,
-      "rank": 133
+      "score": 45.7,
+      "rank": 129
     },
     {
       "id": "osm-w1434979126",
@@ -23141,8 +23135,8 @@
           "背脂"
         ]
       },
-      "score": 44.1,
-      "rank": 161
+      "score": 44.2,
+      "rank": 156
     },
     {
       "id": "g-ChIJ46MnjPnnTzURSAzwOBZPk6o",
@@ -23178,8 +23172,8 @@
           "節"
         ]
       },
-      "score": 43,
-      "rank": 199
+      "score": 43.1,
+      "rank": 192
     },
     {
       "id": "g-ChIJp8SRbHroTzURRUEMntgTn1w",
@@ -23315,8 +23309,8 @@
           "豚骨"
         ]
       },
-      "score": 44.1,
-      "rank": 162
+      "score": 44.2,
+      "rank": 157
     },
     {
       "id": "g-ChIJb_KLBxPdTzUR2E0UvrBez3Y",
@@ -23567,7 +23561,7 @@
           "背脂"
         ]
       },
-      "score": 38.7
+      "score": 38.8
     },
     {
       "id": "g-ChIJL-6gbG2PTzURf4BRr13s4aI",
@@ -23885,7 +23879,7 @@
         ]
       },
       "score": 59.7,
-      "rank": 46
+      "rank": 44
     },
     {
       "id": "g-ChIJSczdGX2XTzURXt01_U0ALLI",
