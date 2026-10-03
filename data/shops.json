@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T22:45:17.614Z",
+  "updatedAt": "2026-10-03T23:40:20.289Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -69,8 +69,8 @@
     {
       "id": "g-ChIJkXAZBA_5RTURP4re9G6SO4c",
       "name": "亀きち",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.018361299999995,
       "lng": 132.49988059999998,
       "city": "愛南町",
@@ -86,7 +86,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJkXAZBA_5RTURP4re9G6SO4c"
+      "placeId": "ChIJkXAZBA_5RTURP4re9G6SO4c",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n9718648379",
@@ -119,8 +127,8 @@
     {
       "id": "g-ChIJh9F0qvtVTzUR5xmzModCvgQ",
       "name": "水門",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 32.9568248,
       "lng": 132.55830229999998,
       "city": "愛南町",
@@ -140,7 +148,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJh9F0qvtVTzUR5xmzModCvgQ"
+      "placeId": "ChIJh9F0qvtVTzUR5xmzModCvgQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJrSS88Y1VTzURWqD4_xHL7yg",
@@ -175,8 +191,8 @@
     {
       "id": "g-ChIJz4ICeQdWTzURfHjejFl8wG8",
       "name": "大樹",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 32.9639781,
       "lng": 132.5581628,
       "city": "愛南町",
@@ -196,33 +212,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJz4ICeQdWTzURfHjejFl8wG8"
-    },
-    {
-      "id": "g-ChIJW8rPO-NVTzURJLwvX_Xktv8",
-      "name": "道の駅 みしょう MIC",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 32.958955599999996,
-      "lng": 132.5617513,
-      "city": "愛南町",
-      "address": "〒798-4110 愛媛県南宇和郡愛南町御荘平城４２９６−１",
-      "hours": null,
-      "phone": "0895-72-1115",
-      "website": "http://m-mic.jp/",
-      "instagram": "misyou_mic",
-      "ratings": {
-        "tabelog": {
-          "score": 3.17,
-          "count": 33,
-          "url": "https://tabelog.com/ehime/A3804/A380404/38007459/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJW8rPO-NVTzURJLwvX_Xktv8"
+      "placeId": "ChIJz4ICeQdWTzURfHjejFl8wG8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJbeaj0-FVTzURcZ6brdfWacY",
@@ -253,8 +251,8 @@
     {
       "id": "g-ChIJETUL2wtWTzURkyHqKNcgCcQ",
       "name": "遊遊",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 32.9633067,
       "lng": 132.565729,
       "city": "愛南町",
@@ -270,13 +268,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJETUL2wtWTzURkyHqKNcgCcQ"
+      "placeId": "ChIJETUL2wtWTzURkyHqKNcgCcQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ7U9nr3BWTzURLK5RQl62A1I",
       "name": "爛漫亭",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 32.9594654,
       "lng": 132.5799432,
       "city": "愛南町",
@@ -296,13 +302,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ7U9nr3BWTzURLK5RQl62A1I"
+      "placeId": "ChIJ7U9nr3BWTzURLK5RQl62A1I",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ61_fs3tWTzURQYbodWryhTA",
       "name": "萬翠",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 32.9592424,
       "lng": 132.58323479999999,
       "city": "愛南町",
@@ -322,13 +336,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ61_fs3tWTzURQYbodWryhTA"
+      "placeId": "ChIJ61_fs3tWTzURQYbodWryhTA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJtbf3PB2bRTURPKGN0c78WwM",
       "name": "Ikata Dining 炭火焼 鶏勇",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4890271,
       "lng": 132.3556638,
       "city": "伊方町",
@@ -344,13 +366,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJtbf3PB2bRTURPKGN0c78WwM"
+      "placeId": "ChIJtbf3PB2bRTURPKGN0c78WwM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJW973u4OXRTURBIAkKRKJP8Q",
       "name": "いりふね",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4564009,
       "lng": 132.2455694,
       "city": "伊方町",
@@ -366,7 +396,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJW973u4OXRTURBIAkKRKJP8Q"
+      "placeId": "ChIJW973u4OXRTURBIAkKRKJP8Q",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n12709583673",
@@ -399,8 +437,8 @@
     {
       "id": "g-ChIJ0VbTJWebRTURrPyEAJAEIYM",
       "name": "ひろせ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4892464,
       "lng": 132.3535078,
       "city": "伊方町",
@@ -420,13 +458,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ0VbTJWebRTURrPyEAJAEIYM"
+      "placeId": "ChIJ0VbTJWebRTURrPyEAJAEIYM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJuR3Sd_O4RTURxQpmh23uRYI",
       "name": "まりーな亭",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3872891,
       "lng": 132.1235599,
       "city": "伊方町",
@@ -446,7 +492,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJuR3Sd_O4RTURxQpmh23uRYI"
+      "placeId": "ChIJuR3Sd_O4RTURxQpmh23uRYI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJQfoBJpGcRTURZu0oBZANwuI",
@@ -477,8 +531,8 @@
     {
       "id": "g-ChIJYXJ87pKXRTURa9zQRZ_67Ic",
       "name": "れすとらん風車",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4476681,
       "lng": 132.2574899,
       "city": "伊方町",
@@ -498,13 +552,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJYXJ87pKXRTURa9zQRZ_67Ic"
+      "placeId": "ChIJYXJ87pKXRTURa9zQRZ_67Ic",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJt34g1nDyTzURGpEVv7Zhl-4",
       "name": "ＨＩＫＡＲＩ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.759326,
       "lng": 132.702429,
       "city": "伊予市",
@@ -524,13 +586,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJt34g1nDyTzURGpEVv7Zhl-4"
+      "placeId": "ChIJt34g1nDyTzURGpEVv7Zhl-4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJF_s3PgDzTzURqkzV87VYh2A",
       "name": "Jふらんく 伊予店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.756098699999995,
       "lng": 132.70421869999998,
       "city": "伊予市",
@@ -550,13 +620,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJF_s3PgDzTzURqkzV87VYh2A"
+      "placeId": "ChIJF_s3PgDzTzURqkzV87VYh2A",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJVSNyTH_zTzURDwHbtPl_D_w",
       "name": "いづし",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7442621,
       "lng": 132.7039711,
       "city": "伊予市",
@@ -576,7 +654,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJVSNyTH_zTzURDwHbtPl_D_w"
+      "placeId": "ChIJVSNyTH_zTzURDwHbtPl_D_w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJW6rc8_ftTzURAf0TFV716b8",
@@ -624,8 +710,8 @@
     {
       "id": "g-ChIJj3GCjvbtTzURA6BtaGK7DuU",
       "name": "おが多",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7681703,
       "lng": 132.71050019999998,
       "city": "伊予市",
@@ -645,13 +731,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJj3GCjvbtTzURA6BtaGK7DuU"
+      "placeId": "ChIJj3GCjvbtTzURA6BtaGK7DuU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJqzenOZfyTzUR_KGZ0KaUoIc",
       "name": "キッチンイチニチ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7360328,
       "lng": 132.6964045,
       "city": "伊予市",
@@ -671,7 +765,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJqzenOZfyTzUR_KGZ0KaUoIc"
+      "placeId": "ChIJqzenOZfyTzUR_KGZ0KaUoIc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJN1MKv33yTzURRV2nTpf2XBY",
@@ -743,8 +845,8 @@
     {
       "id": "g-ChIJVVVlwo_uTzURdGE2LE94OsY",
       "name": "フードコート｜伊予灘SA下り",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.772070600000006,
       "lng": 132.7556693,
       "city": "伊予市",
@@ -764,13 +866,26 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJVVVlwo_uTzURdGE2LE94OsY"
+      "placeId": "ChIJVVVlwo_uTzURdGE2LE94OsY",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "魚介"
+        ],
+        "noodle": [],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJ0c56loXuTzURTTBkFc2vqFI",
       "name": "フードコート｜伊予灘SA上り",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7709538,
       "lng": 132.7531299,
       "city": "伊予市",
@@ -794,7 +909,20 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ0c56loXuTzURTTBkFc2vqFI"
+      "placeId": "ChIJ0c56loXuTzURTTBkFc2vqFI",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "魚介"
+        ],
+        "noodle": [],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJE1DFx1zzTzURgu22vLE0XpA",
@@ -869,8 +997,8 @@
     {
       "id": "g-ChIJ17WCdQCNTzURjtptL28Y6DI",
       "name": "ユンゲ モルゲン",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.6852704,
       "lng": 132.63435900000002,
       "city": "伊予市",
@@ -890,7 +1018,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ17WCdQCNTzURjtptL28Y6DI"
+      "placeId": "ChIJ17WCdQCNTzURjtptL28Y6DI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-w612765302",
@@ -970,8 +1106,8 @@
     {
       "id": "g-ChIJA_fd03byTzURrOw7i_dDRUA",
       "name": "四季",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7594036,
       "lng": 132.70299509999998,
       "city": "伊予市",
@@ -987,7 +1123,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJA_fd03byTzURrOw7i_dDRUA"
+      "placeId": "ChIJA_fd03byTzURrOw7i_dDRUA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJNaDDdgDzTzURFtN48ik27_M",
@@ -1224,8 +1368,8 @@
     {
       "id": "g-ChIJBSok_obyTzURI9SvHgPs0mU",
       "name": "味芳",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7463896,
       "lng": 132.7004885,
       "city": "伊予市",
@@ -1245,7 +1389,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJBSok_obyTzURI9SvHgPs0mU"
+      "placeId": "ChIJBSok_obyTzURI9SvHgPs0mU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJhXdsS3HyTzURaEHeDWqWO6c",
@@ -1306,8 +1458,8 @@
     {
       "id": "g-ChIJbUC0tcthTzURDtPHmCx7J1A",
       "name": "Ji-Ba",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2208766,
       "lng": 132.5679118,
       "city": "宇和島市",
@@ -1327,7 +1479,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJbUC0tcthTzURDtPHmCx7J1A"
+      "placeId": "ChIJbUC0tcthTzURDtPHmCx7J1A",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n13904181632",
@@ -1380,8 +1540,8 @@
     {
       "id": "g-ChIJW2Y4mwRjTzUR5mUkr06Fpf0",
       "name": "いろり茶屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2871814,
       "lng": 132.59555699999999,
       "city": "宇和島市",
@@ -1401,13 +1561,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJW2Y4mwRjTzUR5mUkr06Fpf0"
+      "placeId": "ChIJW2Y4mwRjTzUR5mUkr06Fpf0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJP4zHoDJgTzURzE-obSXri7I",
       "name": "エポカ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2196324,
       "lng": 132.5608561,
       "city": "宇和島市",
@@ -1427,13 +1595,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJP4zHoDJgTzURzE-obSXri7I"
+      "placeId": "ChIJP4zHoDJgTzURzE-obSXri7I",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJoV87wc1jTzURGef4YQq8N70",
       "name": "おだいし庵 (道の駅 みま)",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2858624,
       "lng": 132.596093,
       "city": "宇和島市",
@@ -1453,13 +1629,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJoV87wc1jTzURGef4YQq8N70"
+      "placeId": "ChIJoV87wc1jTzURGef4YQq8N70",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJByPlEcRhTzURGasu_tscb7M",
       "name": "かどや",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2225573,
       "lng": 132.5582212,
       "city": "宇和島市",
@@ -1479,13 +1663,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJByPlEcRhTzURGasu_tscb7M"
+      "placeId": "ChIJByPlEcRhTzURGasu_tscb7M",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ54tWILP1RTUR-nmL42h-htU",
       "name": "ぐっさん家",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.1321553,
       "lng": 132.5244086,
       "city": "宇和島市",
@@ -1505,7 +1697,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ54tWILP1RTUR-nmL42h-htU"
+      "placeId": "ChIJ54tWILP1RTUR-nmL42h-htU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJPzTFEgBhTzUR0SCVe4dp0hE",
@@ -1574,8 +1774,8 @@
     {
       "id": "g-ChIJ51_vUSFgTzURYO3TYzZXJBg",
       "name": "ごはん茶屋 仁",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.208648,
       "lng": 132.55524699999998,
       "city": "宇和島市",
@@ -1595,7 +1795,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ51_vUSFgTzURYO3TYzZXJBg"
+      "placeId": "ChIJ51_vUSFgTzURYO3TYzZXJBg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOfdmDQBhTzUR68Zq0f28xTA",
@@ -1643,8 +1851,8 @@
     {
       "id": "g-ChIJbZV2h8lhTzUR_FXhtrNCEY4",
       "name": "セルフめん処 どがいぞう",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2221628,
       "lng": 132.5680994,
       "city": "宇和島市",
@@ -1664,13 +1872,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJbZV2h8lhTzUR_FXhtrNCEY4"
+      "placeId": "ChIJbZV2h8lhTzUR_FXhtrNCEY4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJdyrGwzJgTzUR7N6u8Vb0AmE",
       "name": "どっこいしょ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2170723,
       "lng": 132.5662113,
       "city": "宇和島市",
@@ -1690,7 +1906,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJdyrGwzJgTzUR7N6u8Vb0AmE"
+      "placeId": "ChIJdyrGwzJgTzUR7N6u8Vb0AmE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJIVm56SNgTzUR_NC5byb3R60",
@@ -1731,8 +1955,8 @@
     {
       "id": "g-ChIJ52mUpephTzURVxhGcdVKcSw",
       "name": "どんと 北宇和島店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2345818,
       "lng": 132.5691234,
       "city": "宇和島市",
@@ -1752,7 +1976,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ52mUpephTzURVxhGcdVKcSw"
+      "placeId": "ChIJ52mUpephTzURVxhGcdVKcSw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n12032835645",
@@ -1781,8 +2013,8 @@
     {
       "id": "g-ChIJyz0RGRVhTzURG9lHN_NO-Ko",
       "name": "パンダのお店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.221308199999996,
       "lng": 132.5669874,
       "city": "宇和島市",
@@ -1802,13 +2034,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJyz0RGRVhTzURG9lHN_NO-Ko"
+      "placeId": "ChIJyz0RGRVhTzURG9lHN_NO-Ko",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJVQyyD81hTzURVNkYBHCDF3w",
       "name": "ぼん平",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.221680299999996,
       "lng": 132.5624544,
       "city": "宇和島市",
@@ -1828,13 +2068,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJVQyyD81hTzURVNkYBHCDF3w"
+      "placeId": "ChIJVQyyD81hTzURVNkYBHCDF3w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOVoeLM9hTzURyGjSnkU7W2s",
       "name": "まえの",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2258657,
       "lng": 132.56543109999998,
       "city": "宇和島市",
@@ -1854,7 +2102,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJOVoeLM9hTzURyGjSnkU7W2s"
+      "placeId": "ChIJOVoeLM9hTzURyGjSnkU7W2s",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJl-aXeXf2RTUR8qjP0_5fD2I",
@@ -1881,8 +2137,8 @@
     {
       "id": "g-ChIJpSMrezNgTzUREgF-6IXmxKo",
       "name": "ようき家",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2169868,
       "lng": 132.56518770000002,
       "city": "宇和島市",
@@ -1902,7 +2158,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJpSMrezNgTzUREgF-6IXmxKo"
+      "placeId": "ChIJpSMrezNgTzUREgF-6IXmxKo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ985RMABhTzURebL6b5udxzA",
@@ -2063,8 +2327,8 @@
     {
       "id": "g-ChIJmWiu5dr1RTURdpEw4x26VCw",
       "name": "下北プリン",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.133355,
       "lng": 132.523516,
       "city": "宇和島市",
@@ -2084,7 +2348,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJmWiu5dr1RTURdpEw4x26VCw"
+      "placeId": "ChIJmWiu5dr1RTURdpEw4x26VCw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJwSo6jsdhTzUROo5DL2O9mww",
@@ -2144,8 +2416,8 @@
     {
       "id": "g-ChIJ0fueJdNhTzURu6yU_xuMgLA",
       "name": "郷土料理 食のひろば",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2223606,
       "lng": 132.557908,
       "city": "宇和島市",
@@ -2165,13 +2437,28 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJr-kMoNlhTzURfJmKWIjShCc"
+      "placeId": "ChIJr-kMoNlhTzURfJmKWIjShCc",
+      "tags": {
+        "style": [
+          "ちゃんぽん",
+          "ラーメン"
+        ],
+        "soup": [
+          "鯛・鮮魚",
+          "塩",
+          "醤油"
+        ],
+        "noodle": [],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJwz0esuiJRTURjCNS3efMi1U",
       "name": "国安",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2798809,
       "lng": 132.5406021,
       "city": "宇和島市",
@@ -2191,13 +2478,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJwz0esuiJRTURjCNS3efMi1U"
+      "placeId": "ChIJwz0esuiJRTURjCNS3efMi1U",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJy3NjUslhTzURSmckg9I4p3c",
       "name": "三昌",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.22356,
       "lng": 132.565812,
       "city": "宇和島市",
@@ -2217,13 +2512,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJy3NjUslhTzURSmckg9I4p3c"
+      "placeId": "ChIJy3NjUslhTzURSmckg9I4p3c",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJRykYV3z1RTUR7ePb7QBA4Lk",
       "name": "山男",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.1589555,
       "lng": 132.5480071,
       "city": "宇和島市",
@@ -2243,13 +2546,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJRykYV3z1RTUR7ePb7QBA4Lk"
+      "placeId": "ChIJRykYV3z1RTUR7ePb7QBA4Lk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJnYNfGsxhTzURk69Etb4p5PI",
       "name": "時代屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2229726,
       "lng": 132.5649396,
       "city": "宇和島市",
@@ -2269,13 +2580,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJNTm7A8xhTzURf6-EsZTEzKU"
+      "placeId": "ChIJNTm7A8xhTzURf6-EsZTEzKU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJVWhKlWb2RTURNSKq-5kA7_U",
       "name": "手づけ一本",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.1131806,
       "lng": 132.5180371,
       "city": "宇和島市",
@@ -2291,13 +2610,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJVWhKlWb2RTURNSKq-5kA7_U"
+      "placeId": "ChIJVWhKlWb2RTURNSKq-5kA7_U",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJPRjgTslhTzURxx3uK4MbPOM",
       "name": "十万石",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2236577,
       "lng": 132.5661204,
       "city": "宇和島市",
@@ -2317,13 +2644,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJPRjgTslhTzURxx3uK4MbPOM"
+      "placeId": "ChIJPRjgTslhTzURxx3uK4MbPOM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJy26VbABhTzURaoF2VUQwhgI",
       "name": "旬の味彩 ごしき",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2225903,
       "lng": 132.5621003,
       "city": "宇和島市",
@@ -2343,7 +2678,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJy26VbABhTzURaoF2VUQwhgI"
+      "placeId": "ChIJy26VbABhTzURaoF2VUQwhgI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJqR_ccUD1RTUR46KE9dfO7JI",
@@ -2522,8 +2865,8 @@
     {
       "id": "g-ChIJmTmRC9JhTzURPWvKbhi_HZw",
       "name": "鳥勢",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2243183,
       "lng": 132.5605288,
       "city": "宇和島市",
@@ -2543,13 +2886,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJmTmRC9JhTzURPWvKbhi_HZw"
+      "placeId": "ChIJmTmRC9JhTzURPWvKbhi_HZw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJbz1we3f2RTURNsW9oKOX9MA",
       "name": "鶴亀",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.1235456,
       "lng": 132.5218938,
       "city": "宇和島市",
@@ -2569,13 +2920,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJbz1we3f2RTURNsW9oKOX9MA"
+      "placeId": "ChIJbz1we3f2RTURNsW9oKOX9MA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJEcn9pyZhTzUR3BsX5iRTr8k",
       "name": "天婦羅 天よし",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2204143,
       "lng": 132.56733,
       "city": "宇和島市",
@@ -2595,13 +2954,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJEcn9pyZhTzUR3BsX5iRTr8k"
+      "placeId": "ChIJEcn9pyZhTzUR3BsX5iRTr8k",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ0bXZmWhhTzURNVVWm3HDuXI",
       "name": "嶋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.222009199999995,
       "lng": 132.5635508,
       "city": "宇和島市",
@@ -2621,7 +2988,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ0bXZmWhhTzURNVVWm3HDuXI"
+      "placeId": "ChIJ0bXZmWhhTzURNVVWm3HDuXI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJoYu1fbphTzUR-Qd_QJge1Xo",
@@ -2773,8 +3148,8 @@
     {
       "id": "g-ChIJuYVab8xhTzURWHLm-Hqu8WI",
       "name": "味丸",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.221773999999996,
       "lng": 132.564776,
       "city": "宇和島市",
@@ -2794,7 +3169,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJuYVab8xhTzURWHLm-Hqu8WI"
+      "placeId": "ChIJuYVab8xhTzURWHLm-Hqu8WI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJhVeJy8thTzURPu7IqifkbkY",
@@ -2896,8 +3279,8 @@
     {
       "id": "g-ChIJeW4d77X3RTURX41caZvVXdI",
       "name": "和み茶屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.0847726,
       "lng": 132.5032396,
       "city": "宇和島市",
@@ -2917,7 +3300,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJeW4d77X3RTURX41caZvVXdI"
+      "placeId": "ChIJeW4d77X3RTURX41caZvVXdI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n11936672019",
@@ -3008,8 +3399,8 @@
     {
       "id": "g-ChIJxxvQlh9lTzURGhqNT7_77ek",
       "name": "miroku",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2511655,
       "lng": 132.682848,
       "city": "鬼北町",
@@ -3029,7 +3420,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJxxvQlh9lTzURGhqNT7_77ek"
+      "placeId": "ChIJxxvQlh9lTzURGhqNT7_77ek",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJLawB_eZwTzURl66RfDthTWw",
@@ -3060,8 +3459,8 @@
     {
       "id": "g-ChIJWYCuCDp0TzURZpr9x7-xsJI",
       "name": "かつやま",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.331925,
       "lng": 132.79829669999998,
       "city": "鬼北町",
@@ -3081,13 +3480,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJWYCuCDp0TzURZpr9x7-xsJI"
+      "placeId": "ChIJWYCuCDp0TzURZpr9x7-xsJI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJtSf8FA5lTzURDv1F8v8SeoU",
       "name": "がんてつ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2511304,
       "lng": 132.6821077,
       "city": "鬼北町",
@@ -3107,13 +3514,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJtSf8FA5lTzURDv1F8v8SeoU"
+      "placeId": "ChIJtSf8FA5lTzURDv1F8v8SeoU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJhUb7BxJlTzURicVih16HW7g",
       "name": "ジョイフル愛媛広見店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2514655,
       "lng": 132.68372979999998,
       "city": "鬼北町",
@@ -3133,13 +3548,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJhUb7BxJlTzURicVih16HW7g"
+      "placeId": "ChIJhUb7BxJlTzURicVih16HW7g",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJYR905HxwTzUREoE5M33r7Z0",
       "name": "憩ふ食空間 風",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2996282,
       "lng": 132.7157638,
       "city": "鬼北町",
@@ -3159,13 +3582,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJYR905HxwTzUREoE5M33r7Z0"
+      "placeId": "ChIJYR905HxwTzUREoE5M33r7Z0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJa_heJ0pxTzUR6yNvd4tyDd4",
       "name": "戸祇",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3122762,
       "lng": 132.76783029999999,
       "city": "鬼北町",
@@ -3185,13 +3616,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJa_heJ0pxTzUR6yNvd4tyDd4"
+      "placeId": "ChIJa_heJ0pxTzUR6yNvd4tyDd4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ0VYYQhRlTzURXSHE9RAhnx8",
       "name": "好屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2568572,
       "lng": 132.68472309999999,
       "city": "鬼北町",
@@ -3207,13 +3646,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ0VYYQhRlTzURXSHE9RAhnx8"
+      "placeId": "ChIJ0VYYQhRlTzURXSHE9RAhnx8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ_WkVne1lTzURrQ0ijghGSu4",
       "name": "彩り茶屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2539356,
       "lng": 132.6873139,
       "city": "鬼北町",
@@ -3233,13 +3680,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ_WkVne1lTzURrQ0ijghGSu4"
+      "placeId": "ChIJ_WkVne1lTzURrQ0ijghGSu4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ80guYRplTzURu9g2LCmzDTg",
       "name": "春廼家",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2567737,
       "lng": 132.67723759999998,
       "city": "鬼北町",
@@ -3259,7 +3714,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ80guYRplTzURu9g2LCmzDTg"
+      "placeId": "ChIJ80guYRplTzURu9g2LCmzDTg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJMxMqzxxlTzURVcGxqWH-lL4",
@@ -3294,8 +3757,8 @@
     {
       "id": "g-ChIJrYa8rRplTzURt5AGRrSAl3w",
       "name": "德丸商店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.2596669,
       "lng": 132.6717325,
       "city": "鬼北町",
@@ -3311,13 +3774,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJrYa8rRplTzURt5AGRrSAl3w"
+      "placeId": "ChIJrYa8rRplTzURt5AGRrSAl3w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJM0nIURK4TzURGb_Fw5FDr6o",
       "name": "うまいもん屋 土居",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5715241,
       "lng": 133.00297179999998,
       "city": "久万高原町",
@@ -3337,7 +3808,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJM0nIURK4TzURGb_Fw5FDr6o"
+      "placeId": "ChIJM0nIURK4TzURGb_Fw5FDr6o",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "味噌"
+        ],
+        "noodle": [],
+        "character": [
+          "あっさり",
+          "辛い"
+        ]
+      }
     },
     {
       "id": "g-ChIJN6slk1fATzURP8nFdqBu0dA",
@@ -3456,8 +3941,8 @@
     {
       "id": "g-ChIJMVV8ALrFTzUR05a__uSfqvs",
       "name": "喜楽里",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.6747929,
       "lng": 133.0166931,
       "city": "久万高原町",
@@ -3481,7 +3966,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJMVV8ALrFTzUR05a__uSfqvs"
+      "placeId": "ChIJMVV8ALrFTzUR05a__uSfqvs",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ6-6kAovBTzURfX70xK_lY-o",
@@ -3560,32 +4053,6 @@
       "placeId": "ChIJTaA_E67ITzURXIDvi9JGiEQ"
     },
     {
-      "id": "g-ChIJs0d9LszBTzURM-XRLLN1NSA",
-      "name": "信州そばの店 十割そば",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.656168799999996,
-      "lng": 132.90120450000003,
-      "city": "久万高原町",
-      "address": "〒791-1201 愛媛県上浮穴郡久万高原町久万２１７−１",
-      "hours": null,
-      "phone": "090-8677-8059",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.07,
-          "count": 11,
-          "url": "https://tabelog.com/ehime/A3803/A380304/38012933/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJs0d9LszBTzURM-XRLLN1NSA"
-    },
-    {
       "id": "rdb-138885",
       "name": "中華そば 鶴姫",
       "category": "ramen",
@@ -3627,32 +4094,6 @@
       "rank": 154
     },
     {
-      "id": "g-ChIJWZCNZVTATzURGDruypoac5I",
-      "name": "天空の郷 レストラン さんさん",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.6612612,
-      "lng": 132.8981273,
-      "city": "久万高原町",
-      "address": "〒791-1202 愛媛県上浮穴郡久万高原町入野１８５５−６",
-      "hours": null,
-      "phone": "0892-21-3403",
-      "website": "https://www.kumakogen-sansan.com/restaurant/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.26,
-          "count": 31,
-          "url": "https://tabelog.com/ehime/A3803/A380304/38010235/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJWZCNZVTATzURGDruypoac5I"
-    },
-    {
       "id": "g-ChIJC0TUAq3BTzUR2XDPdknKJEw",
       "name": "豚太郎 久万店",
       "category": "ramen",
@@ -3692,8 +4133,8 @@
     {
       "id": "g-ChIJo2tDrWLPTzURWQTFlzlxap8",
       "name": "面河ふるさと市場",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.6826139,
       "lng": 133.0766753,
       "city": "久万高原町",
@@ -3709,7 +4150,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJo2tDrWLPTzURWQTFlzlxap8"
+      "placeId": "ChIJo2tDrWLPTzURWQTFlzlxap8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJZ1OcY106UDURZQZsWkSANG0",
@@ -4211,32 +4660,6 @@
       "rank": 132
     },
     {
-      "id": "g-ChIJEzUXCF06UDURGNwdb4RvAfA",
-      "name": "そば元（そばげん）",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 34.0657651,
-      "lng": 132.9986305,
-      "city": "今治市",
-      "address": "〒794-0026 愛媛県今治市別宮町１丁目１−１７",
-      "hours": null,
-      "phone": "0898-32-1465",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.34,
-          "count": 52,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38000107/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJEzUXCF06UDURGNwdb4RvAfA"
-    },
-    {
       "id": "g-ChIJiycrDQA7UDURWbctFYCW1nM",
       "name": "タイガーラーメン",
       "category": "ramen",
@@ -4575,8 +4998,8 @@
     {
       "id": "g-ChIJtwUOBSA7UDURWgfABs3-5NU",
       "name": "やま勝",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.047603599999995,
       "lng": 132.98027679999998,
       "city": "今治市",
@@ -4596,7 +5019,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJtwUOBSA7UDURWgfABs3-5NU"
+      "placeId": "ChIJtwUOBSA7UDURWgfABs3-5NU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ9fohv9g7UDURoxgOuuBLEfA",
@@ -5083,8 +5514,8 @@
     {
       "id": "g-ChIJv26cgto6UDUR9F4gKXiPn18",
       "name": "わらや",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.035585,
       "lng": 132.988408,
       "city": "今治市",
@@ -5104,7 +5535,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJv26cgto6UDUR9F4gKXiPn18"
+      "placeId": "ChIJv26cgto6UDUR9F4gKXiPn18",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJsbF1VAA7UDURsUPI1TNDQJY",
@@ -7561,8 +8000,8 @@
     {
       "id": "g-ChIJKw3wD1GRUTURj5XgTpzrn2w",
       "name": "さざれ石",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9977033,
       "lng": 133.5672731,
       "city": "四国中央市",
@@ -7582,7 +8021,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJKw3wD1GRUTURj5XgTpzrn2w"
+      "placeId": "ChIJKw3wD1GRUTURj5XgTpzrn2w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJaegPNBWUUTURQq4IjG82OXE",
@@ -7652,8 +8099,8 @@
     {
       "id": "g-ChIJr65_RxGVUTURhe-UOBcZ_1I",
       "name": "とりや",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9680497,
       "lng": 133.50899859999998,
       "city": "四国中央市",
@@ -7673,7 +8120,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJr65_RxGVUTURhe-UOBcZ_1I"
+      "placeId": "ChIJr65_RxGVUTURhe-UOBcZ_1I",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJx5hKmE6RUTURjZYKCg3dUFU",
@@ -7760,8 +8215,8 @@
     {
       "id": "g-ChIJ8wESrzeRUTURvNt2YGmwYBE",
       "name": "ひさご屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.010929,
       "lng": 133.56841,
       "city": "四国中央市",
@@ -7781,33 +8236,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ8wESrzeRUTURvNt2YGmwYBE"
-    },
-    {
-      "id": "g-ChIJ9_ZNE1CRUTURF_cPC6YsDCk",
-      "name": "ぶんぶくちゃがま 本店",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.9984423,
-      "lng": 133.56944009999998,
-      "city": "四国中央市",
-      "address": "〒799-0113 愛媛県四国中央市妻鳥町７４０−４",
-      "hours": null,
-      "phone": "0896-57-2677",
-      "website": null,
-      "instagram": "bunbukuchagama_honten",
-      "ratings": {
-        "tabelog": {
-          "score": 3.24,
-          "count": 38,
-          "url": "https://tabelog.com/ehime/A3802/A380204/38005693/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ9_ZNE1CRUTURF_cPC6YsDCk"
+      "placeId": "ChIJ8wESrzeRUTURvNt2YGmwYBE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJG5n5_WmUUTURKbQdJA2oiWw",
@@ -8098,8 +8535,8 @@
     {
       "id": "g-ChIJu-wNKkGRUTURwTSNdBM1aS4",
       "name": "伊予万里",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.003728699999996,
       "lng": 133.575408,
       "city": "四国中央市",
@@ -8119,13 +8556,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJu-wNKkGRUTURwTSNdBM1aS4"
+      "placeId": "ChIJu-wNKkGRUTURwTSNdBM1aS4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ___zyziVUTURomGmROXc2WQ",
       "name": "一心",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.959984899999995,
       "lng": 133.5044498,
       "city": "四国中央市",
@@ -8141,13 +8586,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ___zyziVUTURomGmROXc2WQ"
+      "placeId": "ChIJ___zyziVUTURomGmROXc2WQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJV8CyQGuUUTURlbIglJAbdfQ",
       "name": "一品・松野",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.982285,
       "lng": 133.545117,
       "city": "四国中央市",
@@ -8167,7 +8620,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJV8CyQGuUUTURlbIglJAbdfQ"
+      "placeId": "ChIJV8CyQGuUUTURlbIglJAbdfQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJVX1giUCRUTUR_KIGR3w-3WU",
@@ -8202,8 +8663,8 @@
     {
       "id": "g-ChIJC_KNEp-RUTURvgHvLkr-zcc",
       "name": "宮内製麺",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.996867,
       "lng": 133.5708865,
       "city": "四国中央市",
@@ -8223,7 +8684,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJC_KNEp-RUTURvgHvLkr-zcc"
+      "placeId": "ChIJC_KNEp-RUTURvgHvLkr-zcc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ6eiwDQCNUTURxoA7FWD0-dU",
@@ -8297,8 +8766,8 @@
     {
       "id": "g-ChIJU2st0mmUUTURWW96xE2HPAc",
       "name": "吟醸倶楽部",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9807011,
       "lng": 133.5419738,
       "city": "四国中央市",
@@ -8318,7 +8787,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJU2st0mmUUTURWW96xE2HPAc"
+      "placeId": "ChIJU2st0mmUUTURWW96xE2HPAc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJk1LinvLAUTURlJkASNkHKqo",
@@ -8349,8 +8826,8 @@
     {
       "id": "g-ChIJwdIBovuTUTURrJoCAHWXZX8",
       "name": "山口",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9855999,
       "lng": 133.5676418,
       "city": "四国中央市",
@@ -8370,33 +8847,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJwdIBovuTUTURrJoCAHWXZX8"
-    },
-    {
-      "id": "g-ChIJBVFXEf6UUTURqNEYAlZfMf8",
-      "name": "山口里の店",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.970994,
-      "lng": 133.52311899999998,
-      "city": "四国中央市",
-      "address": "〒799-0431 愛媛県四国中央市寒川町３０９−１",
-      "hours": null,
-      "phone": "0896-24-4701",
-      "website": "https://yamaguchisatonomise.com/",
-      "instagram": "yamaguchisatonomise",
-      "ratings": {
-        "tabelog": {
-          "score": 3.19,
-          "count": 28,
-          "url": "https://tabelog.com/ehime/A3802/A380204/38000960/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJBVFXEf6UUTURqNEYAlZfMf8"
+      "placeId": "ChIJwdIBovuTUTURrJoCAHWXZX8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJXawqhnDAUTUR8Jl7FY_7-ZA",
@@ -8531,8 +8990,8 @@
     {
       "id": "g-ChIJLyxq6miTUTUROH6_w08o0H4",
       "name": "炭火・釜飯 銀六屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9891162,
       "lng": 133.56558809999999,
       "city": "四国中央市",
@@ -8556,7 +9015,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJLyxq6miTUTUROH6_w08o0H4"
+      "placeId": "ChIJLyxq6miTUTUROH6_w08o0H4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJy5_GJD-VUTURptIt6RddHT4",
@@ -8903,8 +9370,8 @@
     {
       "id": "g-ChIJfzT_DQCVUTURNK12vAv8kcY",
       "name": "揚足鳥 いちよし",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9850637,
       "lng": 133.5495606,
       "city": "四国中央市",
@@ -8924,13 +9391,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJfzT_DQCVUTURNK12vAv8kcY"
+      "placeId": "ChIJfzT_DQCVUTURNK12vAv8kcY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJzVxgQVCRUTURYGmAZigZEbw",
       "name": "料亭 即今",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9984207,
       "lng": 133.5689849,
       "city": "四国中央市",
@@ -8950,7 +9425,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJzVxgQVCRUTURYGmAZigZEbw"
+      "placeId": "ChIJzVxgQVCRUTURYGmAZigZEbw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJL45SBFqRUTUR0PaArp5rYos",
@@ -9272,8 +9755,8 @@
     {
       "id": "g-ChIJjS5yYbDvTzURAt1jjDLP4-s",
       "name": "YAKITORI kitchen 彩",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8155264,
       "lng": 132.7346409,
       "city": "松山市",
@@ -9297,7 +9780,22 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJjS5yYbDvTzURAt1jjDLP4-s"
+      "placeId": "ChIJjS5yYbDvTzURAt1jjDLP4-s",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺",
+          "辛麺"
+        ],
+        "soup": [
+          "鶏",
+          "魚介"
+        ],
+        "noodle": [],
+        "character": [
+          "辛い"
+        ]
+      }
     },
     {
       "id": "g-ChIJq3OLkxfvTzUR6s97bQ4GcXg",
@@ -9520,8 +10018,8 @@
     {
       "id": "g-ChIJn5CqXE7vTzURctavJPixj9E",
       "name": "おらんだ館",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8137841,
       "lng": 132.7793479,
       "city": "松山市",
@@ -9545,7 +10043,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJn5CqXE7vTzURctavJPixj9E"
+      "placeId": "ChIJn5CqXE7vTzURctavJPixj9E",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-150777",
@@ -9576,8 +10082,8 @@
     {
       "id": "g-ChIJg-g9crblTzUR7NNNw6mL-Eg",
       "name": "かど八",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8381335,
       "lng": 132.7813929,
       "city": "松山市",
@@ -9597,7 +10103,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJg-g9crblTzUR7NNNw6mL-Eg"
+      "placeId": "ChIJg-g9crblTzUR7NNNw6mL-Eg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-112194",
@@ -11744,8 +12258,8 @@
     {
       "id": "g-ChIJr5cScQrvTzUR7iqfigZFR1w",
       "name": "井上のそば屋 本店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.817137599999995,
       "lng": 132.747131,
       "city": "松山市",
@@ -11765,7 +12279,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJr5cScQrvTzUR7iqfigZFR1w"
+      "placeId": "ChIJr5cScQrvTzUR7iqfigZFR1w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-71307",
@@ -12208,8 +12730,8 @@
     {
       "id": "g-ChIJ1Z3pYIDgTzURJHcATMKNuxg",
       "name": "丸味",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.897928,
       "lng": 132.86157,
       "city": "松山市",
@@ -12233,7 +12755,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ1Z3pYIDgTzURJHcATMKNuxg"
+      "placeId": "ChIJ1Z3pYIDgTzURJHcATMKNuxg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJW9blg3TlTzURQ02RKzooqzY",
@@ -12697,8 +13227,8 @@
     {
       "id": "g-ChIJaz1TVyruTzURS4ozf2z58dE",
       "name": "国重",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8154557,
       "lng": 132.709479,
       "city": "松山市",
@@ -12722,7 +13252,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJaz1TVyruTzURS4ozf2z58dE"
+      "placeId": "ChIJaz1TVyruTzURS4ozf2z58dE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n2306397771",
@@ -17269,8 +17807,8 @@
     {
       "id": "g-ChIJva3BphzuTzURMEidFcPsxec",
       "name": "hanari ハンアリ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.790049800000006,
       "lng": 132.7121718,
       "city": "松前町",
@@ -17290,13 +17828,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJva3BphzuTzURMEidFcPsxec"
+      "placeId": "ChIJva3BphzuTzURMEidFcPsxec",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJT7mWlyPvTzURt7VkB62znKI",
       "name": "M2BASE",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7935716,
       "lng": 132.7278153,
       "city": "松前町",
@@ -17312,13 +17858,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJT7mWlyPvTzURt7VkB62znKI"
+      "placeId": "ChIJT7mWlyPvTzURt7VkB62znKI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJjxYPs_XuTzURWz2sY9Bs7c8",
       "name": "あっぱれ亭",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.785818,
       "lng": 132.748977,
       "city": "松前町",
@@ -17338,7 +17892,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJjxYPs_XuTzURWz2sY9Bs7c8"
+      "placeId": "ChIJjxYPs_XuTzURWz2sY9Bs7c8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJSTnPOf7tTzUR7naOSQ0hoeI",
@@ -17369,8 +17931,8 @@
     {
       "id": "g-ChIJo8lj3f7xTzURSVWOYDVJDoA",
       "name": "すずろ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7865593,
       "lng": 132.7039154,
       "city": "松前町",
@@ -17390,7 +17952,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJo8lj3f7xTzURSVWOYDVJDoA"
+      "placeId": "ChIJo8lj3f7xTzURSVWOYDVJDoA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ-08h_TfuTzURSsnBqehGzZ8",
@@ -17425,8 +17995,8 @@
     {
       "id": "g-ChIJh0leQf7tTzUROUJsTlqQHI4",
       "name": "てんてん丸 伊予松前店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7793828,
       "lng": 132.7110773,
       "city": "松前町",
@@ -17446,7 +18016,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJh0leQf7tTzUROUJsTlqQHI4"
+      "placeId": "ChIJh0leQf7tTzUROUJsTlqQHI4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJKRADP0juTzURxVDVg3v_kDM",
@@ -17475,36 +18053,10 @@
       "placeId": "ChIJKRADP0juTzURxVDVg3v_kDM"
     },
     {
-      "id": "g-ChIJb3M6vvvxTzURaLnWR19ZLZs",
-      "name": "めん処矢磨樹松前店",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.7907827,
-      "lng": 132.70145360000004,
-      "city": "松前町",
-      "address": "〒791-3120 愛媛県伊予郡松前町筒井１５９７−８",
-      "hours": null,
-      "phone": "089-984-2312",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.17,
-          "count": 27,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38005078/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJb3M6vvvxTzURaLnWR19ZLZs"
-    },
-    {
       "id": "g-ChIJH1qo_jbtTzURQbDFJYQiUVM",
       "name": "モカチャーゼ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.777338,
       "lng": 132.7092964,
       "city": "松前町",
@@ -17524,7 +18076,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJH1qo_jbtTzURQbDFJYQiUVM"
+      "placeId": "ChIJH1qo_jbtTzURQbDFJYQiUVM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-w1434978177",
@@ -17717,8 +18277,8 @@
     {
       "id": "g-ChIJq-bnNfnxTzURjHVbcQDNgQw",
       "name": "割烹 仕出し 川﨑屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7878103,
       "lng": 132.7024587,
       "city": "松前町",
@@ -17738,13 +18298,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJq-bnNfnxTzURjHVbcQDNgQw"
+      "placeId": "ChIJq-bnNfnxTzURjHVbcQDNgQw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ1cnj0zjuTzURQg8SXFqktL8",
       "name": "郷家松前店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7982909,
       "lng": 132.7252356,
       "city": "松前町",
@@ -17764,7 +18332,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ1cnj0zjuTzURQg8SXFqktL8"
+      "placeId": "ChIJ1cnj0zjuTzURQg8SXFqktL8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJmSaJuavvTzURk0FAFx0opc0",
@@ -17903,8 +18479,8 @@
     {
       "id": "g-ChIJxRZLKyXvTzURL7itRhlS5D0",
       "name": "羅座亜留 炭火焼自家焙煎所 ジャカランダコーヒー",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8008174,
       "lng": 132.7560648,
       "city": "松前町",
@@ -17924,13 +18500,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJxRZLKyXvTzURL7itRhlS5D0"
+      "placeId": "ChIJxRZLKyXvTzURL7itRhlS5D0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJRWm1NiR_RTURwiMWGnViWkM",
       "name": "甘味霧中/菓子工房KAZU",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.22802,
       "lng": 132.706761,
       "city": "松野町",
@@ -17950,7 +18534,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJRWm1NiR_RTURwiMWGnViWkM"
+      "placeId": "ChIJRWm1NiR_RTURwiMWGnViWkM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJMclU5n9vTzUR_-LJM_9uzXM",
@@ -17985,8 +18577,8 @@
     {
       "id": "g-ChIJaTjDHH5vTzURFLlxddQFP_Q",
       "name": "長太郎",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.228130799999995,
       "lng": 132.7078044,
       "city": "松野町",
@@ -18006,13 +18598,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJaTjDHH5vTzURFLlxddQFP_Q"
+      "placeId": "ChIJaTjDHH5vTzURFLlxddQFP_Q",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJkw_9LgOtUTUR4svcX-17xNE",
       "name": "しまで cafe",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.2567571,
       "lng": 133.2041587,
       "city": "上島町",
@@ -18032,7 +18632,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJkw_9LgOtUTUR4svcX-17xNE"
+      "placeId": "ChIJkw_9LgOtUTUR4svcX-17xNE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJj9_7YMatUTURmzWI1arg0wI",
@@ -18080,8 +18688,8 @@
     {
       "id": "g-ChIJ3ZyotSSxUTURAxUktYTpTDU",
       "name": "食事処 まんが亭",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 34.1922664,
       "lng": 133.2732421,
       "city": "上島町",
@@ -18097,7 +18705,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ3ZyotSSxUTURAxUktYTpTDU"
+      "placeId": "ChIJ3ZyotSSxUTURAxUktYTpTDU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ9_VwpwetUTURzjey3ztaAVM",
@@ -18124,8 +18740,8 @@
     {
       "id": "g-ChIJJeDlLRnPUTURbK9OQX-MKpk",
       "name": "いただきまんま バンザイミネジィ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.93329,
       "lng": 133.299052,
       "city": "新居浜市",
@@ -18145,13 +18761,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJJeDlLRnPUTURbK9OQX-MKpk"
+      "placeId": "ChIJJeDlLRnPUTURbK9OQX-MKpk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ__9br8XOUTURJNicp-6wdoo",
       "name": "お食事処めしる",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9624123,
       "lng": 133.2784057,
       "city": "新居浜市",
@@ -18171,7 +18795,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ__9br8XOUTURJNicp-6wdoo"
+      "placeId": "ChIJ__9br8XOUTURJNicp-6wdoo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJW9iTpe7OUTURttw5qiL2-rw",
@@ -18266,8 +18898,8 @@
     {
       "id": "g-ChIJzWDy2MnIUTURCz1qhLtB0vE",
       "name": "かつ福 新居浜店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9658047,
       "lng": 133.3085927,
       "city": "新居浜市",
@@ -18287,7 +18919,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJzWDy2MnIUTURCz1qhLtB0vE"
+      "placeId": "ChIJzWDy2MnIUTURCz1qhLtB0vE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n2182966393",
@@ -18498,8 +19138,8 @@
     {
       "id": "g-ChIJwSt7KszOUTURloQMURbyR9w",
       "name": "ハイジ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.968633000000004,
       "lng": 133.278563,
       "city": "新居浜市",
@@ -18519,13 +19159,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJwSt7KszOUTURloQMURbyR9w"
+      "placeId": "ChIJwSt7KszOUTURloQMURbyR9w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ33sH5h_PUTURfxLeclkXG-0",
       "name": "ピッツェリアマルブン 新居浜店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.948533,
       "lng": 133.291443,
       "city": "新居浜市",
@@ -18545,13 +19193,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ33sH5h_PUTURfxLeclkXG-0"
+      "placeId": "ChIJ33sH5h_PUTURfxLeclkXG-0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJm4gIi8XOUTUR8G7l0ZLf3_0",
       "name": "ひらく",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9643568,
       "lng": 133.2777006,
       "city": "新居浜市",
@@ -18575,7 +19231,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJm4gIi8XOUTUR8G7l0ZLf3_0"
+      "placeId": "ChIJm4gIi8XOUTUR8G7l0ZLf3_0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJM0znNQDFUTURfQ90IcUjXos",
@@ -18602,8 +19266,8 @@
     {
       "id": "g-ChIJCzqY1M3OUTUR1m3ehnpCsO4",
       "name": "ぼてすけ屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.968722,
       "lng": 133.27884300000002,
       "city": "新居浜市",
@@ -18623,7 +19287,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJCzqY1M3OUTUR1m3ehnpCsO4"
+      "placeId": "ChIJCzqY1M3OUTUR1m3ehnpCsO4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJw0vsOcnPUTUR9gh8vzSOObs",
@@ -18664,8 +19336,8 @@
     {
       "id": "g-ChIJmY-NacvIUTURU7i-t-HRFZo",
       "name": "もつ鍋 骨付き鶏 平",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9606825,
       "lng": 133.3040684,
       "city": "新居浜市",
@@ -18685,13 +19357,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJmY-NacvIUTURU7i-t-HRFZo"
+      "placeId": "ChIJmY-NacvIUTURU7i-t-HRFZo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJh1fyaRzPUTURMwzO9J6AVR0",
       "name": "よぅたん",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.94202,
       "lng": 133.2945043,
       "city": "新居浜市",
@@ -18711,7 +19391,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJh1fyaRzPUTURMwzO9J6AVR0"
+      "placeId": "ChIJh1fyaRzPUTURMwzO9J6AVR0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJy1m1IhnPUTURgL3ZNGFBFuU",
@@ -18988,8 +19676,8 @@
     {
       "id": "g-ChIJsxhEZgXPUTURDD37lmUcX6E",
       "name": "一福 新居浜店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.935206099999995,
       "lng": 133.2999965,
       "city": "新居浜市",
@@ -19009,7 +19697,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJsxhEZgXPUTURDD37lmUcX6E"
+      "placeId": "ChIJsxhEZgXPUTURDD37lmUcX6E",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJyW_u7M_PUTUR8c-c-ygW_FE",
@@ -19139,8 +19835,8 @@
     {
       "id": "g-ChIJV_uUOHzPUTUR7Ra50DlGqzM",
       "name": "韓丼 新居浜店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9362393,
       "lng": 133.3043743,
       "city": "新居浜市",
@@ -19164,7 +19860,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJV_uUOHzPUTUR7Ra50DlGqzM"
+      "placeId": "ChIJV_uUOHzPUTUR7Ra50DlGqzM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-w1272396756",
@@ -19373,32 +20077,6 @@
       "placeId": "ChIJI8ZAq2XPUTURyVVOnqoWWb0"
     },
     {
-      "id": "g-ChIJ0fh7i5DOUTURiOYxnDZeB9I",
-      "name": "七味",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.955273,
-      "lng": 133.262899,
-      "city": "新居浜市",
-      "address": "〒792-0003 愛媛県新居浜市新田町１丁目２−８",
-      "hours": null,
-      "phone": "0897-37-3900",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.35,
-          "count": 56,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38002324/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ0fh7i5DOUTURiOYxnDZeB9I"
-    },
-    {
       "id": "g-ChIJE1OTTc7PUTURBkZoHVNr5sg",
       "name": "若宮食堂",
       "category": "shokudo",
@@ -19427,8 +20105,8 @@
     {
       "id": "g-ChIJP4mbJgDPUTURviHUwMKIp0E",
       "name": "小原屋台",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9646921,
       "lng": 133.2802474,
       "city": "新居浜市",
@@ -19448,7 +20126,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJP4mbJgDPUTURviHUwMKIp0E"
+      "placeId": "ChIJP4mbJgDPUTURviHUwMKIp0E",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ4ZHe-9rOUTURcuv2pYo0ct8",
@@ -19780,32 +20466,6 @@
       },
       "score": 52.7,
       "rank": 68
-    },
-    {
-      "id": "g-ChIJu3RfxtbOUTUR7A5MGiWyprk",
-      "name": "茶山",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.963687199999995,
-      "lng": 133.2867648,
-      "city": "新居浜市",
-      "address": "〒792-0804 愛媛県新居浜市田所町６−１０ アイビー館",
-      "hours": null,
-      "phone": "0897-32-3121",
-      "website": null,
-      "instagram": "sayama510",
-      "ratings": {
-        "tabelog": {
-          "score": 3.17,
-          "count": 21,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38002342/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJu3RfxtbOUTUR7A5MGiWyprk"
     },
     {
       "id": "g-ChIJz2VbHVbPUTURxjU8YgyIHyg",
@@ -20249,8 +20909,8 @@
     {
       "id": "g-ChIJhd8-Cs_OUTURoOJtiu65P1w",
       "name": "福ちゃん",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.965355699999996,
       "lng": 133.27865979999999,
       "city": "新居浜市",
@@ -20270,7 +20930,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJhd8-Cs_OUTURoOJtiu65P1w"
+      "placeId": "ChIJhd8-Cs_OUTURoOJtiu65P1w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n2201048594",
@@ -20481,8 +21149,8 @@
     {
       "id": "g-ChIJ18AX-HstUDURxHSh9m7x744",
       "name": "sui café",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9227146,
       "lng": 133.1692364,
       "city": "西条市",
@@ -20502,13 +21170,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ18AX-HstUDURxHSh9m7x744"
+      "placeId": "ChIJ18AX-HstUDURxHSh9m7x744",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJFbvFKhrTUTURbPzS2zEMBig",
       "name": "あかのれん",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9215266,
       "lng": 133.17653959999998,
       "city": "西条市",
@@ -20532,7 +21208,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJFbvFKhrTUTURbPzS2zEMBig"
+      "placeId": "ChIJFbvFKhrTUTURbPzS2zEMBig",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJDQLwv1wuUDURhJfXtZDzJxw",
@@ -20789,8 +21473,8 @@
     {
       "id": "g-ChIJzzJ29xkvUDURNhuR9F6idSg",
       "name": "そば家 一創庵 福成寺店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.949995,
       "lng": 133.04931,
       "city": "西条市",
@@ -20810,13 +21494,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJzzJ29xkvUDURNhuR9F6idSg"
+      "placeId": "ChIJzzJ29xkvUDURNhuR9F6idSg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJffn9FLYuUDURObSh3KcJ20U",
       "name": "そば宏",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.920116199999995,
       "lng": 133.07883759999999,
       "city": "西条市",
@@ -20836,7 +21528,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJffn9FLYuUDURObSh3KcJ20U"
+      "placeId": "ChIJffn9FLYuUDURObSh3KcJ20U",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJCftfQ7rSUTURLud6ZmYd3Pc",
@@ -20903,8 +21603,8 @@
     {
       "id": "g-ChIJP4a0p8HSUTURnc9jeggVxDc",
       "name": "はしもと",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9171913,
       "lng": 133.1917976,
       "city": "西条市",
@@ -20924,13 +21624,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJP4a0p8HSUTURnc9jeggVxDc"
+      "placeId": "ChIJP4a0p8HSUTURnc9jeggVxDc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJhzmwNcgsUDURVufEFZnIv9Y",
       "name": "ふじ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8954847,
       "lng": 133.1671986,
       "city": "西条市",
@@ -20950,7 +21658,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJhzmwNcgsUDURVufEFZnIv9Y"
+      "placeId": "ChIJhzmwNcgsUDURVufEFZnIv9Y",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJV9zUxu3SUTURCsUyFrlUGb4",
@@ -21678,8 +22394,8 @@
     {
       "id": "g-ChIJr3jtbpkuUDURLXr0jmPfl0M",
       "name": "祭華",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.931411499999996,
       "lng": 133.09068299999998,
       "city": "西条市",
@@ -21695,13 +22411,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJr3jtbpkuUDURLXr0jmPfl0M"
+      "placeId": "ChIJr3jtbpkuUDURLXr0jmPfl0M",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJwaSW1-coUDURY2QlzNiVbKQ",
       "name": "三星食品工業(株)",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9077529,
       "lng": 133.0489119,
       "city": "西条市",
@@ -21721,13 +22445,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJwaSW1-coUDURY2QlzNiVbKQ"
+      "placeId": "ChIJwaSW1-coUDURY2QlzNiVbKQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJbVm3hNrSUTUR2pJ4R8NGI6Q",
       "name": "山長",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9123333,
       "lng": 133.18476139999999,
       "city": "西条市",
@@ -21747,7 +22479,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJbVm3hNrSUTUR2pJ4R8NGI6Q"
+      "placeId": "ChIJbVm3hNrSUTUR2pJ4R8NGI6Q",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ2SKi3wsvUDURMMN4yVTLot0",
@@ -21774,32 +22514,6 @@
         "google"
       ],
       "placeId": "ChIJ2SKi3wsvUDURMMN4yVTLot0"
-    },
-    {
-      "id": "g-ChIJLeBXiX3NUTURutIMoGBkzrc",
-      "name": "十五家",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.9318855,
-      "lng": 133.2069208,
-      "city": "西条市",
-      "address": "〒793-0006 愛媛県西条市下島山甲１４３６−５",
-      "hours": null,
-      "phone": "0897-55-8158",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.23,
-          "count": 45,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38012157/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJLeBXiX3NUTURutIMoGBkzrc"
     },
     {
       "id": "g-ChIJh6zAANDSUTUR897iQJ2V6tI",
@@ -21912,8 +22626,8 @@
     {
       "id": "g-ChIJlRL_t7XSUTURninf_kSdKd4",
       "name": "西條そば 甲",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.927679,
       "lng": 133.178337,
       "city": "西条市",
@@ -21933,7 +22647,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJlRL_t7XSUTURninf_kSdKd4"
+      "placeId": "ChIJlRL_t7XSUTURninf_kSdKd4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJn9WJAwArUDURXtjV_HRiANw",
@@ -22139,8 +22861,8 @@
     {
       "id": "g-ChIJMS_v2MksUDURSiXiGJlaThI",
       "name": "竹ばやし",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.89416,
       "lng": 133.16842409999998,
       "city": "西条市",
@@ -22160,7 +22882,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJMS_v2MksUDURSiXiGJlaThI"
+      "placeId": "ChIJMS_v2MksUDURSiXiGJlaThI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ-UihH3DSUTUR524eZfSQ2n8",
@@ -22310,8 +23040,8 @@
     {
       "id": "g-ChIJKwNUJADTUTURQB7mni-BNGM",
       "name": "道10",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.9358608,
       "lng": 133.0883885,
       "city": "西条市",
@@ -22335,7 +23065,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJKwNUJADTUTURQB7mni-BNGM"
+      "placeId": "ChIJKwNUJADTUTURQB7mni-BNGM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ07HvhCQoUDURTMSCipOEioM",
@@ -22633,8 +23371,8 @@
     {
       "id": "g-ChIJr2SGC5kuUDUR4nIK0jyx1Xk",
       "name": "梵字",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.931121399999995,
       "lng": 133.09013869999998,
       "city": "西条市",
@@ -22654,7 +23392,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJr2SGC5kuUDUR4nIK0jyx1Xk"
+      "placeId": "ChIJr2SGC5kuUDUR4nIK0jyx1Xk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJR9C7omORUTUR3FMRN4oVtqs",
@@ -22681,8 +23427,8 @@
     {
       "id": "g-ChIJWffhWI6HRTURzab550uu7lk",
       "name": "ARISU",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3624808,
       "lng": 132.51203189999998,
       "city": "西予市",
@@ -22702,7 +23448,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJWffhWI6HRTURzab550uu7lk"
+      "placeId": "ChIJWffhWI6HRTURzab550uu7lk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJn2AsWpCPRTURcaiuiSWYfBg",
@@ -22755,8 +23509,8 @@
     {
       "id": "g-ChIJU-jjjjV2TzURE-LF8Ccq0ys",
       "name": "コスモス",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.379914,
       "lng": 132.749919,
       "city": "西予市",
@@ -22776,13 +23530,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJU-jjjjV2TzURE-LF8Ccq0ys"
+      "placeId": "ChIJU-jjjjV2TzURE-LF8Ccq0ys",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJnWRzafuGRTUR171BuRyvv-0",
       "name": "シャルール",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3987305,
       "lng": 132.505967,
       "city": "西予市",
@@ -22802,13 +23564,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJnWRzafuGRTUR171BuRyvv-0"
+      "placeId": "ChIJnWRzafuGRTUR171BuRyvv-0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOR9V8EWHRTUR18He6wzvkvA",
       "name": "ステーション",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3693078,
       "lng": 132.50877530000002,
       "city": "西予市",
@@ -22828,13 +23598,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJOR9V8EWHRTUR18He6wzvkvA"
+      "placeId": "ChIJOR9V8EWHRTUR18He6wzvkvA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJmUH_85aHRTUR0BTn6TTq69Q",
       "name": "たちばな",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3593946,
       "lng": 132.51971419999998,
       "city": "西予市",
@@ -22854,13 +23632,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJmUH_85aHRTUR0BTn6TTq69Q"
+      "placeId": "ChIJmUH_85aHRTUR0BTn6TTq69Q",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJFTnAYrOHRTURjcf51ZyGhrA",
       "name": "ディーヤ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.361925899999996,
       "lng": 132.5128676,
       "city": "西予市",
@@ -22880,7 +23666,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJFTnAYrOHRTURjcf51ZyGhrA"
+      "placeId": "ChIJFTnAYrOHRTURjcf51ZyGhrA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJv8j_cyh1TzURzq4m8nwmQRE",
@@ -22933,8 +23727,8 @@
     {
       "id": "g-ChIJiwB8WgCPRTURdpbh1ZMwFiE",
       "name": "にの味屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3204372,
       "lng": 132.4319488,
       "city": "西予市",
@@ -22950,13 +23744,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJiwB8WgCPRTURdpbh1ZMwFiE"
+      "placeId": "ChIJiwB8WgCPRTURdpbh1ZMwFiE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ-7iCCzmHRTURDHqAI1FcCOo",
       "name": "みのり",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3641954,
       "lng": 132.5117348,
       "city": "西予市",
@@ -22976,33 +23778,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ-7iCCzmHRTURDHqAI1FcCOo"
-    },
-    {
-      "id": "g-ChIJPRqvWk-GRTURbM3m29v7y5Q",
-      "name": "めん坊",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.379115,
-      "lng": 132.502493,
-      "city": "西予市",
-      "address": "〒797-0018 愛媛県西予市宇和町下松葉３０",
-      "hours": null,
-      "phone": "0894-62-4047",
-      "website": "https://japoncompany.business/seiyo/544910-menbo",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.06,
-          "count": 10,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38002295/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJPRqvWk-GRTURbM3m29v7y5Q"
+      "placeId": "ChIJ-7iCCzmHRTURDHqAI1FcCOo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJr0yDymKHRTURVKxoJf2QJiI",
@@ -23033,8 +23817,8 @@
     {
       "id": "g-ChIJ7zRaelqGRTURUC50DV1kgQY",
       "name": "ゆうぼく牧場直営レストラン / ゆうぼく民",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3862515,
       "lng": 132.5013668,
       "city": "西予市",
@@ -23054,13 +23838,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJMe6ks0OHRTURSSrKeGvc74Y"
+      "placeId": "ChIJMe6ks0OHRTURSSrKeGvc74Y",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJcTKZgDV2TzUR68DU8zzyld8",
       "name": "レストラン 停満里",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.379906399999996,
       "lng": 132.7494932,
       "city": "西予市",
@@ -23080,43 +23872,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJcTKZgDV2TzUR68DU8zzyld8"
-    },
-    {
-      "id": "g-ChIJ0WP4B1OHRTURc-B_14mnl9g",
-      "name": "レストランいっぷく",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.3550131,
-      "lng": 132.5272123,
-      "city": "西予市",
-      "address": "〒797-0013 愛媛県西予市宇和町稲生１１８",
-      "hours": null,
-      "phone": "0894-62-5778",
-      "website": "https://www.donburikan.com/ippuku/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.15,
-          "count": 17,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38013419/"
-        },
-        "rdb": {
-          "score": 82.46,
-          "count": 1,
-          "url": "https://ramendb.supleks.jp/s/120159.html"
-        }
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ0WP4B1OHRTURc-B_14mnl9g"
+      "placeId": "ChIJcTKZgDV2TzUR68DU8zzyld8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ33b5e7yHRTURD0nrsf-shFM",
       "name": "れんげそう",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3641889,
       "lng": 132.5105945,
       "city": "西予市",
@@ -23136,13 +23906,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ33b5e7yHRTURD0nrsf-shFM"
+      "placeId": "ChIJ33b5e7yHRTURD0nrsf-shFM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJS7tZ_HaHRTURq2aRH_tfda4",
       "name": "卯之町バールOTO",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3633935,
       "lng": 132.5141494,
       "city": "西予市",
@@ -23162,13 +23940,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJS7tZ_HaHRTURq2aRH_tfda4"
+      "placeId": "ChIJS7tZ_HaHRTURq2aRH_tfda4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJBS_7c82HRTUR67RQuxY-doM",
       "name": "下ノ町ハシエンダ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3608287,
       "lng": 132.51383389999998,
       "city": "西予市",
@@ -23188,13 +23974,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJBS_7c82HRTUR67RQuxY-doM"
+      "placeId": "ChIJBS_7c82HRTUR67RQuxY-doM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJj7ZxPGyHRTUR3mtgpeSw0EM",
       "name": "菊水",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3643755,
       "lng": 132.5099903,
       "city": "西予市",
@@ -23214,7 +24008,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJj7ZxPGyHRTUR3mtgpeSw0EM"
+      "placeId": "ChIJj7ZxPGyHRTUR3mtgpeSw0EM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n12269045004",
@@ -23243,8 +24045,8 @@
     {
       "id": "g-ChIJVU-_1wqHRTUR6sHmdcdSDQE",
       "name": "咲咲-SAKU SAKU-",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.363409,
       "lng": 132.51059250000003,
       "city": "西予市",
@@ -23264,13 +24066,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJVU-_1wqHRTUR6sHmdcdSDQE"
+      "placeId": "ChIJVU-_1wqHRTUR6sHmdcdSDQE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJm8873quHRTURlQo3PE4o44s",
       "name": "社長たちのサンドイッチ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.363866,
       "lng": 132.5134295,
       "city": "西予市",
@@ -23290,7 +24100,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJm8873quHRTURlQo3PE4o44s"
+      "placeId": "ChIJm8873quHRTURlQo3PE4o44s",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJq4WiQuZ1TzURGUM7zFw67eQ",
@@ -23351,8 +24169,8 @@
     {
       "id": "g-ChIJqa9E4EmHRTURLDXVDqMm07Q",
       "name": "粋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3824622,
       "lng": 132.5031558,
       "city": "西予市",
@@ -23376,7 +24194,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJqa9E4EmHRTURLDXVDqMm07Q"
+      "placeId": "ChIJqa9E4EmHRTURLDXVDqMm07Q",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJVVVVVcSHRTURs00GNuYa0kM",
@@ -23407,8 +24233,8 @@
     {
       "id": "g-ChIJ9c-3nHWHRTURV3KdnVJbYvg",
       "name": "東洋軒 宇和店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3813922,
       "lng": 132.5029569,
       "city": "西予市",
@@ -23428,13 +24254,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ9c-3nHWHRTURV3KdnVJbYvg"
+      "placeId": "ChIJ9c-3nHWHRTURV3KdnVJbYvg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJuYqjWQCHRTUR2nQ5Yd25bRU",
       "name": "肉専科しんみや",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.356491999999996,
       "lng": 132.52629009999998,
       "city": "西予市",
@@ -23454,7 +24288,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJuYqjWQCHRTUR2nQ5Yd25bRU"
+      "placeId": "ChIJuYqjWQCHRTUR2nQ5Yd25bRU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJr3c8CuZ1TzURtmYi2fkRqXI",
@@ -23481,8 +24323,8 @@
     {
       "id": "g-ChIJsawc6sSHRTURZi-b8lWc4zI",
       "name": "豊源 西予店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.3728019,
       "lng": 132.5054591,
       "city": "西予市",
@@ -23502,7 +24344,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJsawc6sSHRTURZi-b8lWc4zI"
+      "placeId": "ChIJsawc6sSHRTURZi-b8lWc4zI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJw8M0ww2HRTURDcf7TguAFCM",
@@ -23598,8 +24448,8 @@
     {
       "id": "g-ChIJB1xOAEmGRTURzYQGRdTcaFQ",
       "name": "野福",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.375492799999996,
       "lng": 132.5044797,
       "city": "西予市",
@@ -23619,13 +24469,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJB1xOAEmGRTURzYQGRdTcaFQ"
+      "placeId": "ChIJB1xOAEmGRTURzYQGRdTcaFQ",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJTf5Hhr-ATzUReSwFLomSHrc",
       "name": "Bar&Cafe Roy's",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5306482,
       "lng": 132.569744,
       "city": "大洲市",
@@ -23645,13 +24503,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJTf5Hhr-ATzUReSwFLomSHrc"
+      "placeId": "ChIJTf5Hhr-ATzUReSwFLomSHrc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJLSf1Nvh_RTURzmSNhROAReQ",
       "name": "CO-CO",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.487787,
       "lng": 132.542217,
       "city": "大洲市",
@@ -23671,7 +24537,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJLSf1Nvh_RTURzmSNhROAReQ"
+      "placeId": "ChIJLSf1Nvh_RTURzmSNhROAReQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJaSX2rTKBTzURZHmmLB_x1vE",
@@ -23702,8 +24576,8 @@
     {
       "id": "g-ChIJ8fJHP3t8RTUR5hgZ37NXhzw",
       "name": "あさちゃん",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.615987,
       "lng": 132.4813663,
       "city": "大洲市",
@@ -23723,7 +24597,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ8fJHP3t8RTUR5hgZ37NXhzw"
+      "placeId": "ChIJ8fJHP3t8RTUR5hgZ37NXhzw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJDRo62pCATzUR4GaQios4bgo",
@@ -23804,8 +24686,8 @@
     {
       "id": "g-ChIJjz4juI2ATzUR-dS4F65rbTQ",
       "name": "シャトル",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.519592599999996,
       "lng": 132.56698989999998,
       "city": "大洲市",
@@ -23825,13 +24707,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJjz4juI2ATzUR-dS4F65rbTQ"
+      "placeId": "ChIJjz4juI2ATzUR-dS4F65rbTQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ-xcm1JaATzURoXWDpOA4-Xk",
       "name": "じょうもん",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5276984,
       "lng": 132.5634213,
       "city": "大洲市",
@@ -23851,13 +24741,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ-xcm1JaATzURoXWDpOA4-Xk"
+      "placeId": "ChIJ-xcm1JaATzURoXWDpOA4-Xk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJre8lOYCATzURpP3hO2RCcVQ",
       "name": "たけちゃん",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.519982899999995,
       "lng": 132.5520766,
       "city": "大洲市",
@@ -23877,13 +24775,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJre8lOYCATzURpP3hO2RCcVQ"
+      "placeId": "ChIJre8lOYCATzURpP3hO2RCcVQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOcyey9x_RTURrtzD4WcNJdo",
       "name": "つぼね",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.507818,
       "lng": 132.541325,
       "city": "大洲市",
@@ -23903,13 +24809,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJOcyey9x_RTURrtzD4WcNJdo"
+      "placeId": "ChIJOcyey9x_RTURrtzD4WcNJdo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJY3KJ6w-BTzURfCoSgJJclxg",
       "name": "なな",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.519626699999996,
       "lng": 132.5511463,
       "city": "大洲市",
@@ -23929,7 +24843,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJY3KJ6w-BTzURfCoSgJJclxg"
+      "placeId": "ChIJY3KJ6w-BTzURfCoSgJJclxg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ4QuFwlaBTzUR38UM9jxVaPw",
@@ -24165,8 +25087,8 @@
     {
       "id": "g-ChIJc6qCeNx_RTURpZXiWndEioY",
       "name": "ルーム千秋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5080302,
       "lng": 132.54404499999998,
       "city": "大洲市",
@@ -24182,7 +25104,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJc6qCeNx_RTURpZXiWndEioY"
+      "placeId": "ChIJc6qCeNx_RTURpZXiWndEioY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ5Zfqa4GATzURY9_MdEG_HLI",
@@ -24213,8 +25143,8 @@
     {
       "id": "g-ChIJ972jOdV_RTURouawuvSaIDE",
       "name": "葵 Aoi",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5188062,
       "lng": 132.5495157,
       "city": "大洲市",
@@ -24234,7 +25164,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ972jOdV_RTURouawuvSaIDE"
+      "placeId": "ChIJ972jOdV_RTURouawuvSaIDE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ26FBQDB9RTURhPnwCCTuVqY",
@@ -24281,8 +25219,8 @@
     {
       "id": "g-ChIJ25lTlsR_RTURjKK_XlKvKXE",
       "name": "屋台よもだ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5165708,
       "lng": 132.5477039,
       "city": "大洲市",
@@ -24298,13 +25236,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ25lTlsR_RTURjKK_XlKvKXE"
+      "placeId": "ChIJ25lTlsR_RTURjKK_XlKvKXE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJHbNnv9h_RTURj9DN6HYzN54",
       "name": "臥龍茶屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.50658,
       "lng": 132.549761,
       "city": "大洲市",
@@ -24324,7 +25270,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJHbNnv9h_RTURj9DN6HYzN54"
+      "placeId": "ChIJHbNnv9h_RTURj9DN6HYzN54",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJK89_Ovt_RTURRrNpCNC6I7A",
@@ -24381,8 +25335,8 @@
     {
       "id": "g-ChIJp8HxPZaATzURqVsyL66zPZ4",
       "name": "山善",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5307487,
       "lng": 132.5643933,
       "city": "大洲市",
@@ -24402,7 +25356,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJp8HxPZaATzURqVsyL66zPZ4"
+      "placeId": "ChIJp8HxPZaATzURqVsyL66zPZ4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJYY7-UcGATzURFwVGJ1lVYHg",
@@ -24489,8 +25451,8 @@
     {
       "id": "g-ChIJf1IRzB19RTURrmxLEL5-DSY",
       "name": "泉屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5631589,
       "lng": 132.54256709999999,
       "city": "大洲市",
@@ -24510,7 +25472,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJf1IRzB19RTURrmxLEL5-DSY"
+      "placeId": "ChIJf1IRzB19RTURrmxLEL5-DSY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ22k9W8WBTzURnLK7MvmX7fs",
@@ -24571,8 +25541,8 @@
     {
       "id": "g-ChIJjY8jXNl_RTURhiY2z6hQALA",
       "name": "大洲炉端 油屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5079753,
       "lng": 132.5464963,
       "city": "大洲市",
@@ -24596,13 +25566,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJjY8jXNl_RTURhiY2z6hQALA"
+      "placeId": "ChIJjY8jXNl_RTURhiY2z6hQALA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJU4Ix-vx_RTURN0bNicQ8ssM",
       "name": "茶寮 平野屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.506828399999996,
       "lng": 132.5489835,
       "city": "大洲市",
@@ -24622,7 +25600,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJU4Ix-vx_RTURN0bNicQ8ssM"
+      "placeId": "ChIJU4Ix-vx_RTURN0bNicQ8ssM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJNUp68NN_RTURJf9o2TWW0o0",
@@ -24719,8 +25705,8 @@
     {
       "id": "g-ChIJbccUuuR_RTURw4Fu5SVIZDE",
       "name": "熱烈タンタン麺一番亭 大洲店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4943587,
       "lng": 132.54521649999998,
       "city": "大洲市",
@@ -24740,7 +25726,27 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJbccUuuR_RTURw4Fu5SVIZDE"
+      "placeId": "ChIJbccUuuR_RTURw4Fu5SVIZDE",
+      "tags": {
+        "style": [
+          "担々麺",
+          "ラーメン"
+        ],
+        "soup": [
+          "胡麻",
+          "鶏",
+          "味噌",
+          "豚骨"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺"
+        ],
+        "character": [
+          "濃厚",
+          "辛い"
+        ]
+      }
     },
     {
       "id": "rdb-99977",
@@ -24824,8 +25830,8 @@
     {
       "id": "g-ChIJLVis1NB_RTURnrnawDeISOk",
       "name": "美ゆき 大洲店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5138625,
       "lng": 132.5460914,
       "city": "大洲市",
@@ -24845,13 +25851,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJLVis1NB_RTURnrnawDeISOk"
+      "placeId": "ChIJLVis1NB_RTURnrnawDeISOk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJZ7-_h8CATzURiSfJtjhoHsU",
       "name": "風人月下 東大洲店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5310644,
       "lng": 132.5710157,
       "city": "大洲市",
@@ -24871,7 +25885,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJZ7-_h8CATzURiSfJtjhoHsU"
+      "placeId": "ChIJZ7-_h8CATzURiSfJtjhoHsU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJSYlOkdV_RTUR33H7u03NAlE",
@@ -24916,8 +25938,8 @@
     {
       "id": "g-ChIJQV6cfmR_RTURlIBi2ro5QX0",
       "name": "分油屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5065909,
       "lng": 132.5467085,
       "city": "大洲市",
@@ -24937,13 +25959,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJG0hLcQB_RTURtiaiP-Vr-zM"
+      "placeId": "ChIJG0hLcQB_RTURtiaiP-Vr-zM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJIRdBh5F_RTURoR0oh5ZGGAk",
       "name": "穂の里",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.50369,
       "lng": 132.526374,
       "city": "大洲市",
@@ -24967,7 +25997,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJIRdBh5F_RTURoR0oh5ZGGAk"
+      "placeId": "ChIJIRdBh5F_RTURoR0oh5ZGGAk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOSTE7DKBTzUReLA_54H3Bvc",
@@ -25008,8 +26046,8 @@
     {
       "id": "g-ChIJaVa_7ex_RTUR_uxlzR2G06E",
       "name": "葉月",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5078861,
       "lng": 132.5430008,
       "city": "大洲市",
@@ -25029,13 +26067,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJHzWAhdx_RTURIIfgfxbiyU0"
+      "placeId": "ChIJHzWAhdx_RTURIIfgfxbiyU0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJDSL5QvvrTzURn_ij_qI9uFQ",
       "name": "KIZOKU(キゾク)",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.739884599999996,
       "lng": 132.7944191,
       "city": "砥部町",
@@ -25055,13 +26101,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJDSL5QvvrTzURn_ij_qI9uFQ"
+      "placeId": "ChIJDSL5QvvrTzURn_ij_qI9uFQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOXEST0zpTzURKGnLY4T8IT8",
       "name": "かくれんぼ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7593939,
       "lng": 132.7890255,
       "city": "砥部町",
@@ -25081,7 +26135,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJOXEST0zpTzURKGnLY4T8IT8"
+      "placeId": "ChIJOXEST0zpTzURKGnLY4T8IT8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJbS74BNjuTzURmFRPZQJ3FWk",
@@ -25147,8 +26209,8 @@
     {
       "id": "g-ChIJ8Zo6GU3pTzURTGymHCssUrY",
       "name": "なかまる",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7592029,
       "lng": 132.7872644,
       "city": "砥部町",
@@ -25168,7 +26230,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ8Zo6GU3pTzURTGymHCssUrY"
+      "placeId": "ChIJ8Zo6GU3pTzURTGymHCssUrY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJq-FrCCvpTzUR7Uw1uaR1W6M",
@@ -25353,8 +26423,8 @@
     {
       "id": "g-ChIJLwKxFy3pTzURs6uMT2tW0Qo",
       "name": "変幻自在 かめりあ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.776918,
       "lng": 132.7870543,
       "city": "砥部町",
@@ -25374,13 +26444,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJLwKxFy3pTzURs6uMT2tW0Qo"
+      "placeId": "ChIJLwKxFy3pTzURs6uMT2tW0Qo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ_z3kE1bpTzURxx2cldxQ3VQ",
       "name": "和酔食菜ｋｅｎ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7473093,
       "lng": 132.7915238,
       "city": "砥部町",
@@ -25404,39 +26482,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ_z3kE1bpTzURxx2cldxQ3VQ"
-    },
-    {
-      "id": "g-ChIJOQowSWTpTzURa6ImiOFLuHY",
-      "name": "炒飯専門店トーマス",
-      "category": "other",
-      "ramen": "likely",
-      "lat": 33.779273499999995,
-      "lng": 132.7868691,
-      "city": "砥部町",
-      "address": "〒791-2113 愛媛県伊予郡砥部町拾町３６２",
-      "hours": null,
-      "phone": "080-2090-1004",
-      "website": "https://www.tms33.jp/",
-      "instagram": "tms.burger",
-      "ratings": {
-        "tabelog": {
-          "score": 3.18,
-          "count": 28,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38013738/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJOQowSWTpTzURa6ImiOFLuHY"
+      "placeId": "ChIJ_z3kE1bpTzURxx2cldxQ3VQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ9VhNV4TdTzURWNFKgjkYjG0",
       "name": "cafe ナナハン 750",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8061947,
       "lng": 132.9028147,
       "city": "東温市",
@@ -25456,13 +26516,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ9VhNV4TdTzURWNFKgjkYjG0"
+      "placeId": "ChIJ9VhNV4TdTzURWNFKgjkYjG0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJJUF54h_dTzURo-bLCIVf5x4",
       "name": "Okinawa🏝Kitchen美ら島160 オキナワキッチンチュラシマヒャクロクジュウ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7990384,
       "lng": 132.8752187,
       "city": "東温市",
@@ -25482,7 +26550,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJJUF54h_dTzURo-bLCIVf5x4"
+      "placeId": "ChIJJUF54h_dTzURo-bLCIVf5x4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-143910",
@@ -25517,8 +26593,8 @@
     {
       "id": "g-ChIJp4WNzEfdTzURtvTV4guVe08",
       "name": "いしづち山麓マルシェ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.790706199999995,
       "lng": 132.8808544,
       "city": "東温市",
@@ -25538,7 +26614,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJp4WNzEfdTzURtvTV4guVe08"
+      "placeId": "ChIJp4WNzEfdTzURtvTV4guVe08",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJrV-dWXXoTzURDMEHtBf5wY8",
@@ -25573,8 +26657,8 @@
     {
       "id": "g-ChIJpbjaFcPdTzURc1k93X0u2zs",
       "name": "ぎんなん",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8041815,
       "lng": 132.8866359,
       "city": "東温市",
@@ -25594,13 +26678,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJpbjaFcPdTzURc1k93X0u2zs"
+      "placeId": "ChIJpbjaFcPdTzURc1k93X0u2zs",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOfi56_HcTzURaLCqMzXMZ6E",
       "name": "そば 町谷",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.794807999999996,
       "lng": 132.919275,
       "city": "東温市",
@@ -25620,13 +26712,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJOfi56_HcTzURaLCqMzXMZ6E"
+      "placeId": "ChIJOfi56_HcTzURaLCqMzXMZ6E",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ5TMwW3roTzURMlKjLd4vaiw",
       "name": "どんと 重信店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7954742,
       "lng": 132.8328647,
       "city": "東温市",
@@ -25646,13 +26746,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ5TMwW3roTzURMlKjLd4vaiw"
+      "placeId": "ChIJ5TMwW3roTzURMlKjLd4vaiw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJByLI6groTzURULMbXSQDQ2E",
       "name": "にしきそば",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.795161799999995,
       "lng": 132.8456539,
       "city": "東温市",
@@ -25672,13 +26780,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJByLI6groTzURULMbXSQDQ2E"
+      "placeId": "ChIJByLI6groTzURULMbXSQDQ2E",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJpQZ4EuPcTzURRMgd5bz192Y",
       "name": "フィレンツェ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7960176,
       "lng": 132.9061533,
       "city": "東温市",
@@ -25698,13 +26814,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJpQZ4EuPcTzURRMgd5bz192Y"
+      "placeId": "ChIJpQZ4EuPcTzURRMgd5bz192Y",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJn1_11vfcTzURgFtV2DVQ8VM",
       "name": "ふるさと交流館 さくらの湯",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.803075,
       "lng": 132.9145113,
       "city": "東温市",
@@ -25724,13 +26848,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJn1_11vfcTzURgFtV2DVQ8VM"
+      "placeId": "ChIJn1_11vfcTzURgFtV2DVQ8VM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ2zAT83voTzURPjbCvRSelD0",
       "name": "ペッティロッソ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.795549099999995,
       "lng": 132.8302765,
       "city": "東温市",
@@ -25750,13 +26882,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ2zAT83voTzURPjbCvRSelD0"
+      "placeId": "ChIJ2zAT83voTzURPjbCvRSelD0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJVbhpskzdTzURbFZAjtPvEWE",
       "name": "マニフィーク",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7827366,
       "lng": 132.87770749999999,
       "city": "東温市",
@@ -25776,13 +26916,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJVbhpskzdTzURbFZAjtPvEWE"
+      "placeId": "ChIJVbhpskzdTzURbFZAjtPvEWE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJwY3ErGrdTzURiVE8I7TQLp8",
       "name": "やすまるキッチン",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7982131,
       "lng": 132.8821554,
       "city": "東温市",
@@ -25802,7 +26950,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJwY3ErGrdTzURiVE8I7TQLp8"
+      "placeId": "ChIJwY3ErGrdTzURiVE8I7TQLp8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-w1434979125",
@@ -25964,8 +27120,8 @@
     {
       "id": "g-ChIJAypVZwroTzURhnW_xdJwOxE",
       "name": "ロカンダ デルクオーレ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7944876,
       "lng": 132.84701139999999,
       "city": "東温市",
@@ -25985,13 +27141,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJAypVZwroTzURhnW_xdJwOxE"
+      "placeId": "ChIJAypVZwroTzURhnW_xdJwOxE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJNzHA1fjnTzURzcDfVmfOPVE",
       "name": "一汁三菜五感",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7943226,
       "lng": 132.861434,
       "city": "東温市",
@@ -26011,13 +27175,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJNzHA1fjnTzURzcDfVmfOPVE"
+      "placeId": "ChIJNzHA1fjnTzURzcDfVmfOPVE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJZ3_Am3DoTzURQ-781qrN08k",
       "name": "一心",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.794883399999996,
       "lng": 132.8349494,
       "city": "東温市",
@@ -26033,7 +27205,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJZ3_Am3DoTzURQ-781qrN08k"
+      "placeId": "ChIJZ3_Am3DoTzURQ-781qrN08k",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJh0l4aADpTzURazyiHqJKvug",
@@ -26079,8 +27259,8 @@
     {
       "id": "g-ChIJb_KLBxPdTzUR2E0UvrBez3Y",
       "name": "吾平",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.8037567,
       "lng": 132.8856915,
       "city": "東温市",
@@ -26100,13 +27280,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJb_KLBxPdTzUR2E0UvrBez3Y"
+      "placeId": "ChIJb_KLBxPdTzUR2E0UvrBez3Y",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJNWMgFODnTzURebU2I7AzLCE",
       "name": "旬彩武",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.797178100000004,
       "lng": 132.8455237,
       "city": "東温市",
@@ -26126,13 +27314,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJNWMgFODnTzURebU2I7AzLCE"
+      "placeId": "ChIJNWMgFODnTzURebU2I7AzLCE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJY3wUMi_nTzURkWHRUj5BTUk",
       "name": "笑夢",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.7971455,
       "lng": 132.846044,
       "city": "東温市",
@@ -26152,7 +27348,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJY3wUMi_nTzURkWHRUj5BTUk"
+      "placeId": "ChIJY3wUMi_nTzURkWHRUj5BTUk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ___rzVXdTzUR2rpywGAKJ1o",
@@ -26342,8 +27546,8 @@
     {
       "id": "g-ChIJL-6gbG2PTzURf4BRr13s4aI",
       "name": "atochi",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.596798199999995,
       "lng": 132.6757943,
       "city": "内子町",
@@ -26363,13 +27567,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJL-6gbG2PTzURf4BRr13s4aI"
+      "placeId": "ChIJL-6gbG2PTzURf4BRr13s4aI",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ_0wGZ7-FTzURRdysqhUb1Wo",
       "name": "IZAKAYAにこり",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.547826,
       "lng": 132.6497315,
       "city": "内子町",
@@ -26389,13 +27601,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ_0wGZ7-FTzURRdysqhUb1Wo"
+      "placeId": "ChIJ_0wGZ7-FTzURRdysqhUb1Wo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJdSByrNyWTzUR8hArGHbops8",
       "name": "かじか亭",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5682914,
       "lng": 132.8007782,
       "city": "内子町",
@@ -26415,13 +27635,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJqf5DrNyWTzURzwZNVI3NvT8"
+      "placeId": "ChIJqf5DrNyWTzURzwZNVI3NvT8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJc5LM1raFTzURUK4rWlsxbLQ",
       "name": "でんじろう",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.555507299999995,
       "lng": 132.6534101,
       "city": "内子町",
@@ -26441,13 +27669,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJc5LM1raFTzURUK4rWlsxbLQ"
+      "placeId": "ChIJc5LM1raFTzURUK4rWlsxbLQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJk3bBYrSFTzURBYnzdYArzUQ",
       "name": "やきとり 一膳",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.551401999999996,
       "lng": 132.653123,
       "city": "内子町",
@@ -26467,13 +27703,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJk3bBYrSFTzURBYnzdYArzUQ"
+      "placeId": "ChIJk3bBYrSFTzURBYnzdYArzUQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJYXQKT7GFTzURJCgrN73z5NY",
       "name": "りんすけ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.551595,
       "lng": 132.651548,
       "city": "内子町",
@@ -26493,13 +27737,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJYXQKT7GFTzURJCgrN73z5NY"
+      "placeId": "ChIJYXQKT7GFTzURJCgrN73z5NY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJBcdlA0uETzUR-yvFdvobPJk",
       "name": "鼓次郎",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5479894,
       "lng": 132.651386,
       "city": "内子町",
@@ -26519,7 +27771,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJBcdlA0uETzUR-yvFdvobPJk"
+      "placeId": "ChIJBcdlA0uETzUR-yvFdvobPJk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJNbFy18KWTzUR2tXi_TP-CIA",
@@ -26550,8 +27810,8 @@
     {
       "id": "g-ChIJz48tOrWFTzURh3PN93rrVuo",
       "name": "石焼ビビンバ・しゃぶしゃぶ「がっちゃん家」",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.55083330000001,
       "lng": 132.6505556,
       "city": "内子町",
@@ -26571,7 +27831,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJz48tOrWFTzURh3PN93rrVuo"
+      "placeId": "ChIJz48tOrWFTzURh3PN93rrVuo",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJWYObQLGFTzURH9gkfX8gZxE",
@@ -26666,8 +27934,8 @@
     {
       "id": "g-ChIJ5YIhAbSFTzURsWXL8oaal_k",
       "name": "米屋（よねや）",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.5531479,
       "lng": 132.6536625,
       "city": "内子町",
@@ -26687,13 +27955,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ5YIhAbSFTzURsWXL8oaal_k"
+      "placeId": "ChIJ5YIhAbSFTzURsWXL8oaal_k",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJdZ51QzWETzURxSM9AOlsD6Y",
       "name": "味平",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.550211,
       "lng": 132.648179,
       "city": "内子町",
@@ -26713,13 +27989,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJdZ51QzWETzURxSM9AOlsD6Y"
+      "placeId": "ChIJdZ51QzWETzURxSM9AOlsD6Y",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJx_zDDbSFTzURfJOaIFCSmXQ",
       "name": "洋食マザー",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.552839,
       "lng": 132.6535992,
       "city": "内子町",
@@ -26739,13 +28023,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJx_zDDbSFTzURfJOaIFCSmXQ"
+      "placeId": "ChIJx_zDDbSFTzURfJOaIFCSmXQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJv-UHJ36DRTUROZIHocIpkzY",
       "name": "petit bonheur",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.458115899999996,
       "lng": 132.43544,
       "city": "八幡浜市",
@@ -26765,13 +28057,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJv-UHJ36DRTUROZIHocIpkzY"
+      "placeId": "ChIJv-UHJ36DRTUROZIHocIpkzY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJyxr2GHuDRTURzi4H9VVlr08",
       "name": "いの",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4583024,
       "lng": 132.4300614,
       "city": "八幡浜市",
@@ -26791,13 +28091,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJyxr2GHuDRTURzi4H9VVlr08"
+      "placeId": "ChIJyxr2GHuDRTURzi4H9VVlr08",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJcUDgiUmDRTURjsnFqAkKnIA",
       "name": "ジョイフル 愛媛保内店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4872235,
       "lng": 132.3980646,
       "city": "八幡浜市",
@@ -26817,7 +28125,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJcUDgiUmDRTURjsnFqAkKnIA"
+      "placeId": "ChIJcUDgiUmDRTURjsnFqAkKnIA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJLwXTz4KERTUR9EUKA1Nye1E",
@@ -26852,8 +28168,8 @@
     {
       "id": "g-ChIJ20JRXYOERTURCJJ-a6f6Nls",
       "name": "デリー",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.457765,
       "lng": 132.42455719999998,
       "city": "八幡浜市",
@@ -26873,7 +28189,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ20JRXYOERTURCJJ-a6f6Nls"
+      "placeId": "ChIJ20JRXYOERTURCJJ-a6f6Nls",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n7023076989",
@@ -26945,8 +28269,8 @@
     {
       "id": "g-ChIJkxAYp52ERTURKgVhE4ns7Fg",
       "name": "どんと 北浜店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4616744,
       "lng": 132.42117439999998,
       "city": "八幡浜市",
@@ -26966,7 +28290,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJkxAYp52ERTURKgVhE4ns7Fg"
+      "placeId": "ChIJkxAYp52ERTURKgVhE4ns7Fg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJjaLEcgCFRTURQzH4muMnJ4k",
@@ -27004,8 +28336,8 @@
     {
       "id": "g-ChIJS13HuAqFRTURC43Xj8Gf5-Y",
       "name": "フードコート アゴラマルシェ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4583677,
       "lng": 132.41867829999998,
       "city": "八幡浜市",
@@ -27029,7 +28361,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJS13HuAqFRTURC43Xj8Gf5-Y"
+      "placeId": "ChIJS13HuAqFRTURC43Xj8Gf5-Y",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-63916",
@@ -27069,8 +28409,8 @@
     {
       "id": "g-ChIJd6zNqISERTUR3l_v2x3_eI0",
       "name": "みなと",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4574658,
       "lng": 132.4244671,
       "city": "八幡浜市",
@@ -27090,7 +28430,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJd6zNqISERTUR3l_v2x3_eI0"
+      "placeId": "ChIJd6zNqISERTUR3l_v2x3_eI0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJk_JcmpyERTUR3SBjX2T5tho",
@@ -27147,8 +28495,8 @@
     {
       "id": "g-ChIJn4QVlE6DRTURQbnvz6bDaEw",
       "name": "やぐら",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4847526,
       "lng": 132.3997336,
       "city": "八幡浜市",
@@ -27168,7 +28516,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJn4QVlE6DRTURQbnvz6bDaEw"
+      "placeId": "ChIJn4QVlE6DRTURQbnvz6bDaEw",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n7023212929",
@@ -27243,8 +28599,8 @@
     {
       "id": "g-ChIJW-GjLoOERTURaaVn5ycl3Z4",
       "name": "一心",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4596812,
       "lng": 132.4245218,
       "city": "八幡浜市",
@@ -27264,13 +28620,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJW-GjLoOERTURaaVn5ycl3Z4"
+      "placeId": "ChIJW-GjLoOERTURaaVn5ycl3Z4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ2ZU8aYOERTUR_MrIpT3vNLs",
       "name": "火の鳥",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4580049,
       "lng": 132.4248829,
       "city": "八幡浜市",
@@ -27290,13 +28654,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ2ZU8aYOERTUR_MrIpT3vNLs"
+      "placeId": "ChIJ2ZU8aYOERTUR_MrIpT3vNLs",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ-57B58iFRTUR9jVmu74AqNQ",
       "name": "海乃幸 騎虎",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.459120399999996,
       "lng": 132.4196177,
       "city": "八幡浜市",
@@ -27316,13 +28688,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ-57B58iFRTUR9jVmu74AqNQ"
+      "placeId": "ChIJ-57B58iFRTUR9jVmu74AqNQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJSZt5dwCFRTURX3EMZkDBfog",
       "name": "楽酒みなみ",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4573207,
       "lng": 132.42591149999998,
       "city": "八幡浜市",
@@ -27338,13 +28718,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJLQ-0znqDRTUR1PvbqjQ3bZ4"
+      "placeId": "ChIJLQ-0znqDRTUR1PvbqjQ3bZ4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ99-Y04KERTURQ-iwOd93oxk",
       "name": "割烹 たる源",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4603483,
       "lng": 132.4234875,
       "city": "八幡浜市",
@@ -27364,13 +28752,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ99-Y04KERTURQ-iwOd93oxk"
+      "placeId": "ChIJ99-Y04KERTURQ-iwOd93oxk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJyxr2GHuDRTURrOu-8a7XMk4",
       "name": "丸山",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.459198,
       "lng": 132.423842,
       "city": "八幡浜市",
@@ -27390,7 +28786,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJyxr2GHuDRTURrOu-8a7XMk4"
+      "placeId": "ChIJyxr2GHuDRTURrOu-8a7XMk4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-22192",
@@ -27425,8 +28829,8 @@
     {
       "id": "g-ChIJhQtPRn2DRTURmdOv9W6yW3Q",
       "name": "暁",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4622136,
       "lng": 132.4236455,
       "city": "八幡浜市",
@@ -27446,13 +28850,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJhQtPRn2DRTURmdOv9W6yW3Q"
+      "placeId": "ChIJhQtPRn2DRTURmdOv9W6yW3Q",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOTMiUE-DRTURkQCim0OaEQE",
       "name": "串呑家 坊主",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4842259,
       "lng": 132.4030477,
       "city": "八幡浜市",
@@ -27468,7 +28880,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJOTMiUE-DRTURkQCim0OaEQE"
+      "placeId": "ChIJOTMiUE-DRTURkQCim0OaEQE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJt46sQWCDRTURZRtn8SYMIyU",
@@ -27499,8 +28919,8 @@
     {
       "id": "g-ChIJ85CWs4CERTURrM2HXgRI9ng",
       "name": "三代目長山精肉店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4542157,
       "lng": 132.4322996,
       "city": "八幡浜市",
@@ -27520,7 +28940,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ85CWs4CERTURrM2HXgRI9ng"
+      "placeId": "ChIJ85CWs4CERTURrM2HXgRI9ng",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n7023064536",
@@ -27557,8 +28985,8 @@
     {
       "id": "g-ChIJLZIdI0-DRTURPdPHpKYKD6s",
       "name": "焼き鶏 奏【かなで】",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.484299,
       "lng": 132.401722,
       "city": "八幡浜市",
@@ -27578,13 +29006,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJLZIdI0-DRTURPdPHpKYKD6s"
+      "placeId": "ChIJLZIdI0-DRTURPdPHpKYKD6s",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJsRCJmIOERTURmbcxXk3pIT8",
       "name": "焼き上手",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4576068,
       "lng": 132.42657219999998,
       "city": "八幡浜市",
@@ -27604,7 +29040,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJsRCJmIOERTURmbcxXk3pIT8"
+      "placeId": "ChIJsRCJmIOERTURmbcxXk3pIT8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJZWja2EWDRTURALRu--eaB7I",
@@ -27697,8 +29141,8 @@
     {
       "id": "g-ChIJtYIZ_pyERTUR8uJah0qjZso",
       "name": "地鶏のごちそう｡［ﾃｲｸｱｳﾄ］",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4610185,
       "lng": 132.42109159999998,
       "city": "八幡浜市",
@@ -27722,13 +29166,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJtYIZ_pyERTUR8uJah0qjZso"
+      "placeId": "ChIJtYIZ_pyERTUR8uJah0qjZso",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJR9rK1_iDRTURoWuwD7qgSQY",
       "name": "定食屋 新",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4834675,
       "lng": 132.4017317,
       "city": "八幡浜市",
@@ -27748,13 +29200,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJR9rK1_iDRTURoWuwD7qgSQY"
+      "placeId": "ChIJR9rK1_iDRTURoWuwD7qgSQY",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJVVWVzoCERTURW3eliVDeQ18",
       "name": "酉屋 りょう吉 八幡浜店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4579587,
       "lng": 132.4242884,
       "city": "八幡浜市",
@@ -27774,7 +29234,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJrQ0HRoOERTURyyocDLCceqg"
+      "placeId": "ChIJrQ0HRoOERTURyyocDLCceqg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJK1wIgkCDRTURUbTkhr4YvIk",
@@ -27805,8 +29273,8 @@
     {
       "id": "g-ChIJNWeueYOERTURmsctYOdCEc4",
       "name": "美味しんぼ 花",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.457647,
       "lng": 132.4261857,
       "city": "八幡浜市",
@@ -27826,13 +29294,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJNWeueYOERTURmsctYOdCEc4"
+      "placeId": "ChIJNWeueYOERTURmsctYOdCEc4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ44FYa06DRTURwPb_sYNeWRs",
       "name": "武蔵",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4827481,
       "lng": 132.3996382,
       "city": "八幡浜市",
@@ -27852,13 +29328,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ44FYa06DRTURwPb_sYNeWRs"
+      "placeId": "ChIJ44FYa06DRTURwPb_sYNeWRs",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJzbs659yDRTURJ9uWA0beuiQ",
       "name": "平家谷そうめん流し",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.520265,
       "lng": 132.3984658,
       "city": "八幡浜市",
@@ -27878,13 +29362,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJzbs659yDRTURJ9uWA0beuiQ"
+      "placeId": "ChIJzbs659yDRTURJ9uWA0beuiQ",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ____rIKERTURH-yySt9eGKs",
       "name": "北浜大島屋",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4616453,
       "lng": 132.42353409999998,
       "city": "八幡浜市",
@@ -27904,13 +29396,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ____rIKERTURH-yySt9eGKs"
+      "placeId": "ChIJ____rIKERTURH-yySt9eGKs",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ99-Y04KERTUREYJnDXCe2uM",
       "name": "味な店 秩父",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4605843,
       "lng": 132.4234478,
       "city": "八幡浜市",
@@ -27930,13 +29430,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ99-Y04KERTUREYJnDXCe2uM"
+      "placeId": "ChIJ99-Y04KERTUREYJnDXCe2uM",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJO-JKRU-DRTURmnPIoo4sQxU",
       "name": "味和居Dining 敬",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.486945,
       "lng": 132.3982797,
       "city": "八幡浜市",
@@ -27956,13 +29464,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJO-JKRU-DRTURmnPIoo4sQxU"
+      "placeId": "ChIJO-JKRU-DRTURmnPIoo4sQxU",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOWUkpYKERTURrPSygDScfOE",
       "name": "民宿 愛花亭",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.461343299999996,
       "lng": 132.4243897,
       "city": "八幡浜市",
@@ -27982,13 +29498,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJOWUkpYKERTURrPSygDScfOE"
+      "placeId": "ChIJOWUkpYKERTURrPSygDScfOE",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJbUYCfkaDRTURUG8O7zIoLF4",
       "name": "矢磨樹保内店",
-      "category": "other",
-      "ramen": "likely",
+      "category": "restaurant",
+      "ramen": "menu",
       "lat": 33.4832684,
       "lng": 132.4060347,
       "city": "八幡浜市",
@@ -28008,7 +29532,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJbUYCfkaDRTURUG8O7zIoLF4"
+      "placeId": "ChIJbUYCfkaDRTURUG8O7zIoLF4",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     }
   ]
 }

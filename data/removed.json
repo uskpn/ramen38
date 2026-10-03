@@ -694,6 +694,110 @@
       "placeId": "ChIJbZ-Yk-FVTzURnK1eH5P6kTU",
       "osmId": null,
       "reason": "削除依頼"
+    },
+    {
+      "id": "g-ChIJW8rPO-NVTzURJLwvX_Xktv8",
+      "name": "道の駅 みしょう MIC",
+      "city": "愛南町",
+      "placeId": "ChIJW8rPO-NVTzURJLwvX_Xktv8",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJs0d9LszBTzURM-XRLLN1NSA",
+      "name": "信州そばの店 十割そば",
+      "city": "久万高原町",
+      "placeId": "ChIJs0d9LszBTzURM-XRLLN1NSA",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJWZCNZVTATzURGDruypoac5I",
+      "name": "天空の郷 レストラン さんさん",
+      "city": "久万高原町",
+      "placeId": "ChIJWZCNZVTATzURGDruypoac5I",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJEzUXCF06UDURGNwdb4RvAfA",
+      "name": "そば元（そばげん）",
+      "city": "今治市",
+      "placeId": "ChIJEzUXCF06UDURGNwdb4RvAfA",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ9_ZNE1CRUTURF_cPC6YsDCk",
+      "name": "ぶんぶくちゃがま 本店",
+      "city": "四国中央市",
+      "placeId": "ChIJ9_ZNE1CRUTURF_cPC6YsDCk",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJBVFXEf6UUTURqNEYAlZfMf8",
+      "name": "山口里の店",
+      "city": "四国中央市",
+      "placeId": "ChIJBVFXEf6UUTURqNEYAlZfMf8",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJb3M6vvvxTzURaLnWR19ZLZs",
+      "name": "めん処矢磨樹松前店",
+      "city": "松前町",
+      "placeId": "ChIJb3M6vvvxTzURaLnWR19ZLZs",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ0fh7i5DOUTURiOYxnDZeB9I",
+      "name": "七味",
+      "city": "新居浜市",
+      "placeId": "ChIJ0fh7i5DOUTURiOYxnDZeB9I",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJu3RfxtbOUTUR7A5MGiWyprk",
+      "name": "茶山",
+      "city": "新居浜市",
+      "placeId": "ChIJu3RfxtbOUTUR7A5MGiWyprk",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJLeBXiX3NUTURutIMoGBkzrc",
+      "name": "十五家",
+      "city": "西条市",
+      "placeId": "ChIJLeBXiX3NUTURutIMoGBkzrc",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJPRqvWk-GRTURbM3m29v7y5Q",
+      "name": "めん坊",
+      "city": "西予市",
+      "placeId": "ChIJPRqvWk-GRTURbM3m29v7y5Q",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ0WP4B1OHRTURc-B_14mnl9g",
+      "name": "レストランいっぷく",
+      "city": "西予市",
+      "placeId": "ChIJ0WP4B1OHRTURc-B_14mnl9g",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJOQowSWTpTzURa6ImiOFLuHY",
+      "name": "炒飯専門店トーマス",
+      "city": "砥部町",
+      "placeId": "ChIJOQowSWTpTzURa6ImiOFLuHY",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }
