@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T13:01:43.200Z",
+  "updatedAt": "2026-10-03T19:50:41.634Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -16774,28 +16774,6 @@
         "google"
       ],
       "placeId": "ChIJP4mbJgDPUTURviHUwMKIp0E"
-    },
-    {
-      "id": "g-ChIJ9_Si0ynPUTUR-um0QaNks0Y",
-      "name": "新居浜工業高等専門学校 学生食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.9615782,
-      "lng": 133.2912049,
-      "city": "新居浜市",
-      "address": "〒792-0805 愛媛県新居浜市八雲町７−１ 管理・電気情報工学科棟",
-      "hours": null,
-      "phone": "0897-34-2421",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ9_Si0ynPUTUR-um0QaNks0Y"
     },
     {
       "id": "g-ChIJ4ZHe-9rOUTURcuv2pYo0ct8",

@@ -574,6 +574,14 @@
       "placeId": "ChIJuXsVdLrSUTUR2Kjfvp1BcqY",
       "osmId": "node/2213881378",
       "reason": "回転寿司（ジャンル外）"
+    },
+    {
+      "id": "g-ChIJ9_Si0ynPUTUR-um0QaNks0Y",
+      "name": "新居浜工業高等専門学校 学生食堂",
+      "city": "新居浜市",
+      "placeId": "ChIJ9_Si0ynPUTUR-um0QaNks0Y",
+      "osmId": null,
+      "reason": "学食（ジャンル外）"
     }
   ]
 }
