@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T19:50:41.634Z",
+  "updatedAt": "2026-10-03T19:58:52.316Z",
   "shops": [
     {
       "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
@@ -17536,48 +17536,22 @@
       "placeId": "ChIJhd8-Cs_OUTURoOJtiu65P1w"
     },
     {
-      "id": "g-ChIJkYJ7MczOUTURBARA36NuIcI",
-      "name": "麺や 吉村",
-      "category": "shokudo",
-      "ramen": "menu",
-      "lat": 33.9693845,
-      "lng": 133.2784203,
-      "city": "新居浜市",
-      "address": "〒792-0016 愛媛県新居浜市港町３−２３",
-      "hours": null,
-      "phone": "0897-32-3874",
-      "website": null,
-      "instagram": "mennya_yoshimura",
-      "ratings": {
-        "tabelog": {
-          "score": 3.2,
-          "count": 36,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38001293/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJkYJ7MczOUTURBARA36NuIcI"
-    },
-    {
       "id": "osm-n2201048594",
-      "name": "麺や吉村",
+      "name": "麺や吉村 磯浦店",
       "category": "shokudo",
       "ramen": "menu",
       "lat": 33.952103,
       "lng": 133.253917,
       "city": "新居浜市",
       "address": "〒792-0002 愛媛県新居浜市磯浦町１０−８",
-      "hours": null,
+      "hours": "8:30–15:00（定休日：地方祭）",
       "phone": "090-2892-4733",
       "website": null,
       "osmId": "node/2201048594",
       "instagram": "mennya_yoshimura",
       "ratings": {
         "tabelog": {
-          "score": 3.17,
+          "score": 3.2,
           "count": 23,
           "url": "https://tabelog.com/ehime/A3802/A380203/38007910/"
         },
@@ -17588,6 +17562,32 @@
         "google"
       ],
       "placeId": "ChIJD-7SjIHOUTURzJQb1teAth0"
+    },
+    {
+      "id": "g-ChIJkYJ7MczOUTURBARA36NuIcI",
+      "name": "麺や吉村 港町本店",
+      "category": "shokudo",
+      "ramen": "menu",
+      "lat": 33.9693845,
+      "lng": 133.2784203,
+      "city": "新居浜市",
+      "address": "〒792-0016 愛媛県新居浜市港町３−２３",
+      "hours": "8:00–15:00（定休日：日曜・祝祭日）",
+      "phone": "0897-32-3874",
+      "website": null,
+      "instagram": "mennya_yoshimura",
+      "ratings": {
+        "tabelog": {
+          "score": 3.22,
+          "count": 36,
+          "url": "https://tabelog.com/ehime/A3802/A380203/38001293/"
+        },
+        "rdb": null
+      },
+      "sources": [
+        "google"
+      ],
+      "placeId": "ChIJkYJ7MczOUTURBARA36NuIcI"
     },
     {
       "id": "g-ChIJTbcTDiDPUTUR89tyEd57XG0",
