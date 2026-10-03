@@ -630,6 +630,70 @@
       "placeId": null,
       "osmId": null,
       "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJp-iIjvlVTzURslUeQQOJNuU",
+      "name": "（名）辻三親商会",
+      "city": "愛南町",
+      "placeId": "ChIJp-iIjvlVTzURslUeQQOJNuU",
+      "osmId": null,
+      "reason": "削除依頼"
+    },
+    {
+      "id": "g-ChIJnzHsNeJVTzURX1qnobkmbk4",
+      "name": "いばら木",
+      "city": "愛南町",
+      "placeId": "ChIJnzHsNeJVTzURX1qnobkmbk4",
+      "osmId": null,
+      "reason": "削除依頼"
+    },
+    {
+      "id": "g-ChIJid7av3BWTzUR7-1hwzV0RrM",
+      "name": "シェフミー",
+      "city": "愛南町",
+      "placeId": "ChIJid7av3BWTzUR7-1hwzV0RrM",
+      "osmId": null,
+      "reason": "削除依頼"
+    },
+    {
+      "id": "g-ChIJRYK-JuNVTzURQnZDTbKKjcA",
+      "name": "なにわ",
+      "city": "愛南町",
+      "placeId": "ChIJRYK-JuNVTzURQnZDTbKKjcA",
+      "osmId": null,
+      "reason": "削除依頼"
+    },
+    {
+      "id": "g-ChIJe2tDPwhWTzURFO2Dyz0lh58",
+      "name": "ねね",
+      "city": "愛南町",
+      "placeId": "ChIJe2tDPwhWTzURFO2Dyz0lh58",
+      "osmId": null,
+      "reason": "削除依頼"
+    },
+    {
+      "id": "g-ChIJ1yYneP1VTzUR6Va8KiRmemw",
+      "name": "ばちこい",
+      "city": "愛南町",
+      "placeId": "ChIJ1yYneP1VTzUR6Va8KiRmemw",
+      "osmId": null,
+      "reason": "削除依頼"
+    },
+    {
+      "id": "g-ChIJN_0C9UFRTzUR9L05_rKRT0U",
+      "name": "はるめし",
+      "city": "愛南町",
+      "placeId": "ChIJN_0C9UFRTzUR9L05_rKRT0U",
+      "osmId": null,
+      "reason": "削除依頼"
+    },
+    {
+      "id": "g-ChIJbZ-Yk-FVTzURnK1eH5P6kTU",
+      "name": "汽車ぽっぽ",
+      "city": "愛南町",
+      "placeId": "ChIJbZ-Yk-FVTzURnK1eH5P6kTU",
+      "osmId": null,
+      "reason": "削除依頼"
     }
   ]
 }
