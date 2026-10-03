@@ -47,7 +47,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJFZK6QJf5RTURgYxur-9QLZ8"
+      "placeId": "ChIJFZK6QJf5RTURgYxur-9QLZ8",
+      "tags": {
+        "soup": [
+          "塩",
+          "魚介"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJnzHsNeJVTzURX1qnobkmbk4",
