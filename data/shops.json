@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T00:03:54.946Z",
+  "updatedAt": "2026-10-04T00:24:46.055Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -704,8 +704,8 @@
           "鶏"
         ]
       },
-      "score": 51,
-      "rank": 76
+      "score": 50.1,
+      "rank": 74
     },
     {
       "id": "g-ChIJj3GCjvbtTzURA6BtaGK7DuU",
@@ -813,8 +813,8 @@
           "豚骨"
         ]
       },
-      "score": 47.6,
-      "rank": 116
+      "score": 46.8,
+      "rank": 111
     },
     {
       "id": "g-ChIJtT3zIwzzTzURyIL4hcgwBJY",
@@ -991,8 +991,8 @@
           "あっさり"
         ]
       },
-      "score": 53.3,
-      "rank": 65
+      "score": 52.3,
+      "rank": 62
     },
     {
       "id": "g-ChIJ17WCdQCNTzURjtptL28Y6DI",
@@ -1031,7 +1031,7 @@
     {
       "id": "osm-w612765302",
       "name": "ラーメンショップKANTO 双海店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.6445025,
       "lng": 132.5540623,
@@ -1070,8 +1070,7 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 41.8
+      }
     },
     {
       "id": "g-ChIJYUH6W4blTzURP37OHNz6Hh8",
@@ -1164,8 +1163,8 @@
           "冷やし"
         ]
       },
-      "score": 44.9,
-      "rank": 176
+      "score": 44.5,
+      "rank": 166
     },
     {
       "id": "g-ChIJTVP-SdKNTzURQ5H5IElwOyw",
@@ -1205,8 +1204,8 @@
           "魚介"
         ]
       },
-      "score": 45.6,
-      "rank": 160
+      "score": 44.7,
+      "rank": 161
     },
     {
       "id": "rdb-173558",
@@ -1326,13 +1325,13 @@
           "あっさり"
         ]
       },
-      "score": 46.4,
-      "rank": 143
+      "score": 45.8,
+      "rank": 137
     },
     {
       "id": "g-ChIJPQ2rRr3yTzURscufie5jp14",
       "name": "豚太郎 伊予店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.731274899999995,
       "lng": 132.696846,
@@ -1362,8 +1361,7 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 43.9
+      }
     },
     {
       "id": "g-ChIJBSok_obyTzURI9SvHgPs0mU",
@@ -1535,7 +1533,8 @@
           "背脂"
         ]
       },
-      "score": 44.2
+      "score": 43.7,
+      "rank": 195
     },
     {
       "id": "g-ChIJW2Y4mwRjTzUR5mUkr06Fpf0",
@@ -1845,8 +1844,8 @@
           "貝"
         ]
       },
-      "score": 47.3,
-      "rank": 123
+      "score": 46.6,
+      "rank": 121
     },
     {
       "id": "g-ChIJbZV2h8lhTzUR_FXhtrNCEY4",
@@ -1950,7 +1949,7 @@
           "豚骨"
         ]
       },
-      "score": 44.2
+      "score": 43.5
     },
     {
       "id": "g-ChIJ52mUpephTzURVxhGcdVKcSw",
@@ -2251,8 +2250,8 @@
           "濃厚"
         ]
       },
-      "score": 47.2,
-      "rank": 125
+      "score": 46.3,
+      "rank": 126
     },
     {
       "id": "g-ChIJCxzDPs1hTzURKH0rFVhxVPE",
@@ -3059,7 +3058,7 @@
           "味噌"
         ]
       },
-      "score": 42.8
+      "score": 42.2
     },
     {
       "id": "g-ChIJ_ZUwexFjTzURbyXoKD1smNU",
@@ -3217,7 +3216,7 @@
           "煮干し"
         ]
       },
-      "score": 57.2,
+      "score": 56.3,
       "rank": 48
     },
     {
@@ -3349,8 +3348,8 @@
           "あっさり"
         ]
       },
-      "score": 49.2,
-      "rank": 92
+      "score": 48.4,
+      "rank": 87
     },
     {
       "id": "rdb-160382",
@@ -3393,8 +3392,8 @@
           "にんにく"
         ]
       },
-      "score": 44.8,
-      "rank": 187
+      "score": 44.3,
+      "rank": 172
     },
     {
       "id": "g-ChIJxxvQlh9lTzURGhqNT7_77ek",
@@ -3936,7 +3935,7 @@
           "煮干し"
         ]
       },
-      "score": 43.9
+      "score": 43.3
     },
     {
       "id": "g-ChIJMVV8ALrFTzUR05a__uSfqvs",
@@ -4090,13 +4089,13 @@
           "鶏"
         ]
       },
-      "score": 45.8,
-      "rank": 154
+      "score": 45.4,
+      "rank": 145
     },
     {
       "id": "g-ChIJC0TUAq3BTzUR2XDPdknKJEw",
       "name": "豚太郎 久万店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.6671432,
       "lng": 132.89531979999998,
@@ -4126,9 +4125,7 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 46.4,
-      "rank": 144
+      }
     },
     {
       "id": "g-ChIJo2tDrWLPTzURWQTFlzlxap8",
@@ -4193,8 +4190,8 @@
           "魚介"
         ]
       },
-      "score": 46.9,
-      "rank": 131
+      "score": 46.7,
+      "rank": 113
     },
     {
       "id": "g-ChIJz38EEaA7UDUR3HVVLQdNZIU",
@@ -4271,8 +4268,8 @@
           "清湯"
         ]
       },
-      "score": 48,
-      "rank": 112
+      "score": 47.3,
+      "rank": 103
     },
     {
       "id": "g-ChIJZzHonX05UDURfKYoRGp71ps",
@@ -4456,8 +4453,8 @@
           "鶏白湯"
         ]
       },
-      "score": 44.9,
-      "rank": 178
+      "score": 44.4,
+      "rank": 171
     },
     {
       "id": "osm-n4716843160",
@@ -4594,7 +4591,7 @@
           "清湯"
         ]
       },
-      "score": 76.9,
+      "score": 75.3,
       "rank": 11
     },
     {
@@ -4656,8 +4653,8 @@
           "ラーメン"
         ]
       },
-      "score": 46.9,
-      "rank": 132
+      "score": 46.7,
+      "rank": 114
     },
     {
       "id": "g-ChIJiycrDQA7UDURWbctFYCW1nM",
@@ -4701,8 +4698,8 @@
           "濃厚"
         ]
       },
-      "score": 45.2,
-      "rank": 169
+      "score": 44.8,
+      "rank": 157
     },
     {
       "id": "g-ChIJwdPwW3YvUDURDCKR6GHGwjg",
@@ -4822,8 +4819,8 @@
           "清湯"
         ]
       },
-      "score": 46.5,
-      "rank": 141
+      "score": 45.8,
+      "rank": 135
     },
     {
       "id": "osm-n8292222174",
@@ -4891,8 +4888,8 @@
           "ちゃんぽん"
         ]
       },
-      "score": 49.5,
-      "rank": 88
+      "score": 48.9,
+      "rank": 81
     },
     {
       "id": "osm-n8288823645",
@@ -4992,8 +4989,8 @@
           "あっさり"
         ]
       },
-      "score": 45,
-      "rank": 175
+      "score": 44.6,
+      "rank": 164
     },
     {
       "id": "g-ChIJtwUOBSA7UDURWgfABs3-5NU",
@@ -5069,8 +5066,8 @@
           "背脂"
         ]
       },
-      "score": 45.6,
-      "rank": 158
+      "score": 45.2,
+      "rank": 149
     },
     {
       "id": "g-ChIJCyZFzhk7UDURXuHOa7gOf3s",
@@ -5112,12 +5109,13 @@
           "清湯"
         ]
       },
-      "score": 44.3
+      "score": 43.7,
+      "rank": 191
     },
     {
       "id": "osm-n13189759750",
       "name": "ラーメンショップ KANTOチェーン西四国本部",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 34.0536292,
       "lng": 133.0133043,
@@ -5156,13 +5154,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 42.1
+      }
     },
     {
       "id": "osm-n11527404085",
       "name": "ラーメンショップ KANTOチェーン野間店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 34.0670015,
       "lng": 132.9509081,
@@ -5201,13 +5198,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 42.7
+      }
     },
     {
       "id": "osm-n8252622178",
       "name": "ラーメンショップ 市場店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 34.0651401,
       "lng": 133.0136163,
@@ -5246,8 +5242,7 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 43.9
+      }
     },
     {
       "id": "osm-w806460114",
@@ -5291,12 +5286,12 @@
           "柑橘"
         ]
       },
-      "score": 48,
-      "rank": 110
+      "score": 47.1,
+      "rank": 109
     },
     {
       "id": "osm-w880917293",
-      "name": "ラーメンハウス",
+      "name": "ラーメンハウス ミニ鳥生店",
       "category": "ramen",
       "ramen": "specialty",
       "lat": 34.0523627,
@@ -5339,7 +5334,7 @@
           "中太麺"
         ]
       },
-      "score": 43
+      "score": 42.4
     },
     {
       "id": "g-ChIJvTIOB5MYUDURLJhvc4R2jMg",
@@ -5374,7 +5369,8 @@
           "豚骨"
         ]
       },
-      "score": 44.5
+      "score": 44,
+      "rank": 183
     },
     {
       "id": "g-ChIJxYT89No7UDURO9wXZg0FURM",
@@ -5419,7 +5415,8 @@
           "中太麺"
         ]
       },
-      "score": 44.2
+      "score": 43.6,
+      "rank": 199
     },
     {
       "id": "g-ChIJjz0-_vwxUDURWRpt5fH6iBQ",
@@ -5466,13 +5463,13 @@
           "にんにく"
         ]
       },
-      "score": 49.3,
-      "rank": 90
+      "score": 48.6,
+      "rank": 83
     },
     {
       "id": "osm-w806362857",
       "name": "りょう花 今治店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 34.0585452,
       "lng": 132.9812301,
@@ -5508,8 +5505,7 @@
           "塩",
           "節"
         ]
-      },
-      "score": 41.3
+      }
     },
     {
       "id": "g-ChIJv26cgto6UDUR9F4gKXiPn18",
@@ -5583,8 +5579,8 @@
           "豚骨"
         ]
       },
-      "score": 44.5,
-      "rank": 197
+      "score": 44,
+      "rank": 185
     },
     {
       "id": "g-ChIJQyOP8CE7UDURDQwGKTw2F80",
@@ -5619,7 +5615,7 @@
           "あっさり"
         ]
       },
-      "score": 43.8
+      "score": 43.2
     },
     {
       "id": "osm-n11527413036",
@@ -5664,7 +5660,7 @@
           "背脂"
         ]
       },
-      "score": 43.3
+      "score": 42.6
     },
     {
       "id": "osm-n8323931369",
@@ -5813,13 +5809,13 @@
           "豚骨"
         ]
       },
-      "score": 47.8,
-      "rank": 114
+      "score": 47.2,
+      "rank": 105
     },
     {
       "id": "osm-n11422947210",
       "name": "丸源ラーメン今治店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 34.0398901,
       "lng": 132.9930401,
@@ -5854,8 +5850,7 @@
         "soup": [
           "醤油"
         ]
-      },
-      "score": 40.5
+      }
     },
     {
       "id": "osm-n8202430157",
@@ -5903,8 +5898,8 @@
           "海老・蟹"
         ]
       },
-      "score": 47,
-      "rank": 126
+      "score": 46.1,
+      "rank": 128
     },
     {
       "id": "osm-w806424880",
@@ -5942,8 +5937,8 @@
           "豚骨"
         ]
       },
-      "score": 79.1,
-      "rank": 9
+      "score": 77.4,
+      "rank": 8
     },
     {
       "id": "g-ChIJB237U_Q6UDURwrI4JANzwWE",
@@ -5983,7 +5978,7 @@
           "鶏"
         ]
       },
-      "score": 41.6
+      "score": 40.8
     },
     {
       "id": "osm-w884615813",
@@ -6090,7 +6085,7 @@
           "にんにく"
         ]
       },
-      "score": 43.3
+      "score": 42.4
     },
     {
       "id": "osm-n8321885045",
@@ -6273,8 +6268,8 @@
           "辛い"
         ]
       },
-      "score": 44.7,
-      "rank": 189
+      "score": 44,
+      "rank": 181
     },
     {
       "id": "osm-n8256307943",
@@ -6402,8 +6397,8 @@
           "あっさり"
         ]
       },
-      "score": 44.5,
-      "rank": 199
+      "score": 43.7,
+      "rank": 192
     },
     {
       "id": "g-ChIJoXES0kI6UDURwuZq41MAem0",
@@ -6445,7 +6440,7 @@
           "あっさり"
         ]
       },
-      "score": 42.2
+      "score": 41.5
     },
     {
       "id": "osm-w881949796",
@@ -6491,7 +6486,7 @@
           "セメント系"
         ]
       },
-      "score": 67.2,
+      "score": 65.8,
       "rank": 25
     },
     {
@@ -6530,7 +6525,7 @@
           "中華そば"
         ]
       },
-      "score": 43.7
+      "score": 43.1
     },
     {
       "id": "rdb-124183",
@@ -6566,8 +6561,8 @@
           "中華そば"
         ]
       },
-      "score": 44.7,
-      "rank": 191
+      "score": 44.1,
+      "rank": 175
     },
     {
       "id": "g-ChIJJ2EgyUI6UDURQyRKx5yXeuY",
@@ -6873,8 +6868,8 @@
           "清湯"
         ]
       },
-      "score": 59.6,
-      "rank": 42
+      "score": 58.3,
+      "rank": 41
     },
     {
       "id": "osm-w806420430",
@@ -6965,7 +6960,7 @@
     {
       "id": "osm-w806293311",
       "name": "豚太郎 今治東店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 34.0297152,
       "lng": 133.0052528,
@@ -7025,8 +7020,8 @@
           "塩"
         ]
       },
-      "score": 44.8,
-      "rank": 185
+      "score": 44,
+      "rank": 177
     },
     {
       "id": "g-ChIJ5WL0Jmg6UDURmxHlmHDeGOs",
@@ -7155,7 +7150,7 @@
           "冷やし"
         ]
       },
-      "score": 67.1,
+      "score": 65.7,
       "rank": 26
     },
     {
@@ -7348,8 +7343,8 @@
           "魚介"
         ]
       },
-      "score": 59.6,
-      "rank": 41
+      "score": 58.4,
+      "rank": 40
     },
     {
       "id": "rdb-151187",
@@ -7390,8 +7385,8 @@
           "魚介"
         ]
       },
-      "score": 45.2,
-      "rank": 170
+      "score": 44.8,
+      "rank": 156
     },
     {
       "id": "osm-n8252656518",
@@ -7471,8 +7466,8 @@
           "白湯"
         ]
       },
-      "score": 56.5,
-      "rank": 51
+      "score": 55.5,
+      "rank": 50
     },
     {
       "id": "g-ChIJfdunizA7UDUR-fm-VIlRGuk",
@@ -7562,8 +7557,8 @@
           "中華そば"
         ]
       },
-      "score": 44.5,
-      "rank": 200
+      "score": 43.8,
+      "rank": 189
     },
     {
       "id": "g-ChIJNfXvYwA7UDUR3gQK1JKw_PA",
@@ -7850,8 +7845,8 @@
           "あっさり"
         ]
       },
-      "score": 50.7,
-      "rank": 78
+      "score": 50,
+      "rank": 75
     },
     {
       "id": "g-ChIJszaZCAKVUTUR-4FOCngmCvg",
@@ -7994,8 +7989,8 @@
           "煮干し"
         ]
       },
-      "score": 48.1,
-      "rank": 108
+      "score": 47.4,
+      "rank": 101
     },
     {
       "id": "g-ChIJKw3wD1GRUTURj5XgTpzrn2w",
@@ -8072,7 +8067,7 @@
           "濃厚"
         ]
       },
-      "score": 44.1
+      "score": 43.4
     },
     {
       "id": "g-ChIJhRMeb5LGUTURC6iLL1yqHB4",
@@ -8209,7 +8204,7 @@
           "白湯"
         ]
       },
-      "score": 88.1,
+      "score": 86.2,
       "rank": 2
     },
     {
@@ -8329,8 +8324,8 @@
           "つけ麺"
         ]
       },
-      "score": 46.1,
-      "rank": 149
+      "score": 45.8,
+      "rank": 136
     },
     {
       "id": "g-ChIJa8fLaluUUTURsb2SgDrx64A",
@@ -8400,8 +8395,8 @@
           "自家製麺"
         ]
       },
-      "score": 50.9,
-      "rank": 77
+      "score": 50.2,
+      "rank": 73
     },
     {
       "id": "g-ChIJe8ZV_H6RUTUR9Gf3sU1Fcpo",
@@ -8443,13 +8438,13 @@
           "あっさり"
         ]
       },
-      "score": 47.9,
-      "rank": 113
+      "score": 47.2,
+      "rank": 106
     },
     {
       "id": "osm-w1434979129",
       "name": "ラーメンショップ 三島店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.9780869,
       "lng": 133.5336509,
@@ -8488,14 +8483,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 49.1,
-      "rank": 95
+      }
     },
     {
       "id": "g-ChIJ12E-dmiUUTURjh_zpTPd6wQ",
       "name": "りょう花 伊予三島店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.974790299999995,
       "lng": 133.5422664,
@@ -8529,8 +8522,7 @@
           "塩",
           "節"
         ]
-      },
-      "score": 36.4
+      }
     },
     {
       "id": "g-ChIJu-wNKkGRUTURwTSNdBM1aS4",
@@ -8761,7 +8753,7 @@
           "濃厚"
         ]
       },
-      "score": 43.8
+      "score": 43.4
     },
     {
       "id": "g-ChIJU2st0mmUUTURWW96xE2HPAc",
@@ -9152,8 +9144,8 @@
           "あっさり"
         ]
       },
-      "score": 48,
-      "rank": 109
+      "score": 47.3,
+      "rank": 104
     },
     {
       "id": "osm-w407607874",
@@ -9195,7 +9187,7 @@
           "濃厚"
         ]
       },
-      "score": 39.2
+      "score": 38.3
     },
     {
       "id": "g-ChIJXbTfchqRUTURmVfxm251X6g",
@@ -9239,8 +9231,8 @@
           "清湯"
         ]
       },
-      "score": 44.9,
-      "rank": 177
+      "score": 44.4,
+      "rank": 168
     },
     {
       "id": "g-ChIJGXp5Rv6VUTURUu7NhtDcJ64",
@@ -9307,7 +9299,7 @@
           "担々麺"
         ]
       },
-      "score": 43.7
+      "score": 43.1
     },
     {
       "id": "rdb-156926",
@@ -9528,8 +9520,8 @@
           "自家製麺"
         ]
       },
-      "score": 46.4,
-      "rank": 145
+      "score": 45.7,
+      "rank": 139
     },
     {
       "id": "rdb-173414",
@@ -9707,7 +9699,7 @@
           "白湯"
         ]
       },
-      "score": 63.4,
+      "score": 62.2,
       "rank": 30
     },
     {
@@ -9749,8 +9741,8 @@
           "煮干し"
         ]
       },
-      "score": 45.9,
-      "rank": 152
+      "score": 45.2,
+      "rank": 148
     },
     {
       "id": "g-ChIJjS5yYbDvTzURAt1jjDLP4-s",
@@ -9867,8 +9859,8 @@
           "節"
         ]
       },
-      "score": 46.3,
-      "rank": 146
+      "score": 45.4,
+      "rank": 144
     },
     {
       "id": "g-ChIJt5d4SL7lTzURSOiXGayDGjg",
@@ -9933,8 +9925,8 @@
           "煮干し"
         ]
       },
-      "score": 46.8,
-      "rank": 134
+      "score": 46.6,
+      "rank": 119
     },
     {
       "id": "g-ChIJ_6tKqRHvTzURIF0yjZHo__o",
@@ -9976,8 +9968,8 @@
           "節"
         ]
       },
-      "score": 45.4,
-      "rank": 164
+      "score": 44.8,
+      "rank": 159
     },
     {
       "id": "g-ChIJq2oumtDlTzURkBZswTu2Uv0",
@@ -10013,7 +10005,7 @@
           "中華そば"
         ]
       },
-      "score": 42.2
+      "score": 41.7
     },
     {
       "id": "g-ChIJn5CqXE7vTzURctavJPixj9E",
@@ -10184,7 +10176,7 @@
           "胡麻"
         ]
       },
-      "score": 43.9
+      "score": 43
     },
     {
       "id": "rdb-168651",
@@ -10227,8 +10219,8 @@
           "煮干し"
         ]
       },
-      "score": 48.1,
-      "rank": 107
+      "score": 47.6,
+      "rank": 96
     },
     {
       "id": "osm-n2441099695",
@@ -10266,8 +10258,8 @@
           "豚骨"
         ]
       },
-      "score": 47.6,
-      "rank": 117
+      "score": 46.5,
+      "rank": 123
     },
     {
       "id": "osm-n5025570564",
@@ -10370,8 +10362,8 @@
           "煮干し"
         ]
       },
-      "score": 45.7,
-      "rank": 156
+      "score": 44.9,
+      "rank": 153
     },
     {
       "id": "g-ChIJtXxoVwDpTzURjpw9OfRmH3o",
@@ -10410,8 +10402,8 @@
           "辛い"
         ]
       },
-      "score": 47.6,
-      "rank": 118
+      "score": 47.2,
+      "rank": 107
     },
     {
       "id": "g-ChIJKcU8SZrlTzURSch77SRYGVY",
@@ -10479,8 +10471,8 @@
           "魚介"
         ]
       },
-      "score": 48.1,
-      "rank": 106
+      "score": 47.5,
+      "rank": 98
     },
     {
       "id": "g-ChIJzROZBgDlTzURRB64ce3eXLI",
@@ -10525,8 +10517,8 @@
           "清湯"
         ]
       },
-      "score": 45.1,
-      "rank": 171
+      "score": 44.6,
+      "rank": 162
     },
     {
       "id": "g-ChIJoaLdfsPvTzURu9TObmXOWUQ",
@@ -10566,7 +10558,8 @@
           "醤油"
         ]
       },
-      "score": 44.1
+      "score": 43.6,
+      "rank": 200
     },
     {
       "id": "osm-w1498210928",
@@ -10812,8 +10805,8 @@
           "つけ麺"
         ]
       },
-      "score": 44.6,
-      "rank": 193
+      "score": 43.7,
+      "rank": 198
     },
     {
       "id": "g-ChIJl-BUOuzlTzURkZrKPwNLaME",
@@ -10849,7 +10842,7 @@
           "つけ麺"
         ]
       },
-      "score": 79.4,
+      "score": 77.8,
       "rank": 7
     },
     {
@@ -10945,8 +10938,8 @@
           "濃厚"
         ]
       },
-      "score": 58.5,
-      "rank": 44
+      "score": 57.5,
+      "rank": 43
     },
     {
       "id": "g-ChIJQ1tqr2bvTzURUTNmR-NcfEI",
@@ -11017,7 +11010,7 @@
           "にんにく"
         ]
       },
-      "score": 36.3
+      "score": 35.6
     },
     {
       "id": "g-ChIJ36Ce2JjlTzUR-k8nbWATgYM",
@@ -11062,8 +11055,8 @@
           "胡麻"
         ]
       },
-      "score": 55.7,
-      "rank": 56
+      "score": 54.7,
+      "rank": 54
     },
     {
       "id": "g-ChIJnzKS8O7lTzURwU80Eh2lrTY",
@@ -11098,8 +11091,8 @@
           "辛い"
         ]
       },
-      "score": 46.8,
-      "rank": 138
+      "score": 46,
+      "rank": 132
     },
     {
       "id": "rdb-97456",
@@ -11135,8 +11128,8 @@
           "ちゃんぽん"
         ]
       },
-      "score": 62.7,
-      "rank": 34
+      "score": 61.5,
+      "rank": 33
     },
     {
       "id": "g-ChIJT2bJHLjoTzURcW53dnWYowY",
@@ -11224,8 +11217,8 @@
           "まぜそば"
         ]
       },
-      "score": 50.2,
-      "rank": 81
+      "score": 49.5,
+      "rank": 76
     },
     {
       "id": "g-ChIJJeHaqbHlTzURtbyVviZ6gx0",
@@ -11264,7 +11257,7 @@
           "辛い"
         ]
       },
-      "score": 43.3
+      "score": 42.7
     },
     {
       "id": "g-ChIJyd9xaM76TzURc8dq1ZFlgC4",
@@ -11362,7 +11355,8 @@
           "塩"
         ]
       },
-      "score": 44.2
+      "score": 43.7,
+      "rank": 194
     },
     {
       "id": "g-ChIJR25P6PPlTzURhR-UaFi1yOo",
@@ -11409,7 +11403,7 @@
           "にんにく"
         ]
       },
-      "score": 56,
+      "score": 55.1,
       "rank": 53
     },
     {
@@ -11458,8 +11452,8 @@
           "こってり"
         ]
       },
-      "score": 49,
-      "rank": 96
+      "score": 48.2,
+      "rank": 89
     },
     {
       "id": "g-ChIJ9XK-47_vTzURSPU8XJsnHlQ",
@@ -11504,8 +11498,8 @@
           "にんにく"
         ]
       },
-      "score": 44.8,
-      "rank": 186
+      "score": 43.9,
+      "rank": 188
     },
     {
       "id": "g-ChIJAchVPITlTzURM9_H_Eqz6Fs",
@@ -11548,13 +11542,13 @@
           "あっさり"
         ]
       },
-      "score": 73.2,
+      "score": 71.7,
       "rank": 17
     },
     {
       "id": "osm-n13189759734",
       "name": "ラーメンショップ フライブルク店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.8331659,
       "lng": 132.7445189,
@@ -11593,14 +11587,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 45,
-      "rank": 173
+      }
     },
     {
       "id": "osm-w305044128",
       "name": "ラーメンショップ 銀天街店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.8357962,
       "lng": 132.7645005,
@@ -11639,14 +11631,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 62.9,
-      "rank": 33
+      }
     },
     {
       "id": "osm-w625669744",
       "name": "ラーメンショップ北条店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.9806911,
       "lng": 132.783508,
@@ -11716,8 +11706,8 @@
           "豚骨"
         ]
       },
-      "score": 54.5,
-      "rank": 59
+      "score": 53.7,
+      "rank": 58
     },
     {
       "id": "g-ChIJO3gHTXLlTzURF6zo-fRyLVk",
@@ -11763,8 +11753,8 @@
           "こってり"
         ]
       },
-      "score": 52.1,
-      "rank": 70
+      "score": 51.2,
+      "rank": 67
     },
     {
       "id": "g-ChIJ2QS5M1_vTzURvmJ8a1sNlng",
@@ -11810,8 +11800,8 @@
           "こってり"
         ]
       },
-      "score": 51.9,
-      "rank": 73
+      "score": 50.7,
+      "rank": 71
     },
     {
       "id": "rdb-133749",
@@ -11853,13 +11843,13 @@
           "背脂"
         ]
       },
-      "score": 45,
-      "rank": 174
+      "score": 44,
+      "rank": 182
     },
     {
       "id": "g-ChIJ8bgwlQnmTzURcOuwb8DKgOI",
       "name": "らーめん工房 りょう花 束本店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.8339911,
       "lng": 132.7869955,
@@ -11893,8 +11883,7 @@
           "塩",
           "節"
         ]
-      },
-      "score": 42.8
+      }
     },
     {
       "id": "g-ChIJz6nTcvPvTzURFuc8v2kZH0I",
@@ -11968,8 +11957,8 @@
           "にんにく"
         ]
       },
-      "score": 54.5,
-      "rank": 60
+      "score": 53.5,
+      "rank": 59
     },
     {
       "id": "osm-n2305044388",
@@ -12015,7 +12004,7 @@
           "背脂"
         ]
       },
-      "score": 38.4
+      "score": 37.5
     },
     {
       "id": "g-ChIJUxzyEYDvTzURMm75EfM-roQ",
@@ -12059,8 +12048,8 @@
           "泡系"
         ]
       },
-      "score": 45.8,
-      "rank": 155
+      "score": 45.2,
+      "rank": 151
     },
     {
       "id": "rdb-173409",
@@ -12102,7 +12091,7 @@
     {
       "id": "osm-n2308403680",
       "name": "りょう花 フライブルク店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.8400169,
       "lng": 132.744824,
@@ -12138,8 +12127,7 @@
           "塩",
           "節"
         ]
-      },
-      "score": 43
+      }
     },
     {
       "id": "g-ChIJz5F-eFfvTzURHNfPjHNmPBQ",
@@ -12326,7 +12314,7 @@
           "辛い"
         ]
       },
-      "score": 60,
+      "score": 58.8,
       "rank": 38
     },
     {
@@ -12426,7 +12414,7 @@
           "辛い"
         ]
       },
-      "score": 63,
+      "score": 61.6,
       "rank": 32
     },
     {
@@ -12467,8 +12455,8 @@
           "豚骨"
         ]
       },
-      "score": 44.6,
-      "rank": 192
+      "score": 43.9,
+      "rank": 186
     },
     {
       "id": "g-ChIJ9za_agDvTzURO9Pz-QXsmPY",
@@ -12508,8 +12496,8 @@
           "豚骨"
         ]
       },
-      "score": 44.9,
-      "rank": 182
+      "score": 44.4,
+      "rank": 170
     },
     {
       "id": "rdb-86674",
@@ -12549,8 +12537,8 @@
           "醤油"
         ]
       },
-      "score": 58.5,
-      "rank": 45
+      "score": 57.3,
+      "rank": 44
     },
     {
       "id": "osm-n10275126705",
@@ -12592,8 +12580,8 @@
           "豚骨"
         ]
       },
-      "score": 48.8,
-      "rank": 99
+      "score": 47.7,
+      "rank": 94
     },
     {
       "id": "g-ChIJKUCQWmflTzURxvENa7jVIVw",
@@ -12650,7 +12638,7 @@
     {
       "id": "rdb-26036",
       "name": "丸源ラーメン 松山中央通り店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.854465,
       "lng": 132.750687,
@@ -12683,13 +12671,12 @@
         "soup": [
           "醤油"
         ]
-      },
-      "score": 38.9
+      }
     },
     {
       "id": "osm-w464219416",
       "name": "丸源ラーメン松山インター店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.8105009,
       "lng": 132.7798101,
@@ -12724,8 +12711,7 @@
         "soup": [
           "醤油"
         ]
-      },
-      "score": 41.6
+      }
     },
     {
       "id": "g-ChIJ1Z3pYIDgTzURJHcATMKNuxg",
@@ -12883,7 +12869,7 @@
           "豚骨"
         ]
       },
-      "score": 88.2,
+      "score": 86.4,
       "rank": 1
     },
     {
@@ -12929,7 +12915,7 @@
           "白湯"
         ]
       },
-      "score": 87.6,
+      "score": 85.6,
       "rank": 3
     },
     {
@@ -12967,8 +12953,8 @@
           "豚骨"
         ]
       },
-      "score": 46.8,
-      "rank": 137
+      "score": 46.1,
+      "rank": 129
     },
     {
       "id": "g-ChIJh6qjlvPlTzURRdhkON-EnzM",
@@ -13005,8 +12991,8 @@
           "豚骨"
         ]
       },
-      "score": 54.7,
-      "rank": 58
+      "score": 53.9,
+      "rank": 56
     },
     {
       "id": "rdb-133861",
@@ -13116,7 +13102,7 @@
           "濃厚"
         ]
       },
-      "score": 76.3,
+      "score": 74.6,
       "rank": 12
     },
     {
@@ -13154,8 +13140,8 @@
           "太麺"
         ]
       },
-      "score": 48.2,
-      "rank": 105
+      "score": 47.6,
+      "rank": 97
     },
     {
       "id": "g-ChIJ7WUZGx_lTzUR9zPxDX4mKY4",
@@ -13221,8 +13207,8 @@
           "中華そば"
         ]
       },
-      "score": 51.9,
-      "rank": 72
+      "score": 51.1,
+      "rank": 69
     },
     {
       "id": "g-ChIJaz1TVyruTzURS4ozf2z58dE",
@@ -13305,7 +13291,7 @@
           "にんにく"
         ]
       },
-      "score": 68.6,
+      "score": 67,
       "rank": 22
     },
     {
@@ -13413,8 +13399,8 @@
           "辛い"
         ]
       },
-      "score": 58,
-      "rank": 46
+      "score": 57.2,
+      "rank": 45
     },
     {
       "id": "rdb-137984",
@@ -13575,8 +13561,8 @@
           "にんにく"
         ]
       },
-      "score": 47.2,
-      "rank": 124
+      "score": 46.7,
+      "rank": 115
     },
     {
       "id": "g-ChIJ5x4vIwDlTzURhsW7UUVF6ik",
@@ -13622,7 +13608,8 @@
           "背脂"
         ]
       },
-      "score": 44.5
+      "score": 44,
+      "rank": 184
     },
     {
       "id": "g-ChIJky_aKADlTzURSyT6QRDgXYA",
@@ -13665,8 +13652,8 @@
           "背脂"
         ]
       },
-      "score": 51.6,
-      "rank": 74
+      "score": 50.8,
+      "rank": 70
     },
     {
       "id": "g-ChIJO_3eJJrlTzUR93CkLLJGciY",
@@ -13702,8 +13689,8 @@
           "鯛・鮮魚"
         ]
       },
-      "score": 57,
-      "rank": 50
+      "score": 56.1,
+      "rank": 49
     },
     {
       "id": "g-ChIJdfqhgt3lTzUR0INHkJ38Koc",
@@ -13743,8 +13730,8 @@
           "豚骨"
         ]
       },
-      "score": 45.5,
-      "rank": 162
+      "score": 45.2,
+      "rank": 150
     },
     {
       "id": "g-ChIJDYgZCe_lTzURNFtfN1MhRlI",
@@ -13809,8 +13796,8 @@
           "鶏"
         ]
       },
-      "score": 45.9,
-      "rank": 153
+      "score": 45.5,
+      "rank": 142
     },
     {
       "id": "g-ChIJ8xtCuGrvTzUR8290HgkWdao",
@@ -13846,8 +13833,8 @@
           "醤油"
         ]
       },
-      "score": 57.6,
-      "rank": 47
+      "score": 56.8,
+      "rank": 46
     },
     {
       "id": "g-ChIJOXToZ1vvTzURVFnYDoKsWDo",
@@ -13973,7 +13960,7 @@
           "鶏"
         ]
       },
-      "score": 42.6
+      "score": 42
     },
     {
       "id": "rdb-157062",
@@ -14012,8 +13999,8 @@
           "辛い"
         ]
       },
-      "score": 45.2,
-      "rank": 167
+      "score": 44.7,
+      "rank": 160
     },
     {
       "id": "rdb-110997",
@@ -14052,7 +14039,8 @@
           "辛い"
         ]
       },
-      "score": 44.5
+      "score": 43.8,
+      "rank": 190
     },
     {
       "id": "rdb-126548",
@@ -14091,7 +14079,7 @@
           "辛い"
         ]
       },
-      "score": 43.9
+      "score": 43.1
     },
     {
       "id": "g-ChIJS4ESIgDlTzUR5_Jb22KYuUY",
@@ -14130,8 +14118,8 @@
           "辛い"
         ]
       },
-      "score": 46.4,
-      "rank": 142
+      "score": 45.6,
+      "rank": 141
     },
     {
       "id": "rdb-118036",
@@ -14170,8 +14158,8 @@
           "辛い"
         ]
       },
-      "score": 57.2,
-      "rank": 49
+      "score": 56.4,
+      "rank": 47
     },
     {
       "id": "g-ChIJ_wVeX-7lTzURrv4GSx0zaDY",
@@ -14217,7 +14205,7 @@
           "節"
         ]
       },
-      "score": 70.5,
+      "score": 69,
       "rank": 20
     },
     {
@@ -14265,8 +14253,8 @@
           "セメント系"
         ]
       },
-      "score": 47.5,
-      "rank": 120
+      "score": 46.8,
+      "rank": 112
     },
     {
       "id": "g-ChIJUdsX5N_lTzURjcXN98zfldk",
@@ -14307,7 +14295,7 @@
           "豚骨"
         ]
       },
-      "score": 43.8
+      "score": 43.1
     },
     {
       "id": "g-ChIJ3_lsF5vlTzURRSW9-bv6gjY",
@@ -14343,8 +14331,8 @@
           "貝"
         ]
       },
-      "score": 47,
-      "rank": 127
+      "score": 46.3,
+      "rank": 125
     },
     {
       "id": "g-ChIJm6z3j4vlTzURrWfHJCzmTBQ",
@@ -14584,8 +14572,8 @@
           "味噌"
         ]
       },
-      "score": 48.4,
-      "rank": 103
+      "score": 47.4,
+      "rank": 100
     },
     {
       "id": "rdb-100266",
@@ -14628,8 +14616,8 @@
           "背脂"
         ]
       },
-      "score": 47.4,
-      "rank": 122
+      "score": 46.6,
+      "rank": 118
     },
     {
       "id": "g-ChIJ7yJlegDpTzURBhNkcBeXkXY",
@@ -14665,8 +14653,8 @@
           "中華そば"
         ]
       },
-      "score": 44.8,
-      "rank": 183
+      "score": 44.3,
+      "rank": 173
     },
     {
       "id": "g-ChIJkYpGno7lTzURD3Zo3dr7jNs",
@@ -14702,7 +14690,7 @@
           "中華そば"
         ]
       },
-      "score": 77.8,
+      "score": 76.1,
       "rank": 10
     },
     {
@@ -14739,8 +14727,8 @@
           "中華そば"
         ]
       },
-      "score": 47.6,
-      "rank": 115
+      "score": 47,
+      "rank": 110
     },
     {
       "id": "g-ChIJkVu4OCzuTzURcSaZBEh6mY0",
@@ -14776,7 +14764,7 @@
           "中華そば"
         ]
       },
-      "score": 65.9,
+      "score": 64.6,
       "rank": 27
     },
     {
@@ -14815,8 +14803,8 @@
           "つけ麺"
         ]
       },
-      "score": 50,
-      "rank": 82
+      "score": 49.2,
+      "rank": 77
     },
     {
       "id": "g-ChIJ1XnfOHPlTzURmugxSD3FAa0",
@@ -15356,8 +15344,8 @@
           "豚骨"
         ]
       },
-      "score": 59.8,
-      "rank": 40
+      "score": 58.5,
+      "rank": 39
     },
     {
       "id": "osm-w230964592",
@@ -15399,7 +15387,7 @@
           "濃厚"
         ]
       },
-      "score": 36
+      "score": 34.9
     },
     {
       "id": "rdb-163493",
@@ -15446,8 +15434,8 @@
           "あっさり"
         ]
       },
-      "score": 46.3,
-      "rank": 148
+      "score": 45.7,
+      "rank": 138
     },
     {
       "id": "g-ChIJF23jEOzlTzURoYSHOeLRpNs",
@@ -15509,8 +15497,8 @@
           "油そば"
         ]
       },
-      "score": 45.3,
-      "rank": 166
+      "score": 44.6,
+      "rank": 163
     },
     {
       "id": "g-ChIJNfG2IaDlTzURzsYNBEsF_dQ",
@@ -15553,13 +15541,13 @@
           "あっさり"
         ]
       },
-      "score": 73.4,
-      "rank": 15
+      "score": 71.9,
+      "rank": 16
     },
     {
       "id": "osm-n6363720469",
       "name": "豚太郎 11号店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.8084191,
       "lng": 132.8064722,
@@ -15591,14 +15579,12 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 49.9,
-      "rank": 84
+      }
     },
     {
       "id": "rdb-99854",
       "name": "豚太郎 松山駅前通り店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.848793,
       "lng": 132.752563,
@@ -15631,14 +15617,12 @@
         "style": [
           "ラーメン"
         ]
-      },
-      "score": 53.4,
-      "rank": 64
+      }
     },
     {
       "id": "osm-n5907316483",
       "name": "豚太郎北条店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.9619134,
       "lng": 132.7774648,
@@ -15670,9 +15654,7 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 50.5,
-      "rank": 80
+      }
     },
     {
       "id": "g-ChIJQQ4qjyzlTzURa3S2refmHdA",
@@ -15715,7 +15697,7 @@
           "野菜"
         ]
       },
-      "score": 79.6,
+      "score": 77.9,
       "rank": 6
     },
     {
@@ -15763,8 +15745,8 @@
           "にんにく"
         ]
       },
-      "score": 48.6,
-      "rank": 101
+      "score": 47.7,
+      "rank": 95
     },
     {
       "id": "g-ChIJI7ts9lzlTzUR66LUMRNhFZs",
@@ -15836,8 +15818,8 @@
           "細麺"
         ]
       },
-      "score": 49.5,
-      "rank": 89
+      "score": 48.1,
+      "rank": 91
     },
     {
       "id": "g-ChIJ7zVgiqnlTzURvtM_81pJ-bw",
@@ -15880,8 +15862,8 @@
           "濃厚"
         ]
       },
-      "score": 59.1,
-      "rank": 43
+      "score": 57.9,
+      "rank": 42
     },
     {
       "id": "g-ChIJ5-KlnfTlTzURO7nq8MyPaPY",
@@ -15955,8 +15937,8 @@
           "濃厚"
         ]
       },
-      "score": 51.3,
-      "rank": 75
+      "score": 50.5,
+      "rank": 72
     },
     {
       "id": "g-ChIJ3bdhHgseUDURfb9bnjcOzMo",
@@ -15998,7 +15980,7 @@
           "魚介"
         ]
       },
-      "score": 43.3
+      "score": 42.6
     },
     {
       "id": "g-ChIJRZf0Cq_oTzURXUrIMPZ6itA",
@@ -16039,7 +16021,7 @@
           "あっさり"
         ]
       },
-      "score": 43.5
+      "score": 43
     },
     {
       "id": "rdb-78024",
@@ -16084,7 +16066,7 @@
           "あっさり"
         ]
       },
-      "score": 41.6
+      "score": 40.9
     },
     {
       "id": "g-ChIJ3Toeas3oTzURk3kzjVSgrfQ",
@@ -16297,7 +16279,7 @@
           "豚骨"
         ]
       },
-      "score": 41.3
+      "score": 40.6
     },
     {
       "id": "g-ChIJHUP4cZXlTzURoyF1eYXRZOg",
@@ -16334,8 +16316,8 @@
           "豚骨"
         ]
       },
-      "score": 62.2,
-      "rank": 35
+      "score": 61,
+      "rank": 34
     },
     {
       "id": "g-ChIJpxXitIHlTzURf2_0nRRw9Sg",
@@ -16378,7 +16360,7 @@
           "にんにく"
         ]
       },
-      "score": 73,
+      "score": 71.5,
       "rank": 18
     },
     {
@@ -16415,8 +16397,8 @@
           "中華そば"
         ]
       },
-      "score": 46.8,
-      "rank": 133
+      "score": 46.5,
+      "rank": 122
     },
     {
       "id": "g-ChIJQVoKNfPlTzURwmIwkny6ueg",
@@ -16452,8 +16434,8 @@
           "節"
         ]
       },
-      "score": 73.3,
-      "rank": 16
+      "score": 71.9,
+      "rank": 15
     },
     {
       "id": "g-ChIJJ4GP3s7lTzURDUtdmDVly_g",
@@ -16498,8 +16480,8 @@
           "清湯"
         ]
       },
-      "score": 49.7,
-      "rank": 86
+      "score": 48.9,
+      "rank": 82
     },
     {
       "id": "g-ChIJ63LeUMPlTzUR_brlGzl4lAE",
@@ -16539,7 +16521,7 @@
           "濃厚"
         ]
       },
-      "score": 83.5,
+      "score": 81.6,
       "rank": 4
     },
     {
@@ -16579,7 +16561,8 @@
           "豚骨"
         ]
       },
-      "score": 44.2
+      "score": 43.7,
+      "rank": 197
     },
     {
       "id": "g-ChIJu8dtFtjvTzURkmSiNz1jcKY",
@@ -16624,8 +16607,8 @@
           "濃厚"
         ]
       },
-      "score": 54,
-      "rank": 62
+      "score": 53.1,
+      "rank": 61
     },
     {
       "id": "g-ChIJq1Rmyu3lTzURs_48FrDZGCQ",
@@ -16668,8 +16651,8 @@
           "背脂"
         ]
       },
-      "score": 60.7,
-      "rank": 37
+      "score": 59.5,
+      "rank": 36
     },
     {
       "id": "g-ChIJxxft0ojlTzURVNSD0_-1bgQ",
@@ -16712,8 +16695,8 @@
           "背脂"
         ]
       },
-      "score": 52,
-      "rank": 71
+      "score": 51.2,
+      "rank": 68
     },
     {
       "id": "g-ChIJYbhOBgDlTzURQnOdNzVTGkM",
@@ -16754,8 +16737,8 @@
           "味噌"
         ]
       },
-      "score": 45.6,
-      "rank": 159
+      "score": 45.2,
+      "rank": 147
     },
     {
       "id": "g-ChIJj-Oi2PrvTzURPEsBfZp081k",
@@ -16805,7 +16788,7 @@
           "こってり"
         ]
       },
-      "score": 63.3,
+      "score": 62.2,
       "rank": 31
     },
     {
@@ -16847,8 +16830,8 @@
           "魚介"
         ]
       },
-      "score": 45.4,
-      "rank": 165
+      "score": 44.8,
+      "rank": 158
     },
     {
       "id": "g-ChIJD8FokKnlTzURDXSbDHiEo9M",
@@ -16893,8 +16876,8 @@
           "白湯"
         ]
       },
-      "score": 48.3,
-      "rank": 104
+      "score": 47.5,
+      "rank": 99
     },
     {
       "id": "g-ChIJaSDV-e3lTzUR1O9mvs2WNkc",
@@ -16935,8 +16918,8 @@
           "清湯"
         ]
       },
-      "score": 79.2,
-      "rank": 8
+      "score": 77.4,
+      "rank": 9
     },
     {
       "id": "g-ChIJq6qpVhjmTzURx5LwDGeYg3I",
@@ -16973,7 +16956,7 @@
           "創作系"
         ]
       },
-      "score": 42.9
+      "score": 42.3
     },
     {
       "id": "rdb-173658",
@@ -17005,8 +16988,8 @@
           "油そば"
         ]
       },
-      "score": 47,
-      "rank": 128
+      "score": 46.6,
+      "rank": 117
     },
     {
       "id": "g-ChIJM2SvGaDlTzURKVx0S2pgTEA",
@@ -17048,8 +17031,8 @@
           "魚介"
         ]
       },
-      "score": 49.2,
-      "rank": 93
+      "score": 48.5,
+      "rank": 84
     },
     {
       "id": "rdb-109964",
@@ -17089,7 +17072,7 @@
           "豚骨"
         ]
       },
-      "score": 41.9
+      "score": 41.1
     },
     {
       "id": "osm-n13954951301",
@@ -17127,7 +17110,7 @@
           "醤油"
         ]
       },
-      "score": 42.7
+      "score": 42.1
     },
     {
       "id": "g-ChIJbdYkoO7lTzURpDX2BvCC-Xs",
@@ -17163,7 +17146,7 @@
           "醤油"
         ]
       },
-      "score": 75.4,
+      "score": 73.7,
       "rank": 13
     },
     {
@@ -17211,8 +17194,8 @@
           "白湯"
         ]
       },
-      "score": 47.4,
-      "rank": 121
+      "score": 46.6,
+      "rank": 116
     },
     {
       "id": "osm-n12208660713",
@@ -17277,8 +17260,8 @@
           "油そば"
         ]
       },
-      "score": 44.9,
-      "rank": 179
+      "score": 44.1,
+      "rank": 176
     },
     {
       "id": "g-ChIJq_6aoz3vTzURhJWGNx4sIO8",
@@ -17344,8 +17327,8 @@
           "中華そば"
         ]
       },
-      "score": 44.5,
-      "rank": 198
+      "score": 44,
+      "rank": 179
     },
     {
       "id": "osm-n2385956566",
@@ -17391,7 +17374,7 @@
           "背脂"
         ]
       },
-      "score": 39.9
+      "score": 39.1
     },
     {
       "id": "g-ChIJ4Uaj00HlTzURl9OlS6i8PTY",
@@ -17484,8 +17467,8 @@
           "鶏"
         ]
       },
-      "score": 52.3,
-      "rank": 69
+      "score": 51.5,
+      "rank": 66
     },
     {
       "id": "rdb-125108",
@@ -17554,7 +17537,7 @@
           "味噌"
         ]
       },
-      "score": 72.3,
+      "score": 70.7,
       "rank": 19
     },
     {
@@ -17597,8 +17580,8 @@
           "あっさり"
         ]
       },
-      "score": 44.5,
-      "rank": 194
+      "score": 44,
+      "rank": 180
     },
     {
       "id": "g-ChIJVVSLIJTlTzURBFduhAvsazo",
@@ -17671,8 +17654,8 @@
           "清湯"
         ]
       },
-      "score": 47,
-      "rank": 129
+      "score": 46,
+      "rank": 131
     },
     {
       "id": "osm-n10605774688",
@@ -18051,7 +18034,7 @@
     {
       "id": "osm-w1434978177",
       "name": "ラーメンショップ R56店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.7974283,
       "lng": 132.7248243,
@@ -18090,13 +18073,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 42.9
+      }
     },
     {
       "id": "osm-n2386739845",
       "name": "らーめん工房りょう花松前店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.7831802,
       "lng": 132.7133896,
@@ -18132,8 +18114,7 @@
           "塩",
           "節"
         ]
-      },
-      "score": 42.7
+      }
     },
     {
       "id": "osm-n12848296788",
@@ -18233,8 +18214,8 @@
           "細麺"
         ]
       },
-      "score": 46.6,
-      "rank": 140
+      "score": 46,
+      "rank": 134
     },
     {
       "id": "g-ChIJq-bnNfnxTzURjHVbcQDNgQw",
@@ -18348,8 +18329,8 @@
           "清湯"
         ]
       },
-      "score": 49.6,
-      "rank": 87
+      "score": 48.9,
+      "rank": 80
     },
     {
       "id": "g-ChIJr87wYADvTzURH12wvotlTJY",
@@ -18406,7 +18387,7 @@
     {
       "id": "osm-n2386756946",
       "name": "豚太郎松前店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.8012536,
       "lng": 132.7260604,
@@ -18434,9 +18415,7 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 55.9,
-      "rank": 55
+      }
     },
     {
       "id": "g-ChIJxRZLKyXvTzURL7itRhlS5D0",
@@ -18644,8 +18623,8 @@
           "背脂"
         ]
       },
-      "score": 46.8,
-      "rank": 135
+      "score": 46.6,
+      "rank": 120
     },
     {
       "id": "g-ChIJ3ZyotSSxUTURAxUktYTpTDU",
@@ -18806,8 +18785,8 @@
           "魚介"
         ]
       },
-      "score": 49.8,
-      "rank": 85
+      "score": 49,
+      "rank": 78
     },
     {
       "id": "g-ChIJvRQ1m9nPUTURO9UlwK3BCSA",
@@ -18930,8 +18909,8 @@
           "辛い"
         ]
       },
-      "score": 56,
-      "rank": 54
+      "score": 55.1,
+      "rank": 52
     },
     {
       "id": "osm-n696846346",
@@ -19020,7 +18999,7 @@
           "味噌"
         ]
       },
-      "score": 43.8
+      "score": 43.2
     },
     {
       "id": "g-ChIJL9Oodr3PUTURH-gme2_RAGs",
@@ -19064,8 +19043,8 @@
           "背脂"
         ]
       },
-      "score": 44.9,
-      "rank": 181
+      "score": 44.4,
+      "rank": 169
     },
     {
       "id": "g-ChIJiVctfxHPUTURmMmi1Qn6PgI",
@@ -19293,7 +19272,7 @@
           "二郎系"
         ]
       },
-      "score": 43.9
+      "score": 43.3
     },
     {
       "id": "g-ChIJmY-NacvIUTURU7i-t-HRFZo",
@@ -19410,7 +19389,7 @@
           "清湯"
         ]
       },
-      "score": 83.1,
+      "score": 81.3,
       "rank": 5
     },
     {
@@ -19453,7 +19432,7 @@
           "豚骨"
         ]
       },
-      "score": 44.1
+      "score": 43.5
     },
     {
       "id": "g-ChIJ_THo1c_OUTUR868-lz0qdXE",
@@ -19498,7 +19477,7 @@
           "中太麺"
         ]
       },
-      "score": 44.1
+      "score": 43.5
     },
     {
       "id": "g-ChIJK55oEcLOUTURhtj5YFANuh0",
@@ -19542,7 +19521,7 @@
           "濃厚"
         ]
       },
-      "score": 68.8,
+      "score": 67.5,
       "rank": 21
     },
     {
@@ -19590,13 +19569,13 @@
           "背脂"
         ]
       },
-      "score": 48.9,
-      "rank": 97
+      "score": 48.4,
+      "rank": 88
     },
     {
       "id": "osm-w1442586905",
       "name": "りょう花 新居浜店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.9656157,
       "lng": 133.3020388,
@@ -19632,8 +19611,7 @@
           "塩",
           "節"
         ]
-      },
-      "score": 40.6
+      }
     },
     {
       "id": "g-ChIJsxhEZgXPUTURDD37lmUcX6E",
@@ -19707,8 +19685,8 @@
           "豚骨"
         ]
       },
-      "score": 48.9,
-      "rank": 98
+      "score": 48.1,
+      "rank": 90
     },
     {
       "id": "g-ChIJ_wqFrkHPUTUR21VN6k3uktw",
@@ -19748,8 +19726,8 @@
           "豚骨"
         ]
       },
-      "score": 45.4,
-      "rank": 163
+      "score": 44.9,
+      "rank": 155
     },
     {
       "id": "g-ChIJ3eOFHADPUTURzgorjAtZHi4",
@@ -19791,8 +19769,8 @@
           "魚介"
         ]
       },
-      "score": 44.7,
-      "rank": 188
+      "score": 44.1,
+      "rank": 174
     },
     {
       "id": "g-ChIJV_uUOHzPUTUR7Ra50DlGqzM",
@@ -19835,7 +19813,7 @@
     {
       "id": "osm-w1272396756",
       "name": "丸源ラーメン",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.9609466,
       "lng": 133.2828371,
@@ -19866,8 +19844,7 @@
         "soup": [
           "醤油"
         ]
-      },
-      "score": 40.6
+      }
     },
     {
       "id": "g-ChIJxTwZOMbOUTURTIRz0qZcgkU",
@@ -20009,7 +19986,7 @@
           "辛い"
         ]
       },
-      "score": 67.6,
+      "score": 66.3,
       "rank": 24
     },
     {
@@ -20211,8 +20188,8 @@
           "辛い"
         ]
       },
-      "score": 45.7,
-      "rank": 157
+      "score": 45.3,
+      "rank": 146
     },
     {
       "id": "g-ChIJJ8Xly4PPUTURQUF4NkEGjK0",
@@ -20251,8 +20228,8 @@
           "豚骨"
         ]
       },
-      "score": 49.2,
-      "rank": 94
+      "score": 48.5,
+      "rank": 85
     },
     {
       "id": "g-ChIJ2SGG_6jPUTURJAgMuKDgcOg",
@@ -20426,8 +20403,8 @@
           "あっさり"
         ]
       },
-      "score": 52.7,
-      "rank": 68
+      "score": 51.8,
+      "rank": 65
     },
     {
       "id": "g-ChIJz2VbHVbPUTURxjU8YgyIHyg",
@@ -20490,8 +20467,8 @@
           "つけ麺"
         ]
       },
-      "score": 55.2,
-      "rank": 57
+      "score": 54.4,
+      "rank": 55
     },
     {
       "id": "osm-n10681345782",
@@ -20723,7 +20700,7 @@
           "節"
         ]
       },
-      "score": 42.8
+      "score": 42
     },
     {
       "id": "osm-n11814665969",
@@ -20765,7 +20742,7 @@
           "濃厚"
         ]
       },
-      "score": 41.5
+      "score": 40.8
     },
     {
       "id": "g-ChIJO66GTgDPUTURzi1bieNQtZQ",
@@ -20804,13 +20781,13 @@
           "辛い"
         ]
       },
-      "score": 46.1,
-      "rank": 151
+      "score": 45.6,
+      "rank": 140
     },
     {
       "id": "osm-n2182962658",
       "name": "豚太郎 新居浜店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.9537864,
       "lng": 133.2870978,
@@ -20842,9 +20819,7 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 50.7,
-      "rank": 79
+      }
     },
     {
       "id": "g-ChIJVw4bFqrPUTURNt83o-F1BDg",
@@ -20998,8 +20973,8 @@
           "煮干し"
         ]
       },
-      "score": 61.9,
-      "rank": 36
+      "score": 60.7,
+      "rank": 35
     },
     {
       "id": "g-ChIJufMOfgDPUTURHl-QlJwHb5w",
@@ -21069,7 +21044,7 @@
           "背脂"
         ]
       },
-      "score": 39.6
+      "score": 38.8
     },
     {
       "id": "g-ChIJq3JM08fOUTURLK_cuFuQpkw",
@@ -21105,8 +21080,8 @@
           "中華そば"
         ]
       },
-      "score": 44.5,
-      "rank": 195
+      "score": 43.9,
+      "rank": 187
     },
     {
       "id": "g-ChIJ18AX-HstUDURxHSh9m7x744",
@@ -21242,8 +21217,8 @@
           "細麺"
         ]
       },
-      "score": 45.2,
-      "rank": 168
+      "score": 44.9,
+      "rank": 154
     },
     {
       "id": "g-ChIJ08r3-bkvUDUREWx512OLY6U",
@@ -21368,7 +21343,7 @@
           "あっさり"
         ]
       },
-      "score": 43.8
+      "score": 43.4
     },
     {
       "id": "g-ChIJC5FUNgArUDURSPyWU-EmhP8",
@@ -21429,8 +21404,8 @@
           "味噌"
         ]
       },
-      "score": 44.9,
-      "rank": 180
+      "score": 44.4,
+      "rank": 167
     },
     {
       "id": "g-ChIJzzJ29xkvUDURNhuR9F6idSg",
@@ -21537,8 +21512,8 @@
           "味噌"
         ]
       },
-      "score": 48.6,
-      "rank": 100
+      "score": 47.8,
+      "rank": 92
     },
     {
       "id": "g-ChIJ9yyofx_TUTURLf31nzJoR40",
@@ -21690,7 +21665,7 @@
           "中華そば"
         ]
       },
-      "score": 43.5
+      "score": 42.9
     },
     {
       "id": "g-ChIJKam_ysksUDURsA6OJrB3lUc",
@@ -21725,7 +21700,8 @@
           "味噌"
         ]
       },
-      "score": 44.1
+      "score": 43.7,
+      "rank": 196
     },
     {
       "id": "g-ChIJ580YFJstUDURUdYw5JiH16M",
@@ -21822,13 +21798,13 @@
           "味噌"
         ]
       },
-      "score": 47.6,
-      "rank": 119
+      "score": 47.3,
+      "rank": 102
     },
     {
       "id": "rdb-63851",
       "name": "ラーメンショップ 小松店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.897343,
       "lng": 133.114777,
@@ -21865,13 +21841,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 40.8
+      }
     },
     {
       "id": "osm-w1434979128",
       "name": "ラーメンショップ 西条東店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.9196801,
       "lng": 133.2365595,
@@ -21910,14 +21885,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 44.7,
-      "rank": 190
+      }
     },
     {
       "id": "osm-w1434979127",
       "name": "ラーメンショップ 東予店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.9580935,
       "lng": 133.0742584,
@@ -21956,8 +21929,7 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 44.1
+      }
     },
     {
       "id": "g-ChIJ0R8LOsLSUTURih3zosklW7Y",
@@ -21998,8 +21970,8 @@
           "豚骨"
         ]
       },
-      "score": 47,
-      "rank": 130
+      "score": 46.2,
+      "rank": 127
     },
     {
       "id": "g-ChIJCed9Pc_SUTURvpQWzKPTUM8",
@@ -22042,8 +22014,8 @@
           "あっさり"
         ]
       },
-      "score": 53,
-      "rank": 66
+      "score": 52.2,
+      "rank": 63
     },
     {
       "id": "g-ChIJVXEqtIorUDUR1xks7LW_X_I",
@@ -22112,7 +22084,7 @@
           "背脂"
         ]
       },
-      "score": 44.3
+      "score": 43.5
     },
     {
       "id": "g-ChIJtWL9h18rUDUR3ZMsdL-KQdY",
@@ -22208,7 +22180,7 @@
           "醤油"
         ]
       },
-      "score": 41.9
+      "score": 41.1
     },
     {
       "id": "g-ChIJ87TvWQDTUTURBktHgJXl0wM",
@@ -22299,7 +22271,7 @@
           "豚骨"
         ]
       },
-      "score": 38.9
+      "score": 38.3
     },
     {
       "id": "g-ChIJ_VnTIwAtUDURl1fbrtpwXKs",
@@ -22510,8 +22482,8 @@
           "鶏"
         ]
       },
-      "score": 46.1,
-      "rank": 150
+      "score": 45.5,
+      "rank": 143
     },
     {
       "id": "g-ChIJMzI74xAvUDURz2c252VolcA",
@@ -22582,8 +22554,8 @@
           "豚骨"
         ]
       },
-      "score": 52.9,
-      "rank": 67
+      "score": 51.9,
+      "rank": 64
     },
     {
       "id": "g-ChIJlRL_t7XSUTURninf_kSdKd4",
@@ -22682,8 +22654,8 @@
           "自家製麺"
         ]
       },
-      "score": 46.3,
-      "rank": 147
+      "score": 46,
+      "rank": 133
     },
     {
       "id": "g-ChIJqUp3ks_SUTUR92LvPDILRdA",
@@ -22817,8 +22789,8 @@
           "細麺"
         ]
       },
-      "score": 54,
-      "rank": 63
+      "score": 53.1,
+      "rank": 60
     },
     {
       "id": "g-ChIJMS_v2MksUDURSiXiGJlaThI",
@@ -22918,7 +22890,7 @@
           "中華そば"
         ]
       },
-      "score": 68,
+      "score": 66.7,
       "rank": 23
     },
     {
@@ -23040,7 +23012,7 @@
     {
       "id": "g-ChIJ07HvhCQoUDURTMSCipOEioM",
       "name": "豚太郎 丹原店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.864042999999995,
       "lng": 133.044183,
@@ -23066,13 +23038,12 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 43.6
+      }
     },
     {
       "id": "g-ChIJY8eLGCgvUDUR03Q0tdmv9TU",
       "name": "豚太郎 東予店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.9316473,
       "lng": 133.0579007,
@@ -23102,8 +23073,7 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 44
+      }
     },
     {
       "id": "g-ChIJD7BH98cpUDURWmISBDeGm2s",
@@ -23252,8 +23222,8 @@
           "清湯"
         ]
       },
-      "score": 46.8,
-      "rank": 136
+      "score": 46.1,
+      "rank": 130
     },
     {
       "id": "g-ChIJqRCIeM4vUDURwJpqDfqVycc",
@@ -23328,7 +23298,7 @@
           "豚骨"
         ]
       },
-      "score": 41.8
+      "score": 41
     },
     {
       "id": "g-ChIJr2SGC5kuUDUR4nIK0jyx1Xk",
@@ -24404,8 +24374,8 @@
           "辛い"
         ]
       },
-      "score": 48,
-      "rank": 111
+      "score": 47.2,
+      "rank": 108
     },
     {
       "id": "g-ChIJB1xOAEmGRTURzYQGRdTcaFQ",
@@ -24616,7 +24586,7 @@
           "濃厚"
         ]
       },
-      "score": 65.2,
+      "score": 63.9,
       "rank": 29
     },
     {
@@ -24851,8 +24821,8 @@
           "魚介"
         ]
       },
-      "score": 45,
-      "rank": 172
+      "score": 44.6,
+      "rank": 165
     },
     {
       "id": "g-ChIJGw4gjb-ATzURSBgVUZ5DrzM",
@@ -24890,7 +24860,7 @@
           "あっさり"
         ]
       },
-      "score": 42.8
+      "score": 42.1
     },
     {
       "id": "g-ChIJs50038CATzURc-vqlga9y0o",
@@ -24925,7 +24895,7 @@
     {
       "id": "osm-w607355673",
       "name": "ラーメンショップKANTO大洲店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.5263412,
       "lng": 132.5655646,
@@ -24960,8 +24930,7 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 43.6
+      }
     },
     {
       "id": "g-ChIJ44hwAgB_RTURSrKn36QFXLE",
@@ -25003,13 +24972,13 @@
           "細麺"
         ]
       },
-      "score": 45.6,
-      "rank": 161
+      "score": 45.2,
+      "rank": 152
     },
     {
       "id": "g-ChIJJaPOapWATzURhYZxKWtjPJ8",
       "name": "りょう花 大洲店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.5284168,
       "lng": 132.56923849999998,
@@ -25043,8 +25012,7 @@
           "塩",
           "節"
         ]
-      },
-      "score": 42.2
+      }
     },
     {
       "id": "g-ChIJc6qCeNx_RTURpZXiWndEioY",
@@ -25175,8 +25143,8 @@
           "あっさり"
         ]
       },
-      "score": 46.8,
-      "rank": 139
+      "score": 46.4,
+      "rank": 124
     },
     {
       "id": "g-ChIJ25lTlsR_RTURjKK_XlKvKXE",
@@ -25631,7 +25599,7 @@
     {
       "id": "g-ChIJYz49njKARTURWyjDNyEz_SY",
       "name": "豚太郎 平野店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.4888836,
       "lng": 132.51316459999998,
@@ -25661,8 +25629,7 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 42.1
+      }
     },
     {
       "id": "g-ChIJbccUuuR_RTURw4Fu5SVIZDE",
@@ -25753,8 +25720,8 @@
           "濃厚"
         ]
       },
-      "score": 48.5,
-      "rank": 102
+      "score": 47.8,
+      "rank": 93
     },
     {
       "id": "g-ChIJb2K6Y4SATzUR3HPVzIwuq8E",
@@ -25786,8 +25753,8 @@
           "豚骨"
         ]
       },
-      "score": 49.3,
-      "rank": 91
+      "score": 48.5,
+      "rank": 86
     },
     {
       "id": "g-ChIJLVis1NB_RTURnrnawDeISOk",
@@ -25894,8 +25861,8 @@
           "味噌"
         ]
       },
-      "score": 56.2,
-      "rank": 52
+      "score": 55.2,
+      "rank": 51
     },
     {
       "id": "g-ChIJQV6cfmR_RTURlIBi2ro5QX0",
@@ -26003,7 +25970,7 @@
           "醤油"
         ]
       },
-      "score": 43.8
+      "score": 43.1
     },
     {
       "id": "g-ChIJaVa_7ex_RTUR_uxlzR2G06E",
@@ -26140,7 +26107,8 @@
           "味噌"
         ]
       },
-      "score": 44.2
+      "score": 43.7,
+      "rank": 193
     },
     {
       "id": "g-ChIJXaMLhv3rTzURqnQaBLDsxo4",
@@ -26246,8 +26214,8 @@
           "こってり"
         ]
       },
-      "score": 49.9,
-      "rank": 83
+      "score": 49,
+      "rank": 79
     },
     {
       "id": "g-ChIJ01QG4aXpTzURIo1aukstOWI",
@@ -26289,7 +26257,7 @@
           "細麺"
         ]
       },
-      "score": 75,
+      "score": 73.6,
       "rank": 14
     },
     {
@@ -26347,7 +26315,7 @@
     {
       "id": "osm-n4593625390",
       "name": "豚太郎砥部店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.7707747,
       "lng": 132.7882609,
@@ -26379,8 +26347,7 @@
         "soup": [
           "豚骨"
         ]
-      },
-      "score": 42.9
+      }
     },
     {
       "id": "g-ChIJLwKxFy3pTzURs6uMT2tW0Qo",
@@ -26925,7 +26892,7 @@
     {
       "id": "osm-w1434979125",
       "name": "ラーメンショップ 11号バイパス店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.7926347,
       "lng": 132.8388834,
@@ -26964,13 +26931,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 44.4
+      }
     },
     {
       "id": "osm-w1434979126",
       "name": "ラーメンショップ 川内店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.7940423,
       "lng": 132.9569128,
@@ -27009,13 +26975,12 @@
         "character": [
           "背脂"
         ]
-      },
-      "score": 42.5
+      }
     },
     {
       "id": "g-ChIJ46MnjPnnTzURSAzwOBZPk6o",
       "name": "りょう花重信店",
-      "category": "ramen",
+      "category": "chain",
       "ramen": "specialty",
       "lat": 33.7981177,
       "lng": 132.8592962,
@@ -27049,9 +27014,7 @@
           "塩",
           "節"
         ]
-      },
-      "score": 44.8,
-      "rank": 184
+      }
     },
     {
       "id": "g-ChIJp8SRbHroTzURRUEMntgTn1w",
@@ -27215,8 +27178,8 @@
           "豚骨"
         ]
       },
-      "score": 44.5,
-      "rank": 196
+      "score": 44,
+      "rank": 178
     },
     {
       "id": "g-ChIJb_KLBxPdTzUR2E0UvrBez3Y",
@@ -27432,7 +27395,7 @@
           "中華そば"
         ]
       },
-      "score": 65.4,
+      "score": 64.2,
       "rank": 28
     },
     {
@@ -27503,7 +27466,7 @@
           "背脂"
         ]
       },
-      "score": 41.4
+      "score": 40.6
     },
     {
       "id": "g-ChIJL-6gbG2PTzURf4BRr13s4aI",
@@ -27864,8 +27827,8 @@
           "ちゃんぽん"
         ]
       },
-      "score": 54.5,
-      "rank": 61
+      "score": 53.7,
+      "rank": 57
     },
     {
       "id": "g-ChIJSczdGX2XTzURXt01_U0ALLI",
@@ -28226,7 +28189,7 @@
           "味噌"
         ]
       },
-      "score": 41.2
+      "score": 40.6
     },
     {
       "id": "g-ChIJkxAYp52ERTURKgVhE4ns7Fg",
@@ -28533,8 +28496,8 @@
           "あっさり"
         ]
       },
-      "score": 59.8,
-      "rank": 39
+      "score": 58.9,
+      "rank": 37
     },
     {
       "id": "g-ChIJ4729HtuDRTURIs-lmiiQb-8",

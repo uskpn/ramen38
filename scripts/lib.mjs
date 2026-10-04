@@ -41,6 +41,8 @@ const SHOKUDO_NAME = /食堂|大衆|ドライブイン|めし処|ごはん処/;
 
 // ラーメン専門チェーン
 const RAMEN_CHAINS = /来来亭|幸楽苑|丸源|山岡家|一風堂|一蘭|天下一品|豚太郎|味仙|ばり嗎|まこと屋|魁力屋|一刻魁堂|どうとんぼり神座|神座|横綱|らあめん花月|花月嵐|ずんどう屋|町田商店|壱角家|すき家ラーメン|金の豚|ラーメン魁力屋|丸醤屋|だるまや|元気いちばん|く～た|くーた|りょう花|一興|骨太/;
+// ラーメン専門だが「チェーン店」に分類するもの（ランキング対象外）
+const CHAIN_SPECIALTY = /^(豚太郎|ラーメンショップ|らーめん工房\s*りょう花|りょう花|丸源)/;
 // ラーメン専門店ではないが、メニューにラーメンがあるチェーン
 const MENU_CHAINS = /大阪王将|餃子の王将|王将|バーミヤン|日高屋|リンガーハット|8番らーめん|フジグラン.*フードコート|スガキヤ|ちゃんぽん亭|ラー麺ずんどう屋/;
 // ラーメンを出さない（または例外的な）チェーン・業態は除外
@@ -50,6 +52,7 @@ export const isExcluded = (name) => EXCLUDE.test(name);
 
 export function classify(name, cuisine = '') {
   const c = cuisine.toLowerCase();
+  if (CHAIN_SPECIALTY.test(name)) return { category: 'chain', ramen: 'specialty' };
   if (RAMEN_CHAINS.test(name) || RAMEN_NAME.test(name) || /ramen/.test(c)) {
     return { category: 'ramen', ramen: 'specialty' };
   }
