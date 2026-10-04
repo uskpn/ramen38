@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T23:40:20.289Z",
+  "updatedAt": "2026-10-04T00:03:54.946Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -13260,44 +13260,6 @@
         "soup": [],
         "noodle": [],
         "character": []
-      }
-    },
-    {
-      "id": "osm-n2306397771",
-      "name": "骨太",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.84772,
-      "lng": 132.768132,
-      "city": "松山市",
-      "address": "〒790-0807 愛媛県松山市平和通３丁目３−１６",
-      "hours": null,
-      "phone": "089-924-7901",
-      "website": null,
-      "osmId": "node/2306397771",
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJ9bHzHmHlTzURF8RtZd572Go",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [
-          "豚骨"
-        ],
-        "character": [
-          "こってり",
-          "濃厚",
-          "背脂",
-          "にんにく"
-        ]
       }
     },
     {

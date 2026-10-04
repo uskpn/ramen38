@@ -798,6 +798,14 @@
       "placeId": "ChIJOQowSWTpTzURa6ImiOFLuHY",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "osm-n2306397771",
+      "name": "骨太",
+      "city": "松山市",
+      "placeId": "ChIJ9bHzHmHlTzURF8RtZd572Go",
+      "osmId": "node/2306397771",
+      "reason": "削除依頼"
     }
   ]
 }
