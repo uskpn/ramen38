@@ -22543,14 +22543,14 @@
     },
     {
       "id": "g-ChIJwaSW1-coUDURY2QlzNiVbKQ",
-      "name": "三星食品工業(株)",
+      "name": "みつぼし醤油",
       "category": "restaurant",
       "ramen": "menu",
       "lat": 33.9077529,
       "lng": 133.0489119,
       "city": "西条市",
       "address": "〒791-0508 愛媛県西条市丹原町池田１０８７−１",
-      "hours": null,
+      "hours": "土曜日 11:00〜14:00",
       "phone": "0898-68-7788",
       "website": "http://mitubosi7788.com/",
       "instagram": "mitubosisyouyu",
@@ -22570,9 +22570,17 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "煮干し",
+          "醤油",
+          "柑橘"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
