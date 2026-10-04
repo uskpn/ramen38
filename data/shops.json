@@ -12564,11 +12564,19 @@
       "placeId": "ChIJdce-SADnTzURB72TcqKI0Y0",
       "tags": {
         "style": [
-          "家系"
+          "家系",
+          "中華そば",
+          "二郎系"
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "味噌",
+          "魚介",
+          "塩"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 43.9,
@@ -12605,11 +12613,19 @@
       "placeId": "ChIJ9za_agDvTzURO9Pz-QXsmPY",
       "tags": {
         "style": [
-          "家系"
+          "家系",
+          "中華そば",
+          "二郎系"
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "味噌",
+          "魚介",
+          "塩"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 44.3,
@@ -12689,11 +12705,19 @@
       "placeId": "ChIJAyXBGADlTzURIBq2_LdH7NY",
       "tags": {
         "style": [
-          "家系"
+          "家系",
+          "中華そば",
+          "二郎系"
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "味噌",
+          "魚介",
+          "塩"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 47.7,
@@ -27487,11 +27511,19 @@
       "placeId": "ChIJh0l4aADpTzURazyiHqJKvug",
       "tags": {
         "style": [
-          "家系"
+          "家系",
+          "中華そば",
+          "二郎系"
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "味噌",
+          "魚介",
+          "塩"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 44,
