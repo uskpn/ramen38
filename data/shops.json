@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T00:24:46.055Z",
+  "updatedAt": "2026-10-04T03:22:05.668Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -10049,7 +10049,7 @@
       "id": "rdb-150777",
       "name": "お食事処 瀬戸",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.97821,
       "lng": 132.623932,
       "city": "松山市",
@@ -10069,7 +10069,15 @@
       "closed": null,
       "sources": [
         "ramendb"
-      ]
+      ],
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJg-g9crblTzUR7NNNw6mL-Eg",
@@ -11161,7 +11169,7 @@
       "id": "g-ChIJEehlrULlTzURriA1qX_2Ozw",
       "name": "まいどおおきに食堂 ふるみつ食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.8564903,
       "lng": 132.7265879,
       "city": "松山市",
@@ -11181,7 +11189,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJEehlrULlTzURriA1qX_2Ozw"
+      "placeId": "ChIJEehlrULlTzURriA1qX_2Ozw",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJm0BqGADlTzUR2_tv0U78oro",
@@ -12190,60 +12208,6 @@
       "placeId": "ChIJ51whzYTlTzURI83Q3QvjuWQ"
     },
     {
-      "id": "rdb-16812",
-      "name": "りんりん亭",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.808781,
-      "lng": 132.745239,
-      "city": "松山市",
-      "address": "愛媛県松山市市坪西町796-6",
-      "hours": null,
-      "phone": "089-971-8630",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": {
-          "score": 77.74,
-          "count": 2,
-          "url": "https://ramendb.supleks.jp/s/16812.html"
-        }
-      },
-      "closed": null,
-      "sources": [
-        "ramendb"
-      ]
-    },
-    {
-      "id": "osm-n13866539537",
-      "name": "伊予食堂おとら",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.8504373,
-      "lng": 132.7856653,
-      "city": "松山市",
-      "address": "〒790-0842 愛媛県松山市道後湯之町３−１５",
-      "hours": null,
-      "phone": "089-933-1455",
-      "website": "http://www.takeshicompany.com/restaurant/otora",
-      "osmId": "node/13866539537",
-      "instagram": "iyoshokudou_otora",
-      "ratings": {
-        "tabelog": {
-          "score": 3.4,
-          "count": 102,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38013705/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJHwdFhAznTzURfmDJlv1lcWY"
-    },
-    {
       "id": "g-ChIJr5cScQrvTzUR7iqfigZFR1w",
       "name": "井上のそば屋 本店",
       "category": "restaurant",
@@ -12351,7 +12315,7 @@
       "id": "g-ChIJgYHoJPLlTzURqUsmzgJ5YYg",
       "name": "一力食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.836048,
       "lng": 132.7705772,
       "city": "松山市",
@@ -12371,7 +12335,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJgYHoJPLlTzURqUsmzgJ5YYg"
+      "placeId": "ChIJgYHoJPLlTzURqUsmzgJ5YYg",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "鶏"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJyeLUSPPlTzUR5p6iPFffdyY",
@@ -12811,7 +12785,7 @@
       "id": "g-ChIJOUaa4ovlTzURlvsPBvEEyrE",
       "name": "紀の国屋食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.8363187,
       "lng": 132.76139759999998,
       "city": "松山市",
@@ -12831,7 +12805,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJOUaa4ovlTzURlvsPBvEEyrE"
+      "placeId": "ChIJOUaa4ovlTzURlvsPBvEEyrE",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n11559743688",
@@ -13863,36 +13845,10 @@
       "placeId": "ChIJOXToZ1vvTzURVFnYDoKsWDo"
     },
     {
-      "id": "g-ChIJVbm4lQnnTzUR9Ma9NPLJIts",
-      "name": "食堂 めしや",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.846925999999996,
-      "lng": 132.7968733,
-      "city": "松山市",
-      "address": "〒790-0852 愛媛県松山市石手２丁目９−２０",
-      "hours": null,
-      "phone": "089-977-3390",
-      "website": "https://www.meciya.com/",
-      "instagram": "naganoman8008",
-      "ratings": {
-        "tabelog": {
-          "score": 3.21,
-          "count": 11,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38014486/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ6R1772TmTzURPgrirzsLJ_s"
-    },
-    {
       "id": "osm-n2385772454",
       "name": "食堂はなみずきごはんや",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.8108084,
       "lng": 132.7654091,
       "city": "松山市",
@@ -13914,7 +13870,17 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJc9tAbhXvTzURw3k0MJv48aY"
+      "placeId": "ChIJc9tAbhXvTzURw3k0MJv48aY",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-95928",
@@ -14476,7 +14442,7 @@
       "id": "g-ChIJ8UMeCgDnTzURxoHN-otNLCA",
       "name": "大衆食堂スタンドそのだ 松山たかのこ店",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.8141333,
       "lng": 132.8085591,
       "city": "松山市",
@@ -14500,33 +14466,18 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ8UMeCgDnTzURxoHN-otNLCA"
-    },
-    {
-      "id": "g-ChIJyzC8dwDlTzUROcpDxYpuuRA",
-      "name": "大衆食堂なみなみ",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.8387674,
-      "lng": 132.7739214,
-      "city": "松山市",
-      "address": "〒790-0003 愛媛県松山市三番町１丁目１５−１ 101",
-      "hours": null,
-      "phone": "089-907-3522",
-      "website": null,
-      "instagram": "nami_nami0602",
-      "ratings": {
-        "tabelog": {
-          "score": 3.14,
-          "count": 16,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38016422/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJAwsC5oLlTzURBsgxm3m5hlg"
+      "placeId": "ChIJ8UMeCgDnTzURxoHN-otNLCA",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "魚介"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-58591",
@@ -15752,7 +15703,7 @@
       "id": "g-ChIJI7ts9lzlTzUR66LUMRNhFZs",
       "name": "日の出食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.855351899999995,
       "lng": 132.723964,
       "city": "松山市",
@@ -15776,7 +15727,18 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJI7ts9lzlTzUR66LUMRNhFZs"
+      "placeId": "ChIJI7ts9lzlTzUR66LUMRNhFZs",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "煮干し",
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-7213",
@@ -16072,7 +16034,7 @@
       "id": "g-ChIJ3Toeas3oTzURk3kzjVSgrfQ",
       "name": "平野屋食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.7948527,
       "lng": 132.7869925,
       "city": "松山市",
@@ -16092,7 +16054,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ3Toeas3oTzURk3kzjVSgrfQ"
+      "placeId": "ChIJ3Toeas3oTzURk3kzjVSgrfQ",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJOapX193oTzURxm1vXdTbwSM",
@@ -16124,7 +16095,7 @@
       "id": "g-ChIJPUKXWYTvTzURmKVaR2pQMOY",
       "name": "坊っちゃん食堂 三冠王",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.808776099999996,
       "lng": 132.7415466,
       "city": "松山市",
@@ -16148,7 +16119,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJPUKXWYTvTzURmKVaR2pQMOY"
+      "placeId": "ChIJPUKXWYTvTzURmKVaR2pQMOY",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-w1307422631",
@@ -17377,32 +17358,6 @@
       "score": 39.1
     },
     {
-      "id": "g-ChIJ4Uaj00HlTzURl9OlS6i8PTY",
-      "name": "里味食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.8630024,
-      "lng": 132.7267575,
-      "city": "松山市",
-      "address": "〒791-8076 愛媛県松山市会津町１２−３",
-      "hours": null,
-      "phone": "089-951-7756",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.07,
-          "count": 6,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38006687/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ4Uaj00HlTzURl9OlS6i8PTY"
-    },
-    {
       "id": "g-ChIJPW4jebflTzURDZ56kTXdPlk",
       "name": "龍翔麻辣烫",
       "category": "chinese",
@@ -18336,7 +18291,7 @@
       "id": "g-ChIJr87wYADvTzURH12wvotlTJY",
       "name": "村一番食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.7902991,
       "lng": 132.7511079,
       "city": "松前町",
@@ -18356,7 +18311,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJr87wYADvTzURH12wvotlTJY"
+      "placeId": "ChIJr87wYADvTzURH12wvotlTJY",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJmUDi9BruTzURnJV006U5RPE",
@@ -18657,28 +18620,6 @@
       }
     },
     {
-      "id": "g-ChIJ9_VwpwetUTURzjey3ztaAVM",
-      "name": "食堂棟",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 34.249261,
-      "lng": 133.21182249999998,
-      "city": "上島町",
-      "address": "〒794-2511 愛媛県越智郡上島町弓削日比食堂棟",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ9_VwpwetUTURzjey3ztaAVM"
-    },
-    {
       "id": "g-ChIJJeDlLRnPUTURbK9OQX-MKpk",
       "name": "いただきまんま バンザイミネジィ",
       "category": "restaurant",
@@ -18792,7 +18733,7 @@
       "id": "g-ChIJvRQ1m9nPUTURO9UlwK3BCSA",
       "name": "お登り食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9651034,
       "lng": 133.2775896,
       "city": "新居浜市",
@@ -18812,29 +18753,19 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJvRQ1m9nPUTURO9UlwK3BCSA"
-    },
-    {
-      "id": "g-ChIJUTarbQDPUTUReowRkJPVCfI",
-      "name": "かあちゃん食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.9139903,
-      "lng": 133.2592551,
-      "city": "新居浜市",
-      "address": "〒792-0060 愛媛県新居浜市大生院５９−２",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJUTarbQDPUTUReowRkJPVCfI"
+      "placeId": "ChIJvRQ1m9nPUTURO9UlwK3BCSA",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "塩"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJzWDy2MnIUTURCz1qhLtB0vE",
@@ -18916,7 +18847,7 @@
       "id": "osm-n696846346",
       "name": "こくりょう食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.938182,
       "lng": 133.3186794,
       "city": "新居浜市",
@@ -18938,29 +18869,17 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJ_fKfvULPUTURtymyVnT8L7I"
-    },
-    {
-      "id": "g-ChIJcZKI89nIUTURlp8IYwv_mCA",
-      "name": "こまどり食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.9758162,
-      "lng": 133.2951805,
-      "city": "新居浜市",
-      "address": "〒792-0862 愛媛県新居浜市沢津町１丁目４−２２",
-      "hours": null,
-      "phone": "0897-33-8405",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJcZKI89nIUTURlp8IYwv_mCA"
+      "placeId": "ChIJ_fKfvULPUTURtymyVnT8L7I",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJn14eepbOUTUR9AnzjuKQBWw",
@@ -19181,28 +19100,6 @@
         "noodle": [],
         "character": []
       }
-    },
-    {
-      "id": "g-ChIJM0znNQDFUTURfQ90IcUjXos",
-      "name": "ひろみ食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.936867899999996,
-      "lng": 133.33139309999999,
-      "city": "新居浜市",
-      "address": "〒792-0856 愛媛県新居浜市船木２５６６−３",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": "hiromi.shokudou",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJM0znNQDFUTURfQ90IcUjXos"
     },
     {
       "id": "g-ChIJCzqY1M3OUTUR1m3ehnpCsO4",
@@ -20019,7 +19916,7 @@
       "id": "g-ChIJE1OTTc7PUTURBkZoHVNr5sg",
       "name": "若宮食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.957602099999995,
       "lng": 133.2639725,
       "city": "新居浜市",
@@ -20039,7 +19936,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJE1OTTc7PUTURBkZoHVNr5sg"
+      "placeId": "ChIJE1OTTc7PUTURBkZoHVNr5sg",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJP4mbJgDPUTURviHUwMKIp0E",
@@ -20079,7 +19986,7 @@
       "id": "g-ChIJ4ZHe-9rOUTURcuv2pYo0ct8",
       "name": "新居浜市役所地下食堂浜食",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.960107199999996,
       "lng": 133.2832568,
       "city": "新居浜市",
@@ -20099,13 +20006,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ4ZHe-9rOUTURcuv2pYo0ct8"
+      "placeId": "ChIJ4ZHe-9rOUTURcuv2pYo0ct8",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-w1272055841",
       "name": "新居浜昭和通り食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9701096,
       "lng": 133.2827861,
       "city": "新居浜市",
@@ -20127,7 +20042,17 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJ0STY6dLOUTURQ3ZiQLNzxVo"
+      "placeId": "ChIJ0STY6dLOUTURQ3ZiQLNzxVo",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJDflt7PjOUTURDi4xa98nxy0",
@@ -20235,7 +20160,7 @@
       "id": "g-ChIJ2SGG_6jPUTURJAgMuKDgcOg",
       "name": "西蓮寺食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9259224,
       "lng": 133.2981864,
       "city": "新居浜市",
@@ -20255,13 +20180,23 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ2SGG_6jPUTURJAgMuKDgcOg"
+      "placeId": "ChIJ2SGG_6jPUTURJAgMuKDgcOg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "煮干し"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n5266225899",
       "name": "多賀屋食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9757647,
       "lng": 133.2938513,
       "city": "新居浜市",
@@ -20283,13 +20218,21 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJlZb82dnIUTURTlj5jZo38RM"
+      "placeId": "ChIJlZb82dnIUTURTlj5jZo38RM",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJcwfPKi3JUTURUeDejrGb7vQ",
       "name": "多賀屋食堂 菊本支店",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.971143999999995,
       "lng": 133.2833473,
       "city": "新居浜市",
@@ -20309,7 +20252,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJcwfPKi3JUTURUeDejrGb7vQ"
+      "placeId": "ChIJcwfPKi3JUTURUeDejrGb7vQ",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJy8ELu2nOUTURZOU0IMxXrOQ",
@@ -20336,32 +20287,6 @@
         "google"
       ],
       "placeId": "ChIJy8ELu2nOUTURZOU0IMxXrOQ"
-    },
-    {
-      "id": "g-ChIJ83GQHaTPUTURNWhnWSPyAy8",
-      "name": "大衆食堂 のんのキッチン",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.9588502,
-      "lng": 133.2712309,
-      "city": "新居浜市",
-      "address": "〒792-0004 愛媛県新居浜市北新町５−１７",
-      "hours": null,
-      "phone": "0897-27-8750",
-      "website": null,
-      "instagram": "nonno.kitchen",
-      "ratings": {
-        "tabelog": {
-          "score": 3.24,
-          "count": 16,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38013459/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ83GQHaTPUTURNWhnWSPyAy8"
     },
     {
       "id": "g-ChIJ66YNKczOUTURvC_02O69qBk",
@@ -21156,32 +21081,6 @@
       }
     },
     {
-      "id": "g-ChIJDQLwv1wuUDURhJfXtZDzJxw",
-      "name": "いとう食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.960445,
-      "lng": 133.07463289999998,
-      "city": "西条市",
-      "address": "〒799-1304 愛媛県西条市河原津新田甲121-1",
-      "hours": null,
-      "phone": "0898-66-5569",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.09,
-          "count": 10,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38012857/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJDQLwv1wuUDURhJfXtZDzJxw"
-    },
-    {
       "id": "g-ChIJ5b6GPtQrUDUR7H-zTXiaff8",
       "name": "がいな",
       "category": "ramen",
@@ -21221,36 +21120,10 @@
       "rank": 154
     },
     {
-      "id": "g-ChIJ08r3-bkvUDUREWx512OLY6U",
-      "name": "かたらい食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.9343991,
-      "lng": 133.08592289999999,
-      "city": "西条市",
-      "address": "〒799-1351 愛媛県西条市三津屋１７４",
-      "hours": null,
-      "phone": "0898-27-0421",
-      "website": null,
-      "instagram": "katarai_syokudou",
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38015404/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ08r3-bkvUDUREWx512OLY6U"
-    },
-    {
       "id": "g-ChIJia3X2ZAuUDURUAlPzoAtmUo",
       "name": "かどや食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9351285,
       "lng": 133.0852148,
       "city": "西条市",
@@ -21274,7 +21147,22 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJia3X2ZAuUDURUAlPzoAtmUo"
+      "placeId": "ChIJia3X2ZAuUDURUAlPzoAtmUo",
+      "tags": {
+        "style": [
+          "中華そば",
+          "冷やし"
+        ],
+        "soup": [
+          "豚骨",
+          "醤油",
+          "煮干し"
+        ],
+        "noodle": [],
+        "character": [
+          "背脂"
+        ]
+      }
     },
     {
       "id": "g-ChIJz8xAsILSUTUR9baxkODGzf4",
@@ -21344,28 +21232,6 @@
         ]
       },
       "score": 43.4
-    },
-    {
-      "id": "g-ChIJC5FUNgArUDURSPyWU-EmhP8",
-      "name": "さくら食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.8384084,
-      "lng": 133.147875,
-      "city": "西条市",
-      "address": "〒793-0214 愛媛県西条市中奥１号２−１",
-      "hours": null,
-      "phone": null,
-      "website": "https://japoncompany.business/saijo/571707-",
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJC5FUNgArUDURSPyWU-EmhP8"
     },
     {
       "id": "g-ChIJAYM0yNPSUTURCdISoHpQ-zc",
@@ -21516,28 +21382,6 @@
       "rank": 92
     },
     {
-      "id": "g-ChIJ9yyofx_TUTURLf31nzJoR40",
-      "name": "とらや食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.898498,
-      "lng": 133.1942357,
-      "city": "西条市",
-      "address": "愛媛県西条市福武甲",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ9yyofx_TUTURLf31nzJoR40"
-    },
-    {
       "id": "g-ChIJP4a0p8HSUTURnc9jeggVxDc",
       "name": "はしもと",
       "category": "restaurant",
@@ -21609,7 +21453,7 @@
       "id": "g-ChIJV9zUxu3SUTURCsUyFrlUGb4",
       "name": "まいどおおきに食堂 西条福武食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9119702,
       "lng": 133.2022514,
       "city": "西条市",
@@ -21629,7 +21473,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJV9zUxu3SUTURCsUyFrlUGb4"
+      "placeId": "ChIJV9zUxu3SUTURCsUyFrlUGb4",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJd7qGT-0vUDURyn97tA-VEt8",
@@ -22018,32 +21872,6 @@
       "rank": 63
     },
     {
-      "id": "g-ChIJVXEqtIorUDUR1xks7LW_X_I",
-      "name": "わいん食堂 カゴヤ 10taro (ジュタロ)",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.8971545,
-      "lng": 133.116865,
-      "city": "西条市",
-      "address": "〒799-1101 愛媛県西条市小松町新屋敷４０３−１",
-      "hours": null,
-      "phone": "0898-72-2055",
-      "website": "https://r.gnavi.co.jp/h29jxfy70000/",
-      "instagram": "kagoya10taro",
-      "ratings": {
-        "tabelog": {
-          "score": 3.25,
-          "count": 59,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38008979/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJVXEqtIorUDUR1xks7LW_X_I"
-    },
-    {
       "id": "g-ChIJR5GRCbrSUTURiWwkY1X4rOg",
       "name": "一番星",
       "category": "ramen",
@@ -22183,58 +22011,6 @@
       "score": 41.1
     },
     {
-      "id": "g-ChIJ87TvWQDTUTURBktHgJXl0wM",
-      "name": "丸福食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.9188137,
-      "lng": 133.2303958,
-      "city": "西条市",
-      "address": "〒793-0010 愛媛県西条市飯岡１４００−４",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": "marufuku2026.2",
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 3,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38016903/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ87TvWQDTUTURBktHgJXl0wM"
-    },
-    {
-      "id": "g-ChIJce36MC0tUDUR23KsC4Dd53E",
-      "name": "喜多川食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.917141,
-      "lng": 133.174242,
-      "city": "西条市",
-      "address": "〒793-0042 愛媛県西条市喜多川４２８−６",
-      "hours": null,
-      "phone": "0897-55-2984",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38003983/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJce36MC0tUDUR23KsC4Dd53E"
-    },
-    {
       "id": "g-ChIJ9zNxr7vSUTURvNvSi2FL_8c",
       "name": "九州筑豊ラーメン山小屋 伊予西条店",
       "category": "ramen",
@@ -22272,32 +22048,6 @@
         ]
       },
       "score": 38.3
-    },
-    {
-      "id": "g-ChIJ_VnTIwAtUDURl1fbrtpwXKs",
-      "name": "古民家 食堂 ふじいろ",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.9181678,
-      "lng": 133.1743567,
-      "city": "西条市",
-      "address": "〒793-0042 愛媛県西条市喜多川４５７−５",
-      "hours": null,
-      "phone": "0897-47-6581",
-      "website": null,
-      "instagram": "shokudofujiiro",
-      "ratings": {
-        "tabelog": {
-          "score": 3.07,
-          "count": 8,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38016292/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ_VnTIwAtUDURl1fbrtpwXKs"
     },
     {
       "id": "g-ChIJ-ehk38ouUDURvq-Y8siT6go",
@@ -22422,32 +22172,6 @@
         "noodle": [],
         "character": []
       }
-    },
-    {
-      "id": "g-ChIJ2SKi3wsvUDURMMN4yVTLot0",
-      "name": "周越ドライブイン",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.962889,
-      "lng": 133.043694,
-      "city": "西条市",
-      "address": "〒799-1317 愛媛県西条市実報寺乙１９２−６",
-      "hours": null,
-      "phone": "0898-66-5499",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 6,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38007107/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ2SKi3wsvUDURMMN4yVTLot0"
     },
     {
       "id": "g-ChIJh6zAANDSUTUR897iQJ2V6tI",
@@ -22595,7 +22319,7 @@
       "id": "g-ChIJn9WJAwArUDURXtjV_HRiANw",
       "name": "石鎚食堂｜石鎚山SA下り",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.8863463,
       "lng": 133.1087013,
       "city": "西条市",
@@ -22615,7 +22339,19 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJn9WJAwArUDURXtjV_HRiANw"
+      "placeId": "ChIJn9WJAwArUDURXtjV_HRiANw",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "中華そば"
+        ],
+        "soup": [
+          "味噌",
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-143266",
@@ -22661,7 +22397,7 @@
       "id": "g-ChIJqUp3ks_SUTUR92LvPDILRdA",
       "name": "双葉食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9158459,
       "lng": 133.1838062,
       "city": "西条市",
@@ -22681,7 +22417,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJqUp3ks_SUTUR92LvPDILRdA"
+      "placeId": "ChIJqUp3ks_SUTUR92LvPDILRdA",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJgcBJkLbSUTURPRJwUwp2zlU",
@@ -22950,28 +22694,6 @@
       "placeId": "ChIJVVUFdVsuUDURFlFAdPvhH0Q"
     },
     {
-      "id": "g-ChIJOXxAdQAvUDURM_NEfvqRT0I",
-      "name": "東予電氣食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.9321054,
-      "lng": 133.0868132,
-      "city": "西条市",
-      "address": "〒799-1353 愛媛県西条市三津屋南１４−２",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJOXxAdQAvUDURM_NEfvqRT0I"
-    },
-    {
       "id": "g-ChIJKwNUJADTUTURQB7mni-BNGM",
       "name": "道10",
       "category": "restaurant",
@@ -23109,7 +22831,7 @@
       "id": "g-ChIJV0LqgQUpUDURorvk7UMFzHQ",
       "name": "福美食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.889713,
       "lng": 133.06781600000002,
       "city": "西条市",
@@ -23133,7 +22855,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJV0LqgQUpUDURorvk7UMFzHQ"
+      "placeId": "ChIJV0LqgQUpUDURorvk7UMFzHQ",
+      "tags": {
+        "style": [
+          "中華そば",
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-w1451130602",
@@ -23394,7 +23125,7 @@
       "id": "g-ChIJn2AsWpCPRTURcaiuiSWYfBg",
       "name": "いさか食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.37831,
       "lng": 132.42163499999998,
       "city": "西予市",
@@ -23410,33 +23141,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJn2AsWpCPRTURcaiuiSWYfBg"
-    },
-    {
-      "id": "g-ChIJMTIEl3R5TzURS_1VvGXyuF4",
-      "name": "ココ食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.376461899999995,
-      "lng": 132.6447274,
-      "city": "西予市",
-      "address": "１２-459 野村町野村 西予市 愛媛県 797-1212",
-      "hours": null,
-      "phone": "0894-89-2294",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38017050/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJMTIEl3R5TzURS_1VvGXyuF4"
+      "placeId": "ChIJn2AsWpCPRTURcaiuiSWYfBg",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJU-jjjjV2TzURE-LF8Ccq0ys",
@@ -23612,7 +23325,7 @@
       "id": "g-ChIJv8j_cyh1TzURzq4m8nwmQRE",
       "name": "テルメ食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.3647454,
       "lng": 132.79187260000003,
       "city": "西予市",
@@ -23628,13 +23341,22 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJv8j_cyh1TzURzq4m8nwmQRE"
+      "placeId": "ChIJv8j_cyh1TzURzq4m8nwmQRE",
+      "tags": {
+        "style": [
+          "担々麺",
+          "冷やし"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJy6ENvFx5TzURSOKK7dR5l0U",
       "name": "ときわ食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.377271,
       "lng": 132.6448532,
       "city": "西予市",
@@ -23654,7 +23376,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJy6ENvFx5TzURSOKK7dR5l0U"
+      "placeId": "ChIJy6ENvFx5TzURSOKK7dR5l0U",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJiwB8WgCPRTURdpbh1ZMwFiE",
@@ -23724,7 +23454,7 @@
       "id": "g-ChIJr0yDymKHRTURVKxoJf2QJiI",
       "name": "やすい食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.3684729,
       "lng": 132.5083287,
       "city": "西予市",
@@ -23744,7 +23474,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJr0yDymKHRTURVKxoJf2QJiI"
+      "placeId": "ChIJr0yDymKHRTURVKxoJf2QJiI",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ7zRaelqGRTURUC50DV1kgQY",
@@ -24073,32 +23811,6 @@
       "placeId": "ChIJq4WiQuZ1TzURGUM7zFw67eQ"
     },
     {
-      "id": "g-ChIJ-8ssE7SdTzURTyxquFzo8sU",
-      "name": "食堂ゆすかわ(遊子川ザ・リコピンズ)",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.4258488,
-      "lng": 132.7620498,
-      "city": "西予市",
-      "address": "〒797-1712 愛媛県西予市城川町遊子谷２３７０−１",
-      "hours": null,
-      "phone": "0894-89-1663",
-      "website": "http://lycopins48.com/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 0,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38014039/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ-8ssE7SdTzURTyxquFzo8sU"
-    },
-    {
       "id": "g-ChIJqa9E4EmHRTURLDXVDqMm07Q",
       "name": "粋",
       "category": "restaurant",
@@ -24229,28 +23941,6 @@
         "noodle": [],
         "character": []
       }
-    },
-    {
-      "id": "g-ChIJr3c8CuZ1TzURtmYi2fkRqXI",
-      "name": "農家食堂なごみ亭",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.3647773,
-      "lng": 132.7946287,
-      "city": "西予市",
-      "address": "〒797-1705 愛媛県西予市城川町高野子９６",
-      "hours": null,
-      "phone": "0894-89-1723",
-      "website": "http://www.noukashokudounagomitei.jp/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJr3c8CuZ1TzURtmYi2fkRqXI"
     },
     {
       "id": "g-ChIJsawc6sSHRTURZi-b8lWc4zI",
@@ -24593,7 +24283,7 @@
       "id": "g-ChIJMX2ZE3B8RTURvlmtaQKlraI",
       "name": "さのや食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.611754,
       "lng": 132.4812623,
       "city": "大洲市",
@@ -24613,7 +24303,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJMX2ZE3B8RTURvlmtaQKlraI"
+      "placeId": "ChIJMX2ZE3B8RTURvlmtaQKlraI",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJjz4juI2ATzUR-dS4F65rbTQ",
@@ -25048,7 +24746,7 @@
       "id": "g-ChIJ5Zfqa4GATzURY9_MdEG_HLI",
       "name": "わか宮食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.5210976,
       "lng": 132.5544048,
       "city": "大洲市",
@@ -25068,7 +24766,18 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ5Zfqa4GATzURY9_MdEG_HLI"
+      "placeId": "ChIJ5Zfqa4GATzURY9_MdEG_HLI",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "野菜"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ972jOdV_RTURouawuvSaIDE",
@@ -25244,7 +24953,7 @@
       "id": "g-ChIJwwTGhTJ5RTUROTCdQbyjYu8",
       "name": "山食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.562553699999995,
       "lng": 132.47038,
       "city": "大洲市",
@@ -25260,7 +24969,19 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJwwTGhTJ5RTUROTCdQbyjYu8"
+      "placeId": "ChIJwwTGhTJ5RTUROTCdQbyjYu8",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJp8HxPZaATzURqVsyL66zPZ4",
@@ -25300,7 +25021,7 @@
       "id": "g-ChIJYY7-UcGATzURFwVGJ1lVYHg",
       "name": "十夜ヶ橋食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.5314042,
       "lng": 132.57483639999998,
       "city": "大洲市",
@@ -25320,7 +25041,20 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJYY7-UcGATzURFwVGJ1lVYHg"
+      "placeId": "ChIJYY7-UcGATzURFwVGJ1lVYHg",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "野菜"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJh5tFnPyCTzUR04inkh6JcH4",
@@ -25356,7 +25090,7 @@
       "id": "g-ChIJd1kl4OCATzUR-1X2rI7cYHU",
       "name": "神山食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.519918,
       "lng": 132.586591,
       "city": "大洲市",
@@ -25376,7 +25110,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJd1kl4OCATzUR-1X2rI7cYHU"
+      "placeId": "ChIJd1kl4OCATzUR-1X2rI7cYHU",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJf1IRzB19RTURrmxLEL5-DSY",
@@ -26114,7 +25856,7 @@
       "id": "g-ChIJXaMLhv3rTzURqnQaBLDsxo4",
       "name": "ちとせ食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.7456834,
       "lng": 132.79258959999999,
       "city": "砥部町",
@@ -26134,7 +25876,18 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJXaMLhv3rTzURqnQaBLDsxo4"
+      "placeId": "ChIJXaMLhv3rTzURqnQaBLDsxo4",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "鶏",
+          "野菜"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ8Zo6GU3pTzURTGymHCssUrY",
@@ -27284,32 +27037,6 @@
       }
     },
     {
-      "id": "g-ChIJ___rzVXdTzUR2rpywGAKJ1o",
-      "name": "食堂COSO",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.7915387,
-      "lng": 132.86597279999998,
-      "city": "東温市",
-      "address": "〒791-0210 愛媛県東温市田窪３３９−５",
-      "hours": null,
-      "phone": "089-964-0177",
-      "website": null,
-      "instagram": "caffetteria_coso",
-      "ratings": {
-        "tabelog": {
-          "score": 3.12,
-          "count": 21,
-          "url": "https://tabelog.com/ehime/A3801/A380102/38009946/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ___rzVXdTzUR2rpywGAKJ1o"
-    },
-    {
       "id": "g-ChIJ6_fg3prdTzURk8cAR-q__jo",
       "name": "水餃子 花木蘭。",
       "category": "chinese",
@@ -27710,7 +27437,7 @@
       "id": "g-ChIJNbFy18KWTzUR2tXi_TP-CIA",
       "name": "小番食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.5681815,
       "lng": 132.8029396,
       "city": "内子町",
@@ -27730,7 +27457,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJNbFy18KWTzUR2tXi_TP-CIA"
+      "placeId": "ChIJNbFy18KWTzUR2tXi_TP-CIA",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJz48tOrWFTzURh3PN93rrVuo",
@@ -27834,7 +27569,7 @@
       "id": "g-ChIJSczdGX2XTzURXt01_U0ALLI",
       "name": "日切食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.5673665,
       "lng": 132.79246329999998,
       "city": "内子町",
@@ -27854,7 +27589,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJSczdGX2XTzURXt01_U0ALLI"
+      "placeId": "ChIJSczdGX2XTzURXt01_U0ALLI",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ5YIhAbSFTzURsWXL8oaal_k",
@@ -28128,7 +27871,7 @@
       "id": "osm-n7023076989",
       "name": "どーや食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.4590507,
       "lng": 132.4186359,
       "city": "八幡浜市",
@@ -28154,7 +27897,16 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJozM6-5uERTURcEb6K8t3JYU"
+      "placeId": "ChIJozM6-5uERTURcEb6K8t3JYU",
+      "tags": {
+        "style": [
+          "ちゃんぽん",
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJ78c3r4SERTURuPcomRPzbrU",
@@ -28300,7 +28052,7 @@
       "id": "rdb-63916",
       "name": "フジ観光",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.459232,
       "lng": 132.418716,
       "city": "八幡浜市",
@@ -28328,7 +28080,13 @@
       "tags": {
         "style": [
           "ちゃんぽん"
-        ]
+        ],
+        "soup": [
+          "鶏",
+          "魚介"
+        ],
+        "noodle": [],
+        "character": []
       }
     },
     {
@@ -28369,7 +28127,7 @@
       "id": "g-ChIJk_JcmpyERTUR3SBjX2T5tho",
       "name": "メリー食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.458995,
       "lng": 132.421675,
       "city": "八幡浜市",
@@ -28389,7 +28147,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJk_JcmpyERTUR3SBjX2T5tho"
+      "placeId": "ChIJk_JcmpyERTUR3SBjX2T5tho",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJgVOhPIGERTURxWUzqRBrgUU",
@@ -28503,7 +28269,7 @@
       "id": "g-ChIJ4729HtuDRTURIs-lmiiQb-8",
       "name": "わくわく食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.4631778,
       "lng": 132.423303,
       "city": "八幡浜市",
@@ -28519,7 +28285,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ4729HtuDRTURIs-lmiiQb-8"
+      "placeId": "ChIJ4729HtuDRTURIs-lmiiQb-8",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJW-GjLoOERTURaaVn5ycl3Z4",
@@ -28725,7 +28499,7 @@
       "id": "rdb-22192",
       "name": "丸山ちゃんぽん",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.462883,
       "lng": 132.42337,
       "city": "八幡浜市",
@@ -28749,7 +28523,18 @@
       "closed": null,
       "sources": [
         "ramendb"
-      ]
+      ],
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "魚介"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJhQtPRn2DRTURmdOv9W6yW3Q",
@@ -28814,32 +28599,6 @@
         "noodle": [],
         "character": []
       }
-    },
-    {
-      "id": "g-ChIJt46sQWCDRTURZRtn8SYMIyU",
-      "name": "好好食堂Champa （チャンパー）",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.48175380000001,
-      "lng": 132.4208974,
-      "city": "八幡浜市",
-      "address": "〒796-0112 愛媛県八幡浜市保内町須川２７７−１",
-      "hours": null,
-      "phone": "080-9215-2594",
-      "website": null,
-      "instagram": "champa_hao",
-      "ratings": {
-        "tabelog": {
-          "score": 3,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38016862/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJt46sQWCDRTURZRtn8SYMIyU"
     },
     {
       "id": "g-ChIJ85CWs4CERTURrM2HXgRI9ng",
@@ -28979,7 +28738,7 @@
       "id": "g-ChIJZWja2EWDRTURALRu--eaB7I",
       "name": "食堂ごりらくん",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.4836897,
       "lng": 132.4052367,
       "city": "八幡浜市",
@@ -29003,13 +28762,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJZWja2EWDRTURALRu--eaB7I"
+      "placeId": "ChIJZWja2EWDRTURALRu--eaB7I",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n7023308270",
       "name": "清家食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.4613383,
       "lng": 132.4230605,
       "city": "八幡浜市",
@@ -29035,7 +28802,15 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJ05T6NZ2ERTURCwzrCEhbWpY"
+      "placeId": "ChIJ05T6NZ2ERTURCwzrCEhbWpY",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJs8lSivKDRTUR8uTRR8-2rXg",
@@ -29173,7 +28948,7 @@
       "id": "g-ChIJK1wIgkCDRTURUbTkhr4YvIk",
       "name": "白石食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.4861477,
       "lng": 132.4107001,
       "city": "八幡浜市",
@@ -29193,7 +28968,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJK1wIgkCDRTURUbTkhr4YvIk"
+      "placeId": "ChIJK1wIgkCDRTURUbTkhr4YvIk",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "鶏"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJNWeueYOERTURmsctYOdCEc4",

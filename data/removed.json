@@ -806,6 +806,206 @@
       "placeId": "ChIJ9bHzHmHlTzURF8RtZd572Go",
       "osmId": "node/2306397771",
       "reason": "削除依頼"
+    },
+    {
+      "id": "rdb-16812",
+      "name": "りんりん亭",
+      "city": "松山市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "osm-n13866539537",
+      "name": "伊予食堂おとら",
+      "city": "松山市",
+      "placeId": "ChIJHwdFhAznTzURfmDJlv1lcWY",
+      "osmId": "node/13866539537",
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJVbm4lQnnTzUR9Ma9NPLJIts",
+      "name": "食堂 めしや",
+      "city": "松山市",
+      "placeId": "ChIJ6R1772TmTzURPgrirzsLJ_s",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJyzC8dwDlTzUROcpDxYpuuRA",
+      "name": "大衆食堂なみなみ",
+      "city": "松山市",
+      "placeId": "ChIJAwsC5oLlTzURBsgxm3m5hlg",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ4Uaj00HlTzURl9OlS6i8PTY",
+      "name": "里味食堂",
+      "city": "松山市",
+      "placeId": "ChIJ4Uaj00HlTzURl9OlS6i8PTY",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ9_VwpwetUTURzjey3ztaAVM",
+      "name": "食堂棟",
+      "city": "上島町",
+      "placeId": "ChIJ9_VwpwetUTURzjey3ztaAVM",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJUTarbQDPUTUReowRkJPVCfI",
+      "name": "かあちゃん食堂",
+      "city": "新居浜市",
+      "placeId": "ChIJUTarbQDPUTUReowRkJPVCfI",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJcZKI89nIUTURlp8IYwv_mCA",
+      "name": "こまどり食堂",
+      "city": "新居浜市",
+      "placeId": "ChIJcZKI89nIUTURlp8IYwv_mCA",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJM0znNQDFUTURfQ90IcUjXos",
+      "name": "ひろみ食堂",
+      "city": "新居浜市",
+      "placeId": "ChIJM0znNQDFUTURfQ90IcUjXos",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ83GQHaTPUTURNWhnWSPyAy8",
+      "name": "大衆食堂 のんのキッチン",
+      "city": "新居浜市",
+      "placeId": "ChIJ83GQHaTPUTURNWhnWSPyAy8",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJDQLwv1wuUDURhJfXtZDzJxw",
+      "name": "いとう食堂",
+      "city": "西条市",
+      "placeId": "ChIJDQLwv1wuUDURhJfXtZDzJxw",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ08r3-bkvUDUREWx512OLY6U",
+      "name": "かたらい食堂",
+      "city": "西条市",
+      "placeId": "ChIJ08r3-bkvUDUREWx512OLY6U",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJC5FUNgArUDURSPyWU-EmhP8",
+      "name": "さくら食堂",
+      "city": "西条市",
+      "placeId": "ChIJC5FUNgArUDURSPyWU-EmhP8",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ9yyofx_TUTURLf31nzJoR40",
+      "name": "とらや食堂",
+      "city": "西条市",
+      "placeId": "ChIJ9yyofx_TUTURLf31nzJoR40",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJVXEqtIorUDUR1xks7LW_X_I",
+      "name": "わいん食堂 カゴヤ 10taro (ジュタロ)",
+      "city": "西条市",
+      "placeId": "ChIJVXEqtIorUDUR1xks7LW_X_I",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ87TvWQDTUTURBktHgJXl0wM",
+      "name": "丸福食堂",
+      "city": "西条市",
+      "placeId": "ChIJ87TvWQDTUTURBktHgJXl0wM",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJce36MC0tUDUR23KsC4Dd53E",
+      "name": "喜多川食堂",
+      "city": "西条市",
+      "placeId": "ChIJce36MC0tUDUR23KsC4Dd53E",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ_VnTIwAtUDURl1fbrtpwXKs",
+      "name": "古民家 食堂 ふじいろ",
+      "city": "西条市",
+      "placeId": "ChIJ_VnTIwAtUDURl1fbrtpwXKs",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ2SKi3wsvUDURMMN4yVTLot0",
+      "name": "周越ドライブイン",
+      "city": "西条市",
+      "placeId": "ChIJ2SKi3wsvUDURMMN4yVTLot0",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJOXxAdQAvUDURM_NEfvqRT0I",
+      "name": "東予電氣食堂",
+      "city": "西条市",
+      "placeId": "ChIJOXxAdQAvUDURM_NEfvqRT0I",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJMTIEl3R5TzURS_1VvGXyuF4",
+      "name": "ココ食堂",
+      "city": "西予市",
+      "placeId": "ChIJMTIEl3R5TzURS_1VvGXyuF4",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ-8ssE7SdTzURTyxquFzo8sU",
+      "name": "食堂ゆすかわ(遊子川ザ・リコピンズ)",
+      "city": "西予市",
+      "placeId": "ChIJ-8ssE7SdTzURTyxquFzo8sU",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJr3c8CuZ1TzURtmYi2fkRqXI",
+      "name": "農家食堂なごみ亭",
+      "city": "西予市",
+      "placeId": "ChIJr3c8CuZ1TzURtmYi2fkRqXI",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ___rzVXdTzUR2rpywGAKJ1o",
+      "name": "食堂COSO",
+      "city": "東温市",
+      "placeId": "ChIJ___rzVXdTzUR2rpywGAKJ1o",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJt46sQWCDRTURZRtn8SYMIyU",
+      "name": "好好食堂Champa （チャンパー）",
+      "city": "八幡浜市",
+      "placeId": "ChIJt46sQWCDRTURZRtn8SYMIyU",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }
