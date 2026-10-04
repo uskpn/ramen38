@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uskpn.github.io/ramen38/sitemap.xml

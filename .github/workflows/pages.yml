@@ -6,6 +6,8 @@ on:
     branches: [main]
     paths:
       - 'index.html'
+      - 'robots.txt'
+      - 'sitemap.xml'
       - 'css/**'
       - 'js/**'
       - 'assets/**'
@@ -32,7 +34,7 @@ jobs:
       - name: Assemble site
         run: |
           mkdir -p _site/data
-          cp index.html _site/
+          cp index.html robots.txt sitemap.xml _site/
           # 更新したCSS/JSがすぐ反映されるよう、コミットごとのバージョンを付ける（ブラウザの古いキャッシュ対策）
           sed -i "s/__VERSION__/${GITHUB_SHA::7}/g" _site/index.html
           cp -r css js assets _site/
