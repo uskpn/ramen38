@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T03:22:05.668Z",
+  "updatedAt": "2026-10-04T03:26:48.628Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -2688,32 +2688,6 @@
       }
     },
     {
-      "id": "g-ChIJqR_ccUD1RTUR46KE9dfO7JI",
-      "name": "信州蕎麦くら食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.186582,
-      "lng": 132.54827,
-      "city": "宇和島市",
-      "address": "〒798-0077 愛媛県宇和島市保田甲３２４",
-      "hours": null,
-      "phone": "0895-49-3382",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.06,
-          "count": 7,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38012755/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJqR_ccUD1RTUR46KE9dfO7JI"
-    },
-    {
       "id": "g-ChIJ8TeYfuL5RTUR7Wn8X4haV7A",
       "name": "西ドライブイン",
       "category": "shokudo",
@@ -3850,32 +3824,6 @@
       "placeId": "ChIJN6slk1fATzURP8nFdqBu0dA"
     },
     {
-      "id": "g-ChIJZbkeQQDBTzURM0unmN_zWfw",
-      "name": "タネマキ食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.6568745,
-      "lng": 132.90057339999998,
-      "city": "久万高原町",
-      "address": "〒791-1201 愛媛県上浮穴郡久万高原町久万２６１−２",
-      "hours": null,
-      "phone": "0892-27-4058",
-      "website": "https://tanemaki-diner.com/",
-      "instagram": "tanemaki_diner",
-      "ratings": {
-        "tabelog": {
-          "score": 3.08,
-          "count": 12,
-          "url": "https://tabelog.com/ehime/A3803/A380304/38016611/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJZbkeQQDBTzURM0unmN_zWfw"
-    },
-    {
       "id": "g-ChIJQQ61iVbATzURTyRlcRcv-bc",
       "name": "ちぐさ",
       "category": "restaurant",
@@ -4752,32 +4700,6 @@
         "google"
       ],
       "placeId": "ChIJ11V8VVk6UDUREzMws4N4SGE"
-    },
-    {
-      "id": "g-ChIJ3VyOho87UDURa_A-Lf92USU",
-      "name": "ティア自然食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 34.0372057,
-      "lng": 132.9797701,
-      "city": "今治市",
-      "address": "〒794-0862 愛媛県今治市四村２８６−１ ショッパーズ内",
-      "hours": null,
-      "phone": "0898-31-1777",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 7,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38013366/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ3VyOho87UDURa_A-Lf92USU"
     },
     {
       "id": "g-ChIJgZwRrW08UDURAKPmYHFbBxc",
@@ -6172,32 +6094,6 @@
       "placeId": "ChIJLZNNpX8wUDURwxINXFw3GbA"
     },
     {
-      "id": "g-ChIJL3oPcmE6UDURjbqxf-fR8jU",
-      "name": "手しごと遊菜922",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 34.0589387,
-      "lng": 133.0039621,
-      "city": "今治市",
-      "address": "〒794-0042 愛媛県今治市旭町４丁目３−５",
-      "hours": null,
-      "phone": "0898-33-4922",
-      "website": "https://tabiiro.jp/gourmet/s/312041-imabari-teshigotoyuusai922/",
-      "instagram": "teshigotoyuusai922",
-      "ratings": {
-        "tabelog": {
-          "score": 3.17,
-          "count": 24,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38002247/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJL3oPcmE6UDURjbqxf-fR8jU"
-    },
-    {
       "id": "osm-n8267499637",
       "name": "重松飯店",
       "category": "chinese",
@@ -6302,32 +6198,6 @@
         "google"
       ],
       "placeId": "ChIJg5slaDg6UDURndAW2ZI0Wbk"
-    },
-    {
-      "id": "g-ChIJG5cap5I7UDURA56YA5hNltk",
-      "name": "太郎食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 34.0638693,
-      "lng": 132.99608369999999,
-      "city": "今治市",
-      "address": "〒794-0028 愛媛県今治市北宝来町１丁目2−７",
-      "hours": null,
-      "phone": "0898-25-7667",
-      "website": null,
-      "instagram": "taro_shokudo",
-      "ratings": {
-        "tabelog": {
-          "score": 3.21,
-          "count": 32,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38015384/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJG5cap5I7UDURA56YA5hNltk"
     },
     {
       "id": "osm-w636158091",
@@ -6900,32 +6770,6 @@
       "placeId": "ChIJ5YRc4lg6UDURv0sNsoDGVLE"
     },
     {
-      "id": "g-ChIJfXFoeAA7UDURHY6QIT5VhM8",
-      "name": "唐揚げ食堂ごいち",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 34.0446033,
-      "lng": 132.9624465,
-      "city": "今治市",
-      "address": "〒794-0068 愛媛県今治市にぎわい広場１−１ イオンモール今治新都市 1F",
-      "hours": null,
-      "phone": "0898-35-0851",
-      "website": "https://makifoods.jp/",
-      "instagram": "goichi_karaage1",
-      "ratings": {
-        "tabelog": {
-          "score": 3.07,
-          "count": 9,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38016932/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJfXFoeAA7UDURHY6QIT5VhM8"
-    },
-    {
       "id": "osm-w806314037",
       "name": "桃仙楼",
       "category": "chinese",
@@ -7470,32 +7314,6 @@
       "rank": 50
     },
     {
-      "id": "g-ChIJfdunizA7UDUR-fm-VIlRGuk",
-      "name": "木森食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 34.06517850000001,
-      "lng": 132.9559511,
-      "city": "今治市",
-      "address": "〒794-0084 愛媛県今治市延喜７６２",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": "seiki.kimura.56",
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38014526/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJfdunizA7UDUR-fm-VIlRGuk"
-    },
-    {
       "id": "osm-w880914542",
       "name": "揚子江",
       "category": "chinese",
@@ -7899,32 +7717,6 @@
         "google"
       ],
       "placeId": "ChIJs0jI4lmRUTURU3bHkR0eCH8"
-    },
-    {
-      "id": "g-ChIJp2VP-BGUUTUR0IWltYpYT9M",
-      "name": "くう食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.985371,
-      "lng": 133.5505933,
-      "city": "四国中央市",
-      "address": "〒799-0404 愛媛県四国中央市三島宮川２丁目２−３３",
-      "hours": null,
-      "phone": "0896-24-6269",
-      "website": null,
-      "instagram": "kushokudo_hashigo_kiroku",
-      "ratings": {
-        "tabelog": {
-          "score": 3.06,
-          "count": 10,
-          "url": "https://tabelog.com/ehime/A3802/A380204/38010331/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJp2VP-BGUUTUR0IWltYpYT9M"
     },
     {
       "id": "g-ChIJUeWR50GUUTURCfDcScjCuBk",
@@ -9428,50 +9220,6 @@
       }
     },
     {
-      "id": "g-ChIJL45SBFqRUTUR0PaArp5rYos",
-      "name": "餃子香月 四国中央妻鳥店",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.994777,
-      "lng": 133.570511,
-      "city": "四国中央市",
-      "address": "〒799-0113 愛媛県四国中央市妻鳥町１２０６−１",
-      "hours": null,
-      "phone": "088-643-0170",
-      "website": "https://store.fujiyanet.co.jp/detail/840?utm_source=google&utm_medium=map&utm_campaign=840",
-      "instagram": "gyouza_kagetsu",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJL45SBFqRUTUR0PaArp5rYos"
-    },
-    {
-      "id": "g-ChIJp2TIOLmVUTURB2iAyqTkdRk",
-      "name": "餃子香月四国中央寒川店",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.9702832,
-      "lng": 133.5228607,
-      "city": "四国中央市",
-      "address": "〒799-0431 愛媛県四国中央市寒川町４２６−１",
-      "hours": null,
-      "phone": "088-643-0170",
-      "website": "https://store.fujiyanet.co.jp/detail/848?utm_source=google&utm_medium=map&utm_campaign=848",
-      "instagram": "gyouza_kagetsu",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJp2TIOLmVUTURB2iAyqTkdRk"
-    },
-    {
       "id": "g-ChIJHVZXYADlTzURGnXZsjEqKmU",
       "name": "55CHINA JR松山駅だんだん通り店",
       "category": "ramen",
@@ -10270,34 +10018,6 @@
       "rank": 123
     },
     {
-      "id": "osm-n5025570564",
-      "name": "ごはん泥棒",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.8482397,
-      "lng": 132.7681465,
-      "city": "松山市",
-      "address": "〒790-0827 愛媛県松山市鉄砲町８−２",
-      "hours": null,
-      "phone": "089-904-7059",
-      "website": null,
-      "osmId": "node/5025570564",
-      "instagram": "gd4649",
-      "ratings": {
-        "tabelog": {
-          "score": 3.28,
-          "count": 33,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38009491/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJoY6JL8DlTzURBxHJkeI9vCU"
-    },
-    {
       "id": "osm-n2306396513",
       "name": "さくら食堂",
       "category": "shokudo",
@@ -10412,32 +10132,6 @@
       },
       "score": 47.2,
       "rank": 107
-    },
-    {
-      "id": "g-ChIJKcU8SZrlTzURSch77SRYGVY",
-      "name": "スミル食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.8374899,
-      "lng": 132.7714389,
-      "city": "松山市",
-      "address": "〒790-0003 愛媛県松山市三番町２丁目４−７",
-      "hours": null,
-      "phone": "089-948-8449",
-      "website": null,
-      "instagram": "sumiru20220111",
-      "ratings": {
-        "tabelog": {
-          "score": 3.23,
-          "count": 18,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38014103/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJKcU8SZrlTzURSch77SRYGVY"
     },
     {
       "id": "g-ChIJs5SNPQDvTzUR9KBwSlVik8o",
@@ -13819,32 +13513,6 @@
       "rank": 46
     },
     {
-      "id": "g-ChIJOXToZ1vvTzURVFnYDoKsWDo",
-      "name": "上海点心 豫園",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.8200572,
-      "lng": 132.7716912,
-      "city": "松山市",
-      "address": "〒790-0952 愛媛県松山市朝生田町５丁目８−１５",
-      "hours": null,
-      "phone": "089-934-7311",
-      "website": "https://yoen.stores.jp/",
-      "instagram": "yoen7311",
-      "ratings": {
-        "tabelog": {
-          "score": 3.67,
-          "count": 237,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38000161/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJOXToZ1vvTzURVFnYDoKsWDo"
-    },
-    {
       "id": "osm-n2385772454",
       "name": "食堂はなみずきごはんや",
       "category": "shokudo",
@@ -15387,32 +15055,6 @@
       },
       "score": 45.7,
       "rank": 138
-    },
-    {
-      "id": "g-ChIJF23jEOzlTzURoYSHOeLRpNs",
-      "name": "唐揚げ食堂ごいち 本店",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.8390838,
-      "lng": 132.7691788,
-      "city": "松山市",
-      "address": "〒790-0002 愛媛県松山市二番町３丁目２−１０ 内 0秒レモンサワーときわ亭",
-      "hours": null,
-      "phone": null,
-      "website": "http://karaageshokudo-goichi.com/",
-      "instagram": "goichi_karaage1",
-      "ratings": {
-        "tabelog": {
-          "score": 3.07,
-          "count": 6,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38016906/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJF23jEOzlTzURoYSHOeLRpNs"
     },
     {
       "id": "g-ChIJgQBS7lblTzURARY9vhCMZSs",
@@ -17356,32 +16998,6 @@
         ]
       },
       "score": 39.1
-    },
-    {
-      "id": "g-ChIJPW4jebflTzURDZ56kTXdPlk",
-      "name": "龍翔麻辣烫",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.8382953,
-      "lng": 132.77180579999998,
-      "city": "松山市",
-      "address": "〒790-0003 愛媛県松山市三番町２丁目６−３",
-      "hours": null,
-      "phone": "080-8971-3888",
-      "website": "https://www.ryusho.fun/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38017283/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJPW4jebflTzURDZ56kTXdPlk"
     },
     {
       "id": "g-ChIJ8b0PAADlTzURdA-73DKoZO0",
@@ -20454,36 +20070,6 @@
       "placeId": "ChIJmW89odHOUTURYvEC8FoQ4Ng"
     },
     {
-      "id": "rdb-125191",
-      "name": "中華料理 蘭華",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.965439,
-      "lng": 133.277054,
-      "city": "新居浜市",
-      "address": "愛媛県新居浜市泉池町8-3",
-      "hours": null,
-      "phone": "0897-32-4233",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 3,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38013345/"
-        },
-        "rdb": {
-          "score": null,
-          "count": null,
-          "url": "https://ramendb.supleks.jp/s/125191.html"
-        }
-      },
-      "closed": null,
-      "sources": [
-        "ramendb"
-      ]
-    },
-    {
       "id": "g-ChIJdccCRdDOUTUR8c0M6q9-C9s",
       "name": "中国菜房 くどう",
       "category": "chinese",
@@ -20900,32 +20486,6 @@
       },
       "score": 60.7,
       "rank": 35
-    },
-    {
-      "id": "g-ChIJufMOfgDPUTURHl-QlJwHb5w",
-      "name": "薬膳スープ 香辣",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.933517099999996,
-      "lng": 133.29870599999998,
-      "city": "新居浜市",
-      "address": "〒792-0826 愛媛県新居浜市喜光地町１丁目６−３２",
-      "hours": null,
-      "phone": null,
-      "website": null,
-      "instagram": "shanra_niihama",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 3,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38017297/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJufMOfgDPUTURHl-QlJwHb5w"
     },
     {
       "id": "g-ChIJZWDXYxPPUTURUPTf5ePlvuQ",
@@ -23064,28 +22624,6 @@
         "noodle": [],
         "character": []
       }
-    },
-    {
-      "id": "g-ChIJR9C7omORUTUR3FMRN4oVtqs",
-      "name": "餃子香月西条店",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.917873799999995,
-      "lng": 133.18444929999998,
-      "city": "西条市",
-      "address": "〒793-0030 愛媛県西条市大町1692‐3",
-      "hours": null,
-      "phone": "088-643-0170",
-      "website": "https://store.fujiyanet.co.jp/detail/843?utm_source=google&utm_medium=map&utm_campaign=843",
-      "instagram": "gyouza_kagetsu",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJR9C7omORUTUR3FMRN4oVtqs"
     },
     {
       "id": "g-ChIJWffhWI6HRTURzab550uu7lk",
@@ -27035,28 +26573,6 @@
         "noodle": [],
         "character": []
       }
-    },
-    {
-      "id": "g-ChIJ6_fg3prdTzURk8cAR-q__jo",
-      "name": "水餃子 花木蘭。",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.791005999999996,
-      "lng": 132.8558478,
-      "city": "東温市",
-      "address": "〒791-0212 愛媛県東温市田窪１１２７−２ NIDONE",
-      "hours": null,
-      "phone": "090-4507-4389",
-      "website": null,
-      "instagram": "huamulan8899",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ6_fg3prdTzURk8cAR-q__jo"
     },
     {
       "id": "g-ChIJoSFKhEjdTzURmAaPA6C4uoQ",

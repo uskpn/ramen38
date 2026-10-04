@@ -1006,6 +1006,158 @@
       "placeId": "ChIJt46sQWCDRTURZRtn8SYMIyU",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJL3oPcmE6UDURjbqxf-fR8jU",
+      "name": "手しごと遊菜922",
+      "city": "今治市",
+      "placeId": "ChIJL3oPcmE6UDURjbqxf-fR8jU",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJL45SBFqRUTUR0PaArp5rYos",
+      "name": "餃子香月 四国中央妻鳥店",
+      "city": "四国中央市",
+      "placeId": "ChIJL45SBFqRUTUR0PaArp5rYos",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJp2TIOLmVUTURB2iAyqTkdRk",
+      "name": "餃子香月四国中央寒川店",
+      "city": "四国中央市",
+      "placeId": "ChIJp2TIOLmVUTURB2iAyqTkdRk",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "osm-n5025570564",
+      "name": "ごはん泥棒",
+      "city": "松山市",
+      "placeId": "ChIJoY6JL8DlTzURBxHJkeI9vCU",
+      "osmId": "node/5025570564",
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJOXToZ1vvTzURVFnYDoKsWDo",
+      "name": "上海点心 豫園",
+      "city": "松山市",
+      "placeId": "ChIJOXToZ1vvTzURVFnYDoKsWDo",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJPW4jebflTzURDZ56kTXdPlk",
+      "name": "龍翔麻辣烫",
+      "city": "松山市",
+      "placeId": "ChIJPW4jebflTzURDZ56kTXdPlk",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJufMOfgDPUTURHl-QlJwHb5w",
+      "name": "薬膳スープ 香辣",
+      "city": "新居浜市",
+      "placeId": "ChIJufMOfgDPUTURHl-QlJwHb5w",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJR9C7omORUTUR3FMRN4oVtqs",
+      "name": "餃子香月西条店",
+      "city": "西条市",
+      "placeId": "ChIJR9C7omORUTUR3FMRN4oVtqs",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ6_fg3prdTzURk8cAR-q__jo",
+      "name": "水餃子 花木蘭。",
+      "city": "東温市",
+      "placeId": "ChIJ6_fg3prdTzURk8cAR-q__jo",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJqR_ccUD1RTUR46KE9dfO7JI",
+      "name": "信州蕎麦くら食堂",
+      "city": "宇和島市",
+      "placeId": "ChIJqR_ccUD1RTUR46KE9dfO7JI",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJZbkeQQDBTzURM0unmN_zWfw",
+      "name": "タネマキ食堂",
+      "city": "久万高原町",
+      "placeId": "ChIJZbkeQQDBTzURM0unmN_zWfw",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ3VyOho87UDURa_A-Lf92USU",
+      "name": "ティア自然食堂",
+      "city": "今治市",
+      "placeId": "ChIJ3VyOho87UDURa_A-Lf92USU",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJG5cap5I7UDURA56YA5hNltk",
+      "name": "太郎食堂",
+      "city": "今治市",
+      "placeId": "ChIJG5cap5I7UDURA56YA5hNltk",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJfXFoeAA7UDURHY6QIT5VhM8",
+      "name": "唐揚げ食堂ごいち",
+      "city": "今治市",
+      "placeId": "ChIJfXFoeAA7UDURHY6QIT5VhM8",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJfdunizA7UDUR-fm-VIlRGuk",
+      "name": "木森食堂",
+      "city": "今治市",
+      "placeId": "ChIJfdunizA7UDUR-fm-VIlRGuk",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJp2VP-BGUUTUR0IWltYpYT9M",
+      "name": "くう食堂",
+      "city": "四国中央市",
+      "placeId": "ChIJp2VP-BGUUTUR0IWltYpYT9M",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJKcU8SZrlTzURSch77SRYGVY",
+      "name": "スミル食堂",
+      "city": "松山市",
+      "placeId": "ChIJKcU8SZrlTzURSch77SRYGVY",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJF23jEOzlTzURoYSHOeLRpNs",
+      "name": "唐揚げ食堂ごいち 本店",
+      "city": "松山市",
+      "placeId": "ChIJF23jEOzlTzURoYSHOeLRpNs",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "rdb-125191",
+      "name": "中華料理 蘭華",
+      "city": "新居浜市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "閉業"
     }
   ]
 }
