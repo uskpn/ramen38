@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T03:27:56.902Z",
+  "updatedAt": "2026-10-04T05:40:01.383Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -2346,7 +2346,7 @@
       "id": "g-ChIJCxzDPs1hTzURKH0rFVhxVPE",
       "name": "ルパ・ルパ",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.2208767,
       "lng": 132.56217949999998,
       "city": "宇和島市",
@@ -2366,29 +2366,18 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJCxzDPs1hTzURKH0rFVhxVPE"
-    },
-    {
-      "id": "g-ChIJO5fBL9n0RTURZmyY0S9jTIQ",
-      "name": "一心",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.192292,
-      "lng": 132.508716,
-      "city": "宇和島市",
-      "address": "〒798-0094 愛媛県宇和島市蕨１９−６",
-      "hours": null,
-      "phone": "0895-28-0110",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJO5fBL9n0RTURZmyY0S9jTIQ"
+      "placeId": "ChIJCxzDPs1hTzURKH0rFVhxVPE",
+      "tags": {
+        "style": [
+          "ちゃんぽん",
+          "担々麺"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJyZIYQI1hTzURyni9CoU6C6A",
@@ -4130,7 +4119,7 @@
       "id": "osm-n12161936305",
       "name": "久万山食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.614177,
       "lng": 132.9697555,
       "city": "久万高原町",
@@ -4156,29 +4145,17 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJIw51irXHTzURHZYk6Jo_vNI"
-    },
-    {
-      "id": "g-ChIJTaA_E67ITzURXIDvi9JGiEQ",
-      "name": "旧 ふるさと食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.637274999999995,
-      "lng": 133.0048417,
-      "city": "久万高原町",
-      "address": "〒791-1512 愛媛県上浮穴郡久万高原町東川１９３",
-      "hours": null,
-      "phone": "0892-57-0327",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJTaA_E67ITzURXIDvi9JGiEQ"
+      "placeId": "ChIJIw51irXHTzURHZYk6Jo_vNI",
+      "tags": {
+        "style": [
+          "中華そば",
+          "担々麺",
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-138885",
@@ -6808,7 +6785,7 @@
       "id": "g-ChIJJ2EgyUI6UDURQyRKx5yXeuY",
       "name": "中華居酒屋りん",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 34.0679588,
       "lng": 132.9986016,
       "city": "今治市",
@@ -6832,7 +6809,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJJ2EgyUI6UDURQyRKx5yXeuY"
+      "placeId": "ChIJJ2EgyUI6UDURQyRKx5yXeuY",
+      "tags": {
+        "style": [],
+        "soup": [],
+        "noodle": [],
+        "character": [
+          "辛い"
+        ]
+      }
     },
     {
       "id": "rdb-151188",
@@ -6912,22 +6897,23 @@
       }
     },
     {
-      "id": "rdb-123846",
+      "id": "osm-n8314578551",
       "name": "中華料理 福龍",
       "category": "chinese",
-      "ramen": "likely",
-      "lat": 34.045395,
-      "lng": 132.993179,
+      "ramen": "menu",
+      "lat": 34.0454004,
+      "lng": 132.992952,
       "city": "今治市",
-      "address": "愛媛県今治市郷本町3-4-19",
+      "address": "〒794-0823 愛媛県今治市郷本町３丁目４−１９",
       "hours": null,
       "phone": "0898-31-1798",
       "website": null,
-      "instagram": null,
+      "osmId": "node/8314578551",
+      "instagram": "fukuryu1502",
       "ratings": {
         "tabelog": {
-          "score": 3.04,
-          "count": 12,
+          "score": 3.09,
+          "count": 16,
           "url": "https://tabelog.com/ehime/A3802/A380201/38001695/"
         },
         "rdb": {
@@ -6936,10 +6922,19 @@
           "url": "https://ramendb.supleks.jp/s/123846.html"
         }
       },
-      "closed": null,
       "sources": [
-        "ramendb"
-      ]
+        "osm",
+        "google"
+      ],
+      "placeId": "ChIJs-INA-k6UDURRYDMYEXVBQE",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-131622",
@@ -7578,34 +7573,6 @@
       }
     },
     {
-      "id": "osm-n8314578551",
-      "name": "福龍",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 34.0454004,
-      "lng": 132.992952,
-      "city": "今治市",
-      "address": "〒794-0823 愛媛県今治市郷本町３丁目４−１９",
-      "hours": null,
-      "phone": "0898-31-1798",
-      "website": null,
-      "osmId": "node/8314578551",
-      "instagram": "fukuryu1502",
-      "ratings": {
-        "tabelog": {
-          "score": 3.09,
-          "count": 16,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38001695/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJs-INA-k6UDURRYDMYEXVBQE"
-    },
-    {
       "id": "osm-w879605108",
       "name": "蓬莱閣",
       "category": "chinese",
@@ -8019,7 +7986,7 @@
       "id": "osm-w880153168",
       "name": "榕城",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 34.0386325,
       "lng": 133.0215014,
       "city": "今治市",
@@ -8045,7 +8012,15 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJD-DPT7wxUDUR_3MJ5VrRCmk"
+      "placeId": "ChIJD-DPT7wxUDUR_3MJ5VrRCmk",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-n8257953286",
@@ -9524,7 +9499,7 @@
       "id": "g-ChIJS-PdYnKUUTURcWONXUyMZP0",
       "name": "中国料理 柘",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.978336899999995,
       "lng": 133.5516041,
       "city": "四国中央市",
@@ -9544,7 +9519,19 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJS-PdYnKUUTURcWONXUyMZP0"
+      "placeId": "ChIJS-PdYnKUUTURcWONXUyMZP0",
+      "tags": {
+        "style": [
+          "担々麺"
+        ],
+        "soup": [
+          "胡麻"
+        ],
+        "noodle": [],
+        "character": [
+          "辛い"
+        ]
+      }
     },
     {
       "id": "g-ChIJxSaou3CRUTURwbE2R5qF2KI",
@@ -10036,32 +10023,6 @@
       }
     },
     {
-      "id": "g-ChIJl9OFK_HlTzURICRU3-z-yxM",
-      "name": "Chinese Restaurant Kisaiya 松山店",
-      "category": "chinese",
-      "ramen": "likely",
-      "lat": 33.8403442,
-      "lng": 132.7549285,
-      "city": "松山市",
-      "address": "〒790-0067 愛媛県松山市大手町２丁目8−１１ 1F （阿 龍内",
-      "hours": null,
-      "phone": "080-2959-0127",
-      "website": null,
-      "instagram": "kisaiya76",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38016352/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJl9OFK_HlTzURICRU3-z-yxM"
-    },
-    {
       "id": "g-ChIJp3LeIxLvTzURVTQ958FJJt0",
       "name": "JAえひめ中央 おひさま食堂",
       "category": "shokudo",
@@ -10298,7 +10259,7 @@
       "id": "g-ChIJt5d4SL7lTzURSOiXGayDGjg",
       "name": "いのうえ家",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.8511662,
       "lng": 132.7631326,
       "city": "松山市",
@@ -10318,7 +10279,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJt5d4SL7lTzURSOiXGayDGjg"
+      "placeId": "ChIJt5d4SL7lTzURSOiXGayDGjg",
+      "tags": {
+        "style": [],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "rdb-165706",
@@ -11755,7 +11725,7 @@
       "id": "g-ChIJyd9xaM76TzURc8dq1ZFlgC4",
       "name": "みなとや食堂",
       "category": "shokudo",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.8836641,
       "lng": 132.70161,
       "city": "松山市",
@@ -11775,7 +11745,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJyd9xaM76TzURc8dq1ZFlgC4"
+      "placeId": "ChIJyd9xaM76TzURc8dq1ZFlgC4",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "osm-w525065622",
@@ -13664,7 +13642,7 @@
       "id": "g-ChIJ7WUZGx_lTzUR9zPxDX4mKY4",
       "name": "古民家 中華居酒屋 中ちゃん",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.838595999999995,
       "lng": 132.7693664,
       "city": "松山市",
@@ -13688,7 +13666,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ7WUZGx_lTzUR9zPxDX4mKY4"
+      "placeId": "ChIJ7WUZGx_lTzUR9zPxDX4mKY4",
+      "tags": {
+        "style": [
+          "中華そば",
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJb7isTkXlTzURNDEsnamn5ak",
@@ -13815,7 +13802,7 @@
       "id": "g-ChIJgxnrJMXlTzURAZx1LhppCOc",
       "name": "菜温",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.852112,
       "lng": 132.775135,
       "city": "松山市",
@@ -13839,7 +13826,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJgxnrJMXlTzURAZx1LhppCOc"
+      "placeId": "ChIJgxnrJMXlTzURAZx1LhppCOc",
+      "tags": {
+        "style": [
+          "担々麺"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": [
+          "辛い"
+        ]
+      }
     },
     {
       "id": "g-ChIJv6ThnTniTzURk0W8mnPSBJM",
@@ -14896,7 +14893,7 @@
       "id": "g-ChIJg1_sAhriTzURF4toWrErlRc",
       "name": "仙楓",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.958363,
       "lng": 132.77650599999998,
       "city": "松山市",
@@ -14916,7 +14913,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJg1_sAhriTzURF4toWrErlRc"
+      "placeId": "ChIJg1_sAhriTzURF4toWrErlRc",
+      "tags": {
+        "style": [
+          "担々麺"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJZxsmTMPlTzURI-JYVI3Kt4E",
@@ -15476,7 +15483,7 @@
       "id": "rdb-140216",
       "name": "中華旬菜 西尾",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.836571,
       "lng": 132.764328,
       "city": "松山市",
@@ -15500,7 +15507,19 @@
       "closed": null,
       "sources": [
         "ramendb"
-      ]
+      ],
+      "tags": {
+        "style": [
+          "担々麺"
+        ],
+        "soup": [
+          "胡麻"
+        ],
+        "noodle": [],
+        "character": [
+          "辛い"
+        ]
+      }
     },
     {
       "id": "g-ChIJi5miqPcdUDURqJnsJxBD9ro",
@@ -20492,7 +20511,7 @@
       "id": "g-ChIJxTwZOMbOUTURTIRz0qZcgkU",
       "name": "京珉",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9647389,
       "lng": 133.2745574,
       "city": "新居浜市",
@@ -20516,7 +20535,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJxTwZOMbOUTURTIRz0qZcgkU"
+      "placeId": "ChIJxTwZOMbOUTURTIRz0qZcgkU",
+      "tags": {
+        "style": [
+          "冷やし"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJpaidkVjPUTUR-e2L3dPkCCE",
@@ -23271,7 +23298,7 @@
       "id": "g-ChIJjfxmEXIvUDURE8l3S_4_ZOY",
       "name": "台湾料理桃園",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9296901,
       "lng": 133.09033449999998,
       "city": "西条市",
@@ -23291,7 +23318,23 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJjfxmEXIvUDURE8l3S_4_ZOY"
+      "placeId": "ChIJjfxmEXIvUDURE8l3S_4_ZOY",
+      "tags": {
+        "style": [
+          "担々麺",
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌",
+          "豚骨"
+        ],
+        "noodle": [],
+        "character": [
+          "辛い"
+        ]
+      }
     },
     {
       "id": "g-ChIJua18MMbSUTURxSA2zIzc9j0",
@@ -23451,7 +23494,7 @@
       "id": "g-ChIJjdzvsI7TUTURkE4LGnOF420",
       "name": "中華淑々",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.9183914,
       "lng": 133.1844884,
       "city": "西条市",
@@ -23475,7 +23518,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJjdzvsI7TUTURkE4LGnOF420"
+      "placeId": "ChIJjdzvsI7TUTURkE4LGnOF420",
+      "tags": {
+        "style": [
+          "ちゃんぽん",
+          "担々麺",
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJVVUFdVsuUDURFlFAdPvhH0Q",
@@ -23619,7 +23672,7 @@
       "id": "g-ChIJD7BH98cpUDURWmISBDeGm2s",
       "name": "覇王樹",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.907508199999995,
       "lng": 133.0641623,
       "city": "西条市",
@@ -23643,7 +23696,19 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJD7BH98cpUDURWmISBDeGm2s"
+      "placeId": "ChIJD7BH98cpUDURWmISBDeGm2s",
+      "tags": {
+        "style": [],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [],
+        "character": [
+          "辛い",
+          "にんにく",
+          "清湯"
+        ]
+      }
     },
     {
       "id": "g-ChIJV0LqgQUpUDURorvk7UMFzHQ",
@@ -24504,7 +24569,7 @@
       "id": "osm-n12269045004",
       "name": "幸楽",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.3797749,
       "lng": 132.4229705,
       "city": "西予市",
@@ -24522,7 +24587,17 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJWYPp_I-PRTURCpinax-PSss"
+      "placeId": "ChIJWYPp_I-PRTURCpinax-PSss",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "野菜"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJVU-_1wqHRTUR6sHmdcdSDQE",
@@ -24596,7 +24671,7 @@
       "id": "g-ChIJq4WiQuZ1TzURGUM7zFw67eQ",
       "name": "食酔坊・宝",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.3641784,
       "lng": 132.79359499999998,
       "city": "西予市",
@@ -24620,7 +24695,18 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJq4WiQuZ1TzURGUM7zFw67eQ"
+      "placeId": "ChIJq4WiQuZ1TzURGUM7zFw67eQ",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "味噌"
+        ],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJqa9E4EmHRTURLDXVDqMm07Q",
@@ -26137,7 +26223,7 @@
       "id": "g-ChIJNUp68NN_RTURJf9o2TWW0o0",
       "name": "中国菜館 蓮花",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.5177652,
       "lng": 132.5448547,
       "city": "大洲市",
@@ -26161,13 +26247,24 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJNUp68NN_RTURJf9o2TWW0o0"
+      "placeId": "ChIJNUp68NN_RTURJf9o2TWW0o0",
+      "tags": {
+        "style": [
+          "中華そば",
+          "ちゃんぽん"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJmQmqleCATzURmCvJRPcNJDc",
       "name": "東明閣",
       "category": "chinese",
-      "ramen": "likely",
+      "ramen": "menu",
       "lat": 33.521164999999996,
       "lng": 132.58662999999999,
       "city": "大洲市",
@@ -26187,7 +26284,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJmQmqleCATzURmCvJRPcNJDc"
+      "placeId": "ChIJmQmqleCATzURmCvJRPcNJDc",
+      "tags": {
+        "style": [
+          "ちゃんぽん",
+          "中華そば"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJYz49njKARTURWyjDNyEz_SY",

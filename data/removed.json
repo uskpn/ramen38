@@ -1158,6 +1158,38 @@
       "placeId": null,
       "osmId": null,
       "reason": "閉業"
+    },
+    {
+      "id": "rdb-123846",
+      "name": "中華料理 福龍",
+      "city": "今治市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "重複(福龍に統合)"
+    },
+    {
+      "id": "g-ChIJO5fBL9n0RTURZmyY0S9jTIQ",
+      "name": "一心",
+      "city": "宇和島市",
+      "placeId": "ChIJO5fBL9n0RTURZmyY0S9jTIQ",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJl9OFK_HlTzURICRU3-z-yxM",
+      "name": "Chinese Restaurant Kisaiya 松山店",
+      "city": "松山市",
+      "placeId": "ChIJl9OFK_HlTzURICRU3-z-yxM",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJTaA_E67ITzURXIDvi9JGiEQ",
+      "name": "旧 ふるさと食堂",
+      "city": "久万高原町",
+      "placeId": "ChIJTaA_E67ITzURXIDvi9JGiEQ",
+      "osmId": null,
+      "reason": "閉業"
     }
   ]
 }
