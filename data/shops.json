@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T08:07:03.453Z",
+  "updatedAt": "2026-10-04T08:20:47.824Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -2055,30 +2055,6 @@
         "noodle": [],
         "character": []
       }
-    },
-    {
-      "id": "osm-n12032835645",
-      "name": "にこにこ食堂",
-      "category": "shokudo",
-      "ramen": "likely",
-      "lat": 33.217243,
-      "lng": 132.5649215,
-      "city": "宇和島市",
-      "address": "〒798-0060 愛媛県宇和島市丸之内２丁目１−１６",
-      "hours": null,
-      "phone": "0895-25-7020",
-      "website": null,
-      "osmId": "node/12032835645",
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJa-QFbzNgTzURM827PV6lJ5M"
     },
     {
       "id": "g-ChIJyz0RGRVhTzURG9lHN_NO-Ko",

@@ -1366,6 +1366,14 @@
       "placeId": "ChIJT2bJHLjoTzURcW53dnWYowY",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "osm-n12032835645",
+      "name": "にこにこ食堂",
+      "city": "宇和島市",
+      "placeId": "ChIJa-QFbzNgTzURM827PV6lJ5M",
+      "osmId": "node/12032835645",
+      "reason": "出前のみ"
     }
   ]
 }
