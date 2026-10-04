@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "serve": "npx --yes http-server -p 8080 -c-1 .",
     "fetch:osm": "node scripts/fetch-osm.mjs",
@@ -14,6 +16,8 @@
     "menu:import": "node scripts/import-menu-check.mjs",
     "rank": "node scripts/compute-ranking.mjs",
     "tags:template": "node scripts/import-tags.mjs --template",
-    "tags:import": "node scripts/import-tags.mjs"
+    "tags:import": "node scripts/import-tags.mjs",
+    "shops:export": "node scripts/export-shops.mjs",
+    "shops:import": "node scripts/import-shops.mjs"
   }
 }

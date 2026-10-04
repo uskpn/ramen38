@@ -3,6 +3,7 @@
 //   node scripts/import-tags.mjs file.csv ...           CSV を取り込む（タグは「/」区切り。空欄の段は既存の値を変えない）
 // タグの種類は js/app.js の TAG_GROUPS と同じ。許可されていないタグは取り込まずに警告する。
 import { readFile, writeFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 import { loadShops, saveShops } from './lib.mjs';
 import { isRankTarget } from './compute-ranking.mjs';
 
@@ -62,10 +63,13 @@ function parseCsv(text) {
   return rows;
 }
 
-const args = process.argv.slice(2);
-const db = await loadShops();
+const isMain = process.argv[1] === fileURLToPath(import.meta.url);
+const args = isMain ? process.argv.slice(2) : [];
+const db = isMain ? await loadShops() : null;
 
-if (args[0] === '--template') {
+if (!isMain) {
+  // 他のスクリプトから TAGS だけを import した場合は何もしない
+} else if (args[0] === '--template') {
   const out = args[1] || 'data/tags.csv';
   const lines = [['id', 'name', 'city', ...KEYS].join(',')];
   for (const s of db.shops.filter(isRankTarget).sort((a, b) => a.city.localeCompare(b.city, 'ja') || a.name.localeCompare(b.name, 'ja'))) {

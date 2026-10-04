@@ -57,6 +57,7 @@ npm run serve        # http://localhost:8080
 | Google の placeId を付与＋店舗を追加発見（評価・営業時間は保存しません） | `GOOGLE_MAPS_API_KEY=xxx npm run fetch:google` | Places API (New) のキーが必要。市町×「ラーメン」「中華そば」等で検索し、OSM に無い店も追加します |
 | 公式サイトから Instagram を自動検出 | `npm run find:instagram` | |
 | 食べログ等の評価・Instagram を手入力 | `npm run ratings:template` → `data/ratings.csv` を Excel 等で編集 → `npm run ratings:import` | 空欄は変更なし、`-` で削除 |
+| 全店舗の最新情報を CSV で確認・一括修正 | `npm run shops:export` → `exports/shops-all.csv` を Excel 等で編集 → `npm run shops:import -- exports/shops-all.csv`（先に `-- --dry-run` で確認可） | 空欄は変更なし、`-` で削除。「状態」に 閉業 / ラーメンなし / 出前のみ / 重複 / 削除 と書くと店舗を削除（`data/removed.json` に記録）。`id` が空の行は新規店舗として追加（住所から位置を自動取得）。反映後にランキングと `data/tags.csv` も更新 |
 
 食べログ・ラーメンデータベースは公開 API が無く、スクレイピングは各サイトの利用規約で禁止されているため、
 評価は CSV での手入力（各サイトを見て転記）にしています。
