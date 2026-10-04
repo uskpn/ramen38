@@ -5697,11 +5697,19 @@
       "placeId": "ChIJsbF1VAA7UDURsUPI1TNDQJY",
       "tags": {
         "style": [
-          "家系"
+          "家系",
+          "中華そば",
+          "二郎系"
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "味噌",
+          "魚介",
+          "塩"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 43.9,
@@ -25173,7 +25181,8 @@
       "placeId": "ChIJ44hwAgB_RTURSrKn36QFXLE",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [
           "豚骨"
