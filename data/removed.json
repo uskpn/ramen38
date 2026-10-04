@@ -1190,6 +1190,182 @@
       "placeId": "ChIJTaA_E67ITzURXIDvi9JGiEQ",
       "osmId": null,
       "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJI8ZAq2XPUTURyVVOnqoWWb0",
+      "name": "自然派中華 初華（はつはな）",
+      "city": "新居浜市",
+      "placeId": "ChIJI8ZAq2XPUTURyVVOnqoWWb0",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJdccCRdDOUTUR8c0M6q9-C9s",
+      "name": "中国菜房 くどう",
+      "city": "新居浜市",
+      "placeId": "ChIJdccCRdDOUTUR8c0M6q9-C9s",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJVw4bFqrPUTURNt83o-F1BDg",
+      "name": "媛山房",
+      "city": "新居浜市",
+      "placeId": "ChIJVw4bFqrPUTURNt83o-F1BDg",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJq3OLkxfvTzUR6s97bQ4GcXg",
+      "name": "zenshin厨房 忠香",
+      "city": "松山市",
+      "placeId": "ChIJq3OLkxfvTzUR6s97bQ4GcXg",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJDYgZCe_lTzURNFtfN1MhRlI",
+      "name": "笑喜喜",
+      "city": "松山市",
+      "placeId": "ChIJIwjPDu_lTzURrWZTHI_mJ_w",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJd5yifwvlTzURjWCHWLaSuuw",
+      "name": "泰風苑",
+      "city": "松山市",
+      "placeId": "ChIJd5yifwvlTzURjWCHWLaSuuw",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ11V8VVk6UDUREzMws4N4SGE",
+      "name": "つくし食堂",
+      "city": "今治市",
+      "placeId": "ChIJ11V8VVk6UDUREzMws4N4SGE",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJA7al_E47UDURHAD6_Hw5G9M",
+      "name": "海鮮 うおきん食堂 今治新都市店",
+      "city": "今治市",
+      "placeId": "ChIJA7al_E47UDURHAD6_Hw5G9M",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJjb65KhE_UDURJHSNsJEOApY",
+      "name": "関前食堂",
+      "city": "今治市",
+      "placeId": "ChIJjb65KhE_UDURJHSNsJEOApY",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "osm-n8321885045",
+      "name": "彩菜食堂",
+      "city": "今治市",
+      "placeId": "ChIJRzw3x8M6UDURwg1ML30FSNQ",
+      "osmId": "node/8321885045",
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "osm-w806267488",
+      "name": "三日月食堂",
+      "city": "今治市",
+      "placeId": "ChIJLZNNpX8wUDURwxINXFw3GbA",
+      "osmId": "way/806267488",
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJE1DFx1zzTzURgu22vLE0XpA",
+      "name": "ふじた食堂",
+      "city": "伊予市",
+      "placeId": "ChIJE1DFx1zzTzURgu22vLE0XpA",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJhRMeb5LGUTURC6iLL1yqHB4",
+      "name": "ドライブイン スズラン",
+      "city": "四国中央市",
+      "placeId": "ChIJhRMeb5LGUTURC6iLL1yqHB4",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJ6eiwDQCNUTURxoA7FWD0-dU",
+      "name": "宮本食堂",
+      "city": "四国中央市",
+      "placeId": "ChIJ6eiwDQCNUTURxoA7FWD0-dU",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJk1LinvLAUTURlJkASNkHKqo",
+      "name": "元気食堂",
+      "city": "四国中央市",
+      "placeId": "ChIJk1LinvLAUTURlJkASNkHKqo",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ7aMsTwCVUTURiNJuxnl-Jkg",
+      "name": "食堂 だんだん",
+      "city": "四国中央市",
+      "placeId": "ChIJ7aMsTwCVUTURiNJuxnl-Jkg",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJl-aXeXf2RTUR8qjP0_5fD2I",
+      "name": "みよし食堂",
+      "city": "宇和島市",
+      "placeId": "ChIJl-aXeXf2RTUR8qjP0_5fD2I",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJyZIYQI1hTzURyni9CoU6C6A",
+      "name": "栄楽食堂",
+      "city": "宇和島市",
+      "placeId": "ChIJyZIYQI1hTzURyni9CoU6C6A",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJoYu1fbphTzUR-Qd_QJge1Xo",
+      "name": "闘牛 グリル・ワイン食堂",
+      "city": "宇和島市",
+      "placeId": "ChIJoYu1fbphTzUR-Qd_QJge1Xo",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ5bn4xwLlTzURQnD60re6yqg",
+      "name": "デブ猫ちゃん食堂（愛媛新聞社員食堂）",
+      "city": "松山市",
+      "placeId": "ChIJ5bn4xwLlTzURQnD60re6yqg",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJEVpwr57vTzURNWpr1igzKpw",
+      "name": "トアル食堂",
+      "city": "松山市",
+      "placeId": "ChIJEVpwr57vTzURNWpr1igzKpw",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJT2bJHLjoTzURcW53dnWYowY",
+      "name": "まいどおおきに食堂 のうめん食堂",
+      "city": "松山市",
+      "placeId": "ChIJT2bJHLjoTzURcW53dnWYowY",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }
