@@ -213,17 +213,23 @@ button, input, select { font: inherit; color: inherit; }
 /* ---------- Popup ---------- */
 .leaflet-popup-content-wrapper { border-radius: 0; box-shadow: 0 12px 40px rgba(0,0,0,.12); padding: 0; }
 .leaflet-popup-tip { box-shadow: none; }
-.leaflet-popup-content { margin: 24px 24px 20px; width: 300px !important; line-height: 1.7; }
+.leaflet-popup-content { margin: 24px 24px 32px; width: 300px !important; line-height: 1.7; }
 .leaflet-container a.leaflet-popup-close-button { top: 10px; right: 10px; color: var(--ink); font-weight: 300; font-size: 22px; }
 .popup .shop-name { font-size: 18px; margin-top: 4px; }
 .popup dl { display: grid; grid-template-columns: auto 1fr; gap: 4px 14px; margin: 14px 0 16px; font-size: 12px; }
 .popup dt { font-family: var(--en); text-transform: uppercase; letter-spacing: .16em; color: var(--muted); font-size: 11px; }
 .popup dd { margin: 0; color: var(--ink-2); }
 .popup dd a { border-bottom: 1px solid var(--line); }
-.popup .ratings { row-gap: 8px; }
+.popup .ratings { row-gap: 8px; padding-bottom: 6px; }
 .popup .rating:nth-child(3n+1) { padding-left: 0; }
-.popup-links { display: flex; gap: 18px; margin: 16px 0 0; padding-top: 12px; border-top: 1px solid var(--line); font-size: 12px; letter-spacing: .08em; }
-.popup-links a::after { content: ' →'; font-family: var(--en); }
+.popup-icons { display: flex; gap: 14px; margin: 14px 0 16px; padding-top: 14px; border-top: 1px solid var(--line); }
+.popup .ic { width: 44px; height: 44px; border: 1px solid var(--ink); border-radius: 50%; display: grid; place-items: center; color: var(--ink); background: #fff; transition: background .2s, color .2s; border-bottom: 1px solid var(--ink); }
+.popup .ic svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.popup .ic svg.fill { fill: currentColor; stroke: none; }
+.popup .ic svg .dot { fill: currentColor; stroke: none; }
+.popup a.ic:hover { background: var(--ink); color: #fff; }
+.popup .ic.off { border-color: var(--line); color: #c8c8c8; }
+.popup .ic.search { border-style: dashed; color: var(--muted); border-color: var(--muted); }
 
 /* ---------- Index table ---------- */
 .table-wrap { overflow-x: auto; padding: 0 var(--gutter) 24px; border-top: 1px solid var(--line); }
@@ -296,7 +302,7 @@ button, input, select { font: inherit; color: inherit; }
   .field { min-width: 0; flex: 1 1 140px; }
   .shop-list li { padding: 20px 16px; }
   .rating:nth-child(3n+1) { padding-left: 0; }
-  .leaflet-popup-content { width: 250px !important; margin: 20px 18px 16px; }
+  .leaflet-popup-content { width: 250px !important; margin: 20px 18px 28px; }
 }
 
 /* もっと見る */

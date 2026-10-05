@@ -147,25 +147,41 @@
   // 営業時間は「 / 」区切りで1行ずつ表示する（表記は scripts/hours.mjs で統一）
   const hoursHtml = (h) => h && h.split(' / ').map(esc).join('<br>');
 
+  // 吹き出しのアイコン（HP / Instagram / X / 経路）
+  const ICONS = {
+    hp: '<svg viewBox="0 0 24 24"><path d="M3 11l9-8 9 8v10a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1z"/></svg>',
+    ig: '<svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r="1" class="dot"/></svg>',
+    x: '<svg viewBox="0 0 24 24" class="fill"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>',
+    route: '<svg viewBox="0 0 24 24"><path d="M3 11l19-9-9 19-2-8z"/></svg>',
+  };
+  function iconLinks(shop) {
+    const ic = (key, label, href) => href
+      ? `<a class="ic" href="${href}" target="_blank" rel="noopener" title="${label}" aria-label="${label}">${ICONS[key]}</a>`
+      : `<span class="ic off" title="${label}（未登録）" aria-label="${label}（未登録）">${ICONS[key]}</span>`;
+    return `<div class="popup-icons">
+      ${ic('hp', 'ホームページ', shop.website && esc(shop.website))}
+      ${shop.instagram
+        ? ic('ig', 'Instagram', `https://www.instagram.com/${esc(shop.instagram)}/`)
+        : ic('ig', 'Instagramを探す', `https://www.google.com/search?q=${enc(`site:instagram.com ${shop.name} ${shop.city}`)}`).replace('class="ic"', 'class="ic search"')}
+      ${ic('x', 'X', shop.x && `https://x.com/${esc(shop.x)}`)}
+      ${ic('route', '経路', `https://www.google.com/maps/dir/?api=1&destination=${shop.lat},${shop.lng}`)}
+    </div>`;
+  }
+
   function popupHtml(shop) {
     const rows = [
       ['住所', shop.address],
       ['営業時間', hoursHtml(shop.hours)],
       ['電話', shop.phone && `<a href="tel:${esc(shop.phone)}">${esc(shop.phone)}</a>`],
-      ['Web', shop.website && `<a href="${esc(shop.website)}" target="_blank" rel="noopener">公式サイト</a>`],
-      ['Instagram', shop.instagram && `<a href="https://www.instagram.com/${esc(shop.instagram)}/" target="_blank" rel="noopener">@${esc(shop.instagram)}</a>`],
     ].filter(([, v]) => v);
-    const label = { 住所: 'Address', 営業時間: 'Hours', 電話: 'Tel', Web: 'Web', Instagram: 'Instagram' };
+    const label = { 住所: 'Address', 営業時間: 'Hours', 電話: 'Tel' };
     return `<div class="popup">
       <p class="shop-meta">${meta(shop)}</p>
       <p class="shop-name">${rankBadge(shop)}${esc(shop.name)}</p>
       ${tagsHtml(shop)}
       <dl>${rows.map(([k, v]) => `<dt>${label[k]}</dt><dd>${k === '住所' ? esc(v) : v}</dd>`).join('')}</dl>
+      ${iconLinks(shop)}
       <div class="ratings">${SITES.map((s) => ratingCell(shop, s)).join('')}</div>
-      <p class="popup-links">
-        <a href="https://www.google.com/maps/dir/?api=1&destination=${shop.lat},${shop.lng}" target="_blank" rel="noopener">経路</a>
-        ${shop.instagram ? '' : `<a href="https://www.google.com/search?q=${enc(`site:instagram.com ${shop.name} ${shop.city}`)}" target="_blank" rel="noopener">Instagramを探す</a>`}
-      </p>
     </div>`;
   }
 
