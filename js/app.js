@@ -87,6 +87,15 @@
     },
   });
   map.addLayer(cluster);
+  // 選んだ直後の2.5秒以内に、再描画（画面サイズの変化など）で吹き出しが閉じたら開き直す。地図を触ったら止める
+  map.getContainer().addEventListener('pointerdown', () => { reopen = null; }, true);
+  map.on('popupclose', () => {
+    if (!reopen || Date.now() > reopen.until) return;
+    const m = markers.get(reopen.id);
+    setTimeout(() => {
+      if (reopen && Date.now() <= reopen.until && !m.isPopupOpen()) cluster.zoomToShowLayer(m, () => m.openPopup());
+    }, 60);
+  });
 
   function icon(shop, active = false) {
     return L.divIcon({
@@ -262,10 +271,35 @@
     if (activeMarker && activeMarker !== m) activeMarker.setIcon(icon(activeMarker.shop));
     m.setIcon(icon(shop, true));
     activeMarker = m;
-    document.getElementById('view-map').scrollIntoView({ behavior: 'smooth', block: 'start' });
-    map.setView([shop.lat, shop.lng], Math.max(map.getZoom(), 16));
-    m.openPopup();
     document.querySelectorAll('#list li').forEach((li) => li.classList.toggle('active', li.dataset.id === id));
+    // 地図までスクロールし終えてから、地図を動かして吹き出しを開く
+    // （スクロール中に開くと、スマホのアドレスバーの伸び縮みによる再描画で吹き出しが消えてしまうため）
+    const token = (focusToken = {});
+    document.getElementById('view-map').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    waitForScrollEnd().then(() => {
+      if (token !== focusToken) return; // 別のお店が選ばれた
+      map.invalidateSize({ animate: false });
+      map.setView([shop.lat, shop.lng], Math.max(map.getZoom(), 16), { animate: false });
+      reopen = { id, until: Date.now() + 2500 };
+      cluster.zoomToShowLayer(m, () => m.openPopup());
+    });
+  }
+
+  let focusToken = null;
+  let reopen = null; // 選択直後に吹き出しが勝手に閉じたとき、開き直す対象
+  // 画面のスクロールが止まるまで待つ（動いていなければすぐ戻る。最長1.2秒）
+  function waitForScrollEnd(max = 1200) {
+    return new Promise((resolve) => {
+      let last = window.scrollY, still = 0;
+      const t0 = performance.now();
+      const tick = () => {
+        still = window.scrollY === last ? still + 1 : 0;
+        last = window.scrollY;
+        if (still >= 8 || performance.now() - t0 > max) return resolve();
+        requestAnimationFrame(tick);
+      };
+      requestAnimationFrame(tick);
+    });
   }
 
   function setView(view) {
