@@ -144,10 +144,13 @@
     ? `<span class="rank${shop.rank <= 3 ? ' rank-top' : ''}" title="総合スコア ${shop.score}"><small>RANK</small>${shop.rank}</span>`
     : '';
 
+  // 営業時間は「 / 」区切りで1行ずつ表示する（表記は scripts/hours.mjs で統一）
+  const hoursHtml = (h) => h && h.split(' / ').map(esc).join('<br>');
+
   function popupHtml(shop) {
     const rows = [
       ['住所', shop.address],
-      ['営業時間', esc(shop.hours)],
+      ['営業時間', hoursHtml(shop.hours)],
       ['電話', shop.phone && `<a href="tel:${esc(shop.phone)}">${esc(shop.phone)}</a>`],
       ['Web', shop.website && `<a href="${esc(shop.website)}" target="_blank" rel="noopener">公式サイト</a>`],
       ['Instagram', shop.instagram && `<a href="https://www.instagram.com/${esc(shop.instagram)}/" target="_blank" rel="noopener">@${esc(shop.instagram)}</a>`],

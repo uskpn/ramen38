@@ -1374,6 +1374,198 @@
       "placeId": "ChIJa-QFbzNgTzURM827PV6lJ5M",
       "osmId": "node/12032835645",
       "reason": "出前のみ"
+    },
+    {
+      "id": "g-ChIJ9evJFpxhTzUREP46ppXhW3I",
+      "name": "華艶（はなえん）",
+      "city": "宇和島市",
+      "placeId": "ChIJ9evJFpxhTzUREP46ppXhW3I",
+      "osmId": null,
+      "reason": "閉業"
+    },
+    {
+      "id": "rdb-143266",
+      "name": "石鎚豚つけそば",
+      "city": "西条市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJwSo6jsdhTzUROo5DL2O9mww",
+      "name": "火鍋・もつ鍋 「藤」",
+      "city": "宇和島市",
+      "placeId": "ChIJvTLo9cthTzUR0H5zlwg1dqI",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "rdb-140216",
+      "name": "中華旬菜 西尾",
+      "city": "松山市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "重複"
+    },
+    {
+      "id": "osm-n696846346",
+      "name": "こくりょう食堂",
+      "city": "新居浜市",
+      "placeId": "ChIJ_fKfvULPUTURtymyVnT8L7I",
+      "osmId": "node/696846346",
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "osm-w625669744",
+      "name": "ラーメンショップ北条店",
+      "city": "松山市",
+      "placeId": "ChIJhwj8UwAdUDURIuIyg7m8w4Y",
+      "osmId": "way/625669744",
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJETUL2wtWTzURkyHqKNcgCcQ",
+      "name": "遊遊",
+      "city": "愛南町",
+      "placeId": "ChIJETUL2wtWTzURkyHqKNcgCcQ",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJtbf3PB2bRTURPKGN0c78WwM",
+      "name": "Ikata Dining 炭火焼 鶏勇",
+      "city": "伊方町",
+      "placeId": "ChIJtbf3PB2bRTURPKGN0c78WwM",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJA_fd03byTzURrOw7i_dDRUA",
+      "name": "四季",
+      "city": "伊予市",
+      "placeId": "ChIJA_fd03byTzURrOw7i_dDRUA",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJbUC0tcthTzURDtPHmCx7J1A",
+      "name": "Ji-Ba",
+      "city": "宇和島市",
+      "placeId": "ChIJbUC0tcthTzURDtPHmCx7J1A",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJVWhKlWb2RTURNSKq-5kA7_U",
+      "name": "手づけ一本",
+      "city": "宇和島市",
+      "placeId": "ChIJVWhKlWb2RTURNSKq-5kA7_U",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ0bXZmWhhTzURNVVWm3HDuXI",
+      "name": "嶋",
+      "city": "宇和島市",
+      "placeId": "ChIJ0bXZmWhhTzURNVVWm3HDuXI",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJxxvQlh9lTzURGhqNT7_77ek",
+      "name": "miroku",
+      "city": "鬼北町",
+      "placeId": "ChIJxxvQlh9lTzURGhqNT7_77ek",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ___zyziVUTURomGmROXc2WQ",
+      "name": "一心",
+      "city": "四国中央市",
+      "placeId": "ChIJ___zyziVUTURomGmROXc2WQ",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJwdIBovuTUTURrJoCAHWXZX8",
+      "name": "山口",
+      "city": "四国中央市",
+      "placeId": "ChIJwdIBovuTUTURrJoCAHWXZX8",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJr3jtbpkuUDURLXr0jmPfl0M",
+      "name": "祭華",
+      "city": "西条市",
+      "placeId": "ChIJr3jtbpkuUDURLXr0jmPfl0M",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJbVm3hNrSUTUR2pJ4R8NGI6Q",
+      "name": "山長",
+      "city": "西条市",
+      "placeId": "ChIJbVm3hNrSUTUR2pJ4R8NGI6Q",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJlRL_t7XSUTURninf_kSdKd4",
+      "name": "西條そば 甲",
+      "city": "西条市",
+      "placeId": "ChIJlRL_t7XSUTURninf_kSdKd4",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJLSf1Nvh_RTURzmSNhROAReQ",
+      "name": "CO-CO",
+      "city": "大洲市",
+      "placeId": "ChIJLSf1Nvh_RTURzmSNhROAReQ",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJY3KJ6w-BTzURfCoSgJJclxg",
+      "name": "なな",
+      "city": "大洲市",
+      "placeId": "ChIJY3KJ6w-BTzURfCoSgJJclxg",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ25lTlsR_RTURjKK_XlKvKXE",
+      "name": "屋台よもだ",
+      "city": "大洲市",
+      "placeId": "ChIJ25lTlsR_RTURjKK_XlKvKXE",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJK89_Ovt_RTURRrNpCNC6I7A",
+      "name": "五志喜めんそーれ",
+      "city": "大洲市",
+      "placeId": "ChIJK89_Ovt_RTURRrNpCNC6I7A",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJJUF54h_dTzURo-bLCIVf5x4",
+      "name": "Okinawa🏝Kitchen美ら島160 オキナワキッチンチュラシマヒャクロクジュウ",
+      "city": "東温市",
+      "placeId": "ChIJJUF54h_dTzURo-bLCIVf5x4",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "rdb-143910",
+      "name": "OkinawaKitchen 美ら島160",
+      "city": "東温市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }

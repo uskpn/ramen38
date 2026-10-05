@@ -16,7 +16,14 @@ export const COLUMNS = [
   '食べログ点数', '食べログ件数', '食べログURL', 'RDB点数', 'RDB件数', 'RDBURL',
   ...TAG_KEYS.map((k) => TAG_HEADERS[k]),
   '状態', '備考', '緯度', '経度',
+  '営業時間出典URL', '営業時間確認日', '営業時間確認状況',
 ];
+
+// Excel などで入力した別名のタグを、サイトのタグ名に直す
+export const TAG_ALIAS = { つけめん: 'つけ麺', ごま: '胡麻', 鯛: '鯛・鮮魚', 辛麺: '辛麺', 二郎: '二郎系', 豚骨醤油: ['豚骨', '醤油'] };
+
+// 営業時間の出典・確認状況は公開しない（data/hours-sources.csv に保存）
+export const HOURS_SOURCE_COLUMNS = ['営業時間出典URL', '営業時間確認日', '営業時間確認状況'];
 
 export const csvEscape = (v) => (v == null ? '' : /[",\n\r]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : String(v));
 
