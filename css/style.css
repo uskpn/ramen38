@@ -280,7 +280,7 @@ button, input, select { font: inherit; color: inherit; }
 
 /* ---------- Responsive ---------- */
 @media (max-width: 960px) {
-  .map-layout { grid-template-columns: 1fr; grid-template-rows: 62svh auto; height: auto; min-height: 0; }
+  .map-layout { grid-template-columns: 1fr; grid-template-rows: max(62svh, calc(100svh - var(--header-h))) auto; height: auto; min-height: 0; } /* スマホでは地図を画面いっぱいに（吹き出しが収まる高さ） */
   .shop-list { border-left: 0; border-top: 1px solid var(--line); overflow: visible; }
   .about-body { grid-template-columns: 1fr; }
   .toggles-options { margin-left: 0; }

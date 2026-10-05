@@ -80,6 +80,8 @@
     showCoverageOnHover: false,
     maxClusterRadius: 45,
     disableClusteringAtZoom: 16,
+    // 吹き出しを開いて地図が動いたとき、画面の外に出たピンを取り除かない（取り除くと吹き出しが閉じてしまう）
+    removeOutsideVisibleBounds: false,
     iconCreateFunction: (c) => {
       const n = c.getChildCount();
       const size = n < 10 ? 30 : n < 50 ? 38 : 46;
@@ -90,7 +92,8 @@
   // 選んだ直後の2.5秒以内に、再描画（画面サイズの変化など）で吹き出しが閉じたら開き直す。地図を触ったら止める
   map.getContainer().addEventListener('pointerdown', () => { reopen = null; }, true);
   map.on('popupclose', () => {
-    if (!reopen || Date.now() > reopen.until) return;
+    if (!reopen || Date.now() > reopen.until || reopen.tries >= 1) return; // 開き直しは1回だけ（繰り返して地図が揺れるのを防ぐ）
+    reopen.tries++;
     const m = markers.get(reopen.id);
     setTimeout(() => {
       if (reopen && Date.now() <= reopen.until && !m.isPopupOpen()) cluster.zoomToShowLayer(m, () => m.openPopup());
@@ -280,9 +283,15 @@
       if (token !== focusToken) return; // 別のお店が選ばれた
       map.invalidateSize({ animate: false });
       map.setView([shop.lat, shop.lng], Math.max(map.getZoom(), 16), { animate: false });
-      reopen = { id, until: Date.now() + 2500 };
+      reopen = { id, until: Date.now() + 2500, tries: 0 };
       cluster.zoomToShowLayer(m, () => m.openPopup());
     });
+  }
+
+  // 吹き出しの本文の最大の高さ = 地図の高さ − (上下の余白 + 吹き出しの矢印 + ピン + 画面端の余白)
+  function popupMaxHeight() {
+    const margins = window.innerWidth <= 720 ? 48 : 56;
+    return Math.max(160, Math.min(640, map.getSize().y - margins - 20 - 34 - 24));
   }
 
   let focusToken = null;
@@ -365,7 +374,8 @@
     for (const s of state.shops) {
       const m = L.marker([s.lat, s.lng], { icon: icon(s), title: s.name });
       m.shop = s;
-      m.bindPopup(() => popupHtml(s), { maxWidth: 360, minWidth: 250 });
+      // 吹き出しは地図の高さに収まる大きさにする（収まらない分は吹き出しの中でスクロール）
+      m.bindPopup(() => { m.getPopup().options.maxHeight = popupMaxHeight(); return popupHtml(s); }, { maxWidth: 360, minWidth: 250 });
       markers.set(s.id, m);
     }
 
