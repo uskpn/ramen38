@@ -97,6 +97,7 @@ function applyRow(shop, get) {
   const set = (obj, key, val, label) => { if (JSON.stringify(obj[key] ?? null) !== JSON.stringify(val ?? null)) { obj[key] = val; changed.push(label); } };
   const text = (h, key, tf = (x) => x) => { const v = get(h); if (v === '') return; set(shop, key, v === DEL ? null : tf(v), h); };
   text('店名', 'name'); text('市区町村', 'city'); text('住所', 'address'); text('電話', 'phone');
+  text('ホームページURL', 'website');
   text('Instagram', 'instagram', (v) => instagramHandle(v) || v);
   text('X', 'x', (v) => v.replace(/^https?:\/\/(?:www\.)?(?:x|twitter)\.com\//, '').replace(/^@/, '').replace(/[/?#].*$/, ''));
   const hv = get('営業時間');

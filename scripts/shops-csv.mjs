@@ -12,7 +12,7 @@ export const TAG_KEYS = ['style', 'soup', 'noodle', 'character'];
 export const TAG_HEADERS = { style: 'Style', soup: 'Soup', noodle: 'Noodle', character: 'Character' };
 
 export const COLUMNS = [
-  'id', '店名', 'ジャンル', 'ラーメン', '市区町村', '住所', '営業時間', '電話', 'Instagram', 'X',
+  'id', '店名', 'ジャンル', 'ラーメン', '市区町村', '住所', '営業時間', '電話', 'ホームページURL', 'Instagram', 'X',
   '食べログ点数', '食べログ件数', '食べログURL', 'RDB点数', 'RDB件数', 'RDBURL',
   ...TAG_KEYS.map((k) => TAG_HEADERS[k]),
   '状態', '備考', '緯度', '経度',

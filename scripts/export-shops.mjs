@@ -25,7 +25,7 @@ for (const s of shops) {
   const tb = s.ratings?.tabelog, rd = s.ratings?.rdb;
   const row = [
     s.id, s.name, CATEGORY_LABEL[s.category] ?? s.category, RAMEN_LABEL[s.ramen] ?? s.ramen ?? '', s.city, s.address,
-    s.hours, s.phone, s.instagram, s.x,
+    s.hours, s.phone, s.website, s.instagram, s.x,
     tb?.score, tb?.count, tb?.url, rd?.score, rd?.count, rd?.url,
     ...TAG_KEYS.map((k) => (s.tags?.[k] || []).join('｜')),
     '', '', s.lat, s.lng,
