@@ -31,6 +31,10 @@ const ICONS = {
   x: '<svg viewBox="0 0 24 24" class="fill"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>',
   route: '<svg viewBox="0 0 24 24"><path d="M3 11l19-9-9 19-2-8z"/></svg>',
 };
+const ACT_ICONS = {
+  fav: '<svg viewBox="0 0 24 24"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg>',
+  visited: '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M7.5 12.5l3 3 6-6.5"/></svg>',
+};
 const icon = (key, label, href) => href
   ? `<a class="ic" href="${esc(href)}" target="_blank" rel="noopener" title="${label}" aria-label="${label}">${ICONS[key]}</a>`
   : `<span class="ic off" title="${label}（未登録）" aria-label="${label}（未登録）">${ICONS[key]}</span>`;
@@ -94,7 +98,7 @@ ${body}
   <p class="footer-brand">RAMEN 38 <span>Explore Ehime Ramen</span></p>
   <p class="footer-credit"><a href="../">地図で探す</a> · <a href="./">全店舗一覧</a> · Data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>, Google</p>
 </footer>
-${app ? app.scripts : ''}
+${app ? app.scripts : `<script src="../js/shop-page.js?v=${VER}" defer></script>`}
 </body>
 </html>
 `;
@@ -147,7 +151,11 @@ function shopPage(s) {
     </div>
     <div class="ratings">${['google', 'tabelog', 'rdb'].map((k) => ratingCell(s, k)).join('')}</div>
   </div>
-  <p class="shop-cta"><a class="btn-primary" href="../#shop=${enc(s.id)}">地図で見る・「行った」を記録する</a></p>
+  <div class="shop-cta" data-id="${esc(s.id)}">
+    <a class="btn-primary" href="../#shop=${enc(s.id)}">地図で見る</a>
+    <button type="button" class="act" data-act="fav" aria-pressed="false">${ACT_ICONS.fav}<span>お気に入り</span></button>
+    <button type="button" class="act" data-act="visited" aria-pressed="false">${ACT_ICONS.visited}<span>行った</span></button>
+  </div>
   ${sim.length ? `<section class="similar"><h2 class="lab">この店が好きなら</h2><ul>${sim.map(({ o, shared }) => `<li><a href="${o.id}.html"><span class="nm">${esc(o.name)}</span><span class="mt">${esc(o.city)} — ${esc(CATEGORY[o.category])}</span><span class="sh">共通：${shared.slice(0, 4).map(esc).join('・')}</span></a></li>`).join('')}</ul></section>` : ''}
   <p class="page-note">掲載情報は変わることがあります。お出かけ前に、各店・各サイトで最新の情報をご確認ください。（データ更新：${lastmod.replace(/-/g, '.')}）</p>
 </article>`;

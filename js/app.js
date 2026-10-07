@@ -184,6 +184,14 @@
     return all.length ? `<p class="tags">${all.map((x) => `<span>${esc(x)}</span>`).join('')}</p>` : '';
   };
 
+  // 一覧（地図の横のリスト・Index の表）のホームページ / Instagram / X のアイコン。未登録は薄く表示
+  function socialIcons(shop) {
+    const ic = (key, label, href) => href
+      ? `<a class="ic" href="${href}" target="_blank" rel="noopener" title="${label}" aria-label="${label}">${ICONS[key]}</a>`
+      : `<span class="ic off" title="${label}（未登録）" aria-label="${label}（未登録）">${ICONS[key]}</span>`;
+    return `<span class="social">${ic('hp', 'ホームページ', shop.website && esc(shop.website))}${ic('ig', 'Instagram', shop.instagram && `https://www.instagram.com/${esc(shop.instagram)}/`)}${ic('x', 'X', shop.x && `https://x.com/${esc(shop.x)}`)}</span>`;
+  }
+
   function instagramLink(shop) {
     if (!shop.instagram) return '';
     return `<a class="ig" href="https://www.instagram.com/${esc(shop.instagram)}/" target="_blank" rel="noopener">@${esc(shop.instagram)}</a>`;
@@ -299,7 +307,7 @@
         <p class="shop-meta">${meta(s)}</p>
         ${tagsHtml(s)}
         <div class="ratings">${SITES.map((site) => ratingCell(s, site)).join('')}</div>
-        ${instagramLink(s)}
+        ${socialIcons(s)}
       </li>`).join('') + (list.length > state.limit ? `<li class="more"><button type="button" id="more">More — ${list.length - state.limit}</button></li>` : '')
       || '<li class="empty">条件に合うお店がありません</li>';
 
@@ -317,7 +325,7 @@
             ? `<td class="num"><a href="${href}" target="_blank" rel="noopener"><span class="score">${fmt(site, r.score)}</span>${r.count ? `<small>${r.count.toLocaleString()}</small>` : ''}</a></td>`
             : `<td class="num"><a class="link" href="${href}" target="_blank" rel="noopener">${r?.url ? 'Page' : 'Search'}</a></td>`;
         }).join('')}
-        <td class="ig-cell">${instagramLink(s) || '<span class="dash">—</span>'}</td>
+        <td class="ig-cell">${socialIcons(s)}</td>
       </tr>`).join('');
   }
 
