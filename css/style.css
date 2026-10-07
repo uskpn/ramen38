@@ -361,3 +361,13 @@ button, input, select { font: inherit; color: inherit; }
   opacity: 0; pointer-events: none; transition: opacity .25s, transform .25s;
 }
 #toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+/* 吹き出しの下に余白：スクロールして最後まで見たときにも空くよう、余白は中身の内側に持たせる */
+.leaflet-popup-content { margin-bottom: 8px; }
+.popup { padding-bottom: 24px; }
+@media (max-width: 720px) { .popup { padding-bottom: 20px; } }
+/* お気に入り・行った・共有：文字の大きさを変えている端末でも枠に収まるよう、アイコンを上・文字を下に並べる */
+.popup-actions { gap: 6px; margin-bottom: 14px; }
+.popup .act { flex-direction: column; gap: 2px; min-height: 48px; padding: 6px 2px; border-radius: 12px; font-size: 11px; line-height: 1.3; letter-spacing: 0; overflow: hidden; }
+.popup .act span { max-width: 100%; overflow: hidden; text-overflow: clip; }
+.popup .act svg { width: 18px; height: 18px; }

@@ -219,8 +219,8 @@
     share: '<svg viewBox="0 0 24 24"><path d="M12 15V3M7.5 7.5L12 3l4.5 4.5M5 12v8h14v-8"/></svg>',
   };
   const actionsHtml = (shop) => `<div class="popup-actions" data-id="${esc(shop.id)}">
-      <button type="button" class="act" data-act="fav" aria-pressed="${mylist.fav.has(shop.id)}">${ICONS2.fav}<span>${mylist.fav.has(shop.id) ? 'お気に入り済み' : 'お気に入り'}</span></button>
-      <button type="button" class="act" data-act="visited" aria-pressed="${mylist.visited.has(shop.id)}">${ICONS2.visited}<span>${mylist.visited.has(shop.id) ? '行った' : '行った！'}</span></button>
+      <button type="button" class="act" data-act="fav" aria-pressed="${mylist.fav.has(shop.id)}">${ICONS2.fav}<span>お気に入り</span></button>
+      <button type="button" class="act" data-act="visited" aria-pressed="${mylist.visited.has(shop.id)}">${ICONS2.visited}<span>行った</span></button>
       <button type="button" class="act" data-act="share">${ICONS2.share}<span>共有</span></button>
     </div>`;
 
@@ -402,7 +402,6 @@
     if (btn.dataset.act === 'share') return shareShop(shop);
     const on = toggleMark(id, btn.dataset.act);
     btn.setAttribute('aria-pressed', on);
-    btn.querySelector('span').textContent = btn.dataset.act === 'fav' ? (on ? 'お気に入り済み' : 'お気に入り') : (on ? '行った' : '行った！');
     if (on) toast(btn.dataset.act === 'fav' ? 'お気に入りに追加しました' : '「行った」に記録しました');
   }
 
