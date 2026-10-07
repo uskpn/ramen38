@@ -2286,6 +2286,278 @@
       "placeId": "ChIJ99-Y04KERTUREYJnDXCe2uM",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJtT3zIwzzTzURyIL4hcgwBJY",
+      "name": "テイクアウト専門店「四川料理の店 Chusen」",
+      "city": "伊予市",
+      "placeId": "ChIJtT3zIwzzTzURyIL4hcgwBJY",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJW2Y4mwRjTzUR5mUkr06Fpf0",
+      "name": "いろり茶屋",
+      "city": "宇和島市",
+      "placeId": "ChIJW2Y4mwRjTzUR5mUkr06Fpf0",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJbZV2h8lhTzUR_FXhtrNCEY4",
+      "name": "セルフめん処 どがいぞう",
+      "city": "宇和島市",
+      "placeId": "ChIJbZV2h8lhTzUR_FXhtrNCEY4",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ52mUpephTzURVxhGcdVKcSw",
+      "name": "どんと 北宇和島店",
+      "city": "宇和島市",
+      "placeId": "ChIJ52mUpephTzURVxhGcdVKcSw",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJEcn9pyZhTzUR3BsX5iRTr8k",
+      "name": "天婦羅 天よし",
+      "city": "宇和島市",
+      "placeId": "ChIJEcn9pyZhTzUR3BsX5iRTr8k",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJhUb7BxJlTzURicVih16HW7g",
+      "name": "ジョイフル愛媛広見店",
+      "city": "鬼北町",
+      "placeId": "ChIJhUb7BxJlTzURicVih16HW7g",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJszaZCAKVUTUR-4FOCngmCvg",
+      "name": "がんば亭 三島店",
+      "city": "四国中央市",
+      "placeId": "ChIJszaZCAKVUTUR-4FOCngmCvg",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJs0jI4lmRUTURU3bHkR0eCH8",
+      "name": "がんば亭 川之江店",
+      "city": "四国中央市",
+      "placeId": "ChIJs0jI4lmRUTURU3bHkR0eCH8",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "rdb-112194",
+      "name": "かめそば じゅん",
+      "city": "松山市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJr5cScQrvTzUR7iqfigZFR1w",
+      "name": "井上のそば屋 本店",
+      "city": "松山市",
+      "placeId": "ChIJr5cScQrvTzUR7iqfigZFR1w",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "rdb-133861",
+      "name": "鶏と肴 とさ鳥",
+      "city": "松山市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "rdb-125108",
+      "name": "和菜 いたや",
+      "city": "松山市",
+      "placeId": null,
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJva3BphzuTzURMEidFcPsxec",
+      "name": "hanari ハンアリ",
+      "city": "松前町",
+      "placeId": "ChIJva3BphzuTzURMEidFcPsxec",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJT7mWlyPvTzURt7VkB62znKI",
+      "name": "M2BASE",
+      "city": "松前町",
+      "placeId": "ChIJT7mWlyPvTzURt7VkB62znKI",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJSTnPOf7tTzUR7naOSQ0hoeI",
+      "name": "がんば亭 松前店",
+      "city": "松前町",
+      "placeId": "ChIJSTnPOf7tTzUR7naOSQ0hoeI",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJH1qo_jbtTzURQbDFJYQiUVM",
+      "name": "モカチャーゼ",
+      "city": "松前町",
+      "placeId": "ChIJH1qo_jbtTzURQbDFJYQiUVM",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJq-bnNfnxTzURjHVbcQDNgQw",
+      "name": "割烹 仕出し 川﨑屋",
+      "city": "松前町",
+      "placeId": "ChIJq-bnNfnxTzURjHVbcQDNgQw",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJxRZLKyXvTzURL7itRhlS5D0",
+      "name": "羅座亜留 炭火焼自家焙煎所 ジャカランダコーヒー",
+      "city": "松前町",
+      "placeId": "ChIJxRZLKyXvTzURL7itRhlS5D0",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJRWm1NiR_RTURwiMWGnViWkM",
+      "name": "甘味霧中/菓子工房KAZU",
+      "city": "松野町",
+      "placeId": "ChIJRWm1NiR_RTURwiMWGnViWkM",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJkw_9LgOtUTUR4svcX-17xNE",
+      "name": "しまで cafe",
+      "city": "上島町",
+      "placeId": "ChIJkw_9LgOtUTUR4svcX-17xNE",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJzWDy2MnIUTURCz1qhLtB0vE",
+      "name": "かつ福 新居浜店",
+      "city": "新居浜市",
+      "placeId": "ChIJzWDy2MnIUTURCz1qhLtB0vE",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ33sH5h_PUTURfxLeclkXG-0",
+      "name": "ピッツェリアマルブン 新居浜店",
+      "city": "新居浜市",
+      "placeId": "ChIJ33sH5h_PUTURfxLeclkXG-0",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJnWRzafuGRTUR171BuRyvv-0",
+      "name": "シャルール",
+      "city": "西予市",
+      "placeId": "ChIJnWRzafuGRTUR171BuRyvv-0",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ5TMwW3roTzURMlKjLd4vaiw",
+      "name": "どんと 重信店",
+      "city": "東温市",
+      "placeId": "ChIJ5TMwW3roTzURMlKjLd4vaiw",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ2zAT83voTzURPjbCvRSelD0",
+      "name": "ペッティロッソ",
+      "city": "東温市",
+      "placeId": "ChIJ2zAT83voTzURPjbCvRSelD0",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJVbhpskzdTzURbFZAjtPvEWE",
+      "name": "マニフィーク",
+      "city": "東温市",
+      "placeId": "ChIJVbhpskzdTzURbFZAjtPvEWE",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJAypVZwroTzURhnW_xdJwOxE",
+      "name": "ロカンダ デルクオーレ",
+      "city": "東温市",
+      "placeId": "ChIJAypVZwroTzURhnW_xdJwOxE",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJx_zDDbSFTzURfJOaIFCSmXQ",
+      "name": "洋食マザー",
+      "city": "内子町",
+      "placeId": "ChIJx_zDDbSFTzURfJOaIFCSmXQ",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJv-UHJ36DRTUROZIHocIpkzY",
+      "name": "petit bonheur",
+      "city": "八幡浜市",
+      "placeId": "ChIJv-UHJ36DRTUROZIHocIpkzY",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJyxr2GHuDRTURzi4H9VVlr08",
+      "name": "いの",
+      "city": "八幡浜市",
+      "placeId": "ChIJyxr2GHuDRTURzi4H9VVlr08",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJcUDgiUmDRTURjsnFqAkKnIA",
+      "name": "ジョイフル 愛媛保内店",
+      "city": "八幡浜市",
+      "placeId": "ChIJcUDgiUmDRTURjsnFqAkKnIA",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ20JRXYOERTURCJJ-a6f6Nls",
+      "name": "デリー",
+      "city": "八幡浜市",
+      "placeId": "ChIJ20JRXYOERTURCJJ-a6f6Nls",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJkxAYp52ERTURKgVhE4ns7Fg",
+      "name": "どんと 北浜店",
+      "city": "八幡浜市",
+      "placeId": "ChIJkxAYp52ERTURKgVhE4ns7Fg",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJbUYCfkaDRTURUG8O7zIoLF4",
+      "name": "矢磨樹保内店",
+      "city": "八幡浜市",
+      "placeId": "ChIJbUYCfkaDRTURUG8O7zIoLF4",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }
