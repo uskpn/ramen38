@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T14:06:56.299Z",
+  "updatedAt": "2026-10-07T14:36:36.638Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -7123,8 +7123,12 @@
       "placeId": "ChIJO3ag-ezAUTURBk969nXHuDw",
       "tags": {
         "style": [
-          "ラーメン",
-          "つけ麺"
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "味噌",
+          "豚骨"
         ]
       },
       "score": 45.8,
