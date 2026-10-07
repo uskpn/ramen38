@@ -223,7 +223,8 @@
       <button type="button" class="act" data-act="fav" aria-pressed="${mylist.fav.has(shop.id)}">${ICONS2.fav}<span>お気に入り</span></button>
       <button type="button" class="act" data-act="visited" aria-pressed="${mylist.visited.has(shop.id)}">${ICONS2.visited}<span>行った</span></button>
       <button type="button" class="act" data-act="share">${ICONS2.share}<span>共有</span></button>
-    </div>`;
+    </div>
+    <p class="popup-more"><a href="shop/${esc(shop.id)}.html">このお店のページ →</a></p>`;
 
   function popupHtml(shop) {
     const rows = [

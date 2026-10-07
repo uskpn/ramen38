@@ -13,6 +13,7 @@ on:
       - 'js/**'
       - 'assets/**'
       - 'data/shops.json'
+      - 'scripts/build-pages.mjs'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
@@ -41,6 +42,8 @@ jobs:
           sed -i "s/__VERSION__/${GITHUB_SHA::7}/g" _site/index.html
           cp -r css js assets _site/
           cp data/shops.json _site/data/
+          # 店ごとの静的ページ・全店舗一覧・sitemap.xml を作る（検索で一店ずつ見つけてもらうため）
+          node scripts/build-pages.mjs _site "${GITHUB_SHA::7}"
           touch _site/.nojekyll
           find _site -type f | sort
 

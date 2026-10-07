@@ -436,3 +436,35 @@ button, input, select { font: inherit; color: inherit; }
 .cm-acts button { flex: 1; min-height: 42px; background: #fff; border: 1px solid var(--ink); border-radius: 21px; font: inherit; font-size: 13px; cursor: pointer; }
 .cm-acts .pri { background: var(--ink); color: #fff; flex: 1.4; }
 .cm-note { margin: 10px 0 0; font-size: 11px; color: #999; text-align: center; }
+
+/* ---------- 店ごとのページ（shop/） ---------- */
+.shop-page, .shop-index { max-width: 760px; margin: 0 auto; padding: calc(var(--header-h) + 40px) var(--gutter) 72px; }
+.crumb { margin: 0 0 20px; font-size: 12px; color: var(--muted); letter-spacing: .06em; }
+.crumb a { border-bottom: 1px solid var(--line); }
+.crumb span { margin: 0 .6em; }
+.shop-title { margin: 4px 0 14px; font-size: clamp(26px, 4.4vw, 38px); font-weight: 500; line-height: 1.4; letter-spacing: .04em; }
+.shop-page .popup { width: 100%; padding: 0; }
+.shop-page .popup dl { font-size: 14px; margin-top: 8px; }
+.shop-page .popup .ratings { padding-top: 6px; }
+.shop-cta { margin: 28px 0 40px; }
+.btn-primary { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 10px 28px; background: var(--ink); color: #fff; border-radius: 24px; font-size: 14px; letter-spacing: .08em; }
+.btn-primary:hover { background: var(--ink-2); }
+.similar { border-top: 1px solid var(--line-strong); padding-top: 22px; }
+.similar ul { list-style: none; margin: 0; padding: 0; }
+.similar li a { display: grid; grid-template-columns: 1fr; gap: 0; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.similar li a:hover { background: var(--paper); }
+.similar .nm { font-weight: 500; font-size: 16px; }
+.similar .mt, .similar .sh { font-size: 12px; color: var(--muted); letter-spacing: .06em; }
+.page-note { margin: 28px 0 0; font-size: 11.5px; color: #999; line-height: 1.8; }
+.lab { font-family: var(--en); font-weight: 400; font-size: 12px; letter-spacing: .3em; color: var(--muted); text-transform: uppercase; margin: 0 0 8px; }
+.lab span { color: #bbb; margin-left: 6px; }
+.city-jump { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 20px 0 36px; font-size: 13px; }
+.city-jump a { border-bottom: 1px solid var(--line); }
+.city-jump small { margin-left: 4px; color: var(--muted); font-size: 11px; }
+.idx { list-style: none; margin: 0 0 32px; padding: 0; columns: 2 280px; column-gap: 40px; }
+.idx li { display: flex; justify-content: space-between; gap: 10px; padding: 5px 0; border-bottom: 1px solid #f0f0ed; font-size: 14px; break-inside: avoid; }
+.idx li a:hover { border-bottom: 1px solid var(--ink); }
+.idx li span { color: var(--muted); font-size: 11px; white-space: nowrap; }
+.shop-index section { scroll-margin-top: calc(var(--header-h) + 12px); }
+.popup-more { margin: -4px 0 14px; font-size: 12px; text-align: right; letter-spacing: .06em; }
+.popup-more a { border-bottom: 1px solid var(--line); }

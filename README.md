@@ -22,7 +22,7 @@ npm run serve        # http://localhost:8080
 ## 公開（GitHub Pages）
 
 `.github/workflows/pages.yml` により、`main` ブランチのサイトのファイルが更新されると自動で GitHub Pages に公開されます。
-公開されるのは `index.html` / `css` / `js` / `assets` / `data/shops.json` のみです（スクリプトや作業用CSVは含めません）。
+公開されるのは `index.html` / `css` / `js` / `assets` / `data/shops.json` と、公開時に `scripts/build-pages.mjs` が作る「店ごとのページ（`shop/`）・全店舗一覧・`sitemap.xml`」です（スクリプトや作業用CSVは含めません）。店のデータを更新して push すれば、ページも自動で作り直されます。
 
 初回のみ、リポジトリの **Settings → Pages → Build and deployment → Source** を **GitHub Actions** にしてください。
 公開URL: https://uskpn.github.io/ramen38/
