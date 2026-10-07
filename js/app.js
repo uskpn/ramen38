@@ -35,6 +35,8 @@
       search: (s) => siteSearch('ramendb.supleks.jp', s) },
   ];
 
+  // 店ごとのページ（shop/）では ../ になる。サイトの根元からの相対パス
+  const ROOT = document.documentElement.dataset.root || '';
   const enc = encodeURIComponent;
   const siteSearch = (domain, s) => `https://www.google.com/search?q=${enc(`site:${domain} ${s.name} ${s.city}`)}`;
   const esc = (v) => String(v ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -224,7 +226,7 @@
       <button type="button" class="act" data-act="visited" aria-pressed="${mylist.visited.has(shop.id)}">${ICONS2.visited}<span>行った</span></button>
       <button type="button" class="act" data-act="share">${ICONS2.share}<span>共有</span></button>
     </div>
-    <p class="popup-more"><a href="shop/${esc(shop.id)}.html">このお店のページ →</a></p>`;
+    <p class="popup-more"><a href="${ROOT}shop/${esc(shop.id)}.html">このお店のページ →</a></p>`;
 
   function popupHtml(shop) {
     const rows = [
@@ -533,7 +535,7 @@
 
   // ---------- 初期化 ----------
   async function init() {
-    const res = await fetch('data/shops.json', { cache: 'no-cache' });
+    const res = await fetch(`${ROOT}data/shops.json`, { cache: 'no-cache' });
     const db = await res.json();
     state.shops = db.shops;
 
@@ -559,7 +561,7 @@
     $('#tag-filters').innerHTML = rows.map(([g, tags]) => `
       <div class="tag-row"><span class="field-label">${g.label}</span><div class="tag-chips">${tags.map((x) =>
         `<button type="button" class="tagchip" data-group="${g.key}" data-tag="${esc(x)}" aria-pressed="false">${esc(x)}</button>`).join('')}</div></div>`).join('');
-    if (db.updatedAt) $('#updated').textContent = new Date(db.updatedAt).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+    if (db.updatedAt && $('#updated')) $('#updated').textContent = new Date(db.updatedAt).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 
     // ヒーローの数字（閉店を除く）
     const open = state.shops.filter((s) => s.closed !== true);
@@ -569,7 +571,7 @@
       rated: open.filter(hasRating).length,
       instagram: open.filter((s) => s.instagram).length,
     };
-    for (const [k, v] of Object.entries(stat)) document.querySelector(`[data-stat="${k}"]`).textContent = v.toLocaleString();
+    for (const [k, v] of Object.entries(stat)) { const el = document.querySelector(`[data-stat="${k}"]`); if (el) el.textContent = v.toLocaleString(); } // ヒーローが無いページ（shop/）では何もしない
 
     updateMineCounts();
     window.RamenMy?.init({ shops: state.shops, byId: new Map(state.shops.map((x) => [x.id, x])), mylist, save: saveMylist, esc, CATEGORIES, TAG_GROUPS, toast, refreshMarks });

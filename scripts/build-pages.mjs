@@ -2,7 +2,7 @@
 // 検索エンジンが一店ずつ見つけられるようにするためのもので、公開時（GitHub Actions）に実行する。
 //   node scripts/build-pages.mjs <出力先(_site)> [バージョン]
 // 出力先には index.html / css / js / assets がすでにコピーされている前提。
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { loadShops } from './lib.mjs';
 
@@ -56,9 +56,9 @@ const tagChips = (s) => { const t = tagsOf(s); return t.length ? `<p class="tags
 const metaLine = (s) => [esc(s.city), esc(CATEGORY[s.category] || s.category)].join('<span class="sep">—</span>') + (RAMEN_LABEL[s.ramen] ? `<span class="sep">·</span>${esc(RAMEN_LABEL[s.ramen])}` : '');
 
 const FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500&family=Noto+Sans+JP:wght@300;400;500&display=swap">';
-function layout({ title, description, canonical, body, jsonld, ogType = 'website' }) {
+function layout({ title, description, canonical, body, jsonld, ogType = 'website', app = null, current = '' }) {
   return `<!doctype html>
-<html lang="ja">
+<html lang="ja"${app ? ' data-root="../"' : ''}>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -75,6 +75,7 @@ function layout({ title, description, canonical, body, jsonld, ogType = 'website
 <link rel="icon" type="image/png" href="../assets/favicon.png">
 <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
 ${FONTS}
+${app ? app.styles : ''}
 <link rel="stylesheet" href="../css/style.css?v=${VER}">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head>
@@ -82,7 +83,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(
 <header class="site-header">
   <a class="brand" href="../" aria-label="RAMEN 38 トップへ"><img src="../assets/logo-horizontal.png" alt="RAMEN 38" width="817" height="137"></a>
   <nav class="site-nav" aria-label="メインメニュー">
-    <a href="../#explore">Map</a><a href="./">Shops</a><a href="../#my">My</a><a href="../#about">About</a>
+    <a href="../">Top</a><a href="./"${current === 'shops' ? ' aria-current="page"' : ''}>Shops</a><a href="../#explore">Explore</a><a href="../#my">My<span class="nav-long"> Ramen 38</span></a><a href="../#about">About</a>
   </nav>
 </header>
 <main>
@@ -93,6 +94,7 @@ ${body}
   <p class="footer-brand">RAMEN 38 <span>Explore Ehime Ramen</span></p>
   <p class="footer-credit"><a href="../">地図で探す</a> · <a href="./">全店舗一覧</a> · Data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>, Google</p>
 </footer>
+${app ? app.scripts : ''}
 </body>
 </html>
 `;
@@ -131,7 +133,7 @@ function shopPage(s) {
     sameAs: [s.website, s.instagram && `https://www.instagram.com/${s.instagram}/`, s.x && `https://x.com/${s.x}`, s.ratings?.tabelog?.url].filter(Boolean),
   };
   const body = `<article class="shop-page">
-  <p class="crumb"><a href="../">RAMEN 38</a><span>›</span><a href="./#${enc(s.city)}">${esc(s.city)}</a></p>
+  <p class="crumb"><a href="../">RAMEN 38</a><span>›</span><a href="./">Shops</a></p>
   <p class="shop-meta">${metaLine(s)}</p>
   <h1 class="shop-title">${s.rank ? `<span class="rank${s.rank <= 3 ? ' rank-top' : ''}" title="総合スコア ${s.score}"><small>RANK</small>${s.rank}</span>` : ''}${esc(s.name)}</h1>
   ${tagChips(s)}
@@ -152,26 +154,33 @@ function shopPage(s) {
   return layout({ title: `${s.name}（${s.city}）｜RAMEN 38`, description, canonical: url, body, jsonld });
 }
 
-// ---------- 全店舗一覧 ----------
-function indexPage() {
+// ---------- 全店舗一覧（トップページの EXPLORE と同じ画面） ----------
+async function indexPage() {
+  const root = await readFile(path.join(OUT, 'index.html'), 'utf8');
+  let explore = (root.match(/<section class="explore"[\s\S]*?<\/section>/) || [])[0];
+  if (!explore) throw new Error('index.html から EXPLORE のセクションを取り出せませんでした');
+  // 見出しを「EHIME RAMEN 645」にする（番号の「01」は付けない）
+  explore = explore
+    .replace(/<p class="section-no">[^<]*<\/p>\s*/, '')
+    .replace(/<h2 id="explore-title">[\s\S]*?<\/h2>/, `<h2 id="explore-title"><span class="en">Ehime Ramen ${shops.length}</span></h2>`);
+  const styles = (root.match(/<link rel="stylesheet" href="https:\/\/cdn[^>]*>/g) || []).join('\n');
+  const scripts = (root.match(/<script src="[^"]*"><\/script>/g) || []).map((t) => t.replace('src="js/', 'src="../js/')).join('\n');
+  // 検索エンジン向けに、JavaScript なしでも全店舗へのリンクが辿れるようにしておく
   const byCity = new Map();
   for (const s of shops) (byCity.get(s.city) || byCity.set(s.city, []).get(s.city)).push(s);
-  const order = [...byCity.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], 'ja'));
   const catRank = { ramen: 0, chinese: 1, shokudo: 2, restaurant: 3, chain: 4, other: 5 };
-  const body = `<section class="shop-index">
-  <p class="crumb"><a href="../">RAMEN 38</a><span>›</span>全店舗一覧</p>
-  <h1 class="shop-title">愛媛県のラーメン店 ${shops.length}店</h1>
-  <p class="page-note" style="margin-top:0">愛媛県20市町の、ラーメン専門店から中華料理・食堂・チェーンまで。お店の名前から詳細ページへ移動できます。地図で探す場合は<a href="../#explore" style="border-bottom:1px solid">トップの地図</a>へ。</p>
-  <nav class="city-jump" aria-label="市町へ移動">${order.map(([c, l]) => `<a href="#${enc(c)}">${esc(c)}<small>${l.length}</small></a>`).join('')}</nav>
-  ${order.map(([c, list]) => `<section id="${esc(c)}"><h2 class="lab">${esc(c)} <span>${list.length}</span></h2><ul class="idx">${list.sort((a, b) => catRank[a.category] - catRank[b.category] || (a.rank || 9999) - (b.rank || 9999) || a.name.localeCompare(b.name, 'ja')).map((s) => `<li><a href="${s.id}.html">${esc(s.name)}</a><span>${esc(CATEGORY[s.category])}</span></li>`).join('')}</ul></section>`).join('\n  ')}
-</section>`;
-  return layout({ title: `愛媛県のラーメン店 全${shops.length}店の一覧｜RAMEN 38`, description: `愛媛県20市町のラーメン店${shops.length}店を市町別に一覧。ラーメン専門店から中華料理・食堂まで、お店ごとの詳細ページへ。`, canonical: `${SITE}shop/`, body });
+  const list = [...byCity.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], 'ja'))
+    .map(([c, l]) => `<h2>${esc(c)}（${l.length}店）</h2><ul>${l.sort((a, b) => catRank[a.category] - catRank[b.category] || (a.rank || 9999) - (b.rank || 9999) || a.name.localeCompare(b.name, 'ja')).map((s) => `<li><a href="${s.id}.html">${esc(s.name)}</a>（${esc(CATEGORY[s.category])}）</li>`).join('')}</ul>`).join('');
+  const body = `<h1 class="sr-only">愛媛県のラーメン店 ${shops.length}店の一覧</h1>
+${explore}
+<noscript><div class="shop-index"><p class="page-note">JavaScript を有効にすると地図と絞り込みが使えます。全店舗の一覧です。</p>${list}</div></noscript>`;
+  return layout({ title: `愛媛県のラーメン店 全${shops.length}店｜RAMEN 38`, description: `愛媛県20市町のラーメン店${shops.length}店を、地図・一覧・絞り込み（市町・タグ・営業中・現在地に近い順）で探せます。ラーメン専門店から中華料理・食堂まで。`, canonical: `${SITE}shop/`, body, app: { styles, scripts }, current: 'shops' });
 }
 
 // ---------- 書き出し ----------
 const dir = path.join(OUT, 'shop');
 await mkdir(dir, { recursive: true });
-await writeFile(path.join(dir, 'index.html'), indexPage());
+await writeFile(path.join(dir, 'index.html'), await indexPage());
 for (const s of shops) await writeFile(path.join(dir, `${s.id}.html`), shopPage(s));
 const urls = [SITE, `${SITE}shop/`, ...shops.map((s) => `${SITE}shop/${s.id}.html`)];
 await writeFile(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `  <url><loc>${u}</loc><lastmod>${lastmod}</lastmod></url>`).join('\n')}\n</urlset>\n`);

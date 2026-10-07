@@ -87,7 +87,7 @@
   // ---------- シェアカード（画像） ----------
   const W = 1080, H = 1920, INK = '#111', MUTE = '#8a8a86';
   let logoImg = null;
-  const loadLogo = () => logoImg ? Promise.resolve(logoImg) : new Promise((res) => { const i = new Image(); i.onload = () => res((logoImg = i)); i.onerror = () => res(null); i.src = 'assets/logo-horizontal.png'; });
+  const loadLogo = () => logoImg ? Promise.resolve(logoImg) : new Promise((res) => { const i = new Image(); i.onload = () => res((logoImg = i)); i.onerror = () => res(null); i.src = `${document.documentElement.dataset.root || ''}assets/logo-horizontal.png`; });
 
   async function fonts(text) {
     try {
