@@ -49,7 +49,7 @@
     q: '', city: '', sort: 'rank',
     cats: new Set(Object.keys(CATEGORIES).filter((k) => !CATEGORIES[k].off)),
     igOnly: false, ratedOnly: false, hideClosed: true,
-    openNow: false, mine: '', // mine: '' | fav | visited | todo
+    openNow: false, near: false, mine: '', // near: 現在地から近い順に並べる // mine: '' | fav | visited | todo
     loc: null, // 現在地 { lat, lng }
     tags: Object.fromEntries(TAG_GROUPS.map((g) => [g.key, new Set()])), // 同じ段の中は OR、段どうしは AND
     view: 'map',
@@ -274,12 +274,13 @@
       TAG_GROUPS.every((g) => !state.tags[g.key].size || tagsOf(s, g.key).some((x) => state.tags[g.key].has(x))) &&
       (!q || `${s.name} ${s.address || ''} ${s.city}`.normalize('NFKC').toLowerCase().includes(q)));
     const byName = (a, b) => a.name.localeCompare(b.name, 'ja');
+    const nearFirst = (a, b) => (distanceKm(a) ?? 1e9) - (distanceKm(b) ?? 1e9) || byName(a, b);
     const sorters = {
-      near: (a, b) => (distanceKm(a) ?? 1e9) - (distanceKm(b) ?? 1e9) || byName(a, b),
       rank: (a, b) => (a.rank || 9999) - (b.rank || 9999) || a.city.localeCompare(b.city, 'ja') || byName(a, b),
       name: (a, b) => a.city.localeCompare(b.city, 'ja') || byName(a, b),
       count: (a, b) => totalCount(b) - totalCount(a) || byName(a, b),
     };
+    if (state.near && state.loc) return list.sort(nearFirst); // 「現在地から近い」を入れている間は、並び替えより優先
     return list.sort(sorters[state.sort] || ((a, b) => score(b, state.sort) - score(a, state.sort) || byName(a, b)));
   }
 
@@ -453,12 +454,16 @@
       { enableHighAccuracy: false, timeout: 10000, maximumAge: 60000 });
     });
   }
-  async function sortNear(sel) {
-    if (!state.loc && !(await locate())) { state.sort = 'rank'; sel.value = 'rank'; return render(); }
-    state.limit = 60; render();
-    const near = filtered().slice(0, 5).map((s) => [s.lat, s.lng]);
-    map.fitBounds([[state.loc.lat, state.loc.lng], ...near], { padding: [40, 40], maxZoom: 15 });
-    $('#list').scrollTop = 0;
+  // 「現在地から近い」：位置情報を取って、近い順に並べる。取れなかったらチェックを戻す
+  async function toggleNear(box) {
+    if (!box.checked) { state.near = false; state.limit = 60; return render(); }
+    if (!state.loc && !(await locate())) { box.checked = false; state.near = false; return render(); }
+    state.near = true; state.limit = 60; render();
+    if (!INDEX_ONLY) {
+      const near = filtered().slice(0, 5).map((s) => [s.lat, s.lng]);
+      map.fitBounds([[state.loc.lat, state.loc.lng], ...near], { padding: [40, 40], maxZoom: 15 });
+      $('#list').scrollTop = 0;
+    }
   }
 
   // 共有リンク（#shop=店ID）で開いたとき、その店を表示する。絞り込みで隠れている店は条件を緩めて表示する
@@ -496,10 +501,8 @@
     const reset = () => { state.limit = 60; render(); };
     $('#q').addEventListener('input', (e) => { state.q = e.target.value; reset(); });
     $('#city').addEventListener('change', (e) => { state.city = e.target.value; reset(); fitToList(); });
-    $('#sort').addEventListener('change', (e) => {
-      state.sort = e.target.value;
-      if (state.sort === 'near') sortNear(e.target); else reset();
-    });
+    $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; reset(); });
+    $('#nearMe').addEventListener('change', (e) => toggleNear(e.target));
     $('#openNow').addEventListener('change', (e) => { state.openNow = e.target.checked; reset(); });
     $('#mine').addEventListener('change', (e) => { state.mine = e.target.value; reset(); fitToList(); });
     document.addEventListener('click', onAction);
