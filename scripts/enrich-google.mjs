@@ -35,6 +35,9 @@ async function textSearch(body) {
   return res.json();
 }
 
+// 詐欺・スパム系のサイト（Googleに登録されていても取り込まない）
+const BLOCKED_SITE = /japoncompany\.business|ofuregaki\.com|ninja-mania\.jp|tutakazura\.com|yaekumo\.com|obijime\.net|ohuda\.com|ninja-web\.net|obihimo\.com|undeinosa\.com|kirisute-gomen\.com|karou\.jp|kumogakure\.com/;
+
 function applyGoogle(shop, p) {
   shop.placeId = p.id;
   // Google の評価・営業時間は規約上サイトに保存しない（placeId のみ保持し、リンクで案内する）
@@ -45,7 +48,7 @@ function applyGoogle(shop, p) {
   if (p.websiteUri) {
     const ig = /instagram\.com/.test(p.websiteUri) ? instagramHandle(p.websiteUri) : null;
     if (ig && !shop.instagram) shop.instagram = ig;
-    else if (!ig && !shop.website) shop.website = p.websiteUri;
+    else if (!ig && !shop.website && !BLOCKED_SITE.test(p.websiteUri)) shop.website = p.websiteUri;
   }
   if (!shop.sources.includes('google')) shop.sources.push('google');
 }
