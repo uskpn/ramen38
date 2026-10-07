@@ -57,13 +57,14 @@
 
   // ---------- お気に入り・行った（この端末のブラウザに保存） ----------
   const STORE_KEY = 'ramen38:mylist:v1';
-  const mylist = { fav: new Set(), visited: new Set() };
+  const mylist = { fav: new Set(), visited: new Set(), visitedAt: {} }; // visitedAt: { 店ID: 'YYYY-MM-DD' }
   try {
     const saved = JSON.parse(localStorage.getItem(STORE_KEY) || '{}');
-    for (const k of Object.keys(mylist)) (saved[k] || []).forEach((id) => mylist[k].add(id));
+    for (const k of ['fav', 'visited']) (saved[k] || []).forEach((id) => mylist[k].add(id));
+    mylist.visitedAt = saved.visitedAt || {};
   } catch { /* 保存できない環境でもそのまま使える */ }
   const saveMylist = () => {
-    try { localStorage.setItem(STORE_KEY, JSON.stringify(Object.fromEntries(Object.entries(mylist).map(([k, v]) => [k, [...v]])))); } catch { /* 保存できない環境 */ }
+    try { localStorage.setItem(STORE_KEY, JSON.stringify({ fav: [...mylist.fav], visited: [...mylist.visited], visitedAt: mylist.visitedAt })); } catch { /* 保存できない環境 */ }
   };
 
   // ---------- 営業中の判定・現在地からの距離 ----------
@@ -362,11 +363,20 @@
 
   // ---------- 共有・お気に入り・現在地 ----------
   let toastTimer = null;
-  function toast(msg) {
+  // opts: { sub: 2行目, action: ボタンの文字, onAction: 押したときの処理, ms: 表示する長さ }
+  function toast(msg, opts = {}) {
     let el = $('#toast');
     if (!el) { el = document.createElement('div'); el.id = 'toast'; el.setAttribute('role', 'status'); document.body.appendChild(el); }
-    el.textContent = msg; el.classList.add('show');
-    clearTimeout(toastTimer); toastTimer = setTimeout(() => el.classList.remove('show'), 2200);
+    el.innerHTML = `<span class="tmsg">${esc(msg)}${opts.sub ? `<small>${esc(opts.sub)}</small>` : ''}</span>${opts.action ? `<button type="button">${esc(opts.action)}</button>` : ''}`;
+    el.classList.toggle('has-action', !!opts.action);
+    if (opts.action) el.querySelector('button').onclick = () => { el.classList.remove('show'); opts.onAction?.(); };
+    el.classList.add('show');
+    clearTimeout(toastTimer); toastTimer = setTimeout(() => el.classList.remove('show'), opts.ms || (opts.action ? 6000 : 2200));
+  }
+  // 保存データを入れ替えたあと（読み込みなど）に、ピン・一覧・件数を作り直す
+  function refreshMarks() {
+    markers.forEach((m) => m.setIcon(icon(m.shop, m.shop.id === state.activeId)));
+    updateMineCounts(); render();
   }
   const shareUrl = (id) => `${location.origin}${location.pathname}#shop=${enc(id)}`;
   async function shareShop(shop) {
@@ -388,7 +398,8 @@
   function toggleMark(id, key) {
     const shop = state.shops.find((s) => s.id === id); if (!shop) return;
     const set = mylist[key];
-    set.has(id) ? set.delete(id) : set.add(id);
+    if (set.has(id)) { set.delete(id); if (key === 'visited') delete mylist.visitedAt[id]; }
+    else { set.add(id); if (key === 'visited') { const d = new Date(); mylist.visitedAt[id] = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; } }
     saveMylist(); updateMineCounts();
     const m = markers.get(id); m.setIcon(icon(shop, id === state.activeId));
     const li = document.querySelector(`#list [data-marks="${CSS.escape(id)}"]`);
@@ -402,7 +413,15 @@
     if (btn.dataset.act === 'share') return shareShop(shop);
     const on = toggleMark(id, btn.dataset.act);
     btn.setAttribute('aria-pressed', on);
-    if (on) toast(btn.dataset.act === 'fav' ? 'お気に入りに追加しました' : '「行った」に記録しました');
+    if (btn.dataset.act === 'visited') {
+      const r = window.RamenMy;
+      const info = on ? r.afterVisit(id) : null;
+      if (on) {
+        const got = info.badges.filter((b) => !info.prev.includes(b.id)).map((b) => b.name);
+        toast(`${info.n}杯目を記録しました`, { sub: got.length ? `バッジ獲得：${got.join('・')}` : info.sub, action: 'カードをつくる', onAction: () => r.openCard('shop', id) });
+      }
+      r.snapshot(); r.render();
+    } else if (on) toast('お気に入りに追加しました');
   }
 
   let userMarker = null;
@@ -552,6 +571,7 @@
     for (const [k, v] of Object.entries(stat)) document.querySelector(`[data-stat="${k}"]`).textContent = v.toLocaleString();
 
     updateMineCounts();
+    window.RamenMy?.init({ shops: state.shops, byId: new Map(state.shops.map((x) => [x.id, x])), mylist, save: saveMylist, esc, CATEGORIES, TAG_GROUPS, toast, refreshMarks });
     bind();
     render();
     fitToList();

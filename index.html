@@ -30,6 +30,7 @@
     <nav class="site-nav" aria-label="メインメニュー">
       <a href="#explore" data-view="map">Map</a>
       <a href="#explore" data-view="table">Index</a>
+      <a href="#my">My</a>
       <a href="#about">About</a>
     </nav>
   </header>
@@ -125,9 +126,40 @@
       </div>
     </section>
 
-    <section class="about" id="about" aria-labelledby="about-title">
+    <section class="my" id="my" aria-labelledby="my-title">
       <header class="section-head">
         <p class="section-no">02</p>
+        <h2 id="my-title"><span class="en">My Ramen 38</span><span class="ja">私の愛媛ラーメン記録</span></h2>
+      </header>
+      <div class="my-body">
+        <dl class="my-big" aria-label="記録のまとめ">
+          <div><dt>Ate</dt><dd id="my-ate">0<small>/ —</small></dd><p class="my-sub">ラーメン専門店</p></div>
+          <div><dt>Cities</dt><dd id="my-cities">0<small>/ —</small></dd></div>
+          <div><dt>This year</dt><dd id="my-year">0<small>杯</small></dd></div>
+        </dl>
+        <div class="my-pct"><i id="my-pct-bar"></i></div>
+        <p class="my-pctl"><span id="my-pct-label">愛媛ラーメン制覇率 0.0%</span><span>ラーメン専門店のある市町が対象</span></p>
+        <p class="my-empty" id="my-empty">まだ記録がありません。地図でお店を選んで「行った」を押すと、ここに集まります。</p>
+        <div class="my-grid">
+          <div id="my-map" class="my-map"></div>
+          <div id="my-cityrows" class="my-cityrows"></div>
+        </div>
+        <p class="lab">Badges</p>
+        <div id="my-badges" class="my-badges"></div>
+        <div class="my-acts">
+          <button type="button" class="pri" id="my-card">シェアカードをつくる</button>
+          <button type="button" id="my-show-list" aria-expanded="false">行った店の一覧</button>
+          <button type="button" class="sub" id="my-export">書き出し</button>
+          <label class="sub btnlike">読み込み<input type="file" id="my-import" accept="application/json,.json" hidden></label>
+        </div>
+        <ol id="my-list" class="my-list" hidden></ol>
+        <p class="my-note">記録はこの端末のブラウザに保存されます（ログイン不要）。機種変更やブラウザのデータ削除の前に「書き出し」でバックアップを取っておくと、あとで「読み込み」で戻せます。<span id="my-note-extra"></span></p>
+      </div>
+    </section>
+
+    <section class="about" id="about" aria-labelledby="about-title">
+      <header class="section-head">
+        <p class="section-no">03</p>
         <h2 id="about-title"><span class="en">About</span><span class="ja">RAMEN 38 について</span></h2>
       </header>
       <div class="about-body">
@@ -166,6 +198,7 @@
   <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@maplibre/maplibre-gl-leaflet@0.0.22/leaflet-maplibre-gl.js"></script>
   <script src="js/hours-open.js?v=__VERSION__"></script>
+  <script src="js/my.js?v=__VERSION__"></script>
   <script src="js/app.js?v=__VERSION__"></script>
 </body>
 </html>
