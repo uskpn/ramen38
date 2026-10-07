@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T09:09:28.990Z",
+  "updatedAt": "2026-10-07T05:35:00.845Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -113,70 +113,6 @@
       }
     },
     {
-      "id": "g-ChIJkXAZBA_5RTURP4re9G6SO4c",
-      "name": "亀きち",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.018361299999995,
-      "lng": 132.49988059999998,
-      "city": "愛南町",
-      "address": "〒798-3701 愛媛県南宇和郡愛南町柏１９７２",
-      "hours": "17:30〜23:00 / 定休：日・祝",
-      "phone": "090-5146-5165",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJkXAZBA_5RTURP4re9G6SO4c",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJh9F0qvtVTzUR5xmzModCvgQ",
-      "name": "水門",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 32.9568248,
-      "lng": 132.55830229999998,
-      "city": "愛南町",
-      "address": "〒798-4110 愛媛県南宇和郡愛南町御荘平城５３２５",
-      "hours": "11:30〜14:00、17:00〜20:30 / 定休：水",
-      "phone": "0895-73-2702",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3804/A380404/38010467/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJh9F0qvtVTzUR5xmzModCvgQ",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJrSS88Y1VTzURWqD4_xHL7yg",
       "name": "台湾料理 豊源 愛南店",
       "category": "chinese",
@@ -215,40 +151,6 @@
       }
     },
     {
-      "id": "g-ChIJz4ICeQdWTzURfHjejFl8wG8",
-      "name": "大樹",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 32.9639781,
-      "lng": 132.5581628,
-      "city": "愛南町",
-      "address": "〒798-4110 愛媛県南宇和郡愛南町御荘平城１２８６",
-      "hours": "11:30〜14:00、17:30〜21:00 / 定休：不定休",
-      "phone": "0895-73-0717",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 15,
-          "url": "https://tabelog.com/ehime/A3804/A380404/38008632/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJz4ICeQdWTzURfHjejFl8wG8",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJbeaj0-FVTzURcZ6brdfWacY",
       "name": "遊厨",
       "category": "restaurant",
@@ -273,74 +175,6 @@
         "google"
       ],
       "placeId": "ChIJbeaj0-FVTzURcZ6brdfWacY"
-    },
-    {
-      "id": "g-ChIJ7U9nr3BWTzURLK5RQl62A1I",
-      "name": "爛漫亭",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 32.9594654,
-      "lng": 132.5799432,
-      "city": "愛南町",
-      "address": "〒798-4131 愛媛県南宇和郡愛南町城辺甲１８９０",
-      "hours": "18:00〜22:50 / 定休：日",
-      "phone": "0895-72-3600",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3804/A380404/38006831/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ7U9nr3BWTzURLK5RQl62A1I",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ61_fs3tWTzURQYbodWryhTA",
-      "name": "萬翠",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 32.9592424,
-      "lng": 132.58323479999999,
-      "city": "愛南町",
-      "address": "〒798-4131 愛媛県南宇和郡愛南町城辺甲２７１０",
-      "hours": "17:30〜23:00",
-      "phone": "0895-72-0304",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3804/A380404/38015063/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ61_fs3tWTzURQYbodWryhTA",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "g-ChIJW973u4OXRTURBIAkKRKJP8Q",
@@ -440,7 +274,7 @@
       "placeId": "ChIJ0VbTJWebRTURrPyEAJAEIYM",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -474,7 +308,7 @@
       "placeId": "ChIJuR3Sd_O4RTURxQpmh23uRYI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -546,9 +380,11 @@
       "placeId": "ChIJYXJ87pKXRTURa9zQRZ_67Ic",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "鯛・鮮魚"
+        ],
         "noodle": [],
         "character": []
       }
@@ -580,10 +416,16 @@
       "placeId": "ChIJt34g1nDyTzURGpEVv7Zhl-4",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "豚骨",
+          "醤油"
+        ],
+        "noodle": [
+          "細麺"
+        ],
         "character": []
       }
     },
@@ -612,40 +454,6 @@
         "google"
       ],
       "placeId": "ChIJF_s3PgDzTzURqkzV87VYh2A",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJVSNyTH_zTzURDwHbtPl_D_w",
-      "name": "いづし",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7442621,
-      "lng": 132.7039711,
-      "city": "伊予市",
-      "address": "〒799-3122 愛媛県伊予市市場１２",
-      "hours": "11:00〜21:00 / 定休：水",
-      "phone": null,
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.21,
-          "count": 19,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38014293/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJVSNyTH_zTzURDwHbtPl_D_w",
       "tags": {
         "style": [
           "ラーメン"
@@ -699,74 +507,6 @@
       "rank": 75
     },
     {
-      "id": "g-ChIJj3GCjvbtTzURA6BtaGK7DuU",
-      "name": "おが多",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7681703,
-      "lng": 132.71050019999998,
-      "city": "伊予市",
-      "address": "〒799-3111 愛媛県伊予市下吾川４０２−１",
-      "hours": "火〜土 17:00〜23:00 / 日・祝 17:00〜22:30 / 定休：水",
-      "phone": "089-982-6612",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.09,
-          "count": 10,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38001766/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJj3GCjvbtTzURA6BtaGK7DuU",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJqzenOZfyTzUR_KGZ0KaUoIc",
-      "name": "キッチンイチニチ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7360328,
-      "lng": 132.6964045,
-      "city": "伊予市",
-      "address": "〒799-3122 愛媛県伊予市市場７２５−１",
-      "hours": "10:30〜21:00 / 定休：火",
-      "phone": "089-983-2193",
-      "website": "https://japoncompany.business/iyo/541266-kitchen-ichi-nichi",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.46,
-          "count": 68,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38005530/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJqzenOZfyTzUR_KGZ0KaUoIc",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJN1MKv33yTzURRV2nTpf2XBY",
       "name": "くし坊らーめん麺人",
       "category": "ramen",
@@ -806,6 +546,40 @@
       },
       "score": 46.8,
       "rank": 112
+    },
+    {
+      "id": "g-ChIJVSNyTH_zTzURDwHbtPl_D_w",
+      "name": "ごはん屋いづし",
+      "category": "restaurant",
+      "ramen": "menu",
+      "lat": 33.7442621,
+      "lng": 132.7039711,
+      "city": "伊予市",
+      "address": "〒799-3122 愛媛県伊予市市場１２",
+      "hours": "11:00〜21:00 / 定休：水",
+      "phone": null,
+      "website": null,
+      "instagram": null,
+      "ratings": {
+        "tabelog": {
+          "score": 3.21,
+          "count": 19,
+          "url": "https://tabelog.com/ehime/A3801/A380103/38014293/"
+        },
+        "rdb": null
+      },
+      "sources": [
+        "google"
+      ],
+      "placeId": "ChIJVSNyTH_zTzURDwHbtPl_D_w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [],
+        "noodle": [],
+        "character": []
+      }
     },
     {
       "id": "g-ChIJtT3zIwzzTzURyIL4hcgwBJY",
@@ -966,40 +740,6 @@
       },
       "score": 52.3,
       "rank": 63
-    },
-    {
-      "id": "g-ChIJ17WCdQCNTzURjtptL28Y6DI",
-      "name": "ユンゲ モルゲン",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.6852704,
-      "lng": 132.63435900000002,
-      "city": "伊予市",
-      "address": "〒799-3207 愛媛県伊予市双海町高岸甲２３２６",
-      "hours": "8:30〜17:00 / 定休：第3火",
-      "phone": null,
-      "website": null,
-      "instagram": "jungmorgen202",
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38016985/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ17WCdQCNTzURjtptL28Y6DI",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "osm-w612765302",
@@ -1414,7 +1154,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJhXdsS3HyTzURaEHeDWqWO6c"
+      "placeId": "ChIJhXdsS3HyTzURaEHeDWqWO6c",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJLSU3D1eNTzURw3ZVcGdboi0",
@@ -1526,74 +1274,6 @@
       }
     },
     {
-      "id": "g-ChIJP4zHoDJgTzURzE-obSXri7I",
-      "name": "エポカ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2196324,
-      "lng": 132.5608561,
-      "city": "宇和島市",
-      "address": "〒798-0067 愛媛県宇和島市桝形町１丁目４−１７",
-      "hours": "8:00〜19:00",
-      "phone": "0895-25-0800",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38004537/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJP4zHoDJgTzURzE-obSXri7I",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJoV87wc1jTzURGef4YQq8N70",
-      "name": "おだいし庵 (道の駅 みま)",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2858624,
-      "lng": 132.596093,
-      "city": "宇和島市",
-      "address": "〒798-1114 愛媛県宇和島市三間町務田１８１−１ 道の駅みま 内",
-      "hours": "11:00〜16:00 / 定休：1/1",
-      "phone": "0895-58-1122",
-      "website": "https://www.michinoekimima.jp/experiencegourmet/",
-      "instagram": "michinoekimima",
-      "ratings": {
-        "tabelog": {
-          "score": 3.25,
-          "count": 23,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38013501/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJoV87wc1jTzURGef4YQq8N70",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJByPlEcRhTzURGasu_tscb7M",
       "name": "かどや",
       "category": "restaurant",
@@ -1618,40 +1298,6 @@
         "google"
       ],
       "placeId": "ChIJByPlEcRhTzURGasu_tscb7M",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ54tWILP1RTUR-nmL42h-htU",
-      "name": "ぐっさん家",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.1321553,
-      "lng": 132.5244086,
-      "city": "宇和島市",
-      "address": "〒798-3302 愛媛県宇和島市津島町高田２７４３−１",
-      "hours": "11:00〜14:00、18:00〜21:00 / 定休：火",
-      "phone": "0895-32-1038",
-      "website": null,
-      "instagram": "gussanchi_",
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38012124/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ54tWILP1RTUR-nmL42h-htU",
       "tags": {
         "style": [
           "ラーメン"
@@ -1690,40 +1336,6 @@
         "google"
       ],
       "placeId": "ChIJqVsIs8dhTzURk8uxqqqaPmg"
-    },
-    {
-      "id": "g-ChIJ51_vUSFgTzURYO3TYzZXJBg",
-      "name": "ごはん茶屋 仁",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.208648,
-      "lng": 132.55524699999998,
-      "city": "宇和島市",
-      "address": "〒798-0082 愛媛県宇和島市長堀１丁目２−２３",
-      "hours": "月〜土 11:00〜14:00、17:30〜20:00 / 17:30〜20:00 / 定休：日 / (22:00まで可)",
-      "phone": "0895-22-1805",
-      "website": null,
-      "instagram": "gohanchaya_jin",
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 7,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38010442/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ51_vUSFgTzURYO3TYzZXJBg",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "g-ChIJOfdmDQBhTzUR68Zq0f28xTA",
@@ -1793,40 +1405,6 @@
         "google"
       ],
       "placeId": "ChIJbZV2h8lhTzUR_FXhtrNCEY4",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJdyrGwzJgTzUR7N6u8Vb0AmE",
-      "name": "どっこいしょ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2170723,
-      "lng": 132.5662113,
-      "city": "宇和島市",
-      "address": "〒798-0060 愛媛県宇和島市丸之内１丁目６−７",
-      "hours": "15:30〜22:00 / 定休：日",
-      "phone": "090-7785-1626",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38014650/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJdyrGwzJgTzUR7N6u8Vb0AmE",
       "tags": {
         "style": [
           "ラーメン"
@@ -1910,40 +1488,6 @@
       }
     },
     {
-      "id": "g-ChIJyz0RGRVhTzURG9lHN_NO-Ko",
-      "name": "パンダのお店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.221308199999996,
-      "lng": 132.5669874,
-      "city": "宇和島市",
-      "address": "〒798-0040 愛媛県宇和島市中央町２丁目２−４−８ 袋町商店街 AKAMATSUビル202号",
-      "hours": "17:00〜翌2:00 / 定休：不定休",
-      "phone": "0895-65-9880",
-      "website": null,
-      "instagram": "monoqlo.cyalume",
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 0,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38011589/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJyz0RGRVhTzURG9lHN_NO-Ko",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJVQyyD81hTzURVNkYBHCDF3w",
       "name": "ぼん平",
       "category": "restaurant",
@@ -1968,40 +1512,6 @@
         "google"
       ],
       "placeId": "ChIJVQyyD81hTzURVNkYBHCDF3w",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJOVoeLM9hTzURyGjSnkU7W2s",
-      "name": "まえの",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2258657,
-      "lng": 132.56543109999998,
-      "city": "宇和島市",
-      "address": "〒798-0033 愛媛県宇和島市鶴島町９−５",
-      "hours": "11:30〜14:00、17:30〜21:00 / 定休：火",
-      "phone": "0895-22-8288",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.64,
-          "count": 65,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38008658/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJOVoeLM9hTzURyGjSnkU7W2s",
       "tags": {
         "style": [
           "ラーメン"
@@ -2038,9 +1548,12 @@
       "placeId": "ChIJpSMrezNgTzUREgF-6IXmxKo",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
         "character": []
       }
@@ -2199,7 +1712,8 @@
       "placeId": "ChIJmWiu5dr1RTURdpEw4x26VCw",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -2248,74 +1762,6 @@
       }
     },
     {
-      "id": "g-ChIJwz0esuiJRTURjCNS3efMi1U",
-      "name": "国安",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2798809,
-      "lng": 132.5406021,
-      "city": "宇和島市",
-      "address": "〒799-3703 愛媛県宇和島市吉田町東小路甲７１−１",
-      "hours": "11:00〜19:00 / 定休：日",
-      "phone": "0895-52-0533",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38002319/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJwz0esuiJRTURjCNS3efMi1U",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJy3NjUslhTzURSmckg9I4p3c",
-      "name": "三昌",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.22356,
-      "lng": 132.565812,
-      "city": "宇和島市",
-      "address": "〒798-0032 愛媛県宇和島市恵美須町１丁目５−２",
-      "hours": "17:00〜24:00 / 定休：月",
-      "phone": "0895-65-9080",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 6,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38002160/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJy3NjUslhTzURSmckg9I4p3c",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJRykYV3z1RTUR7ePb7QBA4Lk",
       "name": "山男",
       "category": "restaurant",
@@ -2344,109 +1790,11 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJnYNfGsxhTzURk69Etb4p5PI",
-      "name": "時代屋",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2229726,
-      "lng": 132.5649396,
-      "city": "宇和島市",
-      "address": "〒798-0032 愛媛県宇和島市恵美須町１丁目２−３",
-      "hours": "11:30〜14:00、17:30〜24:00 / 定休：木",
-      "phone": "0895-25-3562",
-      "website": "http://ebisu.sk-wabisuke.com/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38010661/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJNTm7A8xhTzURf6-EsZTEzKU",
-      "tags": {
-        "style": [
-          "ラーメン"
+        "soup": [
+          "豚骨",
+          "醤油",
+          "味噌"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJPRjgTslhTzURxx3uK4MbPOM",
-      "name": "十万石",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2236577,
-      "lng": 132.5661204,
-      "city": "宇和島市",
-      "address": "〒798-0034 愛媛県宇和島市錦町７−５",
-      "hours": "11:00〜14:00、21:00〜翌3:00 / 定休：日",
-      "phone": "0895-24-6952",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.12,
-          "count": 21,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38002331/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJPRjgTslhTzURxx3uK4MbPOM",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJy26VbABhTzURaoF2VUQwhgI",
-      "name": "旬の味彩 ごしき",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2225903,
-      "lng": 132.5621003,
-      "city": "宇和島市",
-      "address": "〒798-0031 愛媛県宇和島市栄町港２丁目３−６",
-      "hours": "18:00〜22:00 / 定休：日",
-      "phone": "0895-65-9008",
-      "website": null,
-      "instagram": "ujm.goshiki2024",
-      "ratings": {
-        "tabelog": {
-          "score": 3.06,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38016530/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJy26VbABhTzURaoF2VUQwhgI",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -2631,40 +1979,6 @@
         "soup": [
           "豚骨"
         ],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJmTmRC9JhTzURPWvKbhi_HZw",
-      "name": "鳥勢",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2243183,
-      "lng": 132.5605288,
-      "city": "宇和島市",
-      "address": "〒798-0007 愛媛県宇和島市寿町２丁目５−５ 清水建材ビル",
-      "hours": "17:00〜23:00",
-      "phone": "0895-25-7576",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3804/A380401/38001961/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJmTmRC9JhTzURPWvKbhi_HZw",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -2925,10 +2239,14 @@
       "placeId": "ChIJuYVab8xhTzURWHLm-Hqu8WI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "細麺"
+        ],
         "character": []
       }
     },
@@ -3256,43 +2574,13 @@
       "placeId": "ChIJWYCuCDp0TzURZpr9x7-xsJI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJtSf8FA5lTzURDv1F8v8SeoU",
-      "name": "がんてつ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2511304,
-      "lng": 132.6821077,
-      "city": "鬼北町",
-      "address": "〒798-1333 愛媛県北宇和郡鬼北町永野市４３２ 361番地1",
-      "hours": "月〜土 11:00〜14:30、17:00〜22:00 / 日・祝 11:00〜22:00",
-      "phone": null,
-      "website": "https://japoncompany.business/kihoku/560013-gantetsu",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 6,
-          "url": "https://tabelog.com/ehime/A3804/A380403/38012044/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJtSf8FA5lTzURDv1F8v8SeoU",
-      "tags": {
-        "style": [
-          "ラーメン"
+        "soup": [
+          "醤油",
+          "味噌"
         ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -3358,139 +2646,8 @@
       "placeId": "ChIJYR905HxwTzUREoE5M33r7Z0",
       "tags": {
         "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJa_heJ0pxTzUR6yNvd4tyDd4",
-      "name": "戸祇",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.3122762,
-      "lng": 132.76783029999999,
-      "city": "鬼北町",
-      "address": "〒798-1312 愛媛県北宇和郡鬼北町川上４５１−１",
-      "hours": "17:00〜21:00 / 定休：月、第2・4木 / 臨時休業あり（Instagram参照）",
-      "phone": "090-8957-3117",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": null,
-          "url": "https://tabelog.com/ehime/A3804/A380403/38012283/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJa_heJ0pxTzUR6yNvd4tyDd4",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ0VYYQhRlTzURXSHE9RAhnx8",
-      "name": "好屋",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2568572,
-      "lng": 132.68472309999999,
-      "city": "鬼北町",
-      "address": "〒798-1341 愛媛県北宇和郡鬼北町近永７８７",
-      "hours": "11:00〜13:50、18:00〜21:00 / 頃(品切れ次第終了)、",
-      "phone": "0895-45-3313",
-      "website": null,
-      "instagram": "yoshiya_448ii",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ0VYYQhRlTzURXSHE9RAhnx8",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ_WkVne1lTzURrQ0ijghGSu4",
-      "name": "彩り茶屋",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2539356,
-      "lng": 132.6873139,
-      "city": "鬼北町",
-      "address": "〒798-1333 愛媛県北宇和郡鬼北町永野市１３８−６",
-      "hours": "9:00〜17:00 / 定休：月、祝祭日は営業",
-      "phone": "0895-45-3751",
-      "website": "https://www.sankaku-boushi.jp/",
-      "instagram": "sankakuboushi",
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 16,
-          "url": "https://tabelog.com/ehime/A3804/A380403/38006945/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ_WkVne1lTzURrQ0ijghGSu4",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ80guYRplTzURu9g2LCmzDTg",
-      "name": "春廼家",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2567737,
-      "lng": 132.67723759999998,
-      "city": "鬼北町",
-      "address": "〒798-1341 愛媛県北宇和郡鬼北町近永６４９",
-      "hours": "10:00〜18:00 / 定休：月〜金・日",
-      "phone": "0895-45-0056",
-      "website": "https://taisei.qlear.net/harunoya",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3804/A380403/38002468/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ80guYRplTzURu9g2LCmzDTg",
-      "tags": {
-        "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -3526,36 +2683,6 @@
         "google"
       ],
       "placeId": "ChIJMxMqzxxlTzURVcGxqWH-lL4",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJrYa8rRplTzURt5AGRrSAl3w",
-      "name": "德丸商店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.2596669,
-      "lng": 132.6717325,
-      "city": "鬼北町",
-      "address": "〒798-1362 愛媛県北宇和郡鬼北町清延424番地",
-      "hours": "13:00〜17:00 / 定休：木・日",
-      "phone": "090-8430-9860",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJrYa8rRplTzURt5AGRrSAl3w",
       "tags": {
         "style": [
           "ラーメン"
@@ -3734,11 +2861,16 @@
       "placeId": "ChIJMVV8ALrFTzUR05a__uSfqvs",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば",
+          "ラーメン",
+          "まぜそば",
+          "つけ麺"
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -7948,40 +7080,6 @@
       "rank": 102
     },
     {
-      "id": "g-ChIJKw3wD1GRUTURj5XgTpzrn2w",
-      "name": "さざれ石",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.9977033,
-      "lng": 133.5672731,
-      "city": "四国中央市",
-      "address": "〒799-0101 愛媛県四国中央市川之江町５９−２",
-      "hours": "金〜月 11:30〜14:30 / 定休：火〜木",
-      "phone": "090-4334-6520",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3802/A380204/38013220/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJKw3wD1GRUTURj5XgTpzrn2w",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJaegPNBWUUTURQq4IjG82OXE",
       "name": "せんばやし",
       "category": "ramen",
@@ -8516,40 +7614,6 @@
       }
     },
     {
-      "id": "g-ChIJV8CyQGuUUTURlbIglJAbdfQ",
-      "name": "一品・松野",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.982285,
-      "lng": 133.545117,
-      "city": "四国中央市",
-      "address": "〒799-0405 愛媛県四国中央市三島中央２丁目７−１ 富岳ビル",
-      "hours": "18:00〜22:30 / 定休：月",
-      "phone": "0896-23-0760",
-      "website": null,
-      "instagram": "ippin_matsuno",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3802/A380204/38003565/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJV8CyQGuUUTURlbIglJAbdfQ",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJVX1giUCRUTUR_KIGR3w-3WU",
       "name": "延寿園",
       "category": "chinese",
@@ -8587,40 +7651,6 @@
         "character": [
           "辛い"
         ]
-      }
-    },
-    {
-      "id": "g-ChIJC_KNEp-RUTURvgHvLkr-zcc",
-      "name": "宮内製麺",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.996867,
-      "lng": 133.5708865,
-      "city": "四国中央市",
-      "address": "〒799-0113 愛媛県四国中央市妻鳥町９１２",
-      "hours": "10:00〜14:00 / 定休：水 / うどん売切次第終了",
-      "phone": "090-9452-8497",
-      "website": "https://www.facebook.com/miyauchiseimen/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.34,
-          "count": 49,
-          "url": "https://tabelog.com/ehime/A3802/A380204/38013116/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJC_KNEp-RUTURvgHvLkr-zcc",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
       }
     },
     {
@@ -9305,7 +8335,7 @@
       "placeId": "ChIJfzT_DQCVUTURNK12vAv8kcY",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -9962,7 +8992,7 @@
       "placeId": "ChIJg-g9crblTzUR7NNNw6mL-Eg",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -17989,40 +17019,6 @@
       "placeId": "ChIJSTnPOf7tTzUR7naOSQ0hoeI"
     },
     {
-      "id": "g-ChIJo8lj3f7xTzURSVWOYDVJDoA",
-      "name": "すずろ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7865593,
-      "lng": 132.7039154,
-      "city": "松前町",
-      "address": "〒791-3120 愛媛県伊予郡松前町筒井１３２１",
-      "hours": "9:00〜17:00",
-      "phone": "089-984-7223",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38003034/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJo8lj3f7xTzURSVWOYDVJDoA",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJ-08h_TfuTzURSsnBqehGzZ8",
       "name": "ていきびん",
       "category": "restaurant",
@@ -18050,40 +17046,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ-08h_TfuTzURSsnBqehGzZ8"
-    },
-    {
-      "id": "g-ChIJh0leQf7tTzUROUJsTlqQHI4",
-      "name": "てんてん丸 伊予松前店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7793828,
-      "lng": 132.7110773,
-      "city": "松前町",
-      "address": "〒791-3102 愛媛県伊予郡松前町北黒田２６６−２",
-      "hours": "月〜金 11:00〜14:30、16:30〜21:00 / 土・日・祝 11:00〜14:30、16:00〜21:00",
-      "phone": "089-961-6611",
-      "website": "https://www.thirtyfive.co.jp/shop.php#a07",
-      "instagram": "tentenmaru_masaki",
-      "ratings": {
-        "tabelog": {
-          "score": 3.34,
-          "count": 43,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38006636/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJh0leQf7tTzUROUJsTlqQHI4",
+      "placeId": "ChIJ-08h_TfuTzURSsnBqehGzZ8",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油",
+          "塩"
+        ]
       }
     },
     {
@@ -18377,40 +17349,6 @@
       }
     },
     {
-      "id": "g-ChIJ1cnj0zjuTzURQg8SXFqktL8",
-      "name": "郷家松前店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7982909,
-      "lng": 132.7252356,
-      "city": "松前町",
-      "address": "〒791-3133 愛媛県伊予郡松前町昌農内２８−１",
-      "hours": "17:30〜23:30 / 無休",
-      "phone": "089-985-4700",
-      "website": "https://go-ya-gp.com/%E9%83%B7%E5%AE%B6%E6%9D%BE%E5%89%8D%E5%BA%97/",
-      "instagram": "motsunabe58",
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 11,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38004422/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ1cnj0zjuTzURQg8SXFqktL8",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJmSaJuavvTzURk0FAFx0opc0",
       "name": "芯せかい エミフルMASAKI店",
       "category": "ramen",
@@ -18665,40 +17603,6 @@
       }
     },
     {
-      "id": "g-ChIJaTjDHH5vTzURFLlxddQFP_Q",
-      "name": "長太郎",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.228130799999995,
-      "lng": 132.7078044,
-      "city": "松野町",
-      "address": "愛媛県北宇和郡松野町松丸",
-      "hours": "18:00〜22:00 / 定休：木",
-      "phone": "0895-42-0481",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 0,
-          "url": "https://tabelog.com/ehime/A3804/A380403/38002050/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJaTjDHH5vTzURFLlxddQFP_Q",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJkw_9LgOtUTUR4svcX-17xNE",
       "name": "しまで cafe",
       "category": "restaurant",
@@ -18774,104 +17678,6 @@
       },
       "score": 46.5,
       "rank": 122
-    },
-    {
-      "id": "g-ChIJ3ZyotSSxUTURAxUktYTpTDU",
-      "name": "食事処 まんが亭",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 34.1922664,
-      "lng": 133.2732421,
-      "city": "上島町",
-      "address": "〒794-2541 愛媛県越智郡上島町魚島二番耕地１２５−２",
-      "hours": "9:30〜20:00",
-      "phone": "090-5647-2506",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ3ZyotSSxUTURAxUktYTpTDU",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJJeDlLRnPUTURbK9OQX-MKpk",
-      "name": "いただきまんま バンザイミネジィ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.93329,
-      "lng": 133.299052,
-      "city": "新居浜市",
-      "address": "〒792-0826 愛媛県新居浜市喜光地町２丁目４−２",
-      "hours": "月〜土・祝前日 11:00〜15:00 / 月〜木 18:00〜22:00 / 金・土・祝前日・祝 18:00〜23:00 / 定休：日",
-      "phone": "0897-40-9030",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.28,
-          "count": 28,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38007683/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJJeDlLRnPUTURbK9OQX-MKpk",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ__9br8XOUTURJNicp-6wdoo",
-      "name": "お食事処めしる",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.9624123,
-      "lng": 133.2784057,
-      "city": "新居浜市",
-      "address": "〒792-0024 愛媛県新居浜市宮西町３−１６",
-      "hours": "5:45〜21:00 / 定休：火",
-      "phone": null,
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.06,
-          "count": 11,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38009543/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ__9br8XOUTURJNicp-6wdoo",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "g-ChIJW9iTpe7OUTURttw5qiL2-rw",
@@ -19302,40 +18108,6 @@
       }
     },
     {
-      "id": "g-ChIJCzqY1M3OUTUR1m3ehnpCsO4",
-      "name": "ぼてすけ屋",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.968722,
-      "lng": 133.27884300000002,
-      "city": "新居浜市",
-      "address": "〒792-0017 愛媛県新居浜市若水町２丁目５−２４",
-      "hours": "11:00〜21:00 / 無休",
-      "phone": "0897-35-3078",
-      "website": "https://japoncompany.business/niihama/543687--",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.28,
-          "count": 45,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38004348/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJCzqY1M3OUTUR1m3ehnpCsO4",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJw0vsOcnPUTUR9gh8vzSOObs",
       "name": "マシマシらーめん物語はここから始まるのだ。新居浜店",
       "category": "ramen",
@@ -19370,74 +18142,6 @@
         ]
       },
       "score": 43.2
-    },
-    {
-      "id": "g-ChIJmY-NacvIUTURU7i-t-HRFZo",
-      "name": "もつ鍋 骨付き鶏 平",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.9606825,
-      "lng": 133.3040684,
-      "city": "新居浜市",
-      "address": "〒792-0886 愛媛県新居浜市郷１丁目１６−４８",
-      "hours": "17:30〜22:00 / 定休：月",
-      "phone": "0897-47-4411",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38007332/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJmY-NacvIUTURU7i-t-HRFZo",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJh1fyaRzPUTURMwzO9J6AVR0",
-      "name": "よぅたん",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.94202,
-      "lng": 133.2945043,
-      "city": "新居浜市",
-      "address": "〒792-0812 愛媛県新居浜市坂井町３丁目３−４１",
-      "hours": "17:30〜23:00 / 定休：火",
-      "phone": "0897-43-4737",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": null,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38013310/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJh1fyaRzPUTURMwzO9J6AVR0",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "g-ChIJy1m1IhnPUTURgL3ZNGFBFuU",
@@ -21150,40 +19854,6 @@
       "rank": 188
     },
     {
-      "id": "g-ChIJ18AX-HstUDURxHSh9m7x744",
-      "name": "sui café",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.9227146,
-      "lng": 133.1692364,
-      "city": "西条市",
-      "address": "〒793-0042 愛媛県西条市喜多川６３８−１",
-      "hours": "11:00〜14:00 / 定休：月・火・土・日",
-      "phone": "090-7103-3310",
-      "website": null,
-      "instagram": "sui.cafe",
-      "ratings": {
-        "tabelog": {
-          "score": 3.06,
-          "count": 7,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38015132/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ18AX-HstUDURxHSh9m7x744",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJFbvFKhrTUTURbPzS2zEMBig",
       "name": "あかのれん",
       "category": "restaurant",
@@ -21376,74 +20046,6 @@
       "rank": 168
     },
     {
-      "id": "g-ChIJzzJ29xkvUDURNhuR9F6idSg",
-      "name": "そば家 一創庵 福成寺店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.949995,
-      "lng": 133.04931,
-      "city": "西条市",
-      "address": "〒799-1316 愛媛県西条市福成寺３３１−１",
-      "hours": "11:00〜16:00 / 定休：日",
-      "phone": "0898-66-3362",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.07,
-          "count": 13,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38011021/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJzzJ29xkvUDURNhuR9F6idSg",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJffn9FLYuUDURObSh3KcJ20U",
-      "name": "そば宏",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.920116199999995,
-      "lng": 133.07883759999999,
-      "city": "西条市",
-      "address": "〒799-1371 愛媛県西条市周布７０４−１",
-      "hours": "月・木〜日 11:00〜20:00 / 火 11:00〜16:00 / 定休：水",
-      "phone": "0898-65-4170",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.27,
-          "count": 44,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38003821/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJffn9FLYuUDURObSh3KcJ20U",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJCftfQ7rSUTURLud6ZmYd3Pc",
       "name": "ちゃーしゅう工房いしづち店",
       "category": "ramen",
@@ -21544,9 +20146,12 @@
       "placeId": "ChIJhzmwNcgsUDURVufEFZnIv9Y",
       "tags": {
         "style": [
+          "中華そば",
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "味噌"
+        ],
         "noodle": [],
         "character": []
       }
@@ -21689,9 +20294,7 @@
           "ラーメン"
         ],
         "soup": [
-          "煮干し",
-          "醤油",
-          "柑橘"
+          "醤油"
         ],
         "noodle": [
           "太麺"
@@ -23164,40 +21767,6 @@
       "score": 41
     },
     {
-      "id": "g-ChIJr2SGC5kuUDUR4nIK0jyx1Xk",
-      "name": "梵字",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.931121399999995,
-      "lng": 133.09013869999998,
-      "city": "西条市",
-      "address": "〒799-1353 愛媛県西条市三津屋南５−１２",
-      "hours": "11:30〜15:00、17:00〜21:00 / 定休：火",
-      "phone": "0898-65-6867",
-      "website": null,
-      "instagram": "bonji0813",
-      "ratings": {
-        "tabelog": {
-          "score": 3.16,
-          "count": 28,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38003315/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJr2SGC5kuUDUR4nIK0jyx1Xk",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJWffhWI6HRTURzab550uu7lk",
       "name": "ARISU",
       "category": "restaurant",
@@ -23224,7 +21793,7 @@
       "placeId": "ChIJWffhWI6HRTURzab550uu7lk",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -23288,7 +21857,7 @@
       "placeId": "ChIJU-jjjjV2TzURE-LF8Ccq0ys",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -23330,40 +21899,6 @@
       }
     },
     {
-      "id": "g-ChIJOR9V8EWHRTUR18He6wzvkvA",
-      "name": "ステーション",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.3693078,
-      "lng": 132.50877530000002,
-      "city": "西予市",
-      "address": "〒797-0015 愛媛県西予市宇和町卯之町１丁目２２７",
-      "hours": "11:30〜14:00 / 定休：火",
-      "phone": "0894-62-6231",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 3,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38012651/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJOR9V8EWHRTUR18He6wzvkvA",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJmUH_85aHRTUR0BTn6TTq69Q",
       "name": "たちばな",
       "category": "restaurant",
@@ -23390,43 +21925,11 @@
       "placeId": "ChIJmUH_85aHRTUR0BTn6TTq69Q",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJFTnAYrOHRTURjcf51ZyGhrA",
-      "name": "ディーヤ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.361925899999996,
-      "lng": 132.5128676,
-      "city": "西予市",
-      "address": "〒797-0015 愛媛県西予市宇和町卯之町３丁目３９７",
-      "hours": "11:00〜15:00、17:00〜21:30",
-      "phone": "0894-78-0367",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38015288/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJFTnAYrOHRTURjcf51ZyGhrA",
-      "tags": {
-        "style": [
-          "ラーメン"
+        "soup": [
+          "魚介"
         ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -23521,7 +22024,10 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "塩",
+          "味噌"
+        ],
         "noodle": [],
         "character": []
       }
@@ -23553,7 +22059,7 @@
       "placeId": "ChIJ-7iCCzmHRTURDHqAI1FcCOo",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -23653,210 +22159,6 @@
         "google"
       ],
       "placeId": "ChIJcTKZgDV2TzUR68DU8zzyld8",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ33b5e7yHRTURD0nrsf-shFM",
-      "name": "れんげそう",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.3641889,
-      "lng": 132.5105945,
-      "city": "西予市",
-      "address": "〒797-0015 愛媛県西予市宇和町卯之町２丁目４１７",
-      "hours": "17:00〜23:00",
-      "phone": "0894-62-3106",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38003947/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ33b5e7yHRTURD0nrsf-shFM",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJS7tZ_HaHRTURq2aRH_tfda4",
-      "name": "卯之町バールOTO",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.3633935,
-      "lng": 132.5141494,
-      "city": "西予市",
-      "address": "〒797-0015 愛媛県西予市宇和町卯之町３丁目２１６",
-      "hours": "18:00〜23:00 / 定休：月・火",
-      "phone": "0894-89-1864",
-      "website": "https://unomachi-bar-oto.com/",
-      "instagram": "unomachi.bar.oto",
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38012443/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJS7tZ_HaHRTURq2aRH_tfda4",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJBS_7c82HRTUR67RQuxY-doM",
-      "name": "下ノ町ハシエンダ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.3608287,
-      "lng": 132.51383389999998,
-      "city": "西予市",
-      "address": "〒797-0015 愛媛県西予市宇和町卯之町４丁目６３７",
-      "hours": "11:00〜",
-      "phone": "090-3181-5646",
-      "website": "http://www.facebook.com/%E4%B8%8B%E3%83%8E%E7%94%BA%E3%83%8F%E3%82%B7%E3%82%A8%E3%83%B3%E3%83%80-722309694498078/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38010588/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJBS_7c82HRTUR67RQuxY-doM",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJj7ZxPGyHRTUR3mtgpeSw0EM",
-      "name": "菊水",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.3643755,
-      "lng": 132.5099903,
-      "city": "西予市",
-      "address": "〒797-0015 愛媛県西予市宇和町卯之町２丁目４０６",
-      "hours": "11:00〜19:00 / 定休：月",
-      "phone": "0894-62-3124",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38003583/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJj7ZxPGyHRTUR3mtgpeSw0EM",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJVU-_1wqHRTUR6sHmdcdSDQE",
-      "name": "咲咲-SAKU SAKU-",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.363409,
-      "lng": 132.51059250000003,
-      "city": "西予市",
-      "address": "〒797-0015 愛媛県西予市宇和町卯之町３丁目４３５−１ 所在施設：ゆるりあん",
-      "hours": "11:00〜14:00 / 定休：日",
-      "phone": "090-4092-8132",
-      "website": "https://shop.sakusakuwww.co.jp/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38015369/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJVU-_1wqHRTUR6sHmdcdSDQE",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJm8873quHRTURlQo3PE4o44s",
-      "name": "社長たちのサンドイッチ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.363866,
-      "lng": 132.5134295,
-      "city": "西予市",
-      "address": "〒797-0015 愛媛県西予市宇和町卯之町３丁目１１３",
-      "hours": "10:00〜16:00 / 定休：月〜金",
-      "phone": "070-9137-2835",
-      "website": null,
-      "instagram": "syacho_sandwich",
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 3,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38015227/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJm8873quHRTURlQo3PE4o44s",
       "tags": {
         "style": [
           "ラーメン"
@@ -24050,41 +22352,7 @@
       "placeId": "ChIJ9c-3nHWHRTURV3KdnVJbYvg",
       "tags": {
         "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJuYqjWQCHRTUR2nQ5Yd25bRU",
-      "name": "肉専科しんみや",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.356491999999996,
-      "lng": 132.52629009999998,
-      "city": "西予市",
-      "address": "〒797-0013 愛媛県西予市宇和町稲生３５",
-      "hours": "月・火・木・金・祝前日 17:00〜22:00 / 土・日・祝 11:00〜14:00、17:00〜22:00 / 定休：水",
-      "phone": "0894-62-2877",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.09,
-          "count": 14,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38011315/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJuYqjWQCHRTUR2nQ5Yd25bRU",
-      "tags": {
-        "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -24257,40 +22525,6 @@
       }
     },
     {
-      "id": "g-ChIJTf5Hhr-ATzUReSwFLomSHrc",
-      "name": "Bar&Cafe Roy's",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5306482,
-      "lng": 132.569744,
-      "city": "大洲市",
-      "address": "〒795-0064 愛媛県大洲市東大洲１３４０−１",
-      "hours": "月・火・木・金 11:00〜14:30、17:30〜22:00 / 土・日・祝 11:00〜22:00 / 定休：水、第2日、不定休",
-      "phone": "0893-25-6005",
-      "website": "https://roys-vintage-works.com/",
-      "instagram": "roysoozu56",
-      "ratings": {
-        "tabelog": {
-          "score": 3.12,
-          "count": 34,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38008119/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJTf5Hhr-ATzUReSwFLomSHrc",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJaSX2rTKBTzURZHmmLB_x1vE",
       "name": "MAY’S KITCHEN",
       "category": "chinese",
@@ -24351,7 +22585,7 @@
       "placeId": "ChIJ8fJHP3t8RTUR5hgZ37NXhzw",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -24469,75 +22703,7 @@
       "placeId": "ChIJjz4juI2ATzUR-dS4F65rbTQ",
       "tags": {
         "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ-xcm1JaATzURoXWDpOA4-Xk",
-      "name": "じょうもん",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5276984,
-      "lng": 132.5634213,
-      "city": "大洲市",
-      "address": "〒795-0065 愛媛県大洲市東若宮２−１０",
-      "hours": "月〜木・日・祝 17:00〜22:30 / 金・土・祝前日 17:00〜23:00 / 定休：12/31、1/1",
-      "phone": "0893-59-4533",
-      "website": "https://mobile.facebook.com/pages/category/Food---Beverage-Company/%E3%81%98%E3%82%87%E3%81%86%E3%82%82%E3%82%93-1240577102626550/?_rdc=1&_rdr&refsrc=http%3A%2F%2Fwww.google.co.jp%2F",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.13,
-          "count": 11,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38012055/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ-xcm1JaATzURoXWDpOA4-Xk",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJre8lOYCATzURpP3hO2RCcVQ",
-      "name": "たけちゃん",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.519982899999995,
-      "lng": 132.5520766,
-      "city": "大洲市",
-      "address": "〒795-0064 愛媛県大洲市東大洲９６−１",
-      "hours": "16:00〜21:00",
-      "phone": "0893-24-6338",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38010133/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJre8lOYCATzURpP3hO2RCcVQ",
-      "tags": {
-        "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -24573,7 +22739,10 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
         "noodle": [],
         "character": []
       }
@@ -24876,40 +23045,6 @@
       }
     },
     {
-      "id": "g-ChIJ972jOdV_RTURouawuvSaIDE",
-      "name": "葵 Aoi",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5188062,
-      "lng": 132.5495157,
-      "city": "大洲市",
-      "address": "〒795-0052 愛媛県大洲市若宮６６３−１",
-      "hours": "17:00〜24:00 / 定休：不定休",
-      "phone": "0893-23-0123",
-      "website": "https://s474101.gorp.jp/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.2,
-          "count": 15,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38006869/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ972jOdV_RTURouawuvSaIDE",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJ26FBQDB9RTURhPnwCCTuVqY",
       "name": "伊予路",
       "category": "ramen",
@@ -25017,40 +23152,6 @@
         "character": [
           "あっさり"
         ]
-      }
-    },
-    {
-      "id": "g-ChIJp8HxPZaATzURqVsyL66zPZ4",
-      "name": "山善",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5307487,
-      "lng": 132.5643933,
-      "city": "大洲市",
-      "address": "〒795-0065 愛媛県大洲市東若宮８−２２",
-      "hours": "11:00〜21:00",
-      "phone": "0893-25-6713",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38003373/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJp8HxPZaATzURqVsyL66zPZ4",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
       }
     },
     {
@@ -25194,15 +23295,17 @@
       "placeId": "ChIJf1IRzB19RTURrmxLEL5-DSY",
       "tags": {
         "style": [
+          "中華そば",
           "ラーメン",
-          "中華そば"
+          "冷やし"
         ],
         "soup": [
-          "醤油",
           "味噌"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -25315,40 +23418,6 @@
         "style": [
           "油そば",
           "ちゃんぽん"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJU4Ix-vx_RTURN0bNicQ8ssM",
-      "name": "茶寮 平野屋",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.506828399999996,
-      "lng": 132.5489835,
-      "city": "大洲市",
-      "address": "〒795-0012 愛媛県大洲市大洲３９４−１",
-      "hours": "月・金・土 10:30〜16:30 / 日 12:00〜16:30 / 定休：火〜木",
-      "phone": "090-3788-4508",
-      "website": null,
-      "instagram": "saryou_hiranoya",
-      "ratings": {
-        "tabelog": {
-          "score": 3.08,
-          "count": 14,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38014070/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJU4Ix-vx_RTURN0bNicQ8ssM",
-      "tags": {
-        "style": [
-          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -25598,74 +23667,6 @@
       "rank": 87
     },
     {
-      "id": "g-ChIJLVis1NB_RTURnrnawDeISOk",
-      "name": "美ゆき 大洲店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5138625,
-      "lng": 132.5460914,
-      "city": "大洲市",
-      "address": "〒795-0054 愛媛県大洲市中村６１８−８",
-      "hours": "火〜土 11:30〜14:00、17:00〜22:30 / 日 11:30〜14:00、17:00〜21:30 / 祝 11:30〜14:00、17:00〜22:00 / 定休：月",
-      "phone": "0893-24-3308",
-      "website": null,
-      "instagram": "miyukiozu3308",
-      "ratings": {
-        "tabelog": {
-          "score": 3.39,
-          "count": 82,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38004441/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJLVis1NB_RTURnrnawDeISOk",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJZ7-_h8CATzURiSfJtjhoHsU",
-      "name": "風人月下 東大洲店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5310644,
-      "lng": 132.5710157,
-      "city": "大洲市",
-      "address": "〒795-0064 愛媛県大洲市東大洲１４９０−３",
-      "hours": "11:00〜14:30、17:00〜21:30 / 定休：水",
-      "phone": "0893-57-6262",
-      "website": "https://to-yo-ken.com/fujingekka",
-      "instagram": "toyokaihatsu",
-      "ratings": {
-        "tabelog": {
-          "score": 3.08,
-          "count": 17,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38009559/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJZ7-_h8CATzURiSfJtjhoHsU",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJSYlOkdV_RTUR33H7u03NAlE",
       "name": "福ちゃんラーメン",
       "category": "ramen",
@@ -25770,6 +23771,7 @@
       "placeId": "ChIJIRdBh5F_RTURoR0oh5ZGGAk",
       "tags": {
         "style": [
+          "中華そば",
           "ラーメン"
         ],
         "soup": [],
@@ -25812,108 +23814,6 @@
         ]
       },
       "score": 43.1
-    },
-    {
-      "id": "g-ChIJaVa_7ex_RTUR_uxlzR2G06E",
-      "name": "葉月",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5078861,
-      "lng": 132.5430008,
-      "city": "大洲市",
-      "address": "〒795-0012 愛媛県大洲市大洲２０１",
-      "hours": "17:00〜22:00 / 定休：火",
-      "phone": "0893-37-4773",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38016860/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJHzWAhdx_RTURIIfgfxbiyU0",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJDSL5QvvrTzURn_ij_qI9uFQ",
-      "name": "KIZOKU(キゾク)",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.739884599999996,
-      "lng": 132.7944191,
-      "city": "砥部町",
-      "address": "〒791-2132 愛媛県伊予郡砥部町大南１８５",
-      "hours": "9:00〜23:00 / 定休：水",
-      "phone": "089-962-4787",
-      "website": "https://www.kizoku.info/",
-      "instagram": "jrkizoku",
-      "ratings": {
-        "tabelog": {
-          "score": 3.09,
-          "count": 13,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38005648/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJDSL5QvvrTzURn_ij_qI9uFQ",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJOXEST0zpTzURKGnLY4T8IT8",
-      "name": "かくれんぼ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7593939,
-      "lng": 132.7890255,
-      "city": "砥部町",
-      "address": "〒791-2120 愛媛県伊予郡砥部町宮内８１−３",
-      "hours": "月〜水・金 11:00〜15:00、17:00〜21:00 / 土・日・祝 11:00〜21:00 / 定休：木",
-      "phone": "089-962-7891",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38005496/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJOXEST0zpTzURKGnLY4T8IT8",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "g-ChIJbS74BNjuTzURmFRPZQJ3FWk",
@@ -25984,40 +23884,6 @@
           "鶏",
           "野菜"
         ],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ8Zo6GU3pTzURTGymHCssUrY",
-      "name": "なかまる",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7592029,
-      "lng": 132.7872644,
-      "city": "砥部町",
-      "address": "〒791-2123 愛媛県伊予郡砥部町川井８６８−１",
-      "hours": "11:00〜14:00 / 定休：月・土・日・祝 / 売切次第終了",
-      "phone": null,
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.17,
-          "count": 31,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38006297/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ8Zo6GU3pTzURTGymHCssUrY",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -26207,40 +24073,6 @@
       }
     },
     {
-      "id": "g-ChIJLwKxFy3pTzURs6uMT2tW0Qo",
-      "name": "変幻自在 かめりあ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.776918,
-      "lng": 132.7870543,
-      "city": "砥部町",
-      "address": "〒791-2114 愛媛県伊予郡砥部町麻生264−１",
-      "hours": "11:30〜15:00、18:00〜23:00 / 定休：水",
-      "phone": "089-905-0141",
-      "website": "http://camellia-restaurant.com/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.15,
-          "count": 11,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38011456/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJLwKxFy3pTzURs6uMT2tW0Qo",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJ_z3kE1bpTzURxx2cldxQ3VQ",
       "name": "和酔食菜ｋｅｎ",
       "category": "restaurant",
@@ -26271,75 +24103,7 @@
       "placeId": "ChIJ_z3kE1bpTzURxx2cldxQ3VQ",
       "tags": {
         "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ9VhNV4TdTzURWNFKgjkYjG0",
-      "name": "cafe ナナハン 750",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.8061947,
-      "lng": 132.9028147,
-      "city": "東温市",
-      "address": "〒791-0303 愛媛県東温市北方２５５７−２",
-      "hours": "10:00〜17:00 / 定休：火・水",
-      "phone": "090-3843-1750",
-      "website": null,
-      "instagram": "caf_e750",
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3801/A380102/38016652/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ9VhNV4TdTzURWNFKgjkYjG0",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJp4WNzEfdTzURtvTV4guVe08",
-      "name": "いしづち山麓マルシェ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.790706199999995,
-      "lng": 132.8808544,
-      "city": "東温市",
-      "address": "〒791-0211 愛媛県東温市見奈良１１２５",
-      "hours": "9:00〜18:00",
-      "phone": "089-990-7110",
-      "website": "https://ishizuchi-sanroku-satoyama.jp/",
-      "instagram": "i.marche0428",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3801/A380102/38009809/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJp4WNzEfdTzURtvTV4guVe08",
-      "tags": {
-        "style": [
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -26410,41 +24174,10 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJOfi56_HcTzURaLCqMzXMZ6E",
-      "name": "そば 町谷",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.794807999999996,
-      "lng": 132.919275,
-      "city": "東温市",
-      "address": "〒791-0311 愛媛県東温市則之内甲２８００−５",
-      "hours": "11:00〜16:00 / 定休：火・水 / 売切次第終了",
-      "phone": "089-966-2606",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.08,
-          "count": 20,
-          "url": "https://tabelog.com/ehime/A3801/A380102/38003503/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJOfi56_HcTzURaLCqMzXMZ6E",
-      "tags": {
-        "style": [
-          "ラーメン"
+        "soup": [
+          "味噌",
+          "豚骨"
         ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -26484,74 +24217,6 @@
       }
     },
     {
-      "id": "g-ChIJByLI6groTzURULMbXSQDQ2E",
-      "name": "にしきそば",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.795161799999995,
-      "lng": 132.8456539,
-      "city": "東温市",
-      "address": "〒791-0213 愛媛県東温市牛渕１０５３−５",
-      "hours": "月・火・金〜日 11:00〜15:00 / 水 11:00〜14:00 / 定休：木",
-      "phone": "089-964-6981",
-      "website": null,
-      "instagram": "nishikisoba31",
-      "ratings": {
-        "tabelog": {
-          "score": 3.34,
-          "count": 60,
-          "url": "https://tabelog.com/ehime/A3801/A380102/38001291/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJByLI6groTzURULMbXSQDQ2E",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJpQZ4EuPcTzURRMgd5bz192Y",
-      "name": "フィレンツェ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7960176,
-      "lng": 132.9061533,
-      "city": "東温市",
-      "address": "〒791-0301 愛媛県東温市南方７７４",
-      "hours": "月〜金 11:00〜14:30 / 土・日・祝 11:00〜14:30、17:00〜20:00",
-      "phone": "089-966-3210",
-      "website": "http://www.firenzeinkawauchi.com/",
-      "instagram": "trattoria_firenze",
-      "ratings": {
-        "tabelog": {
-          "score": 3.27,
-          "count": 47,
-          "url": "https://tabelog.com/ehime/A3801/A380102/38010167/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJpQZ4EuPcTzURRMgd5bz192Y",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJn1_11vfcTzURgFtV2DVQ8VM",
       "name": "ふるさと交流館 さくらの湯",
       "category": "restaurant",
@@ -26580,7 +24245,9 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
         "character": []
       }
@@ -26680,9 +24347,12 @@
       "placeId": "ChIJwY3ErGrdTzURiVE8I7TQLp8",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
-        "soup": [],
+        "soup": [
+          "豚骨"
+        ],
         "noodle": [],
         "character": []
       }
@@ -26909,36 +24579,6 @@
       }
     },
     {
-      "id": "g-ChIJZ3_Am3DoTzURQ-781qrN08k",
-      "name": "一心",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.794883399999996,
-      "lng": 132.8349494,
-      "city": "東温市",
-      "address": "〒791-0216 愛媛県東温市野田３丁目４−９",
-      "hours": "11:00〜22:00 / 無休",
-      "phone": "089-964-5587",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJZ3_Am3DoTzURQ-781qrN08k",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJh0l4aADpTzURazyiHqJKvug",
       "name": "横浜家系ラーメン 一門家東温店",
       "category": "ramen",
@@ -27014,7 +24654,8 @@
       "placeId": "ChIJb_KLBxPdTzUR2E0UvrBez3Y",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -27048,7 +24689,7 @@
       "placeId": "ChIJNWMgFODnTzURebU2I7AzLCE",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -27082,9 +24723,11 @@
       "placeId": "ChIJY3wUMi_nTzURkWHRUj5BTUk",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "魚介"
+        ],
         "noodle": [],
         "character": []
       }
@@ -27244,40 +24887,6 @@
       "score": 40.6
     },
     {
-      "id": "g-ChIJL-6gbG2PTzURf4BRr13s4aI",
-      "name": "atochi",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.596798199999995,
-      "lng": 132.6757943,
-      "city": "内子町",
-      "address": "〒791-3331 愛媛県喜多郡内子町立山５４３１",
-      "hours": "11:00〜15:00 / 定休：水〜金",
-      "phone": null,
-      "website": null,
-      "instagram": "atochi2019",
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3803/A380303/38015966/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJL-6gbG2PTzURf4BRr13s4aI",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJ_0wGZ7-FTzURRdysqhUb1Wo",
       "name": "IZAKAYAにこり",
       "category": "restaurant",
@@ -27306,75 +24915,11 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJdSByrNyWTzUR8hArGHbops8",
-      "name": "かじか亭",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5682914,
-      "lng": 132.8007782,
-      "city": "内子町",
-      "address": "〒791-3502 愛媛県喜多郡内子町寺村２５１−１",
-      "hours": "10:00〜16:00",
-      "phone": "0892-52-2090",
-      "website": "http://www.odamachi.com/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.17,
-          "count": 40,
-          "url": "https://tabelog.com/ehime/A3803/A380303/38006046/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJqf5DrNyWTzURzwZNVI3NvT8",
-      "tags": {
-        "style": [
-          "ラーメン"
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJc5LM1raFTzURUK4rWlsxbLQ",
-      "name": "でんじろう",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.555507299999995,
-      "lng": 132.6534101,
-      "city": "内子町",
-      "address": "〒791-3301 愛媛県喜多郡内子町内子２６３３",
-      "hours": "10:00〜18:00 / 定休：水",
-      "phone": "090-6662-5688",
-      "website": "http://www.facebook.com/cafedenjirou/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.08,
-          "count": 17,
-          "url": "https://tabelog.com/ehime/A3803/A380303/38011619/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJc5LM1raFTzURUK4rWlsxbLQ",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -27440,6 +24985,7 @@
       "placeId": "ChIJYXQKT7GFTzURJCgrN73z5NY",
       "tags": {
         "style": [
+          "中華そば",
           "ラーメン"
         ],
         "soup": [],
@@ -27509,40 +25055,6 @@
       "tags": {
         "style": [
           "中華そば"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJz48tOrWFTzURh3PN93rrVuo",
-      "name": "石焼ビビンバ・しゃぶしゃぶ「がっちゃん家」",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.55083330000001,
-      "lng": 132.6505556,
-      "city": "内子町",
-      "address": "〒791-3301 愛媛県喜多郡内子町内子２０５２",
-      "hours": "11:00〜14:15、17:00〜22:15",
-      "phone": "0893-44-5411",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.07,
-          "count": 15,
-          "url": "https://tabelog.com/ehime/A3803/A380303/38007950/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJz48tOrWFTzURh3PN93rrVuo",
-      "tags": {
-        "style": [
-          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -27649,74 +25161,6 @@
       "tags": {
         "style": [
           "中華そば"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ5YIhAbSFTzURsWXL8oaal_k",
-      "name": "米屋（よねや）",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5531479,
-      "lng": 132.6536625,
-      "city": "内子町",
-      "address": "〒791-3301 愛媛県喜多郡内子町内子１９７０",
-      "hours": "11:00〜14:30 / 定休：火 / 夜は完全予約制",
-      "phone": "0893-44-6788",
-      "website": "https://japoncompany.business/uchiko/548233-",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.2,
-          "count": 18,
-          "url": "https://tabelog.com/ehime/A3803/A380303/38011447/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ5YIhAbSFTzURsWXL8oaal_k",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJdZ51QzWETzURxSM9AOlsD6Y",
-      "name": "味平",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.550211,
-      "lng": 132.648179,
-      "city": "内子町",
-      "address": "〒791-3301 愛媛県喜多郡内子町内子１０３７",
-      "hours": "17:00〜23:00 / 定休：月・日",
-      "phone": "0893-43-1047",
-      "website": "https://japoncompany.business/uchiko/570569-",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3803/A380303/38004171/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJdZ51QzWETzURxSM9AOlsD6Y",
-      "tags": {
-        "style": [
-          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -28240,40 +25684,6 @@
       "placeId": "ChIJgVOhPIGERTURxWUzqRBrgUU"
     },
     {
-      "id": "g-ChIJn4QVlE6DRTURQbnvz6bDaEw",
-      "name": "やぐら",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4847526,
-      "lng": 132.3997336,
-      "city": "八幡浜市",
-      "address": "〒796-0202 愛媛県八幡浜市保内町宮内１−３４３−１",
-      "hours": "11:00〜22:00 / 定休：月",
-      "phone": "0894-37-2181",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 3,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38000455/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJn4QVlE6DRTURQbnvz6bDaEw",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "osm-n7023212929",
       "name": "ロンドン",
       "category": "ramen",
@@ -28352,74 +25762,6 @@
       }
     },
     {
-      "id": "g-ChIJW-GjLoOERTURaaVn5ycl3Z4",
-      "name": "一心",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4596812,
-      "lng": 132.4245218,
-      "city": "八幡浜市",
-      "address": "〒796-0064 愛媛県八幡浜市船場通２６０−２",
-      "hours": "月 17:00〜21:00 / 火〜日 17:00〜22:30",
-      "phone": "0894-22-1718",
-      "website": "https://eoqs.ninja-x.jp/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 11,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38001577/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJW-GjLoOERTURaaVn5ycl3Z4",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ2ZU8aYOERTUR_MrIpT3vNLs",
-      "name": "火の鳥",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4580049,
-      "lng": 132.4248829,
-      "city": "八幡浜市",
-      "address": "〒796-0067 愛媛県八幡浜市中央１５８",
-      "hours": "17:30〜21:30 / 定休：日",
-      "phone": "0894-22-4223",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38005927/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ2ZU8aYOERTUR_MrIpT3vNLs",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJ-57B58iFRTUR9jVmu74AqNQ",
       "name": "海乃幸 騎虎",
       "category": "restaurant",
@@ -28446,73 +25788,12 @@
       "placeId": "ChIJ-57B58iFRTUR9jVmu74AqNQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJSZt5dwCFRTURX3EMZkDBfog",
-      "name": "楽酒みなみ",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4573207,
-      "lng": 132.42591149999998,
-      "city": "八幡浜市",
-      "address": "〒796-0035 愛媛県八幡浜市須崎２丁目14−３ 丸ニビル 103",
-      "hours": "17:00〜24:00 / 定休：木",
-      "phone": "0894-35-9775",
-      "website": null,
-      "instagram": "makanaityubou.yotchattei",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJLQ-0znqDRTUR1PvbqjQ3bZ4",
-      "tags": {
-        "style": [
-          "ラーメン"
+        "soup": [
+          "鯛・鮮魚",
+          "魚介"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ99-Y04KERTURQ-iwOd93oxk",
-      "name": "割烹 たる源",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4603483,
-      "lng": 132.4234875,
-      "city": "八幡浜市",
-      "address": "〒796-0075 愛媛県八幡浜市仲之町３９０",
-      "hours": "17:00〜22:00 / 定休：日",
-      "phone": "0894-24-0458",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.05,
-          "count": 6,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38005330/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ99-Y04KERTURQ-iwOd93oxk",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -28593,40 +25874,6 @@
       }
     },
     {
-      "id": "g-ChIJhQtPRn2DRTURmdOv9W6yW3Q",
-      "name": "暁",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4622136,
-      "lng": 132.4236455,
-      "city": "八幡浜市",
-      "address": "〒796-0088 愛媛県八幡浜市旧港４２３−１",
-      "hours": "17:30〜22:00 / 定休：日、月祝日の場合は日営業、火休み",
-      "phone": "0894-22-0157",
-      "website": "https://takamatsuya-akatsuki.com/",
-      "instagram": "akinari_kinuwa",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38005668/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJhQtPRn2DRTURmdOv9W6yW3Q",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJOTMiUE-DRTURkQCim0OaEQE",
       "name": "串呑家 坊主",
       "category": "restaurant",
@@ -28651,41 +25898,9 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ85CWs4CERTURrM2HXgRI9ng",
-      "name": "三代目長山精肉店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4542157,
-      "lng": 132.4322996,
-      "city": "八幡浜市",
-      "address": "〒796-8004 愛媛県八幡浜市産業通１１−２０３−１",
-      "hours": "月〜金 15:00〜22:30 / 土・日・祝 11:30〜22:30",
-      "phone": "0894-35-6910",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.06,
-          "count": 13,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38007404/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ85CWs4CERTURrM2HXgRI9ng",
-      "tags": {
-        "style": [
-          "ラーメン"
+        "soup": [
+          "豚骨"
         ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -28721,40 +25936,6 @@
         "google"
       ],
       "placeId": "ChIJj27tBZmERTUR6bOYy2Ddcps"
-    },
-    {
-      "id": "g-ChIJLZIdI0-DRTURPdPHpKYKD6s",
-      "name": "焼き鶏 奏【かなで】",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.484299,
-      "lng": 132.401722,
-      "city": "八幡浜市",
-      "address": "〒796-0202 愛媛県八幡浜市保内町宮内１−３２３−１",
-      "hours": "平日 17:30〜22:30 / 日・祝 17:00〜22:00 / 定休：月",
-      "phone": "0894-37-3933",
-      "website": null,
-      "instagram": "yakitorikanade",
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38007102/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJLZIdI0-DRTURPdPHpKYKD6s",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "g-ChIJsRCJmIOERTURmbcxXk3pIT8",
@@ -28905,78 +26086,6 @@
       }
     },
     {
-      "id": "g-ChIJtYIZ_pyERTUR8uJah0qjZso",
-      "name": "地鶏のごちそう｡［ﾃｲｸｱｳﾄ］",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4610185,
-      "lng": 132.42109159999998,
-      "city": "八幡浜市",
-      "address": "〒796-0083 愛媛県八幡浜市北浜３丁目1590–18",
-      "hours": "11:00〜18:00 / 定休：水",
-      "phone": "0894-21-1777",
-      "website": "http://jidorinogochisou.net/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38010762/"
-        },
-        "rdb": {
-          "score": null,
-          "count": null,
-          "url": "https://ramendb.supleks.jp/s/118124.html"
-        }
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJtYIZ_pyERTUR8uJah0qjZso",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJR9rK1_iDRTURoWuwD7qgSQY",
-      "name": "定食屋 新",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4834675,
-      "lng": 132.4017317,
-      "city": "八幡浜市",
-      "address": "〒796-0202 愛媛県八幡浜市保内町宮内１−２７６−１ ローズ 館1A",
-      "hours": "11:00〜15:00 / 定休：日",
-      "phone": "090-1177-9093",
-      "website": null,
-      "instagram": "teisyokuya_shin",
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38016921/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJR9rK1_iDRTURoWuwD7qgSQY",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJVVWVzoCERTURW3eliVDeQ18",
       "name": "酉屋 りょう吉 八幡浜店",
       "category": "restaurant",
@@ -29073,43 +26182,12 @@
       "placeId": "ChIJNWeueYOERTURmsctYOdCEc4",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ44FYa06DRTURwPb_sYNeWRs",
-      "name": "武蔵",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4827481,
-      "lng": 132.3996382,
-      "city": "八幡浜市",
-      "address": "〒796-0202 愛媛県八幡浜市保内町宮内１−１６０−５",
-      "hours": "11:00〜22:00 / 定休：火",
-      "phone": "0894-37-2552",
-      "website": "https://cou5.shimazu-yoshihiro.net/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.02,
-          "count": 5,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38009842/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ44FYa06DRTURwPb_sYNeWRs",
-      "tags": {
-        "style": [
-          "ラーメン"
+        "soup": [
+          "醤油"
         ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
@@ -29183,40 +26261,6 @@
       }
     },
     {
-      "id": "g-ChIJ99-Y04KERTUREYJnDXCe2uM",
-      "name": "味な店 秩父",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4605843,
-      "lng": 132.4234478,
-      "city": "八幡浜市",
-      "address": "〒796-0075 愛媛県八幡浜市仲之町３９３−３",
-      "hours": "17:00〜22:00 / 定休：日",
-      "phone": "0894-22-2136",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.01,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38005329/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ99-Y04KERTUREYJnDXCe2uM",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJO-JKRU-DRTURmnPIoo4sQxU",
       "name": "味和居Dining 敬",
       "category": "restaurant",
@@ -29243,7 +26287,7 @@
       "placeId": "ChIJO-JKRU-DRTURmnPIoo4sQxU",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
