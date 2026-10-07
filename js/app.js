@@ -45,6 +45,8 @@
     q: '', city: '', sort: 'rank',
     cats: new Set(Object.keys(CATEGORIES).filter((k) => !CATEGORIES[k].off)),
     igOnly: false, ratedOnly: false, hideClosed: true,
+    openNow: false, mine: '', // mine: '' | fav | visited | todo
+    loc: null, // 現在地 { lat, lng }
     tags: Object.fromEntries(TAG_GROUPS.map((g) => [g.key, new Set()])), // 同じ段の中は OR、段どうしは AND
     view: 'map',
     limit: 60,
@@ -52,6 +54,29 @@
   };
   const markers = new Map();
   let activeMarker = null;
+
+  // ---------- お気に入り・行った（この端末のブラウザに保存） ----------
+  const STORE_KEY = 'ramen38:mylist:v1';
+  const mylist = { fav: new Set(), visited: new Set() };
+  try {
+    const saved = JSON.parse(localStorage.getItem(STORE_KEY) || '{}');
+    for (const k of Object.keys(mylist)) (saved[k] || []).forEach((id) => mylist[k].add(id));
+  } catch { /* 保存できない環境でもそのまま使える */ }
+  const saveMylist = () => {
+    try { localStorage.setItem(STORE_KEY, JSON.stringify(Object.fromEntries(Object.entries(mylist).map(([k, v]) => [k, [...v]])))); } catch { /* 保存できない環境 */ }
+  };
+
+  // ---------- 営業中の判定・現在地からの距離 ----------
+  let now = new Date(); // 描画のたびに更新する
+  const openStatus = (shop) => (shop.closed ? null : window.RamenHours?.status(shop.hours, now));
+  const distanceKm = (shop) => {
+    if (!state.loc) return null;
+    const rad = (d) => (d * Math.PI) / 180;
+    const dLat = rad(shop.lat - state.loc.lat), dLng = rad(shop.lng - state.loc.lng);
+    const a = Math.sin(dLat / 2) ** 2 + Math.cos(rad(state.loc.lat)) * Math.cos(rad(shop.lat)) * Math.sin(dLng / 2) ** 2;
+    return 12742 * Math.asin(Math.sqrt(a));
+  };
+  const distText = (km) => (km < 1 ? `${Math.round(km * 10) * 100}m`.replace(/^0m$/, '100m') : `${km.toFixed(km < 10 ? 1 : 0)}km`);
 
   // ---------- 地図 ----------
   const map = L.map('map', { zoomControl: true, scrollWheelZoom: false, minZoom: 5, maxZoom: 18 }).setView([33.65, 132.8], 9);
@@ -103,7 +128,7 @@
   function icon(shop, active = false) {
     return L.divIcon({
       className: '',
-      html: `<div class="dot ${shop.ramen === 'likely' ? 'maybe' : ''} ${active ? 'active' : ''}"></div>`,
+      html: `<div class="dot ${shop.ramen === 'likely' ? 'maybe' : ''} ${active ? 'active' : ''} ${mylist.visited.has(shop.id) ? 'visited' : ''} ${mylist.fav.has(shop.id) ? 'fav' : ''}"></div>`,
       iconSize: [14, 14], iconAnchor: [7, 7], popupAnchor: [0, -8],
     });
   }
@@ -121,6 +146,12 @@
       html += `<span class="sep">·</span><span class="${cls}"${title}>${esc(RAMEN_LABEL[shop.ramen])}</span>`;
     }
     if (shop.closed) html += `<span class="sep">·</span><span class="tag-closed">${shop.closed === 'temporary' ? '休業中' : '閉店'}</span>`;
+    if (withCity) {
+      const st = openStatus(shop);
+      if (st) html += `<span class="sep">·</span>${st.open ? `<span class="open-now" title="日本時間の現在時刻で判定">営業中 〜${st.until}</span>` : '<span class="open-off">営業時間外</span>'}`;
+      const km = distanceKm(shop);
+      if (km != null) html += `<span class="sep">·</span><span class="dist">${distText(km)}</span>`;
+    }
     return html;
   }
 
@@ -140,6 +171,8 @@
     return `<a class="rating none" href="${href}" target="_blank" rel="noopener" title="${site.label}${r?.url ? 'のページを開く' : 'で探す'}">
       <span class="site">${site.label}</span><b>—</b><small>${r?.url ? 'page' : 'search'}</small></a>`;
   }
+
+  const marks = (shop) => `<span class="marks" data-marks="${esc(shop.id)}">${mylist.fav.has(shop.id) ? '<i class="mk-fav" title="お気に入り">★</i>' : ''}${mylist.visited.has(shop.id) ? '<i class="mk-visited" title="行った">✓</i>' : ''}</span>`;
 
   const tagsHtml = (shop) => {
     const all = TAG_GROUPS.flatMap((g) => tagsOf(shop, g.key));
@@ -180,6 +213,17 @@
     </div>`;
   }
 
+  const ICONS2 = {
+    fav: '<svg viewBox="0 0 24 24"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg>',
+    visited: '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M7.5 12.5l3 3 6-6.5"/></svg>',
+    share: '<svg viewBox="0 0 24 24"><path d="M12 15V3M7.5 7.5L12 3l4.5 4.5M5 12v8h14v-8"/></svg>',
+  };
+  const actionsHtml = (shop) => `<div class="popup-actions" data-id="${esc(shop.id)}">
+      <button type="button" class="act" data-act="fav" aria-pressed="${mylist.fav.has(shop.id)}">${ICONS2.fav}<span>${mylist.fav.has(shop.id) ? 'お気に入り済み' : 'お気に入り'}</span></button>
+      <button type="button" class="act" data-act="visited" aria-pressed="${mylist.visited.has(shop.id)}">${ICONS2.visited}<span>${mylist.visited.has(shop.id) ? '行った' : '行った！'}</span></button>
+      <button type="button" class="act" data-act="share">${ICONS2.share}<span>共有</span></button>
+    </div>`;
+
   function popupHtml(shop) {
     const rows = [
       ['住所', shop.address],
@@ -193,6 +237,7 @@
       ${tagsHtml(shop)}
       <dl>${rows.map(([k, v]) => `<dt>${label[k]}</dt><dd>${k === '住所' ? esc(v) : v}</dd>`).join('')}</dl>
       ${iconLinks(shop)}
+      ${actionsHtml(shop)}
       <div class="ratings">${SITES.map((s) => ratingCell(shop, s)).join('')}</div>
     </div>`;
   }
@@ -218,10 +263,13 @@
       (!state.igOnly || s.instagram) &&
       (!state.ratedOnly || hasRating(s)) &&
       (!state.hideClosed || s.closed !== true) &&
+      (!state.openNow || openStatus(s)?.open) &&
+      (!state.mine || (state.mine === 'todo' ? !mylist.visited.has(s.id) : mylist[state.mine].has(s.id))) &&
       TAG_GROUPS.every((g) => !state.tags[g.key].size || tagsOf(s, g.key).some((x) => state.tags[g.key].has(x))) &&
       (!q || `${s.name} ${s.address || ''} ${s.city}`.normalize('NFKC').toLowerCase().includes(q)));
     const byName = (a, b) => a.name.localeCompare(b.name, 'ja');
     const sorters = {
+      near: (a, b) => (distanceKm(a) ?? 1e9) - (distanceKm(b) ?? 1e9) || byName(a, b),
       rank: (a, b) => (a.rank || 9999) - (b.rank || 9999) || a.city.localeCompare(b.city, 'ja') || byName(a, b),
       name: (a, b) => a.city.localeCompare(b.city, 'ja') || byName(a, b),
       count: (a, b) => totalCount(b) - totalCount(a) || byName(a, b),
@@ -231,6 +279,7 @@
 
   // ---------- 描画 ----------
   function render() {
+    now = new Date();
     const list = filtered();
     $('#count').innerHTML = `<b>${list.length}</b> / ${state.shops.length} shops`;
 
@@ -239,7 +288,7 @@
 
     $('#list').innerHTML = list.slice(0, state.limit).map((s, i) => `
       <li data-id="${esc(s.id)}" class="${s.id === state.activeId ? 'active' : ''}">
-        <p class="shop-name">${rankBadge(s)}${esc(s.name)}</p>
+        <p class="shop-name">${rankBadge(s)}${esc(s.name)}${marks(s)}</p>
         <p class="shop-meta">${meta(s)}</p>
         ${tagsHtml(s)}
         <div class="ratings">${SITES.map((site) => ratingCell(s, site)).join('')}</div>
@@ -311,6 +360,94 @@
     });
   }
 
+  // ---------- 共有・お気に入り・現在地 ----------
+  let toastTimer = null;
+  function toast(msg) {
+    let el = $('#toast');
+    if (!el) { el = document.createElement('div'); el.id = 'toast'; el.setAttribute('role', 'status'); document.body.appendChild(el); }
+    el.textContent = msg; el.classList.add('show');
+    clearTimeout(toastTimer); toastTimer = setTimeout(() => el.classList.remove('show'), 2200);
+  }
+  const shareUrl = (id) => `${location.origin}${location.pathname}#shop=${enc(id)}`;
+  async function shareShop(shop) {
+    const url = shareUrl(shop.id);
+    if (navigator.share) {
+      try { await navigator.share({ title: `${shop.name} | RAMEN 38`, text: `${shop.name}（${shop.city}）`, url }); return; }
+      catch (e) { if (e.name === 'AbortError') return; }
+    }
+    try { await navigator.clipboard.writeText(url); toast('リンクをコピーしました'); }
+    catch { window.prompt('このリンクをコピーしてください', url); }
+  }
+  function updateMineCounts() {
+    const sel = $('#mine'); if (!sel) return;
+    sel.options[1].textContent = `お気に入り (${mylist.fav.size})`;
+    sel.options[2].textContent = `行った (${mylist.visited.size})`;
+    sel.options[3].textContent = `まだ行ってない (${state.shops.filter((s) => !mylist.visited.has(s.id)).length})`;
+  }
+  // ボタンを押したときは、吹き出しが閉じないよう地図は再描画せず、その場で見た目だけ更新する
+  function toggleMark(id, key) {
+    const shop = state.shops.find((s) => s.id === id); if (!shop) return;
+    const set = mylist[key];
+    set.has(id) ? set.delete(id) : set.add(id);
+    saveMylist(); updateMineCounts();
+    const m = markers.get(id); m.setIcon(icon(shop, id === state.activeId));
+    const li = document.querySelector(`#list [data-marks="${CSS.escape(id)}"]`);
+    if (li) li.outerHTML = marks(shop);
+    return set.has(id);
+  }
+  function onAction(e) {
+    const btn = e.target.closest('.act'); if (!btn) return;
+    const id = btn.parentElement.dataset.id;
+    const shop = state.shops.find((s) => s.id === id);
+    if (btn.dataset.act === 'share') return shareShop(shop);
+    const on = toggleMark(id, btn.dataset.act);
+    btn.setAttribute('aria-pressed', on);
+    btn.querySelector('span').textContent = btn.dataset.act === 'fav' ? (on ? 'お気に入り済み' : 'お気に入り') : (on ? '行った' : '行った！');
+    if (on) toast(btn.dataset.act === 'fav' ? 'お気に入りに追加しました' : '「行った」に記録しました');
+  }
+
+  let userMarker = null;
+  function locate() {
+    return new Promise((resolve) => {
+      if (!navigator.geolocation) { toast('この端末では現在地を使えません'); return resolve(false); }
+      toast('現在地を取得しています…');
+      navigator.geolocation.getCurrentPosition((pos) => {
+        state.loc = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+        if (userMarker) userMarker.setLatLng([state.loc.lat, state.loc.lng]);
+        else userMarker = L.circleMarker([state.loc.lat, state.loc.lng], { radius: 8, color: '#fff', weight: 3, fillColor: '#1a73e8', fillOpacity: 1, interactive: false }).addTo(map);
+        resolve(true);
+      }, () => { toast('現在地を取得できませんでした（位置情報の許可をご確認ください）'); resolve(false); },
+      { enableHighAccuracy: false, timeout: 10000, maximumAge: 60000 });
+    });
+  }
+  async function sortNear(sel) {
+    if (!state.loc && !(await locate())) { state.sort = 'rank'; sel.value = 'rank'; return render(); }
+    state.limit = 60; render();
+    const near = filtered().slice(0, 5).map((s) => [s.lat, s.lng]);
+    map.fitBounds([[state.loc.lat, state.loc.lng], ...near], { padding: [40, 40], maxZoom: 15 });
+    $('#list').scrollTop = 0;
+  }
+
+  // 共有リンク（#shop=店ID）で開いたとき、その店を表示する。絞り込みで隠れている店は条件を緩めて表示する
+  function openFromHash() {
+    const m = location.hash.match(/^#shop=(.+)$/); if (!m) return;
+    const id = decodeURIComponent(m[1]);
+    const shop = state.shops.find((s) => s.id === id); if (!shop) return;
+    if (!state.cats.has(shop.category)) {
+      state.cats.add(shop.category);
+      document.querySelector(`.toggle[data-cat="${shop.category}"]`)?.setAttribute('aria-pressed', true);
+    }
+    if (shop.closed === true && state.hideClosed) { state.hideClosed = false; $('#hideClosed').checked = false; }
+    if (!filtered().includes(shop)) {
+      Object.assign(state, { q: '', city: '', igOnly: false, ratedOnly: false, openNow: false, mine: '' });
+      $('#q').value = ''; $('#city').value = ''; $('#igOnly').checked = $('#ratedOnly').checked = $('#openNow').checked = false; $('#mine').value = '';
+      for (const set of Object.values(state.tags)) set.clear();
+      document.querySelectorAll('.tagchip').forEach((b) => b.setAttribute('aria-pressed', false));
+    }
+    render();
+    focusShop(id);
+  }
+
   function setView(view) {
     state.view = view;
     document.querySelectorAll('.view-switch button').forEach((b) => b.setAttribute('aria-selected', b.dataset.view === view));
@@ -325,7 +462,17 @@
     const reset = () => { state.limit = 60; render(); };
     $('#q').addEventListener('input', (e) => { state.q = e.target.value; reset(); });
     $('#city').addEventListener('change', (e) => { state.city = e.target.value; reset(); fitToList(); });
-    $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; reset(); });
+    $('#sort').addEventListener('change', (e) => {
+      state.sort = e.target.value;
+      if (state.sort === 'near') sortNear(e.target); else reset();
+    });
+    $('#openNow').addEventListener('change', (e) => { state.openNow = e.target.checked; reset(); });
+    $('#mine').addEventListener('change', (e) => { state.mine = e.target.value; reset(); fitToList(); });
+    document.addEventListener('click', onAction);
+    window.addEventListener('hashchange', openFromHash);
+    // 吹き出しを開いている店の共有リンクをアドレスバーに出す（閉じたら元に戻す）
+    map.on('popupopen', (e) => { const sh = e.popup._source?.shop; if (sh) history.replaceState(null, '', `#shop=${enc(sh.id)}`); });
+    map.on('popupclose', () => { if (location.hash.startsWith('#shop=') && !(reopen && Date.now() <= reopen.until && reopen.tries < 1)) history.replaceState(null, '', '#explore'); });
     $('#igOnly').addEventListener('change', (e) => { state.igOnly = e.target.checked; reset(); });
     $('#ratedOnly').addEventListener('change', (e) => { state.ratedOnly = e.target.checked; reset(); });
     $('#hideClosed').addEventListener('change', (e) => { state.hideClosed = e.target.checked; reset(); });
@@ -405,9 +552,11 @@
     };
     for (const [k, v] of Object.entries(stat)) document.querySelector(`[data-stat="${k}"]`).textContent = v.toLocaleString();
 
+    updateMineCounts();
     bind();
     render();
     fitToList();
+    openFromHash();
   }
 
   init().catch((e) => {

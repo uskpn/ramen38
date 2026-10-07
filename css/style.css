@@ -331,3 +331,33 @@ button, input, select { font: inherit; color: inherit; }
 .tags { display: flex; flex-wrap: wrap; gap: 4px 6px; margin: 0 0 12px; }
 .tags span { font-size: 11px; letter-spacing: .06em; color: var(--ink-2); border: 1px solid var(--line); padding: 0 7px; line-height: 1.7; }
 @media (max-width: 720px) { .tag-row { grid-template-columns: 1fr; gap: 4px; } }
+
+/* ---------- 営業中・現在地・お気に入り・共有 ---------- */
+.open-now { color: #1b7f3b; }
+.open-off { color: var(--muted); }
+.dist { color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.marks { margin-left: 8px; white-space: nowrap; }
+.marks i { font-style: normal; font-size: 14px; margin-right: 4px; vertical-align: 1px; }
+.mk-fav { color: #d99a00; }
+.mk-visited { color: #1b7f3b; font-weight: 700; }
+.dot.visited { background: #1b7f3b; box-shadow: 0 0 0 1px #1b7f3b; }
+.dot.fav { box-shadow: 0 0 0 2px #d99a00; }
+.popup-actions { display: flex; gap: 8px; margin: 0 0 16px; }
+.popup .act {
+  flex: 1 1 0; min-width: 0; display: inline-flex; align-items: center; justify-content: center; gap: 4px;
+  min-height: 40px; padding: 0 4px; background: #fff; color: var(--ink);
+  border: 1px solid var(--line-strong); border-radius: 20px; cursor: pointer;
+  font: inherit; font-size: 12px; letter-spacing: .04em; white-space: nowrap;
+}
+.popup .act svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+.popup .act[aria-pressed=true] { background: var(--ink); color: #fff; }
+.popup .act[data-act=fav][aria-pressed=true] svg { fill: #f2b01e; stroke: #f2b01e; }
+.popup .act:hover { background: var(--paper); }
+.popup .act[aria-pressed=true]:hover { background: var(--ink-2); }
+#toast {
+  position: fixed; left: 50%; bottom: 28px; transform: translate(-50%, 20px); z-index: 2000;
+  max-width: calc(100vw - 32px); padding: 10px 18px; background: var(--ink); color: #fff;
+  font-size: 13px; letter-spacing: .06em; line-height: 1.6; text-align: center;
+  opacity: 0; pointer-events: none; transition: opacity .25s, transform .25s;
+}
+#toast.show { opacity: 1; transform: translate(-50%, 0); }

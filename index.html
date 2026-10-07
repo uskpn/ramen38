@@ -71,6 +71,15 @@
             <select id="city"><option value="">すべての市町</option></select>
           </label>
           <label class="field">
+            <span class="field-label">My List</span>
+            <select id="mine">
+              <option value="">すべて</option>
+              <option value="fav">お気に入り</option>
+              <option value="visited">行った</option>
+              <option value="todo">まだ行ってない</option>
+            </select>
+          </label>
+          <label class="field">
             <span class="field-label">Sort</span>
             <select id="sort">
               <option value="rank">総合ランキング順</option>
@@ -78,12 +87,14 @@
               <option value="tabelog">食べログ 評価順</option>
               <option value="rdb">ラーメンDB 評価順</option>
               <option value="count">口コミ数順</option>
+              <option value="near">現在地に近い順</option>
             </select>
           </label>
         </div>
         <div class="filter-row filter-row-sub">
           <div class="toggles" id="categories" role="group" aria-label="お店の種類"></div>
           <div class="toggles toggles-options">
+            <label class="opt"><input type="checkbox" id="openNow"><span>いま営業中</span></label>
             <label class="opt"><input type="checkbox" id="igOnly"><span>Instagram あり</span></label>
             <label class="opt"><input type="checkbox" id="ratedOnly"><span>評価あり</span></label>
             <label class="opt"><input type="checkbox" id="hideClosed" checked><span>閉店を隠す</span></label>
@@ -154,6 +165,7 @@
   <script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@maplibre/maplibre-gl-leaflet@0.0.22/leaflet-maplibre-gl.js"></script>
+  <script src="js/hours-open.js?v=__VERSION__"></script>
   <script src="js/app.js?v=__VERSION__"></script>
 </body>
 </html>
