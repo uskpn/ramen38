@@ -2558,6 +2558,22 @@
       "placeId": "ChIJbUYCfkaDRTURUG8O7zIoLF4",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJEehlrULlTzURriA1qX_2Ozw",
+      "name": "まいどおおきに食堂 ふるみつ食堂",
+      "city": "松山市",
+      "placeId": "ChIJEehlrULlTzURriA1qX_2Ozw",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJV9zUxu3SUTURCsUyFrlUGb4",
+      "name": "まいどおおきに食堂 西条福武食堂",
+      "city": "西条市",
+      "placeId": "ChIJV9zUxu3SUTURCsUyFrlUGb4",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }

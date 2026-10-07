@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T11:02:42.435Z",
+  "updatedAt": "2026-10-07T14:06:56.299Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -9751,42 +9751,6 @@
       "rank": 33
     },
     {
-      "id": "g-ChIJEehlrULlTzURriA1qX_2Ozw",
-      "name": "まいどおおきに食堂 ふるみつ食堂",
-      "category": "shokudo",
-      "ramen": "menu",
-      "lat": 33.8564903,
-      "lng": 132.7265879,
-      "city": "松山市",
-      "address": "〒791-8067 愛媛県松山市古三津５丁目８−２２",
-      "hours": "7:00〜23:00",
-      "phone": "089-952-9171",
-      "website": "http://www.kizuna-g.co.jp/service/maido/",
-      "instagram": "furumitushokudou",
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 19,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38003517/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJEehlrULlTzURriA1qX_2Ozw",
-      "tags": {
-        "style": [
-          "中華そば"
-        ],
-        "soup": [
-          "醤油"
-        ],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJm0BqGADlTzUR2_tv0U78oro",
       "name": "まぜそば専門店もず",
       "category": "ramen",
@@ -19508,42 +19472,6 @@
         ],
         "soup": [
           "味噌"
-        ],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJV9zUxu3SUTURCsUyFrlUGb4",
-      "name": "まいどおおきに食堂 西条福武食堂",
-      "category": "shokudo",
-      "ramen": "menu",
-      "lat": 33.9119702,
-      "lng": 133.2022514,
-      "city": "西条市",
-      "address": "〒793-0035 愛媛県西条市福武甲４５６−２",
-      "hours": "11:00〜22:00",
-      "phone": "0897-53-1367",
-      "website": "https://www.bmfactory.co.jp/shop/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 18,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38004940/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJV9zUxu3SUTURCsUyFrlUGb4",
-      "tags": {
-        "style": [
-          "中華そば"
-        ],
-        "soup": [
-          "醤油"
         ],
         "noodle": [],
         "character": []
