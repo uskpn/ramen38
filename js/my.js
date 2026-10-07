@@ -30,8 +30,11 @@
   const earned = (s) => BADGES.filter((b) => b.need(s)).map((b) => b.id);
 
   // ---------- 愛媛の形（専門店の位置を点で描く） ----------
+  const OUTLINE = window.EHIME_OUTLINE || [];
   function geoSetup() {
-    const lats = base.map((s) => s.lat), lngs = base.map((s) => s.lng);
+    // 輪郭があれば輪郭の範囲いっぱいに、なければ店の位置の範囲に合わせる
+    const pts = OUTLINE.length ? OUTLINE.flat().map(([lng, lat]) => ({ lat, lng })) : base;
+    const lats = pts.map((s) => s.lat), lngs = pts.map((s) => s.lng);
     geo = { minLat: Math.min(...lats), maxLat: Math.max(...lats), minLng: Math.min(...lngs), maxLng: Math.max(...lngs), kx: 0.83 }; // 経度は cos(33.8°) で補正
   }
   function project(s, w, h) {
@@ -39,8 +42,12 @@
     const ox = (w - (geo.maxLng - geo.minLng) * geo.kx * k) / 2, oy = (h - (geo.maxLat - geo.minLat) * k) / 2;
     return [ox + (s.lng - geo.minLng) * geo.kx * k, oy + (geo.maxLat - s.lat) * k];
   }
+  // 愛媛県の輪郭（薄く）
+  function outlineD(w, h) {
+    return OUTLINE.map((ring) => 'M' + ring.map(([lng, lat]) => project({ lat, lng }, w, h).map((v) => v.toFixed(1)).join(',')).join('L') + 'Z').join('');
+  }
   function mapSvg(w, h, ateIds) {
-    return `<svg viewBox="0 0 ${w} ${h}" width="100%" role="img" aria-label="食べた店の分布">${base.map((s) => {
+    return `<svg viewBox="0 0 ${w} ${h}" width="100%" role="img" aria-label="食べた店の分布"><path d="${outlineD(w, h)}" fill="#f3f3f0" stroke="#d9d9d4" stroke-width="1" stroke-linejoin="round"/>${base.map((s) => {
       const [x, y] = project(s, w, h), v = ateIds.has(s.id);
       return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${v ? 6 : 2.8}" fill="${v ? '#111' : '#c2c2bd'}"/>`;
     }).join('')}</svg>`;
@@ -55,7 +62,7 @@
     $('#my-year').innerHTML = `${s.thisYear}<small>杯</small>`;
     $('#my-pct-bar').style.width = `${Math.max(s.pct, s.ate ? 1.2 : 0)}%`;
     $('#my-pct-label').textContent = `愛媛ラーメン制覇率 ${s.pct.toFixed(1)}%`;
-    $('#my-map').innerHTML = mapSvg(300, 236, s.ateIds);
+    $('#my-map').innerHTML = mapSvg(300, 260, s.ateIds);
     $('#my-cityrows').innerHTML = s.perCity.map(([c, t, v]) =>
       `<div class="my-crow"><span>${ctx.esc(c)}</span><span class="bar"><i style="width:${(v / t) * 100}%"></i></span><span class="cv"><b>${v}</b> / ${t}</span></div>`).join('');
     const got = new Set(earned(s));
@@ -167,6 +174,12 @@
     const mapTop = Math.max(y, 1080), mapH = 1700 - mapTop - 20, mapW = kind === 'shop' ? 560 : W - M * 2;
     c.save(); c.translate(kind === 'shop' ? M : M, mapTop);
     const hi = shopId ? ctx.byId.get(shopId) : null;
+    if (OUTLINE.length) {
+      c.beginPath();
+      for (const ring of OUTLINE) ring.forEach(([lng, lat], i) => { const [px, py] = project({ lat, lng }, mapW, mapH); i ? c.lineTo(px, py) : c.moveTo(px, py); if (i === ring.length - 1) c.closePath(); });
+      c.fillStyle = dark ? '#262624' : '#f3f3f0'; c.fill();
+      c.lineWidth = 2; c.lineJoin = 'round'; c.strokeStyle = dark ? '#3c3c3a' : '#d9d9d4'; c.stroke();
+    }
     for (const b of base) {
       const [px, py] = project(b, mapW, mapH), v = s.ateIds.has(b.id);
       c.beginPath(); c.arc(px, py, v ? 11 : 5.5, 0, Math.PI * 2);
