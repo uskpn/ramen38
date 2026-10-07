@@ -58,7 +58,7 @@ const metaLine = (s) => [esc(s.city), esc(CATEGORY[s.category] || s.category)].j
 const FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500&family=Noto+Sans+JP:wght@300;400;500&display=swap">';
 function layout({ title, description, canonical, body, jsonld, ogType = 'website', app = null, current = '' }) {
   return `<!doctype html>
-<html lang="ja"${app ? ' data-root="../"' : ''}>
+<html lang="ja"${app ? ' data-root="../" data-mode="index"' : ''}>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -165,6 +165,11 @@ async function indexPage() {
     .replace(/<h2 id="explore-title">[\s\S]*?<\/h2>/, `<h2 id="explore-title"><span class="en">Ehime Ramen ${shops.length}</span></h2>`);
   const styles = (root.match(/<link rel="stylesheet" href="https:\/\/cdn[^>]*>/g) || []).join('\n');
   const scripts = (root.match(/<script src="[^"]*"><\/script>/g) || []).map((t) => t.replace('src="js/', 'src="../js/')).join('\n');
+  // 一覧（Index）だけにする：地図と Map/Index の切り替えを外し、表を最初から表示する
+  explore = explore
+    .replace(/<div class="view-switch"[\s\S]*?<\/div>\s*/, '')
+    .replace('<div id="view-map" class="map-layout">', '<div id="view-map" class="map-layout" hidden>')
+    .replace('<div id="view-table" class="table-wrap" hidden>', '<div id="view-table" class="table-wrap">');
   // 検索エンジン向けに、JavaScript なしでも全店舗へのリンクが辿れるようにしておく
   const byCity = new Map();
   for (const s of shops) (byCity.get(s.city) || byCity.set(s.city, []).get(s.city)).push(s);

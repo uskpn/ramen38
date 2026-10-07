@@ -37,6 +37,8 @@
 
   // 店ごとのページ（shop/）では ../ になる。サイトの根元からの相対パス
   const ROOT = document.documentElement.dataset.root || '';
+  // shop/ のページは「一覧（Index）だけ」。地図は使わず、店名は店ごとのページへのリンクにする
+  const INDEX_ONLY = document.documentElement.dataset.mode === 'index';
   const enc = encodeURIComponent;
   const siteSearch = (domain, s) => `https://www.google.com/search?q=${enc(`site:${domain} ${s.name} ${s.city}`)}`;
   const esc = (v) => String(v ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -91,7 +93,7 @@
     maxZoom: 18,
     attribution: '<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">国土地理院</a>',
   });
-  fetch('https://tiles.openfreemap.org/styles/positron')
+  if (!INDEX_ONLY) fetch('https://tiles.openfreemap.org/styles/positron')
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((style) => {
       for (const layer of style.layers) {
@@ -287,10 +289,10 @@
     const list = filtered();
     $('#count').innerHTML = `<b>${list.length}</b> / ${state.shops.length} shops`;
 
-    cluster.clearLayers();
-    cluster.addLayers(list.map((s) => markers.get(s.id)));
+    if (!INDEX_ONLY) cluster.clearLayers();
+    if (!INDEX_ONLY) cluster.addLayers(list.map((s) => markers.get(s.id)));
 
-    $('#list').innerHTML = list.slice(0, state.limit).map((s, i) => `
+    if (!INDEX_ONLY) $('#list').innerHTML = list.slice(0, state.limit).map((s, i) => `
       <li data-id="${esc(s.id)}" class="${s.id === state.activeId ? 'active' : ''}">
         <p class="shop-name">${rankBadge(s)}${esc(s.name)}${marks(s)}</p>
         <p class="shop-meta">${meta(s)}</p>
@@ -304,9 +306,9 @@
     $('#table-body').innerHTML = list.map((s, i) => `
       <tr>
         <td class="no">${s.rank || '—'}</td>
-        <td class="name-cell" data-id="${esc(s.id)}">${esc(s.name)}</td>
+        <td class="name-cell" data-id="${esc(s.id)}">${INDEX_ONLY ? `<a href="${esc(s.id)}.html">${esc(s.name)}</a>` : esc(s.name)}</td>
         <td>${esc(s.city)}</td>
-        <td class="type">${meta(s, false)}</td>
+        <td class="type">${meta(s, false)}${INDEX_ONLY ? indexExtra(s) : ''}</td>
         ${SITES.map((site) => {
           const r = s.ratings?.[site.key];
           const href = esc(r?.url || site.search(s));
@@ -316,6 +318,16 @@
         }).join('')}
         <td class="ig-cell">${instagramLink(s) || '<span class="dash">—</span>'}</td>
       </tr>`).join('');
+  }
+
+  // 一覧の「種類」欄に、営業中の表示と現在地からの距離を足す（shop/ のページだけ）
+  function indexExtra(shop) {
+    let html = '';
+    const st = openStatus(shop);
+    if (st) html += `<span class="sep">·</span>${st.open ? `<span class="open-now">営業中 〜${st.until}</span>` : '<span class="open-off">営業時間外</span>'}`;
+    const km = distanceKm(shop);
+    if (km != null) html += `<span class="sep">·</span><span class="dist">${distText(km)}</span>`;
+    return html;
   }
 
   function focusShop(id) {
@@ -451,6 +463,7 @@
 
   // 共有リンク（#shop=店ID）で開いたとき、その店を表示する。絞り込みで隠れている店は条件を緩めて表示する
   function openFromHash() {
+    if (INDEX_ONLY) return;
     const m = location.hash.match(/^#shop=(.+)$/); if (!m) return;
     const id = decodeURIComponent(m[1]);
     const shop = state.shops.find((s) => s.id === id); if (!shop) return;
@@ -524,11 +537,12 @@
     });
     $('#table-body').addEventListener('click', (e) => {
       const td = e.target.closest('.name-cell');
-      if (td) focusShop(td.dataset.id);
+      if (td && !INDEX_ONLY) focusShop(td.dataset.id);
     });
   }
 
   function fitToList() {
+    if (INDEX_ONLY) return;
     const pts = filtered().map((s) => [s.lat, s.lng]);
     if (pts.length) map.fitBounds(pts, { padding: [30, 30], maxZoom: 15 });
   }
@@ -576,6 +590,7 @@
     updateMineCounts();
     window.RamenMy?.init({ shops: state.shops, byId: new Map(state.shops.map((x) => [x.id, x])), mylist, save: saveMylist, esc, CATEGORIES, TAG_GROUPS, toast, refreshMarks });
     bind();
+    if (INDEX_ONLY) setView('table');
     render();
     fitToList();
     openFromHash();
