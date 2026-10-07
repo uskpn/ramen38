@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T05:46:24.737Z",
+  "updatedAt": "2026-10-07T10:59:10.560Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -13422,7 +13422,7 @@
     },
     {
       "id": "g-ChIJ1XnfOHPlTzURmugxSD3FAa0",
-      "name": "中華バルろたす",
+      "name": "中華バル ろたす",
       "category": "chinese",
       "ramen": "menu",
       "lat": 33.8390181,
@@ -13449,7 +13449,10 @@
         "style": [
           "担々麺"
         ],
-        "soup": [],
+        "soup": [
+          "野菜",
+          "鶏"
+        ],
         "noodle": [],
         "character": [
           "辛い"
