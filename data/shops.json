@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T02:02:17.630Z",
+  "updatedAt": "2026-10-08T02:38:02.951Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -4245,7 +4245,7 @@
       "phone": "0898-25-6088",
       "website": "http://www.ryoka-ism.com/",
       "osmId": "way/806362857",
-      "instagram": null,
+      "instagram": "vusido.ryoka",
       "ratings": {
         "tabelog": {
           "score": 3.04,
@@ -4265,11 +4265,18 @@
       "placeId": "ChIJmeqqev06UDURDVltiale4BQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "塩",
-          "節"
+          "節",
+          "味噌",
+          "煮干し",
+          "魚介",
+          "鶏",
+          "柑橘"
         ]
       }
     },
@@ -7280,7 +7287,7 @@
       "hours": "11:00〜14:30、17:30〜22:00 / 定休：火、第1・3水",
       "phone": "0896-23-1356",
       "website": "http://www.ryoka-ism.com/#Shop/8",
-      "instagram": null,
+      "instagram": "vusido.ryoka",
       "ratings": {
         "tabelog": {
           "score": 3.04,
@@ -7299,11 +7306,18 @@
       "placeId": "ChIJ12E-dmiUUTURjh_zpTPd6wQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "塩",
-          "節"
+          "節",
+          "味噌",
+          "煮干し",
+          "魚介",
+          "鶏",
+          "柑橘"
         ]
       }
     },
@@ -10403,11 +10417,18 @@
       "placeId": "ChIJ8bgwlQnmTzURcOuwb8DKgOI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "塩",
-          "節"
+          "節",
+          "味噌",
+          "煮干し",
+          "魚介",
+          "鶏",
+          "柑橘"
         ]
       }
     },
@@ -10647,11 +10668,18 @@
       "placeId": "ChIJNxLB1n_lTzURN_YtcvYuCT8",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "塩",
-          "節"
+          "節",
+          "味噌",
+          "煮干し",
+          "魚介",
+          "鶏",
+          "柑橘"
         ]
       }
     },
@@ -16683,11 +16711,18 @@
       "placeId": "ChIJyWVDxwbuTzURXqNQSYY5Kms",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "塩",
-          "節"
+          "節",
+          "味噌",
+          "煮干し",
+          "魚介",
+          "鶏",
+          "柑橘"
         ]
       }
     },
@@ -17674,7 +17709,7 @@
       "phone": "0897-34-6309",
       "website": "http://www.ryoka-ism.com/",
       "osmId": "way/1442586905",
-      "instagram": null,
+      "instagram": "vusido.ryoka",
       "ratings": {
         "tabelog": {
           "score": 3.02,
@@ -17694,11 +17729,18 @@
       "placeId": "ChIJ58OXpM3IUTURHHOAI0EZVoU",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "塩",
-          "節"
+          "節",
+          "味噌",
+          "煮干し",
+          "魚介",
+          "鶏",
+          "柑橘"
         ]
       }
     },
@@ -22174,7 +22216,7 @@
       "hours": "11:00〜15:00、17:00〜21:00 / 定休：火",
       "phone": "0893-25-6969",
       "website": "http://www.ryoka-ism.com/",
-      "instagram": null,
+      "instagram": "vusido.ryoka",
       "ratings": {
         "tabelog": {
           "score": 3.03,
@@ -22193,11 +22235,18 @@
       "placeId": "ChIJJaPOapWATzURhYZxKWtjPJ8",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "塩",
-          "節"
+          "節",
+          "味噌",
+          "煮干し",
+          "魚介",
+          "鶏",
+          "柑橘"
         ]
       }
     },
@@ -23587,7 +23636,7 @@
       "hours": "11:00〜15:00、17:30〜21:00 / 定休：火、第3水",
       "phone": "089-955-1288",
       "website": "http://www.ryoka-ism.com/#Shop/4",
-      "instagram": null,
+      "instagram": "vusido.ryoka",
       "ratings": {
         "tabelog": {
           "score": 3.1,
@@ -23606,11 +23655,18 @@
       "placeId": "ChIJ46MnjPnnTzURSAzwOBZPk6o",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "塩",
-          "節"
+          "節",
+          "味噌",
+          "煮干し",
+          "魚介",
+          "鶏",
+          "柑橘"
         ]
       }
     },
