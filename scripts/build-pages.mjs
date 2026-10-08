@@ -163,7 +163,7 @@ function shopPage(s) {
     </div>
     <div class="ratings">${['google', 'tabelog', 'rdb'].map((k) => ratingCell(s, k)).join('')}</div>
   </div>
-  <div class="shop-cta" data-id="${esc(s.id)}">
+  <div class="shop-cta" data-id="${esc(s.id)}" data-name="${esc(s.name)}" data-city="${esc(s.city)}">
     <a class="btn-primary" href="../#shop=${enc(s.id)}">地図で見る</a>
     <button type="button" class="act" data-act="fav" aria-pressed="false">${ACT_ICONS.fav}<span>お気に入り</span></button>
     <button type="button" class="act" data-act="visited" aria-pressed="false">${ACT_ICONS.visited}<span>行った</span></button>

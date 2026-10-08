@@ -20,6 +20,12 @@
   box.addEventListener('click', (e) => {
     const b = e.target.closest('.act'); if (!b) return;
     const k = b.dataset.act;
+    const wasOn = has(k);
+    try { // Google アナリティクスに送る（localhost では何も起きない）
+      window.gtag?.('event', k === 'visited' ? 'mark_visited' : 'mark_favorite', {
+        action: wasOn ? 'remove' : 'add', shop_id: id, shop_name: box.dataset.name, city: box.dataset.city, source: 'shop_page',
+      });
+    } catch { /* 計測できなくても動作には影響させない */ }
     if (has(k)) {
       data[k] = data[k].filter((x) => x !== id);
       if (k === 'visited') delete data.visitedAt[id];

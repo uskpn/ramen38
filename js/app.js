@@ -434,12 +434,21 @@
     if (li) li.outerHTML = marks(shop);
     return set.has(id);
   }
+  // Google アナリティクスに「行った」「お気に入り」が押されたことを送る（gtag が無い・localhost では何も起きない）
+  function track(act, shop, on, from) {
+    try {
+      window.gtag?.('event', act === 'visited' ? 'mark_visited' : 'mark_favorite', {
+        action: on ? 'add' : 'remove', shop_id: shop.id, shop_name: shop.name, city: shop.city, source: from,
+      });
+    } catch { /* 計測できなくても動作には影響させない */ }
+  }
   function onAction(e) {
     const btn = e.target.closest('.act'); if (!btn) return;
     const id = btn.parentElement.dataset.id;
     const shop = state.shops.find((s) => s.id === id);
     if (btn.dataset.act === 'share') return shareShop(shop);
     const on = toggleMark(id, btn.dataset.act);
+    track(btn.dataset.act, shop, on, 'popup');
     btn.setAttribute('aria-pressed', on);
     if (btn.dataset.act === 'visited') {
       const r = window.RamenMy;
