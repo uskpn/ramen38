@@ -497,3 +497,5 @@ button, input, select { font: inherit; color: inherit; }
 
 /* iPhone が数字や地名を「住所・電話」と見なして点線のリンクにしてしまうのを打ち消す */
 a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; border: 0 !important; }
+.social .ic.search { border-style: dashed; color: var(--muted); border-color: var(--muted); }
+.social a.ic.search:hover { background: var(--muted); color: #fff; }

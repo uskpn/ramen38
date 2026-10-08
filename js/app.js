@@ -189,7 +189,9 @@
     const ic = (key, label, href) => href
       ? `<a class="ic" href="${href}" target="_blank" rel="noopener" title="${label}" aria-label="${label}">${ICONS[key]}</a>`
       : `<span class="ic off" title="${label}（未登録）" aria-label="${label}（未登録）">${ICONS[key]}</span>`;
-    return `<span class="social">${ic('hp', 'ホームページ', shop.website && esc(shop.website))}${ic('ig', 'Instagram', shop.instagram && `https://www.instagram.com/${esc(shop.instagram)}/`)}${ic('x', 'X', shop.x && `https://x.com/${esc(shop.x)}`)}</span>`;
+    return `<span class="social">${ic('hp', 'ホームページ', shop.website && esc(shop.website))}${shop.instagram
+      ? ic('ig', 'Instagram', `https://www.instagram.com/${esc(shop.instagram)}/`)
+      : ic('ig', 'Instagramを探す', `https://www.google.com/search?q=${enc(`site:instagram.com ${shop.name} ${shop.city}`)}`).replace('class="ic"', 'class="ic search"')}${ic('x', 'X', shop.x && `https://x.com/${esc(shop.x)}`)}</span>`;
   }
 
   function instagramLink(shop) {
