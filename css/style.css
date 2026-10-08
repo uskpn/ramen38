@@ -501,7 +501,7 @@ a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !im
 .social a.ic.search:hover { background: var(--muted); color: #fff; }
 
 /* 一覧の見出し行（画面に固定する複製） */
-.sticky-head { position: fixed; left: 0; right: 0; z-index: 900; overflow: hidden; background: var(--bg); box-shadow: 0 1px 0 var(--ink); }
+.sticky-head { position: fixed; left: 0; right: 0; z-index: 900; overflow: hidden; background: var(--bg); }
 .sticky-head > div { width: max-content; }
 .sticky-head .index-table { min-width: 0; table-layout: fixed; }
 .sticky-head th { position: static; padding-top: 12px; }
