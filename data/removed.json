@@ -2574,6 +2574,14 @@
       "placeId": "ChIJV9zUxu3SUTURCsUyFrlUGb4",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJjQrM4HbyTzURL_zTUPcQ_7A",
+      "name": "森店（もりみせ）食堂",
+      "city": "伊予市",
+      "placeId": "ChIJjQrM4HbyTzURL_zTUPcQ_7A",
+      "osmId": null,
+      "reason": "重複"
     }
   ]
 }

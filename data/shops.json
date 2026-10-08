@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T14:36:36.638Z",
+  "updatedAt": "2026-10-08T00:57:03.088Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -873,7 +873,7 @@
     },
     {
       "id": "rdb-173558",
-      "name": "森店",
+      "name": "森店（もりみせ）",
       "category": "shokudo",
       "ramen": "menu",
       "lat": 33.757984,
@@ -883,7 +883,7 @@
       "hours": "10:00〜14:00 / 定休：不定休",
       "phone": "089-982-4569",
       "website": null,
-      "instagram": null,
+      "instagram": "morimise1897",
       "ratings": {
         "tabelog": {
           "score": 3.09,
@@ -900,38 +900,6 @@
       "sources": [
         "ramendb"
       ],
-      "tags": {
-        "style": [
-          "中華そば"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": [
-          "あっさり"
-        ]
-      }
-    },
-    {
-      "id": "g-ChIJjQrM4HbyTzURL_zTUPcQ_7A",
-      "name": "森店（もりみせ）食堂",
-      "category": "shokudo",
-      "ramen": "menu",
-      "lat": 33.7588906,
-      "lng": 132.7040355,
-      "city": "伊予市",
-      "address": "〒799-3113 愛媛県伊予市米湊８０３−２９",
-      "hours": "10:00〜14:00",
-      "phone": "089-982-0415",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJjQrM4HbyTzURL_zTUPcQ_7A",
       "tags": {
         "style": [
           "中華そば"
