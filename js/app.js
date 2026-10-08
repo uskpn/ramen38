@@ -325,9 +325,10 @@
           const href = esc(r?.url || site.search(s));
           return r?.score != null
             ? `<td class="num"><a href="${href}" target="_blank" rel="noopener"><span class="score">${fmt(site, r.score)}</span>${r.count ? `<small>${r.count.toLocaleString()}</small>` : ''}</a></td>`
-            : `<td class="num"><a class="link" href="${href}" target="_blank" rel="noopener">${r?.url ? 'Page' : 'Search'}</a></td>`;
+            : `<td class="num"><a class="link" href="${href}" target="_blank" rel="noopener">${site.linkOnly ? 'Open' : r?.url ? 'Page' : 'Search'}</a></td>`;
         }).join('')}
         <td class="ig-cell">${socialIcons(s)}</td>
+        <td class="mrow">${esc(s.city)}<span class="sep">·</span>${meta(s, false)}${indexExtra(s)}</td>
       </tr>`).join('') + (list.length > state.tableLimit
       ? `<tr class="more-row"><td colspan="8"><button type="button" id="table-more">もっと見る — あと ${list.length - state.tableLimit}件</button></td></tr>` : '');
   }
