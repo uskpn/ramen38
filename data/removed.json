@@ -2582,6 +2582,14 @@
       "placeId": "ChIJjQrM4HbyTzURL_zTUPcQ_7A",
       "osmId": null,
       "reason": "重複"
+    },
+    {
+      "id": "g-ChIJE1OTTc7PUTURBkZoHVNr5sg",
+      "name": "若宮食堂",
+      "city": "新居浜市",
+      "placeId": "ChIJE1OTTc7PUTURBkZoHVNr5sg",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }

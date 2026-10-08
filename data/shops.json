@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T02:59:26.892Z",
+  "updatedAt": "2026-10-08T06:28:26.767Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -18150,42 +18150,6 @@
       },
       "score": 66.2,
       "rank": 24
-    },
-    {
-      "id": "g-ChIJE1OTTc7PUTURBkZoHVNr5sg",
-      "name": "若宮食堂",
-      "category": "shokudo",
-      "ramen": "menu",
-      "lat": 33.957602099999995,
-      "lng": 133.2639725,
-      "city": "新居浜市",
-      "address": "〒792-0003 愛媛県新居浜市新田町１丁目８−５６",
-      "hours": "10:00〜17:00 / 定休：月",
-      "phone": "0897-39-6789",
-      "website": "https://cookmami.jp/wakamiya/",
-      "instagram": "wakamiya_syokudou",
-      "ratings": {
-        "tabelog": {
-          "score": 3.19,
-          "count": 14,
-          "url": "https://tabelog.com/ehime/A3802/A380203/38013864/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJE1OTTc7PUTURBkZoHVNr5sg",
-      "tags": {
-        "style": [
-          "中華そば"
-        ],
-        "soup": [
-          "醤油"
-        ],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "g-ChIJ4ZHe-9rOUTURcuv2pYo0ct8",
