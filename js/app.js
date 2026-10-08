@@ -554,6 +554,46 @@
     });
   }
 
+  // 一覧（Index）の見出し行を、下にスクロールしても画面の上（ヘッダーの下）に固定する。
+  // 表は横にスクロールできる箱に入っていて、そのままだと position: sticky が効かないので、見出しの複製を画面に固定して表示する
+  function stickyHead() {
+    const wrap = $('#view-table'), table = wrap.querySelector('table'), thead = table.tHead;
+    const box = document.createElement('div');
+    box.className = 'sticky-head'; box.hidden = true; box.setAttribute('aria-hidden', 'true');
+    const inner = document.createElement('div'); box.appendChild(inner);
+    document.body.appendChild(box);
+    let sig = '';
+    const sync = () => {
+      if (wrap.hidden) { box.hidden = true; return; }
+      const hh = document.querySelector('.site-header')?.offsetHeight || 64;
+      const head = thead.getBoundingClientRect(), tb = table.getBoundingClientRect();
+      const show = head.top < hh && tb.bottom > hh + head.height;
+      box.hidden = !show;
+      if (!show) return;
+      const ths = [...thead.rows[0].cells];
+      const next = `${table.offsetWidth}|${ths.map((th) => th.offsetWidth).join(',')}`;
+      if (next !== sig) { // 列の幅が変わったときだけ作り直す
+        sig = next;
+        const t = document.createElement('table');
+        t.className = 'index-table';
+        t.style.width = `${table.offsetWidth}px`;
+        const clone = thead.cloneNode(true);
+        [...clone.rows[0].cells].forEach((c, i) => { c.style.width = `${ths[i].offsetWidth}px`; c.style.minWidth = c.style.width; });
+        t.appendChild(clone);
+        inner.replaceChildren(t);
+      }
+      const wr = wrap.getBoundingClientRect();
+      box.style.top = `${hh}px`; box.style.left = `${wr.left}px`; box.style.width = `${wr.width}px`;
+      inner.style.paddingLeft = getComputedStyle(wrap).paddingLeft;
+      inner.style.transform = `translateX(${-wrap.scrollLeft}px)`;
+    };
+    window.addEventListener('scroll', sync, { passive: true });
+    window.addEventListener('resize', sync);
+    wrap.addEventListener('scroll', sync, { passive: true });
+    new MutationObserver(sync).observe($('#table-body'), { childList: true });
+    sync();
+  }
+
   function fitToList() {
     if (INDEX_ONLY) return;
     const pts = filtered().map((s) => [s.lat, s.lng]);
@@ -603,6 +643,7 @@
     updateMineCounts();
     window.RamenMy?.init({ shops: state.shops, byId: new Map(state.shops.map((x) => [x.id, x])), mylist, save: saveMylist, esc, CATEGORIES, TAG_GROUPS, toast, refreshMarks });
     bind();
+    stickyHead();
     if (INDEX_ONLY) setView('table');
     render();
     fitToList();
