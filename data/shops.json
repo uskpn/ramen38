@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T01:02:20.907Z",
+  "updatedAt": "2026-10-08T02:02:17.630Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -12714,6 +12714,54 @@
       "rank": 47
     },
     {
+      "id": "g-ChIJU9VgzHjlTzUR2xotKTdQsv8",
+      "name": "瀬戸内らーめん @伍式",
+      "category": "ramen",
+      "ramen": "specialty",
+      "lat": 33.847327,
+      "lng": 132.7690887,
+      "city": "松山市",
+      "address": "〒790-0603 愛媛県松山市平和通り２丁目３−６",
+      "hours": "11:30〜15:00、18:00〜20:00 / 定休：水、第1・3木",
+      "phone": "089-941-5999",
+      "website": null,
+      "instagram": "setoutigosiki555",
+      "ratings": {
+        "tabelog": {
+          "score": 3.16,
+          "count": 21,
+          "url": "https://tabelog.com/ehime/A3801/A380101/38014670/"
+        },
+        "rdb": {
+          "score": 84.255,
+          "count": 2,
+          "url": "https://ramendb.supleks.jp/s/145217.html"
+        }
+      },
+      "sources": [
+        "google"
+      ],
+      "placeId": "ChIJU9VgzHjlTzUR2xotKTdQsv8",
+      "tags": {
+        "soup": [
+          "鯛・鮮魚",
+          "醤油",
+          "塩",
+          "煮干し"
+        ],
+        "style": [
+          "中華そば",
+          "まぜそば",
+          "つけ麺"
+        ],
+        "character": [
+          "セメント系"
+        ]
+      },
+      "score": 46.7,
+      "rank": 113
+    },
+    {
       "id": "g-ChIJ_wVeX-7lTzURrv4GSx0zaDY",
       "name": "瀬戸内ラーメン あづま家 二番町店",
       "category": "ramen",
@@ -12759,54 +12807,6 @@
       },
       "score": 69,
       "rank": 20
-    },
-    {
-      "id": "g-ChIJU9VgzHjlTzUR2xotKTdQsv8",
-      "name": "瀬戸内らーめん 伍式 鮮魚系真鯛",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.847327,
-      "lng": 132.7690887,
-      "city": "松山市",
-      "address": "〒790-0603 愛媛県松山市平和通り２丁目３−６",
-      "hours": "11:30〜15:00、18:00〜20:00 / 定休：水、第1・3木",
-      "phone": "089-941-5999",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.16,
-          "count": 21,
-          "url": "https://tabelog.com/ehime/A3801/A380101/38014670/"
-        },
-        "rdb": {
-          "score": 84.255,
-          "count": 2,
-          "url": "https://ramendb.supleks.jp/s/145217.html"
-        }
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJU9VgzHjlTzUR2xotKTdQsv8",
-      "tags": {
-        "soup": [
-          "鯛・鮮魚",
-          "醤油",
-          "塩",
-          "煮干し"
-        ],
-        "style": [
-          "ラーメン",
-          "まぜそば",
-          "つけ麺"
-        ],
-        "character": [
-          "セメント系"
-        ]
-      },
-      "score": 46.7,
-      "rank": 113
     },
     {
       "id": "g-ChIJUdsX5N_lTzURjcXN98zfldk",
