@@ -69,6 +69,7 @@ function layout({ title, description, canonical, body, jsonld, ogType = 'website
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
 <meta name="theme-color" content="#ffffff">
+<meta name="format-detection" content="telephone=no, address=no, email=no, date=no">
 <link rel="canonical" href="${canonical}">
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
@@ -145,7 +146,9 @@ function shopPage(s) {
     <dl>${rows.map(([k, v]) => `<dt>${k}</dt><dd>${k === 'Address' ? esc(v) : v}</dd>`).join('')}</dl>
     <div class="popup-icons">
       ${icon('hp', 'ホームページ', s.website)}
-      ${icon('ig', 'Instagram', s.instagram && `https://www.instagram.com/${s.instagram}/`)}
+      ${s.instagram
+        ? icon('ig', 'Instagram', `https://www.instagram.com/${s.instagram}/`)
+        : icon('ig', 'Instagramを探す', `https://www.google.com/search?q=${enc(`site:instagram.com ${s.name} ${s.city}`)}`).replace('class="ic"', 'class="ic search"')}
       ${icon('x', 'X', s.x && `https://x.com/${s.x}`)}
       ${icon('route', '経路', `https://www.google.com/maps/dir/?api=1&destination=${s.lat},${s.lng}`)}
     </div>

@@ -494,3 +494,6 @@ button, input, select { font: inherit; color: inherit; }
 .shop-cta .act:hover { background: var(--paper); }
 .shop-cta .act[aria-pressed=true] { background: var(--ink); color: #fff; }
 .shop-cta .act[data-act=fav][aria-pressed=true] svg { fill: #f2b01e; stroke: #f2b01e; }
+
+/* iPhone が数字や地名を「住所・電話」と見なして点線のリンクにしてしまうのを打ち消す */
+a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; border: 0 !important; }
