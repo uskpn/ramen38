@@ -65,6 +65,15 @@ function layout({ title, description, canonical, body, jsonld, ogType = 'website
 <html lang="ja"${app ? ' data-root="../" data-mode="index"' : ''}>
 <head>
 <meta charset="utf-8">
+<!-- Google アナリティクス（手元の確認用 localhost では送信しない） -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  if (!/^(localhost|127\\.|\\[::1\\])/.test(location.hostname)) {
+    var ga = document.createElement('script'); ga.async = true; ga.src = 'https://www.googletagmanager.com/gtag/js?id=G-P5149KK2ZD'; document.head.appendChild(ga);
+    gtag('js', new Date()); gtag('config', 'G-P5149KK2ZD');
+  }
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">

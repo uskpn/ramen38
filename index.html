@@ -2,6 +2,15 @@
 <html lang="ja">
 <head>
   <meta charset="utf-8">
+  <!-- Google アナリティクス（手元の確認用 localhost では送信しない） -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    if (!/^(localhost|127\.|\[::1\])/.test(location.hostname)) {
+      var ga = document.createElement('script'); ga.async = true; ga.src = 'https://www.googletagmanager.com/gtag/js?id=G-P5149KK2ZD'; document.head.appendChild(ga);
+      gtag('js', new Date()); gtag('config', 'G-P5149KK2ZD');
+    }
+  </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>RAMEN 38 — Explore Ehime Ramen</title>
   <meta name="description" content="一杯から、愛媛を知る。RAMEN 38 は、愛媛県でラーメンが食べられるお店を地図で探せるガイドです。ラーメン専門店から中華料理店・食堂まで、Google・食べログなど各サイトの評価とInstagramをまとめて比較できます。">
@@ -178,6 +187,8 @@
             <dd>店舗情報は OpenStreetMap と Google Places をもとに作成し（Google の点数は掲載せず、Google マップへのリンクで案内しています）、食べログ・ラーメンデータベースの評価は各サイトから転記しています。最新の情報は各サイトでご確認ください。「ラーメンあり?」と表示されているお店は、メニューを確認できていません。</dd>
             <dt>Ranking</dt>
             <dd>総合ランキングは、ラーメン専門店のみを対象に、食べログ・ラーメンデータベースの評価を口コミ数で補正（ベイズ平均）したうえで統合し、上位200店に順位を付けています。評価が一部のサイトにしかない店は、わずかに低く扱われます。</dd>
+            <dt>Analytics</dt>
+            <dd>サイトの改善のため、Google アナリティクスでアクセス状況（閲覧ページ・端末の種類など）を集計しています。個人を特定する情報は取得しません。「行った」「お気に入り」の記録は、この端末のブラウザの中だけに保存され、集計には送られません。</dd>
             <dt>Updated</dt>
             <dd id="updated">—</dd>
           </dl>
