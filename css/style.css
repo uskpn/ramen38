@@ -505,3 +505,8 @@ a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !im
 .sticky-head > div { width: max-content; }
 .sticky-head .index-table { min-width: 0; table-layout: fixed; }
 .sticky-head th { position: static; padding-top: 12px; }
+
+/* Index：もっと見る */
+.index-table .more-row td { padding: 0; border-bottom: 1px solid var(--line); }
+#table-more { display: block; width: 100%; padding: 22px; background: none; border: 0; cursor: pointer; font-family: var(--en); font-size: 14px; letter-spacing: .3em; color: var(--ink); text-align: center; position: sticky; left: 0; }
+#table-more:hover { background: var(--paper); }

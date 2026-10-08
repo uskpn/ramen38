@@ -53,7 +53,7 @@
     loc: null, // 現在地 { lat, lng }
     tags: Object.fromEntries(TAG_GROUPS.map((g) => [g.key, new Set()])), // 同じ段の中は OR、段どうしは AND
     view: 'map',
-    limit: 60,
+    limit: 60, tableLimit: 20, // limit: 地図横のリスト / tableLimit: Index（表）に出す件数。「もっと見る」で増やす
     activeId: null,
   };
   const markers = new Map();
@@ -314,7 +314,7 @@
       || '<li class="empty">条件に合うお店がありません</li>';
 
     if (state.view !== 'table') return;
-    $('#table-body').innerHTML = list.map((s, i) => `
+    $('#table-body').innerHTML = list.slice(0, state.tableLimit).map((s, i) => `
       <tr>
         <td class="no">${s.rank || '—'}</td>
         <td class="name-cell" data-id="${esc(s.id)}">${INDEX_ONLY ? `<a href="${esc(s.id)}.html">${esc(s.name)}</a>` : esc(s.name)}</td>
@@ -328,7 +328,8 @@
             : `<td class="num"><a class="link" href="${href}" target="_blank" rel="noopener">${r?.url ? 'Page' : 'Search'}</a></td>`;
         }).join('')}
         <td class="ig-cell">${socialIcons(s)}</td>
-      </tr>`).join('');
+      </tr>`).join('') + (list.length > state.tableLimit
+      ? `<tr class="more-row"><td colspan="8"><button type="button" id="table-more">もっと見る — あと ${list.length - state.tableLimit}件</button></td></tr>` : '');
   }
 
   // 一覧の「種類」欄に、営業中の表示と現在地からの距離を足す（shop/ のページだけ）
@@ -466,9 +467,9 @@
   }
   // 「現在地から近い」：位置情報を取って、近い順に並べる。取れなかったらチェックを戻す
   async function toggleNear(box) {
-    if (!box.checked) { state.near = false; state.limit = 60; return render(); }
+    if (!box.checked) { state.near = false; state.limit = 60; state.tableLimit = 20; return render(); }
     if (!state.loc && !(await locate())) { box.checked = false; state.near = false; return render(); }
-    state.near = true; state.limit = 60; render();
+    state.near = true; state.limit = 60; state.tableLimit = 20; render();
     if (!INDEX_ONLY) {
       const near = filtered().slice(0, 5).map((s) => [s.lat, s.lng]);
       map.fitBounds([[state.loc.lat, state.loc.lng], ...near], { padding: [40, 40], maxZoom: 15 });
@@ -508,7 +509,7 @@
 
   // ---------- イベント ----------
   function bind() {
-    const reset = () => { state.limit = 60; render(); };
+    const reset = () => { state.limit = 60; state.tableLimit = 20; render(); };
     $('#q').addEventListener('input', (e) => { state.q = e.target.value; reset(); });
     $('#city').addEventListener('change', (e) => { state.city = e.target.value; reset(); fitToList(); });
     $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; reset(); });
@@ -549,6 +550,7 @@
       if (li) focusShop(li.dataset.id);
     });
     $('#table-body').addEventListener('click', (e) => {
+      if (e.target.closest('#table-more')) { state.tableLimit += 20; render(); return; }
       const td = e.target.closest('.name-cell');
       if (td && !INDEX_ONLY) focusShop(td.dataset.id);
     });
