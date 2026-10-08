@@ -549,3 +549,5 @@ a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !im
 
 .index-table td.mrow { display: none; }
 @media (max-width: 720px) { .index-table td.mrow { display: block; } }
+
+#city option.region { font-weight: 700; }

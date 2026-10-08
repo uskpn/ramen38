@@ -39,6 +39,14 @@
   const ROOT = document.documentElement.dataset.root || '';
   // shop/ のページは「一覧（Index）だけ」。地図は使わず、店名は店ごとのページへのリンクにする
   const INDEX_ONLY = document.documentElement.dataset.mode === 'index';
+  // 愛媛県の3地域（City の選択で、地域をまとめて選べる）
+  const REGIONS = {
+    '東予': ['今治市', '新居浜市', '西条市', '四国中央市', '上島町'],
+    '中予': ['松山市', '伊予市', '東温市', '久万高原町', '松前町', '砥部町'],
+    '南予': ['宇和島市', '八幡浜市', '大洲市', '西予市', '内子町', '伊方町', '鬼北町', '松野町', '愛南町'],
+  };
+  const REGION_PREFIX = 'region:'; // state.city が「region:東予」のとき、東予の全市町が対象
+  const cityMatch = (city) => !state.city || (state.city.startsWith(REGION_PREFIX) ? (REGIONS[state.city.slice(REGION_PREFIX.length)] || []).includes(city) : city === state.city);
   const enc = encodeURIComponent;
   const siteSearch = (domain, s) => `https://www.google.com/search?q=${enc(`site:${domain} ${s.name} ${s.city}`)}`;
   const esc = (v) => String(v ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -275,7 +283,7 @@
     const q = state.q.trim().normalize('NFKC').toLowerCase();
     const list = state.shops.filter((s) =>
       state.cats.has(s.category) &&
-      (!state.city || s.city === state.city) &&
+      cityMatch(s.city) &&
       (!state.igOnly || s.instagram) &&
       (!state.ratedOnly || hasRating(s)) &&
       (!state.hideClosed || s.closed !== true) &&
@@ -626,11 +634,16 @@
       markers.set(s.id, m);
     }
 
-    const cities = [...new Set(state.shops.map((s) => s.city))].sort((a, b) => a.localeCompare(b, 'ja'));
-    $('#city').insertAdjacentHTML('beforeend', cities.map((c) => {
-      const n = state.shops.filter((s) => s.city === c).length;
-      return `<option value="${esc(c)}">${esc(c)} (${n})</option>`;
-    }).join(''));
+    // City：地域（東予・中予・南予）の見出しも選べて、その下に市町が入る
+    const cnt = {};
+    for (const s of state.shops) cnt[s.city] = (cnt[s.city] || 0) + 1;
+    const listed = new Set(Object.values(REGIONS).flat());
+    const others = Object.keys(cnt).filter((c) => !listed.has(c)).sort((a, b) => a.localeCompare(b, 'ja')); // 地域に入っていない市町（念のため）
+    const cityOpt = (c) => cnt[c] ? `<option value="${esc(c)}">　　${esc(c)} (${cnt[c]})</option>` : '';
+    $('#city').insertAdjacentHTML('beforeend',
+      Object.entries(REGIONS).map(([r, cs]) =>
+        `<option value="${REGION_PREFIX}${r}" class="region">${r} (${cs.reduce((n, c) => n + (cnt[c] || 0), 0)})</option>${cs.map(cityOpt).join('')}`).join('')
+      + (others.length ? `<option value="" disabled>その他</option>${others.map(cityOpt).join('')}` : ''));
     $('#categories').innerHTML = Object.entries(CATEGORIES).map(([k, v]) =>
       `<button type="button" class="toggle" data-cat="${k}" aria-pressed="${!v.off}">${v.label}</button>`).join('');
     // タグの絞り込み（実際に付いているタグだけ表示。1つも付いていなければ欄ごと隠す）
