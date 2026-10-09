@@ -2670,6 +2670,14 @@
       "placeId": "ChIJi5miqPcdUDURqJnsJxBD9ro",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJs50038CATzURc-vqlga9y0o",
+      "name": "めん六や 愛媛大洲店",
+      "city": "大洲市",
+      "placeId": "ChIJs50038CATzURc-vqlga9y0o",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:03:11.473Z",
+  "updatedAt": "2026-10-09T10:35:48.046Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -23893,7 +23893,7 @@
     {
       "id": "g-ChIJsawc6sSHRTURZi-b8lWc4zI",
       "name": "豊源 西予店",
-      "category": "restaurant",
+      "category": "chinese",
       "ramen": "menu",
       "lat": 33.3728019,
       "lng": 132.5054591,
@@ -23917,13 +23917,18 @@
       "placeId": "ChIJsawc6sSHRTURZi-b8lWc4zI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
         ],
         "soup": [
-          "塩"
+          "塩",
+          "醤油",
+          "豚骨"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -24399,41 +24404,6 @@
         ]
       },
       "score": 42.1
-    },
-    {
-      "id": "g-ChIJs50038CATzURc-vqlga9y0o",
-      "name": "めん六や 愛媛大洲店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.531652,
-      "lng": 132.5729852,
-      "city": "大洲市",
-      "address": "〒795-0064 愛媛県大洲市東大洲１７１９−１",
-      "hours": "11:15〜16:00 / 定休：不定休（パチンコホールの営業日に準ずる）",
-      "phone": "070-1455-6798",
-      "website": "https://www.menrokuya.com/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": null,
-          "count": 1,
-          "url": "https://tabelog.com/ehime/A3803/A380301/38012132/"
-        },
-        "rdb": {
-          "score": 81.92,
-          "count": 1,
-          "url": "https://ramendb.supleks.jp/s/132809.html"
-        }
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJs50038CATzURc-vqlga9y0o",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ]
-      }
     },
     {
       "id": "osm-w607355673",
