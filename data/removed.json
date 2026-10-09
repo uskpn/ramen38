@@ -2702,6 +2702,54 @@
       "placeId": "ChIJMS_v2MksUDURSiXiGJlaThI",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ7zRaelqGRTURUC50DV1kgQY",
+      "name": "ゆうぼく牧場直営レストラン / ゆうぼく民",
+      "city": "西予市",
+      "placeId": "ChIJMe6ks0OHRTURSSrKeGvc74Y",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJc6qCeNx_RTURpZXiWndEioY",
+      "name": "ルーム千秋",
+      "city": "大洲市",
+      "placeId": "ChIJc6qCeNx_RTURpZXiWndEioY",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJk3bBYrSFTzURBYnzdYArzUQ",
+      "name": "やきとり 一膳",
+      "city": "内子町",
+      "placeId": "ChIJk3bBYrSFTzURBYnzdYArzUQ",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJVVWVzoCERTURW3eliVDeQ18",
+      "name": "酉屋 りょう吉 八幡浜店",
+      "city": "八幡浜市",
+      "placeId": "ChIJrQ0HRoOERTURyyocDLCceqg",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJzbs659yDRTURJ9uWA0beuiQ",
+      "name": "平家谷そうめん流し",
+      "city": "八幡浜市",
+      "placeId": "ChIJzbs659yDRTURJ9uWA0beuiQ",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJ____rIKERTURH-yySt9eGKs",
+      "name": "北浜大島屋",
+      "city": "八幡浜市",
+      "placeId": "ChIJ____rIKERTURH-yySt9eGKs",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }

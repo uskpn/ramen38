@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:58:45.824Z",
+  "updatedAt": "2026-10-09T11:18:35.371Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -23523,40 +23523,6 @@
       }
     },
     {
-      "id": "g-ChIJ7zRaelqGRTURUC50DV1kgQY",
-      "name": "ゆうぼく牧場直営レストラン / ゆうぼく民",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.3862515,
-      "lng": 132.5013668,
-      "city": "西予市",
-      "address": "〒797-0045 愛媛県西予市宇和町坂戸６７３−１",
-      "hours": "水〜日 11:30〜14:00 / 定休：月・火 / Garden BBQ 17:00〜20:00（金・土・日のみ） / 12〜2月は休業",
-      "phone": "0894-62-5877",
-      "website": "https://yuboku.jp/shopping-eating/yubokumin/",
-      "instagram": "yubokunosato",
-      "ratings": {
-        "tabelog": {
-          "score": 3.6,
-          "count": 37,
-          "url": "https://tabelog.com/ehime/A3804/A380402/38010777/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJMe6ks0OHRTURSSrKeGvc74Y",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJcTKZgDV2TzUR68DU8zzyld8",
       "name": "レストラン 停満里",
       "category": "restaurant",
@@ -24440,36 +24406,6 @@
           "あっさり",
           "濃厚"
         ]
-      }
-    },
-    {
-      "id": "g-ChIJc6qCeNx_RTURpZXiWndEioY",
-      "name": "ルーム千秋",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.5080302,
-      "lng": 132.54404499999998,
-      "city": "大洲市",
-      "address": "〒795-0012 愛媛県大洲市大洲９−７",
-      "hours": "日 10:00〜15:30 / 定休：月〜土",
-      "phone": "0893-24-2184",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJc6qCeNx_RTURpZXiWndEioY",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
       }
     },
     {
@@ -26410,40 +26346,6 @@
       }
     },
     {
-      "id": "g-ChIJk3bBYrSFTzURBYnzdYArzUQ",
-      "name": "やきとり 一膳",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.551401999999996,
-      "lng": 132.653123,
-      "city": "内子町",
-      "address": "〒791-3301 愛媛県喜多郡内子町内子１７８５",
-      "hours": "17:00〜23:00 / 定休：火",
-      "phone": "0893-44-5241",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.04,
-          "count": 4,
-          "url": "https://tabelog.com/ehime/A3803/A380303/38001823/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJk3bBYrSFTzURBYnzdYArzUQ",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJYXQKT7GFTzURJCgrN73z5NY",
       "name": "りんすけ",
       "category": "restaurant",
@@ -27342,7 +27244,7 @@
       "placeId": "ChIJsRCJmIOERTURmbcxXk3pIT8",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -27466,40 +27368,6 @@
       }
     },
     {
-      "id": "g-ChIJVVWVzoCERTURW3eliVDeQ18",
-      "name": "酉屋 りょう吉 八幡浜店",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4579587,
-      "lng": 132.4242884,
-      "city": "八幡浜市",
-      "address": "〒796-0071 愛媛県八幡浜市新町１丁目1440―6",
-      "hours": "17:30〜23:00 / 定休：日、加えて不定休あり / ドリンク22:30",
-      "phone": "050-5486-9624",
-      "website": "https://ryoukichi-yawatahama.gorp.jp/",
-      "instagram": "toriya_ryokichi___",
-      "ratings": {
-        "tabelog": {
-          "score": 3,
-          "count": 2,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38011104/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJrQ0HRoOERTURyyocDLCceqg",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
       "id": "g-ChIJK1wIgkCDRTURUbTkhr4YvIk",
       "name": "白石食堂",
       "category": "shokudo",
@@ -27571,74 +27439,6 @@
         "soup": [
           "醤油"
         ],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJzbs659yDRTURJ9uWA0beuiQ",
-      "name": "平家谷そうめん流し",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.520265,
-      "lng": 132.3984658,
-      "city": "八幡浜市",
-      "address": "〒796-0202 愛媛県八幡浜市保内町宮内８−２６４−２",
-      "hours": "9:00〜17:00 / 4/29〜9/10のみ営業 / 期間中無休",
-      "phone": "0894-36-2414",
-      "website": "http://www.city.yawatahama.ehime.jp/docs/2014091600030/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.08,
-          "count": 27,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38004625/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJzbs659yDRTURJ9uWA0beuiQ",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
-    },
-    {
-      "id": "g-ChIJ____rIKERTURH-yySt9eGKs",
-      "name": "北浜大島屋",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.4616453,
-      "lng": 132.42353409999998,
-      "city": "八幡浜市",
-      "address": "〒796-0072 愛媛県八幡浜市港町４１８",
-      "hours": "17:00〜22:00 / 定休：不定休 / 予約で大晦日・元旦も営業",
-      "phone": "050-5487-2059",
-      "website": "https://s465900.gorp.jp/",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.06,
-          "count": 12,
-          "url": "https://tabelog.com/ehime/A3803/A380302/38005309/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJ____rIKERTURH-yySt9eGKs",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
         "noodle": [],
         "character": []
       }
