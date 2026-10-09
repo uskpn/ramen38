@@ -2614,6 +2614,62 @@
       "placeId": "ChIJGXp5Rv6VUTURUu7NhtDcJ64",
       "osmId": null,
       "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJz38EEaA7UDUR3HVVLQdNZIU",
+      "name": "GLOW",
+      "city": "今治市",
+      "placeId": "ChIJeZWpiJQ7UDURAEBCGe-Ip8I",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJz6nTcvPvTzURFuc8v2kZH0I",
+      "name": "ラーメン自販機 oh28ya松山店 家系/二郎系",
+      "city": "松山市",
+      "placeId": "ChIJz6nTcvPvTzURFuc8v2kZH0I",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJJ1UBofnTUTURF7KNzSmwTcw",
+      "name": "めん六や 愛媛西条店",
+      "city": "西条市",
+      "placeId": "ChIJJ1UBofnTUTURF7KNzSmwTcw",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJEyTDAnUtUDURPcQ-Y8BfAsE",
+      "name": "めん六や 愛媛東予店",
+      "city": "西条市",
+      "placeId": "ChIJEyTDAnUtUDURPcQ-Y8BfAsE",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "osm-n7555880212",
+      "name": "台湾創作キッチンRyu",
+      "city": "宇和島市",
+      "placeId": "ChIJr1XMptGJRTURQVHCW2OIqR4",
+      "osmId": "node/7555880212",
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJZxsmTMPlTzURI-JYVI3Kt4E",
+      "name": "太養軒",
+      "city": "松山市",
+      "placeId": "ChIJZxsmTMPlTzURI-JYVI3Kt4E",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJi5miqPcdUDURqJnsJxBD9ro",
+      "name": "中華食堂＆バル 光楽",
+      "city": "松山市",
+      "placeId": "ChIJi5miqPcdUDURqJnsJxBD9ro",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }
