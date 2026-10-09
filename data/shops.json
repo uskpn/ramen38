@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:28:26.767Z",
+  "updatedAt": "2026-10-09T05:32:57.750Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -32,11 +32,13 @@
       "placeId": "ChIJFZK6QJf5RTURgYxur-9QLZ8",
       "tags": {
         "soup": [
-          "塩",
-          "魚介"
+          "塩"
         ],
         "character": [
           "あっさり"
+        ],
+        "style": [
+          "ラーメン"
         ]
       },
       "x": "yurariuchium"
@@ -71,7 +73,9 @@
           "ちゃんぽん"
         ],
         "soup": [],
-        "noodle": [],
+        "noodle": [
+          "細麺"
+        ],
         "character": []
       }
     },
@@ -175,7 +179,26 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJbeaj0-FVTzURcZ6brdfWacY"
+      "placeId": "ChIJbeaj0-FVTzURcZ6brdfWacY",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "soup": [
+          "鶏",
+          "鶏白湯",
+          "塩",
+          "醤油",
+          "柑橘"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "白湯"
+        ]
+      }
     },
     {
       "id": "g-ChIJW973u4OXRTURBIAkKRKJP8Q",
@@ -348,7 +371,9 @@
         "soup": [
           "鶏"
         ],
-        "noodle": [],
+        "noodle": [
+          "太麺"
+        ],
         "character": [
           "あっさり"
         ]
@@ -501,7 +526,15 @@
         "soup": [
           "醤油",
           "豚骨",
-          "鶏"
+          "鶏",
+          "野菜"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "背脂"
         ]
       },
       "score": 50,
@@ -538,11 +571,20 @@
       "placeId": "ChIJN1MKv33yTzURRV2nTpf2XBY",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば"
         ],
         "soup": [
           "味噌",
-          "豚骨"
+          "豚骨",
+          "煮干し"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "こってり",
+          "濃厚"
         ]
       },
       "x": "kusibou_mento",
@@ -610,7 +652,7 @@
       "placeId": "ChIJVVVlwo_uTzURdGE2LE94OsY",
       "tags": {
         "style": [
-          "中華そば"
+          "ラーメン"
         ],
         "soup": [
           "醤油",
@@ -653,11 +695,11 @@
       "placeId": "ChIJ0c56loXuTzURTTBkFc2vqFI",
       "tags": {
         "style": [
-          "中華そば"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [
-          "醤油",
-          "魚介"
+          "豚骨"
         ],
         "noodle": [],
         "character": [
@@ -704,6 +746,9 @@
         ],
         "character": [
           "あっさり"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 52.3,
@@ -746,10 +791,15 @@
         ],
         "soup": [
           "醤油",
+          "味噌",
+          "塩",
           "豚骨"
         ],
         "character": [
           "背脂"
+        ],
+        "noodle": [
+          "細麺"
         ]
       }
     },
@@ -785,11 +835,10 @@
       "tags": {
         "style": [
           "ラーメン",
-          "中華そば",
           "担々麺"
         ],
         "soup": [
-          "醤油"
+          "鶏"
         ],
         "noodle": [],
         "character": []
@@ -823,8 +872,13 @@
       "placeId": "ChIJNaDDdgDzTzURFtN48ik27_M",
       "tags": {
         "style": [
-          "ラーメン",
-          "冷やし"
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 44.5,
@@ -864,8 +918,16 @@
           "ラーメン"
         ],
         "soup": [
+          "醤油",
           "塩",
-          "魚介"
+          "魚介",
+          "鯛・鮮魚"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 44.7,
@@ -938,9 +1000,15 @@
       "placeId": "ChIJ7aSkvAjyTzUR2JNyBEsZ3zQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん",
+          "冷やし"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "味噌",
+          "豚骨"
+        ],
         "noodle": [],
         "character": []
       }
@@ -979,10 +1047,14 @@
           "中華そば"
         ],
         "soup": [
-          "塩"
+          "塩",
+          "鶏"
         ],
         "character": [
           "あっさり"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 45.8,
@@ -1019,13 +1091,14 @@
       "placeId": "ChIJPQ2rRr3yTzURscufie5jp14",
       "tags": {
         "soup": [
-          "味噌",
-          "塩",
           "醤油",
-          "カレー"
+          "味噌"
         ],
         "style": [
           "ラーメン"
+        ],
+        "character": [
+          "にんにく"
         ]
       }
     },
@@ -1098,6 +1171,13 @@
         ],
         "character": [
           "あっさり"
+        ],
+        "soup": [
+          "鶏",
+          "野菜"
+        ],
+        "noodle": [
+          "太麺"
         ]
       }
     },
@@ -1125,7 +1205,21 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJLSU3D1eNTzURw3ZVcGdboi0"
+      "placeId": "ChIJLSU3D1eNTzURw3ZVcGdboi0",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "魚介"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "osm-n13904181632",
@@ -1163,13 +1257,13 @@
           "中華そば"
         ],
         "soup": [
-          "醤油",
-          "豚骨"
+          "醤油"
         ],
         "noodle": [
           "細麺"
         ],
         "character": [
+          "こってり",
           "背脂"
         ]
       },
@@ -1203,9 +1297,13 @@
       "placeId": "ChIJByPlEcRhTzURGasu_tscb7M",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "鯛・鮮魚",
+          "塩"
+        ],
         "noodle": [],
         "character": []
       }
@@ -1238,7 +1336,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJqVsIs8dhTzURk8uxqqqaPmg"
+      "placeId": "ChIJqVsIs8dhTzURk8uxqqqaPmg",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "味噌"
+        ]
+      }
     },
     {
       "id": "g-ChIJOfdmDQBhTzUR68Zq0f28xTA",
@@ -1275,9 +1381,19 @@
         ],
         "soup": [
           "醤油",
+          "塩",
+          "鶏",
           "鶏白湯",
           "魚介",
           "貝"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺"
+        ],
+        "character": [
+          "濃厚",
+          "白湯"
         ]
       },
       "score": 46.5,
@@ -1314,10 +1430,19 @@
       "placeId": "ChIJIVm56SNgTzUR_NC5byb3R60",
       "tags": {
         "soup": [
+          "味噌",
           "豚骨"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "にんにく"
         ]
       },
       "score": 43.5
@@ -1349,7 +1474,7 @@
       "placeId": "ChIJVQyyD81hTzURVNkYBHCDF3w",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -1464,20 +1589,23 @@
       "tags": {
         "style": [
           "ラーメン",
-          "二郎系",
-          "つけ麺"
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
+          "味噌",
           "豚骨",
-          "鶏白湯",
-          "魚介",
-          "柑橘"
+          "鶏",
+          "魚介"
         ],
         "noodle": [
+          "細麺",
           "自家製麺"
         ],
         "character": [
-          "濃厚"
+          "濃厚",
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 46.2,
@@ -1582,13 +1710,12 @@
       "placeId": "ChIJr-kMoNlhTzURfJmKWIjShCc",
       "tags": {
         "style": [
-          "ちゃんぽん",
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [
           "鯛・鮮魚",
-          "塩",
-          "醤油"
+          "塩"
         ],
         "noodle": [],
         "character": [
@@ -1626,9 +1753,7 @@
           "ラーメン"
         ],
         "soup": [
-          "豚骨",
-          "醤油",
-          "味噌"
+          "豚骨"
         ],
         "noodle": [],
         "character": []
@@ -1774,7 +1899,15 @@
         "google"
       ],
       "placeId": "ChIJKc9upuphTzURpyK9toDwolQ",
-      "x": "osaka_ohsho"
+      "x": "osaka_ohsho",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油"
+        ]
+      }
     },
     {
       "id": "osm-n11936672053",
@@ -1810,13 +1943,22 @@
       "tags": {
         "style": [
           "ラーメン",
-          "担々麺"
+          "担々麺",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
-          "豚骨"
+          "豚骨",
+          "味噌",
+          "醤油"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -1888,7 +2030,7 @@
           "ちゃんぽん"
         ],
         "soup": [
-          "塩",
+          "醤油",
           "味噌"
         ]
       },
@@ -2121,7 +2263,11 @@
           "ちゃんぽん"
         ],
         "soup": [
+          "魚介",
           "煮干し"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 56.3,
@@ -2234,7 +2380,9 @@
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -2270,10 +2418,15 @@
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "鶏"
         ],
         "character": [
-          "あっさり"
+          "あっさり",
+          "こってり"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 48.4,
@@ -2313,11 +2466,16 @@
           "二郎系"
         ],
         "soup": [
-          "豚骨",
-          "醤油"
+          "豚骨"
         ],
         "character": [
+          "濃厚",
+          "白湯",
           "にんにく"
+        ],
+        "noodle": [
+          "太麺",
+          "自家製麺"
         ]
       },
       "score": 44.2,
@@ -2455,7 +2613,10 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "カレー"
+        ],
         "noodle": [],
         "character": []
       }
@@ -2490,12 +2651,12 @@
           "ラーメン"
         ],
         "soup": [
-          "醤油",
-          "味噌"
+          "煮干し"
         ],
-        "noodle": [],
+        "noodle": [
+          "細麺"
+        ],
         "character": [
-          "あっさり",
           "辛い"
         ]
       }
@@ -2527,7 +2688,7 @@
       "placeId": "ChIJN6slk1fATzURP8nFdqBu0dA",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -2560,7 +2721,12 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJQQ61iVbATzURTyRlcRcv-bc"
+      "placeId": "ChIJQQ61iVbATzURTyRlcRcv-bc",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ]
+      }
     },
     {
       "id": "g-ChIJ3U_YulfATzURintvm83Be-w",
@@ -2593,7 +2759,17 @@
         ],
         "soup": [
           "醤油",
+          "鶏",
+          "魚介",
           "煮干し"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
         ]
       },
       "score": 43.3
@@ -2629,10 +2805,7 @@
       "placeId": "ChIJMVV8ALrFTzUR05a__uSfqvs",
       "tags": {
         "style": [
-          "中華そば",
-          "ラーメン",
-          "まぜそば",
-          "つけ麺"
+          "まぜそば"
         ],
         "soup": [],
         "noodle": [],
@@ -2698,11 +2871,17 @@
         "style": [
           "中華そば",
           "担々麺",
-          "ラーメン"
+          "冷やし"
         ],
-        "soup": [],
+        "soup": [
+          "鶏",
+          "節",
+          "煮干し"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -2777,10 +2956,7 @@
       "placeId": "ChIJC0TUAq3BTzUR2XDPdknKJEw",
       "tags": {
         "soup": [
-          "味噌",
-          "塩",
-          "醤油",
-          "カレー"
+          "味噌"
         ],
         "style": [
           "ラーメン"
@@ -2846,10 +3022,20 @@
       "placeId": "ChIJZ1OcY106UDURZQZsWkSANG0",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
-          "魚介"
+          "醤油",
+          "鶏",
+          "魚介",
+          "煮干し",
+          "節"
+        ],
+        "noodle": [
+          "細麺",
+          "中細麺",
+          "縮れ麺"
         ]
       },
       "score": 46.6,
@@ -2916,18 +3102,28 @@
       "placeId": "ChIJpx9No9IxUDURSNonCT_HXxQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
           "塩",
-          "鶏",
           "鶏白湯",
-          "煮干し",
+          "魚介",
           "鯛・鮮魚",
-          "海老・蟹"
+          "海老・蟹",
+          "胡麻"
         ],
         "character": [
-          "清湯"
+          "あっさり",
+          "濃厚",
+          "白湯",
+          "泡系",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺"
         ]
       },
       "x": "miree105",
@@ -2965,12 +3161,15 @@
         ],
         "soup": [
           "醤油",
-          "煮干し",
           "鶏",
           "魚介"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -3014,8 +3213,13 @@
           "豚骨",
           "味噌"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
+        ]
       }
     },
     {
@@ -3085,10 +3289,16 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油",
+          "節"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
         "character": []
       }
     },
@@ -3128,10 +3338,16 @@
           "中華そば"
         ],
         "soup": [
-          "カレー"
+          "カレー",
+          "醤油",
+          "煮干し"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -3170,6 +3386,14 @@
         "soup": [
           "豚骨",
           "鶏白湯"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "濃厚",
+          "白湯",
+          "にんにく"
         ]
       },
       "score": 44.3,
@@ -3204,13 +3428,18 @@
       "placeId": "ChIJAa9X43s6UDURoAf-NV4XqiI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
           "豚骨"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -3241,7 +3470,22 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJX69e5mc6UDURkIgCO9w1TPk"
+      "placeId": "ChIJX69e5mc6UDURkIgCO9w1TPk",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩",
+          "魚介",
+          "鯛・鮮魚",
+          "煮干し",
+          "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ]
+      }
     },
     {
       "id": "osm-n8204027599",
@@ -3272,11 +3516,19 @@
       "placeId": "ChIJ__DjeF47UDURaiJzgK3r5oU",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "塩",
+          "醤油"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -3318,7 +3570,7 @@
           "塩",
           "豚骨",
           "鶏",
-          "煮干し"
+          "魚介"
         ],
         "noodle": [
           "細麺"
@@ -3396,8 +3648,12 @@
       ],
       "tags": {
         "style": [
-          "担々麺",
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
+        ],
+        "soup": [
+          "醤油",
+          "塩"
         ]
       },
       "score": 46.6,
@@ -3435,14 +3691,18 @@
       "tags": {
         "style": [
           "ラーメン",
-          "まぜそば"
+          "油そば"
         ],
         "soup": [
           "味噌",
           "鶏"
         ],
         "character": [
-          "濃厚"
+          "濃厚",
+          "辛い"
+        ],
+        "noodle": [
+          "中細麺"
         ]
       },
       "score": 44.7,
@@ -3478,9 +3738,13 @@
           "ラーメン",
           "担々麺"
         ],
-        "soup": [],
+        "soup": [
+          "胡麻"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い"
+        ]
       },
       "x": "towelmuseumboy"
     },
@@ -3521,7 +3785,11 @@
           "自家製麺"
         ],
         "character": [
-          "清湯"
+          "あっさり"
+        ],
+        "soup": [
+          "魚介",
+          "節"
         ]
       },
       "score": 45.8,
@@ -3560,11 +3828,13 @@
       "placeId": "ChIJq3zsE_o6UDURuHTHF3dL5Jk",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -3598,7 +3868,18 @@
       "placeId": "ChIJJUh3weM6UDUR72FxbSHhrjg",
       "tags": {
         "style": [
-          "ちゃんぽん"
+          "ちゃんぽん",
+          "冷やし"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "noodle": [
+          "縮れ麺"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 48.8,
@@ -3633,12 +3914,15 @@
       "placeId": "ChIJ-xaVDaM7UDURcj9of9m8puY",
       "tags": {
         "style": [
-          "ラーメン",
           "冷やし"
         ],
-        "soup": [],
+        "soup": [
+          "胡麻"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -3672,10 +3956,13 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "冷やし"
         ],
         "soup": [
-          "塩"
+          "塩",
+          "柑橘"
         ],
         "noodle": [],
         "character": []
@@ -3752,6 +4039,14 @@
       "tags": {
         "style": [
           "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "魚介"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
         ]
       },
       "score": 47.3,
@@ -3825,10 +4120,16 @@
           "ラーメン"
         ],
         "soup": [
-          "味噌"
+          "醤油",
+          "鶏"
         ],
         "character": [
+          "あっさり",
           "背脂"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
         ]
       },
       "score": 45.2,
@@ -3910,7 +4211,8 @@
       "placeId": "ChIJHaUluX06UDURo-VNcaMgVRg",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
           "醤油",
@@ -3961,7 +4263,7 @@
           "豚骨"
         ],
         "character": [
-          "背脂"
+          "こってり"
         ]
       }
     },
@@ -3998,11 +4300,13 @@
       "placeId": "ChIJgx3lXHE6UDURjsAl0UUWiP0",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "味噌"
         ],
         "character": [
           "背脂"
@@ -4042,13 +4346,21 @@
       "placeId": "ChIJAQDwrBs7UDURTLovdbW5j4w",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
+          "醤油",
           "味噌",
           "豚骨",
-          "鶏",
-          "柑橘"
+          "鶏"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 47,
@@ -4087,7 +4399,8 @@
       "placeId": "ChIJi_cQ7Yc6UDURG2r1MUplCEI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
           "醤油",
@@ -4096,7 +4409,9 @@
           "豚骨"
         ],
         "noodle": [
-          "中太麺"
+          "太麺",
+          "縮れ麺",
+          "自家製麺"
         ]
       },
       "score": 42.4
@@ -4128,10 +4443,21 @@
       "placeId": "ChIJvTIOB5MYUDURLJhvc4R2jMg",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
+          "醤油",
+          "塩",
+          "味噌",
           "豚骨"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 43.9,
@@ -4214,7 +4540,6 @@
       "placeId": "ChIJjz0-_vwxUDURWRpt5fH6iBQ",
       "tags": {
         "style": [
-          "ラーメン",
           "家系",
           "二郎系",
           "つけ麺",
@@ -4225,7 +4550,11 @@
           "豚骨"
         ],
         "character": [
+          "背脂",
           "にんにく"
+        ],
+        "noodle": [
+          "縮れ麺"
         ]
       },
       "x": "ramen_entenka",
@@ -4266,17 +4595,22 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "油そば"
+          "つけ麺"
         ],
         "soup": [
           "塩",
+          "鶏",
+          "煮干し",
           "節",
           "味噌",
-          "煮干し",
-          "魚介",
-          "鶏",
           "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       }
     },
@@ -4307,7 +4641,7 @@
       "placeId": "ChIJv26cgto6UDUR9F4gKXiPn18",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -4346,18 +4680,21 @@
       "tags": {
         "style": [
           "家系",
-          "中華そば",
-          "二郎系"
+          "二郎系",
+          "つけ麺"
         ],
         "soup": [
           "醤油",
-          "豚骨",
+          "塩",
           "味噌",
-          "魚介",
-          "塩"
+          "豚骨",
+          "魚介"
         ],
         "character": [
           "濃厚"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 43.9,
@@ -4394,6 +4731,14 @@
         ],
         "character": [
           "あっさり"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
         ]
       },
       "score": 43.2
@@ -4434,10 +4779,10 @@
           "ラーメン"
         ],
         "soup": [
-          "醤油",
-          "魚介"
+          "醤油"
         ],
         "character": [
+          "濃厚",
           "背脂"
         ]
       },
@@ -4476,12 +4821,19 @@
       "placeId": "ChIJ_7w0Pjg6UDUR1d5x4lxDqpI",
       "tags": {
         "style": [
-          "ラーメン",
           "中華そば"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
+        ]
       }
     },
     {
@@ -4512,7 +4864,19 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJxasJDgA7UDUR1mVeLza247w"
+      "placeId": "ChIJxasJDgA7UDUR1mVeLza247w",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "カレー",
+          "魚介"
+        ],
+        "noodle": [
+          "細麺"
+        ]
+      }
     },
     {
       "id": "g-ChIJ__-WNEcwUDUR_jiZx1RQhec",
@@ -4551,7 +4915,10 @@
           "豚骨"
         ],
         "character": [
-          "あっさり"
+          "白湯"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 53.7,
@@ -4590,10 +4957,18 @@
       "placeId": "ChIJ-c9ARm47UDURiNSd4tYo3F0",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
-          "醤油"
+          "醤油",
+          "豚骨",
+          "塩",
+          "味噌"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "x": "marugen_ramen_"
@@ -4633,15 +5008,20 @@
         "style": [
           "ラーメン",
           "担々麺",
+          "つけ麺",
           "冷やし"
         ],
         "soup": [
           "醤油",
           "塩",
-          "味噌",
+          "鶏",
           "豚骨",
           "魚介",
-          "海老・蟹"
+          "野菜"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
         ]
       },
       "score": 46.1,
@@ -4680,10 +5060,19 @@
       "placeId": "ChIJKUTaLV86UDURg59ztCL2fak",
       "tags": {
         "soup": [
-          "豚骨"
+          "豚骨",
+          "魚介"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "濃厚",
+          "白湯"
         ]
       },
       "score": 77.4,
@@ -4725,6 +5114,13 @@
         "soup": [
           "醤油",
           "鶏"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 40.8
@@ -4758,11 +5154,14 @@
       "placeId": "ChIJG3tkVmU6UDURQxB_AX1X1hI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -4801,11 +5200,15 @@
           "中華そば"
         ],
         "soup": [
+          "塩",
           "魚介"
         ],
-        "noodle": [],
+        "noodle": [
+          "中細麺"
+        ],
         "character": [
-          "あっさり"
+          "あっさり",
+          "清湯"
         ]
       }
     },
@@ -4849,9 +5252,10 @@
         ],
         "character": [
           "こってり",
-          "濃厚",
-          "背脂",
-          "にんにく"
+          "背脂"
+        ],
+        "noodle": [
+          "太麺"
         ]
       },
       "x": "honebutosakurai",
@@ -4888,7 +5292,10 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "カレー"
+        ],
         "noodle": [],
         "character": [
           "辛い"
@@ -4928,13 +5335,19 @@
       "placeId": "ChIJb26ihEM6UDURNyg7Ia2iHqs",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [
           "醤油"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
+        ]
       }
     },
     {
@@ -5015,8 +5428,12 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
         "character": []
       }
     },
@@ -5049,14 +5466,21 @@
       "placeId": "ChIJgTfD-34wUDURMxfEtGBxuIU",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
-          "醤油"
+          "醤油",
+          "塩",
+          "味噌",
+          "鶏",
+          "豚骨"
         ],
         "noodle": [],
         "character": [
-          "あっさり"
+          "あっさり",
+          "辛い"
         ]
       }
     },
@@ -5091,13 +5515,17 @@
       "placeId": "ChIJldlHY086UDUR3Gknd_qsSLQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
           "豚骨"
         ],
         "character": [
           "あっさり"
+        ],
+        "noodle": [
+          "中細麺"
         ]
       },
       "score": 43.7,
@@ -5134,13 +5562,18 @@
       "placeId": "ChIJoXES0kI6UDURwuZq41MAem0",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
           "豚骨"
         ],
         "character": [
           "あっさり"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 41.4
@@ -5178,15 +5611,30 @@
       "placeId": "ChIJFUwMWVc6UDUR3GP52rut1vE",
       "tags": {
         "style": [
-          "中華そば"
+          "ラーメン",
+          "中華そば",
+          "つけ麺",
+          "まぜそば",
+          "冷やし"
         ],
         "soup": [
           "醤油",
           "味噌",
-          "煮干し"
+          "鶏",
+          "魚介",
+          "煮干し",
+          "野菜",
+          "柑橘"
         ],
         "character": [
-          "セメント系"
+          "あっさり",
+          "こってり",
+          "清湯",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺",
+          "中細麺"
         ]
       },
       "score": 65.7,
@@ -5225,7 +5673,25 @@
       "placeId": "ChIJoZj1M-w6UDURc3NgD6d1ojc",
       "tags": {
         "style": [
-          "中華そば"
+          "ラーメン",
+          "中華そば",
+          "冷やし"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌",
+          "鶏",
+          "魚介",
+          "胡麻"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
         ]
       },
       "score": 43
@@ -5262,6 +5728,17 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 44.1,
@@ -5297,7 +5774,9 @@
       ],
       "placeId": "ChIJJ2EgyUI6UDURQyRKx5yXeuY",
       "tags": {
-        "style": [],
+        "style": [
+          "まぜそば"
+        ],
         "soup": [],
         "noodle": [],
         "character": [
@@ -5336,11 +5815,19 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "塩",
+          "醤油"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -5379,7 +5866,9 @@
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "にんにく"
+        ]
       }
     },
     {
@@ -5415,10 +5904,13 @@
       "placeId": "ChIJs-INA-k6UDURRYDMYEXVBQE",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "ちゃんぽん"
         ],
         "soup": [],
-        "noodle": [],
+        "noodle": [
+          "中太麺"
+        ],
         "character": []
       }
     },
@@ -5453,11 +5945,20 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油",
+          "カレー"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -5491,13 +5992,17 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
           "醤油"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -5529,9 +6034,15 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -5561,14 +6072,11 @@
       "placeId": "ChIJAQDMBts7UDURnc6AQUYNoBI",
       "tags": {
         "style": [
-          "ちゃんぽん",
+          "ラーメン",
           "担々麺"
         ],
         "soup": [
-          "醤油",
-          "塩",
-          "味噌",
-          "豚骨"
+          "味噌"
         ],
         "noodle": [],
         "character": []
@@ -5604,9 +6112,14 @@
           "ラーメン",
           "担々麺"
         ],
-        "soup": [],
+        "soup": [
+          "胡麻"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "濃厚",
+          "辛い"
+        ]
       }
     },
     {
@@ -5641,11 +6154,24 @@
       "tags": {
         "style": [
           "ラーメン",
-          "ちゃんぽん"
+          "ちゃんぽん",
+          "冷やし"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油",
+          "味噌",
+          "カレー",
+          "鶏",
+          "胡麻"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
+        ]
       }
     },
     {
@@ -5684,10 +6210,17 @@
         "soup": [
           "醤油",
           "塩",
-          "味噌"
+          "味噌",
+          "魚介",
+          "柑橘"
         ],
         "character": [
-          "清湯"
+          "あっさり",
+          "濃厚",
+          "白湯"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 58.3,
@@ -5727,7 +6260,9 @@
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "にんにく"
+        ]
       }
     },
     {
@@ -5763,11 +6298,21 @@
       "placeId": "ChIJq-YJKqgxUDURehSzmS4UvAQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油",
+          "味噌"
+        ],
+        "noodle": [
+          "細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
+        ]
       }
     },
     {
@@ -5796,8 +6341,6 @@
       "tags": {
         "soup": [
           "味噌",
-          "塩",
-          "醤油",
           "カレー"
         ],
         "style": [
@@ -5836,10 +6379,25 @@
       "placeId": "ChIJ7ZNrdNA7UDURRoIir2cbg50",
       "tags": {
         "soup": [
-          "塩"
+          "塩",
+          "豚骨",
+          "鶏",
+          "魚介",
+          "煮干し",
+          "貝",
+          "柑橘"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば",
+          "冷やし"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
         ]
       },
       "score": 44,
@@ -5879,9 +6437,15 @@
           "中華そば",
           "冷やし"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -5917,10 +6481,16 @@
       "placeId": "ChIJGYqbvl06UDURK-M1bdwpKOo",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "細麺",
+          "縮れ麺"
+        ],
         "character": []
       }
     },
@@ -5954,11 +6524,24 @@
       "tags": {
         "style": [
           "ラーメン",
-          "ちゃんぽん"
+          "ちゃんぽん",
+          "冷やし"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油",
+          "味噌",
+          "カレー",
+          "鶏",
+          "胡麻"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
+        ]
       }
     },
     {
@@ -5996,6 +6579,23 @@
         "style": [
           "中華そば",
           "冷やし"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "鶏",
+          "魚介",
+          "煮干し"
+        ],
+        "noodle": [
+          "細麺",
+          "自家製麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯",
+          "背脂"
         ]
       },
       "score": 65.7,
@@ -6028,11 +6628,14 @@
       "placeId": "ChIJaWzynn06UDURtSLzHc0VN10",
       "tags": {
         "style": [
-          "中華そば",
-          "ちゃんぽん"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [],
-        "noodle": [],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
+        ],
         "character": []
       }
     },
@@ -6071,9 +6674,14 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -6146,7 +6754,8 @@
       "tags": {
         "style": [
           "ラーメン",
-          "ちゃんぽん"
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [],
         "noodle": [],
@@ -6187,14 +6796,23 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "まぜそば"
+          "つけ麺"
         ],
         "soup": [
           "醤油",
           "塩",
           "豚骨",
-          "魚介"
+          "魚介",
+          "節",
+          "カレー"
+        ],
+        "noodle": [
+          "中太麺",
+          "太麺"
+        ],
+        "character": [
+          "こってり",
+          "辛い"
         ]
       },
       "x": "menyatakeyosi",
@@ -6232,12 +6850,22 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば",
+          "まぜそば",
+          "冷やし"
         ],
         "soup": [
           "醤油",
           "鶏",
           "魚介"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり",
+          "背脂"
         ]
       },
       "score": 44.7,
@@ -6276,11 +6904,17 @@
       "placeId": "ChIJDSmVJnE6UDURrlCzqMvuYww",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "まぜそば"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり",
+          "にんにく"
+        ]
       }
     },
     {
@@ -6315,18 +6949,28 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺"
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "醤油",
+          "塩",
           "鶏",
           "鶏白湯",
-          "魚介"
+          "魚介",
+          "柑橘"
         ],
         "character": [
+          "あっさり",
           "濃厚",
           "清湯",
-          "白湯"
+          "白湯",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺",
+          "縮れ麺"
         ]
       },
       "score": 55.5,
@@ -6361,11 +7005,19 @@
       "placeId": "ChIJpf1sVoc6UDURk8QDRtSgho8",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "辛い",
+          "白湯"
+        ]
       }
     },
     {
@@ -6399,7 +7051,22 @@
       "placeId": "ChIJJ2F6VGg6UDURLaB1FaP_LsI",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "鶏",
+          "魚介",
+          "煮干し"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 43.8,
@@ -6433,7 +7100,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJNfXvYwA7UDUR3gQK1JKw_PA"
+      "placeId": "ChIJNfXvYwA7UDUR3gQK1JKw_PA",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "塩"
+        ]
+      }
     },
     {
       "id": "g-ChIJf9LPu046UDUR2hD_QxMwoQo",
@@ -6462,11 +7137,17 @@
       "placeId": "ChIJf9LPu046UDUR2hD_QxMwoQo",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -6498,7 +7179,7 @@
       "placeId": "ChIJR8vJ6Gk6UDURyRUOxsBUKKQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -6574,11 +7255,16 @@
       "placeId": "ChIJtaAcz6w7UDURPADqn-jLVHs",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -6608,9 +7294,12 @@
       "placeId": "ChIJH4J-mX86UDURBEI6eijDIZ8",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "味噌"
+        ],
         "noodle": [],
         "character": []
       }
@@ -6686,7 +7375,9 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "味噌"
+        ],
         "noodle": [],
         "character": [
           "にんにく"
@@ -6724,10 +7415,16 @@
       "placeId": "ChIJEf1QFhKVUTURxXSt3BmYvT4",
       "tags": {
         "style": [
+          "ラーメン",
           "中華そば"
         ],
         "character": [
-          "あっさり"
+          "あっさり",
+          "清湯"
+        ],
+        "soup": [
+          "醤油",
+          "煮干し"
         ]
       },
       "score": 49.9,
@@ -6800,10 +7497,20 @@
       "placeId": "ChIJg10MWgbBUTURipeF-FRVQbY",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
           "煮干し"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
         ]
       },
       "score": 47.3,
@@ -6840,14 +7547,24 @@
       "placeId": "ChIJaegPNBWUUTURQq4IjG82OXE",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "創作系"
         ],
         "soup": [
+          "塩",
+          "味噌",
           "豚骨",
-          "貝"
+          "鶏",
+          "野菜"
         ],
         "character": [
-          "濃厚"
+          "あっさり",
+          "こってり",
+          "濃厚",
+          "白湯"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 43.4
@@ -6917,11 +7634,19 @@
       "placeId": "ChIJx5hKmE6RUTURjZYKCg3dUFU",
       "tags": {
         "style": [
-          "ラーメン"
+          "担々麺",
+          "冷やし"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油",
+          "胡麻"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -6956,18 +7681,28 @@
       "tags": {
         "style": [
           "ラーメン",
-          "中華そば"
+          "中華そば",
+          "つけ麺"
         ],
         "soup": [
           "醤油",
           "塩",
+          "味噌",
           "鶏",
-          "魚介"
+          "鶏白湯",
+          "魚介",
+          "煮干し",
+          "節",
+          "鯛・鮮魚",
+          "貝"
         ],
         "noodle": [
-          "細麺"
+          "細麺",
+          "縮れ麺"
         ],
         "character": [
+          "あっさり",
+          "こってり",
           "濃厚",
           "清湯",
           "白湯"
@@ -7040,9 +7775,13 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -7069,7 +7808,19 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJYT1KdTyRUTURd1uwMbXiB38"
+      "placeId": "ChIJYT1KdTyRUTURd1uwMbXiB38",
+      "tags": {
+        "style": [
+          "中華そば",
+          "ラーメン"
+        ],
+        "soup": [
+          "海老・蟹"
+        ],
+        "noodle": [
+          "細麺"
+        ]
+      }
     },
     {
       "id": "g-ChIJO3ag-ezAUTURBk969nXHuDw",
@@ -7138,9 +7889,13 @@
         "style": [
           "中華そば"
         ],
-        "soup": [],
+        "soup": [
+          "鶏"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -7175,14 +7930,28 @@
       "tags": {
         "style": [
           "ラーメン",
+          "二郎系",
           "つけ麺",
           "まぜそば",
           "担々麺"
         ],
         "noodle": [
           "細麺",
+          "中太麺",
           "太麺",
-          "自家製麺"
+          "自家製麺",
+          "縮れ麺"
+        ],
+        "soup": [
+          "醤油",
+          "味噌",
+          "豚骨",
+          "魚介",
+          "カレー"
+        ],
+        "character": [
+          "濃厚",
+          "辛い"
         ]
       },
       "score": 50.1,
@@ -7225,7 +7994,12 @@
           "豚骨"
         ],
         "character": [
-          "あっさり"
+          "あっさり",
+          "白湯",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 47.2,
@@ -7268,7 +8042,8 @@
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "味噌"
         ],
         "character": [
           "背脂"
@@ -7307,17 +8082,22 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "油そば"
+          "つけ麺"
         ],
         "soup": [
           "塩",
+          "鶏",
+          "煮干し",
           "節",
           "味噌",
-          "煮干し",
-          "魚介",
-          "鶏",
           "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       }
     },
@@ -7388,9 +8168,12 @@
       "placeId": "ChIJVX1giUCRUTUR_KIGR3w-3WU",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
         "character": [
           "辛い"
@@ -7424,7 +8207,8 @@
       "placeId": "ChIJ0Szc5z-RUTURTXNw1H2qcxo",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
           "鶏白湯",
@@ -7435,7 +8219,9 @@
         ],
         "character": [
           "あっさり",
-          "濃厚"
+          "濃厚",
+          "清湯",
+          "白湯"
         ]
       },
       "score": 43.3
@@ -7501,7 +8287,7 @@
       "placeId": "ChIJXawqhnDAUTUR8Jl7FY_7-ZA",
       "tags": {
         "style": [
-          "中華そば"
+          "担々麺"
         ],
         "soup": [],
         "noodle": [],
@@ -7541,7 +8327,10 @@
         "style": [
           "中華そば"
         ],
-        "soup": [],
+        "soup": [
+          "鶏",
+          "醤油"
+        ],
         "noodle": [],
         "character": [
           "あっさり"
@@ -7580,7 +8369,9 @@
         "soup": [
           "鶏"
         ],
-        "noodle": [],
+        "noodle": [
+          "中太麺"
+        ],
         "character": []
       }
     },
@@ -7614,7 +8405,10 @@
           "中華そば"
         ],
         "soup": [],
-        "noodle": [],
+        "noodle": [
+          "細麺",
+          "縮れ麺"
+        ],
         "character": []
       }
     },
@@ -7649,15 +8443,16 @@
       "placeId": "ChIJLyxq6miTUTUROH6_w08o0H4",
       "tags": {
         "style": [
-          "ラーメン",
-          "中華そば"
+          "中華そば",
+          "ラーメン"
         ],
         "soup": [
-          "醤油",
           "味噌"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -7691,8 +8486,7 @@
       "placeId": "ChIJy5_GJD-VUTURptIt6RddHT4",
       "tags": {
         "style": [
-          "ラーメン",
-          "担々麺"
+          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -7731,7 +8525,8 @@
       "tags": {
         "style": [
           "ラーメン",
-          "担々麺"
+          "担々麺",
+          "冷やし"
         ],
         "soup": [],
         "noodle": [],
@@ -7772,7 +8567,8 @@
         ],
         "noodle": [],
         "character": [
-          "辛い"
+          "辛い",
+          "痺れ"
         ]
       }
     },
@@ -7811,10 +8607,16 @@
           "冷やし"
         ],
         "soup": [
-          "塩"
+          "塩",
+          "煮干し"
         ],
         "character": [
-          "あっさり"
+          "あっさり",
+          "清湯",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 47.2,
@@ -7853,14 +8655,27 @@
       "placeId": "ChIJW_1n_f2TUTURMh63BQb4WPQ",
       "tags": {
         "soup": [
-          "鶏"
+          "醤油",
+          "塩",
+          "味噌",
+          "鶏",
+          "鶏白湯",
+          "野菜"
         ],
         "character": [
+          "あっさり",
           "こってり",
-          "濃厚"
+          "濃厚",
+          "清湯",
+          "白湯",
+          "辛い"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
+        ],
+        "noodle": [
+          "中細麺"
         ]
       },
       "x": "1971tenkaippin",
@@ -7897,15 +8712,26 @@
       "placeId": "ChIJXbTfchqRUTURmVfxm251X6g",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
+          "醤油",
           "塩",
+          "豚骨",
           "鶏",
           "煮干し"
         ],
         "character": [
-          "清湯"
+          "あっさり",
+          "濃厚",
+          "清湯",
+          "白湯"
+        ],
+        "noodle": [
+          "細麺",
+          "自家製麺",
+          "縮れ麺"
         ]
       },
       "score": 44.4,
@@ -7934,11 +8760,23 @@
       "placeId": "ChIJGXp5Rv6VUTURUu7NhtDcJ64",
       "tags": {
         "style": [
+          "家系",
           "二郎系",
+          "つけ麺",
           "まぜそば"
         ],
         "noodle": [
-          "自家製麺"
+          "太麺"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "魚介"
+        ],
+        "character": [
+          "清湯",
+          "背脂",
+          "にんにく"
         ]
       }
     },
@@ -7974,6 +8812,9 @@
       "tags": {
         "style": [
           "担々麺"
+        ],
+        "character": [
+          "辛い"
         ]
       }
     },
@@ -8011,11 +8852,13 @@
           "ラーメン"
         ],
         "soup": [
-          "醤油",
-          "豚骨"
+          "豚骨",
+          "醤油"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "濃厚"
+        ]
       }
     },
     {
@@ -8049,7 +8892,9 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
         "character": [
           "辛い"
@@ -8159,18 +9004,27 @@
           "家系",
           "二郎系",
           "つけ麺",
-          "まぜそば"
+          "担々麺",
+          "ちゃんぽん"
         ],
         "soup": [
           "醤油",
+          "塩",
           "豚骨",
           "鶏",
+          "魚介",
           "煮干し"
         ],
         "noodle": [
           "細麺",
           "太麺",
           "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "こってり",
+          "濃厚",
+          "辛い"
         ]
       },
       "score": 45.6,
@@ -8210,19 +9064,24 @@
           "ラーメン",
           "家系",
           "二郎系",
-          "まぜそば",
-          "つけ麺"
+          "つけ麺",
+          "ちゃんぽん"
         ],
         "soup": [
-          "鶏",
-          "煮干し",
           "醤油",
-          "豚骨"
+          "塩",
+          "豚骨",
+          "魚介",
+          "海老・蟹"
         ],
         "noodle": [
-          "自家製麺",
           "細麺",
-          "太麺"
+          "太麺",
+          "自家製麺"
+        ],
+        "character": [
+          "こってり",
+          "濃厚"
         ]
       },
       "score": 45,
@@ -8259,15 +9118,18 @@
       ],
       "tags": {
         "style": [
-          "ラーメン",
-          "ちゃんぽん"
+          "ラーメン"
         ],
         "soup": [
           "塩",
           "鯛・鮮魚"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -8297,7 +9159,8 @@
       "placeId": "ChIJp3LeIxLvTzURVTQ958FJJt0",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -8337,17 +9200,32 @@
       "placeId": "ChIJq654e7HlTzURifL37KI5jQ8",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "まぜそば",
+          "冷やし"
         ],
         "soup": [
+          "醤油",
+          "味噌",
           "豚骨",
           "鶏白湯",
           "魚介",
-          "海老・蟹"
+          "貝",
+          "海老・蟹",
+          "煮干し",
+          "節",
+          "柑橘"
         ],
         "character": [
           "濃厚",
-          "白湯"
+          "白湯",
+          "泡系",
+          "辛い",
+          "痺れ"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "x": "kaneokaramen",
@@ -8385,12 +9263,36 @@
       ],
       "tags": {
         "style": [
+          "ラーメン",
+          "中華そば",
+          "二郎系",
+          "まぜそば",
+          "油そば",
           "担々麺",
-          "ラーメン"
+          "冷やし"
         ],
         "soup": [
+          "醤油",
+          "塩",
+          "味噌",
           "鶏",
-          "煮干し"
+          "魚介",
+          "煮干し",
+          "節",
+          "貝",
+          "胡麻"
+        ],
+        "noodle": [
+          "中細麺",
+          "中太麺",
+          "太麺"
+        ],
+        "character": [
+          "あっさり",
+          "背脂",
+          "辛い",
+          "痺れ",
+          "にんにく"
         ]
       },
       "score": 45.2,
@@ -8428,16 +9330,17 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
           "辛麺"
         ],
         "soup": [
-          "鶏",
-          "魚介"
+          "鶏"
         ],
-        "noodle": [],
+        "noodle": [
+          "太麺"
+        ],
         "character": [
-          "辛い"
+          "辛い",
+          "にんにく"
         ]
       }
     },
@@ -8473,16 +9376,23 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "まぜそば"
+          "つけ麺"
         ],
         "soup": [
           "醤油",
+          "塩",
+          "味噌",
           "豚骨",
           "鶏",
           "魚介",
-          "煮干し",
-          "節"
+          "節",
+          "野菜"
+        ],
+        "character": [
+          "あっさり",
+          "こってり",
+          "濃厚",
+          "背脂"
         ]
       },
       "score": 45.4,
@@ -8514,10 +9424,11 @@
       ],
       "placeId": "ChIJt5d4SL7lTzURSOiXGayDGjg",
       "tags": {
-        "style": [],
+        "style": [
+          "ラーメン"
+        ],
         "soup": [
-          "醤油",
-          "豚骨"
+          "醤油"
         ],
         "noodle": [],
         "character": []
@@ -8554,10 +9465,19 @@
       ],
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "つけ麺"
         ],
         "soup": [
+          "塩",
           "煮干し"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
         ]
       },
       "score": 46.5,
@@ -8595,12 +9515,24 @@
       "tags": {
         "style": [
           "ラーメン",
-          "家系"
+          "家系",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "醤油",
           "豚骨",
           "節"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺"
+        ],
+        "character": [
+          "こってり",
+          "濃厚",
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 44.7,
@@ -8638,6 +9570,16 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 41.6
@@ -8673,10 +9615,14 @@
       "placeId": "ChIJn5CqXE7vTzURctavJPixj9E",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
         "character": []
       }
     },
@@ -8781,12 +9727,23 @@
       "placeId": "ChIJ5de_T4LlTzUROfIvEPJXwZw",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
           "醤油",
+          "味噌",
           "豚骨",
           "胡麻"
+        ],
+        "noodle": [
+          "細麺",
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
         ]
       },
       "score": 43
@@ -8823,13 +9780,23 @@
       "tags": {
         "style": [
           "ラーメン",
+          "つけ麺",
           "冷やし"
         ],
         "soup": [
-          "鶏",
-          "節",
           "醤油",
+          "鶏",
           "煮干し"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚",
+          "セメント系",
+          "背脂",
+          "辛い"
         ]
       },
       "score": 47.6,
@@ -8868,10 +9835,24 @@
       "placeId": "ChIJjY9rVkjvTzURlPsKj37SrXM",
       "tags": {
         "soup": [
-          "豚骨"
+          "塩",
+          "豚骨",
+          "魚介"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば",
+          "つけ麺",
+          "まぜそば"
+        ],
+        "noodle": [
+          "細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "こってり",
+          "濃厚",
+          "白湯"
         ]
       },
       "score": 46.5,
@@ -8910,13 +9891,16 @@
       "placeId": "ChIJkWjxw8HlTzURi0m5_xTx8vw",
       "tags": {
         "style": [
+          "つけ麺",
           "ラーメン"
         ],
         "soup": [
-          "塩",
-          "魚介"
+          "塩"
         ],
-        "noodle": [],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
+        ],
         "character": []
       }
     },
@@ -8952,13 +9936,24 @@
       "tags": {
         "style": [
           "ラーメン",
+          "中華そば",
           "家系",
-          "まぜそば"
+          "まぜそば",
+          "冷やし"
         ],
         "soup": [
+          "醤油",
           "塩",
           "豚骨",
           "煮干し"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺"
+        ],
+        "character": [
+          "あっさり",
+          "背脂"
         ]
       },
       "score": 44.9,
@@ -9036,12 +10031,22 @@
       "tags": {
         "style": [
           "ラーメン",
+          "中華そば",
           "冷やし"
         ],
         "soup": [
           "醤油",
           "豚骨",
-          "魚介"
+          "魚介",
+          "節"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚",
+          "清湯"
         ]
       },
       "score": 47.5,
@@ -9079,7 +10084,7 @@
       "tags": {
         "style": [
           "ラーメン",
-          "まぜそば"
+          "油そば"
         ],
         "soup": [
           "醤油",
@@ -9087,7 +10092,11 @@
           "魚介"
         ],
         "character": [
+          "あっさり",
           "清湯"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 44.6,
@@ -9166,7 +10175,8 @@
       "placeId": "ChIJzfaOiSnmTzUR758sbWXboNc",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
           "豚骨"
@@ -9206,12 +10216,20 @@
       "placeId": "ChIJ5Wh-brLlTzURLNgW-XzFix0",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
-          "豚骨"
+          "醤油",
+          "豚骨",
+          "カレー"
         ],
-        "noodle": [],
+        "noodle": [
+          "中太麺",
+          "太麺",
+          "縮れ麺"
+        ],
         "character": []
       }
     },
@@ -9246,10 +10264,14 @@
       "placeId": "ChIJUSeDrwfmTzURZ03yKjDhw88",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
-          "豚骨"
+          "胡麻",
+          "カレー"
         ],
         "noodle": [],
         "character": []
@@ -9289,9 +10311,11 @@
           "ラーメン"
         ],
         "soup": [
-          "豚骨"
+          "醤油"
         ],
-        "noodle": [],
+        "noodle": [
+          "細麺"
+        ],
         "character": []
       }
     },
@@ -9328,12 +10352,17 @@
       "placeId": "ChIJb4vreGTvTzURyCrxrMzdTAQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
-          "豚骨"
+          "醤油"
         ],
-        "noodle": [],
+        "noodle": [
+          "細麺",
+          "縮れ麺"
+        ],
         "character": []
       }
     },
@@ -9411,11 +10440,13 @@
         "soup": [
           "醤油",
           "塩",
-          "味噌",
-          "野菜"
+          "味噌"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり",
+          "辛い"
+        ]
       }
     },
     {
@@ -9449,7 +10480,28 @@
       "placeId": "ChIJYcHETVLlTzURJM6Deqt2NGA",
       "tags": {
         "style": [
-          "つけ麺"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
+        ],
+        "soup": [
+          "醤油",
+          "味噌",
+          "鶏白湯",
+          "魚介",
+          "煮干し",
+          "節",
+          "海老・蟹"
+        ],
+        "noodle": [
+          "太麺",
+          "自家製麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "濃厚",
+          "白湯",
+          "辛い"
         ]
       },
       "score": 43.6,
@@ -9486,7 +10538,26 @@
       "placeId": "ChIJl-BUOuzlTzURkZrKPwNLaME",
       "tags": {
         "style": [
-          "つけ麺"
+          "ラーメン",
+          "中華そば",
+          "つけ麺",
+          "担々麺"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "豚骨",
+          "鶏",
+          "魚介",
+          "煮干し"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺",
+          "自家製麺"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 77.7,
@@ -9523,14 +10594,21 @@
       "placeId": "ChIJNTr1TI7vTzUReSBMHGEYNQE",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "油そば",
+          "冷やし"
         ],
         "soup": [
-          "鶏"
+          "塩",
+          "鶏",
+          "魚介"
         ],
         "character": [
           "あっさり",
-          "濃厚"
+          "清湯"
+        ],
+        "noodle": [
+          "縮れ麺"
         ]
       },
       "score": 57.5,
@@ -9566,10 +10644,13 @@
           "中華そば"
         ],
         "soup": [
-          "鶏"
+          "鶏",
+          "醤油"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "にんにく"
+        ]
       }
     },
     {
@@ -9607,12 +10688,16 @@
         ],
         "soup": [
           "塩",
+          "味噌",
           "魚介",
           "胡麻"
         ],
         "character": [
           "あっさり",
           "にんにく"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 35.5
@@ -9649,15 +10734,26 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "担々麺"
+          "創作系",
+          "つけ麺"
         ],
         "soup": [
+          "醤油",
+          "塩",
+          "味噌",
           "豚骨",
           "鶏",
           "魚介",
+          "節",
           "野菜",
           "胡麻"
+        ],
+        "noodle": [
+          "中太麺",
+          "自家製麺"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 54.7,
@@ -9690,10 +10786,14 @@
       "placeId": "ChIJnzKS8O7lTzURwU80Eh2lrTY",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "character": [
           "辛い"
+        ],
+        "soup": [
+          "味噌"
         ]
       },
       "score": 46,
@@ -9731,6 +10831,12 @@
       "tags": {
         "style": [
           "ちゃんぽん"
+        ],
+        "soup": [
+          "味噌"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "score": 61.5,
@@ -9768,6 +10874,19 @@
       "tags": {
         "style": [
           "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "鶏",
+          "野菜"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "濃厚",
+          "辛い",
+          "にんにく"
         ]
       },
       "x": "Ramen_Mozu",
@@ -9808,7 +10927,12 @@
           "ラーメン"
         ],
         "character": [
-          "辛い"
+          "濃厚",
+          "辛い",
+          "にんにく"
+        ],
+        "soup": [
+          "味噌"
         ]
       },
       "score": 42.6
@@ -9882,9 +11006,14 @@
         "style": [
           "中華そば"
         ],
-        "soup": [],
+        "soup": [
+          "鶏"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "清湯",
+          "辛い"
+        ]
       }
     },
     {
@@ -9922,7 +11051,10 @@
         ],
         "soup": [
           "醤油",
-          "塩"
+          "鶏"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 43.6,
@@ -9959,7 +11091,9 @@
       "placeId": "ChIJI7UhQwDlTzURXTwLGgTlgLY",
       "tags": {
         "style": [
-          "二郎系"
+          "二郎系",
+          "まぜそば",
+          "冷やし"
         ],
         "soup": [
           "醤油",
@@ -9969,6 +11103,8 @@
           "太麺"
         ],
         "character": [
+          "こってり",
+          "白湯",
           "背脂",
           "にんにく"
         ]
@@ -10014,17 +11150,20 @@
           "まぜそば"
         ],
         "soup": [
-          "豚骨",
-          "味噌"
+          "醤油",
+          "味噌",
+          "豚骨"
         ],
         "noodle": [
-          "自家製麺",
           "細麺",
-          "中太麺"
+          "中太麺",
+          "自家製麺"
         ],
         "character": [
           "あっさり",
-          "こってり"
+          "こってり",
+          "濃厚",
+          "辛い"
         ]
       },
       "score": 48.2,
@@ -10062,15 +11201,24 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺"
+          "二郎系",
+          "つけ麺",
+          "担々麺"
         ],
         "soup": [
           "醤油",
+          "味噌",
           "豚骨"
         ],
         "character": [
+          "こってり",
+          "濃厚",
           "背脂",
           "にんにく"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
         ]
       },
       "score": 43.9,
@@ -10111,10 +11259,15 @@
         ],
         "soup": [
           "醤油",
+          "塩",
           "鶏"
         ],
         "character": [
-          "あっさり"
+          "あっさり",
+          "清湯"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 71.6,
@@ -10153,14 +11306,23 @@
       "placeId": "ChIJJWkjUoLvTzURabUmquutqyM",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "味噌",
+          "豚骨",
+          "魚介",
+          "野菜"
         ],
         "character": [
-          "背脂"
+          "背脂",
+          "あっさり"
+        ],
+        "noodle": [
+          "細麺",
+          "自家製麺"
         ]
       }
     },
@@ -10197,14 +11359,19 @@
       "placeId": "ChIJPUTlnIzlTzUR8EbS6GrmhxU",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
+          "味噌",
           "醤油",
           "豚骨"
         ],
         "character": [
           "背脂"
+        ],
+        "noodle": [
+          "中細麺"
         ]
       }
     },
@@ -10239,10 +11406,18 @@
       "placeId": "ChIJL0JyYgDvTzURbYNS7nB98Zo",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
-          "豚骨"
+          "豚骨",
+          "野菜"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 53.6,
@@ -10279,17 +11454,22 @@
       "placeId": "ChIJO3gHTXLlTzURF6zo-fRyLVk",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
-          "豚骨"
+          "醤油",
+          "味噌",
+          "豚骨",
+          "鶏"
         ],
         "noodle": [
-          "自家製麺"
+          "細麺"
         ],
         "character": [
           "あっさり",
-          "こってり"
+          "こってり",
+          "白湯"
         ]
       },
       "score": 51.2,
@@ -10326,17 +11506,24 @@
       "placeId": "ChIJ2QS5M1_vTzURvmJ8a1sNlng",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
-          "豚骨"
+          "醤油",
+          "味噌",
+          "豚骨",
+          "鶏"
         ],
         "noodle": [
+          "細麺",
           "自家製麺"
         ],
         "character": [
           "あっさり",
-          "こってり"
+          "こってり",
+          "濃厚",
+          "辛い"
         ]
       },
       "score": 50.7,
@@ -10373,13 +11560,26 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
-          "豚骨"
+          "豚骨",
+          "胡麻"
         ],
         "character": [
-          "背脂"
+          "濃厚",
+          "背脂",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺",
+          "自家製麺",
+          "縮れ麺"
         ]
       },
       "x": "ramenGENKOTU",
@@ -10418,17 +11618,22 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "油そば"
+          "つけ麺"
         ],
         "soup": [
           "塩",
+          "鶏",
+          "煮干し",
           "節",
           "味噌",
-          "煮干し",
-          "魚介",
-          "鶏",
           "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       }
     },
@@ -10495,13 +11700,28 @@
       "placeId": "ChIJp09vKKboTzURaIuFu1jkmr4",
       "tags": {
         "style": [
+          "ラーメン",
           "二郎系"
         ],
         "soup": [
-          "豚骨"
+          "醤油",
+          "塩",
+          "味噌",
+          "豚骨",
+          "鶏"
         ],
         "character": [
+          "濃厚",
+          "清湯",
+          "白湯",
+          "背脂",
+          "辛い",
           "にんにく"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺",
+          "自家製麺"
         ]
       },
       "score": 53.5,
@@ -10540,15 +11760,26 @@
       "placeId": "ChIJOTrpmMblTzURUipm3-V5ESw",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "まぜそば",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
           "醤油",
-          "鶏"
+          "塩",
+          "味噌",
+          "鶏",
+          "カレー"
         ],
         "character": [
           "こってり",
-          "背脂"
+          "背脂",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺"
         ]
       },
       "score": 37.5
@@ -10591,8 +11822,13 @@
           "鶏"
         ],
         "character": [
+          "あっさり",
+          "こってり",
           "濃厚",
           "泡系"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 45.1,
@@ -10631,7 +11867,15 @@
           "豚骨"
         ],
         "character": [
-          "濃厚"
+          "こってり",
+          "濃厚",
+          "背脂"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺",
+          "自家製麺",
+          "縮れ麺"
         ]
       }
     },
@@ -10669,17 +11913,22 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "油そば"
+          "つけ麺"
         ],
         "soup": [
           "塩",
+          "鶏",
+          "煮干し",
           "節",
           "味噌",
-          "煮干し",
-          "魚介",
-          "鶏",
           "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       }
     },
@@ -10715,6 +11964,12 @@
       "tags": {
         "style": [
           "ちゃんぽん"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "noodle": [
+          "太麺"
         ]
       },
       "x": "ringerhut_jp"
@@ -10786,10 +12041,23 @@
       ],
       "tags": {
         "style": [
-          "担々麺"
+          "担々麺",
+          "つけ麺",
+          "冷やし"
         ],
         "character": [
-          "辛い"
+          "辛い",
+          "痺れ"
+        ],
+        "soup": [
+          "鶏",
+          "魚介",
+          "節",
+          "野菜",
+          "胡麻"
+        ],
+        "noodle": [
+          "太麺"
         ]
       },
       "score": 58.8,
@@ -10826,12 +12094,13 @@
       "placeId": "ChIJhYH9aADvTzURdZAigy_90KM",
       "tags": {
         "style": [
-          "ラーメン",
           "担々麺"
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -10866,7 +12135,9 @@
         "soup": [
           "鶏"
         ],
-        "noodle": [],
+        "noodle": [
+          "細麺"
+        ],
         "character": []
       }
     },
@@ -10905,10 +12176,16 @@
         ],
         "soup": [
           "醤油",
+          "味噌",
           "豚骨"
         ],
         "character": [
+          "あっさり",
+          "背脂",
           "辛い"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 61.6,
@@ -10946,18 +12223,21 @@
       "tags": {
         "style": [
           "家系",
-          "中華そば",
-          "二郎系"
+          "二郎系",
+          "つけ麺"
         ],
         "soup": [
           "醤油",
-          "豚骨",
           "味噌",
-          "魚介",
-          "塩"
+          "豚骨",
+          "魚介"
         ],
         "character": [
-          "濃厚"
+          "濃厚",
+          "背脂"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 43.9,
@@ -10996,17 +12276,20 @@
         "style": [
           "家系",
           "中華そば",
-          "二郎系"
+          "二郎系",
+          "つけ麺"
         ],
         "soup": [
           "醤油",
-          "豚骨",
-          "味噌",
-          "魚介",
-          "塩"
+          "塩",
+          "豚骨"
         ],
         "character": [
           "濃厚"
+        ],
+        "noodle": [
+          "中太麺",
+          "太麺"
         ]
       },
       "score": 44.3,
@@ -11043,11 +12326,22 @@
       ],
       "tags": {
         "style": [
-          "家系"
+          "家系",
+          "つけ麺",
+          "まぜそば"
         ],
         "soup": [
+          "醤油",
           "豚骨",
-          "醤油"
+          "鶏"
+        ],
+        "noodle": [
+          "中太麺",
+          "太麺"
+        ],
+        "character": [
+          "濃厚",
+          "にんにく"
         ]
       },
       "score": 57.3,
@@ -11088,17 +12382,22 @@
         "style": [
           "家系",
           "中華そば",
-          "二郎系"
+          "二郎系",
+          "つけ麺",
+          "まぜそば",
+          "担々麺"
         ],
         "soup": [
           "醤油",
+          "塩",
           "豚骨",
-          "味噌",
-          "魚介",
-          "塩"
+          "魚介"
         ],
         "character": [
           "濃厚"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 47.7,
@@ -11165,7 +12464,7 @@
       "placeId": "ChIJewxrn7roTzURPptT1tLgA18",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -11203,10 +12502,18 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
-          "醤油"
+          "醤油",
+          "豚骨",
+          "塩",
+          "味噌"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "x": "marugen_ramen_"
@@ -11244,10 +12551,18 @@
       "placeId": "ChIJDRhJUknvTzURq4jdMWN__rQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
-          "醤油"
+          "醤油",
+          "豚骨",
+          "塩",
+          "味噌"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "x": "marugen_ramen_"
@@ -11283,7 +12598,8 @@
       "placeId": "ChIJ1Z3pYIDgTzURJHcATMKNuxg",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -11317,9 +12633,15 @@
       "placeId": "ChIJW9blg3TlTzURQ02RKzooqzY",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌"
+        ],
         "noodle": [],
         "character": [
           "辛い"
@@ -11357,9 +12679,15 @@
       "placeId": "ChIJlwwMH5blTzURPDXO73Ogc2Q",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん",
+          "担々麺"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌"
+        ],
         "noodle": [],
         "character": []
       }
@@ -11391,7 +12719,7 @@
       "placeId": "ChIJOUaa4ovlTzURlvsPBvEEyrE",
       "tags": {
         "style": [
-          "ちゃんぽん"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -11434,7 +12762,15 @@
           "豚骨"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "こってり",
+          "濃厚"
         ]
       },
       "score": 86.3,
@@ -11471,16 +12807,22 @@
       "placeId": "ChIJcyg3BOzlTzURDtf3MCAd4hs",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "まぜそば"
         ],
         "soup": [
           "醤油",
           "塩",
           "鶏",
-          "鯛・鮮魚"
+          "鯛・鮮魚",
+          "野菜"
         ],
         "character": [
-          "白湯"
+          "あっさり",
+          "清湯"
+        ],
+        "noodle": [
+          "中細麺"
         ]
       },
       "score": 85.6,
@@ -11518,10 +12860,21 @@
       "tags": {
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "鶏"
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚",
+          "清湯",
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 46,
@@ -11563,6 +12916,14 @@
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "濃厚",
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 53.9,
@@ -11599,13 +12960,19 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
           "醤油"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -11641,19 +13008,22 @@
       "placeId": "ChIJye3nOozlTzURhAeTfrmDSpw",
       "tags": {
         "style": [
+          "中華そば",
           "つけ麺",
           "まぜそば"
         ],
         "soup": [
+          "醤油",
           "豚骨",
           "魚介"
         ],
         "noodle": [
-          "太麺",
-          "自家製麺"
+          "太麺"
         ],
         "character": [
-          "濃厚"
+          "濃厚",
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 74.6,
@@ -11686,12 +13056,25 @@
       "placeId": "ChIJy873QhPvTzURreIiTQRLS3g",
       "tags": {
         "style": [
+          "中華そば",
           "二郎系",
           "つけ麺",
-          "まぜそば"
+          "油そば",
+          "冷やし"
         ],
         "noodle": [
           "太麺"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "魚介",
+          "煮干し",
+          "カレー"
+        ],
+        "character": [
+          "濃厚",
+          "にんにく"
         ]
       },
       "score": 47.6,
@@ -11729,11 +13112,19 @@
       "tags": {
         "style": [
           "中華そば",
-          "ちゃんぽん"
+          "ちゃんぽん",
+          "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "塩",
+          "豚骨"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い",
+          "あっさり"
+        ]
       }
     },
     {
@@ -11768,6 +13159,9 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 51,
@@ -11804,7 +13198,7 @@
       "placeId": "ChIJaz1TVyruTzURS4ozf2z58dE",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -11842,16 +13236,26 @@
       "placeId": "ChIJ42c2KuzlTzURXlIAe6cSEbs",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "二郎系",
+          "つけ麺",
+          "まぜそば"
         ],
         "soup": [
+          "醤油",
+          "味噌",
           "豚骨"
         ],
         "character": [
           "こってり",
           "濃厚",
           "背脂",
+          "辛い",
           "にんにく"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
         ]
       },
       "score": 67,
@@ -11888,7 +13292,8 @@
       "placeId": "ChIJgxnrJMXlTzURAZx1LhppCOc",
       "tags": {
         "style": [
-          "担々麺"
+          "担々麺",
+          "冷やし"
         ],
         "soup": [],
         "noodle": [],
@@ -11933,10 +13338,12 @@
         "soup": [
           "塩"
         ],
-        "noodle": [],
+        "noodle": [
+          "自家製麺"
+        ],
         "character": [
-          "辛い",
-          "あっさり"
+          "あっさり",
+          "辛い"
         ]
       }
     },
@@ -11973,7 +13380,8 @@
         "style": [
           "ラーメン",
           "担々麺",
-          "ちゃんぽん"
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
           "醤油",
@@ -12019,14 +13427,20 @@
       ],
       "tags": {
         "style": [
+          "中華そば",
           "担々麺",
-          "油そば"
+          "冷やし"
         ],
         "soup": [
-          "胡麻"
+          "胡麻",
+          "醤油"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -12063,8 +13477,7 @@
           "ラーメン"
         ],
         "soup": [
-          "塩",
-          "鯛・鮮魚"
+          "魚介"
         ],
         "noodle": [
           "細麺"
@@ -12109,12 +13522,16 @@
       "tags": {
         "style": [
           "ラーメン",
-          "ちゃんぽん"
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
-          "味噌"
+          "醤油",
+          "豚骨"
         ],
-        "noodle": [],
+        "noodle": [
+          "中太麺"
+        ],
         "character": []
       }
     },
@@ -12183,7 +13600,8 @@
       "placeId": "ChIJBSfCXB7lTzURsF8BTdwyBdI",
       "tags": {
         "style": [
-          "二郎系"
+          "二郎系",
+          "油そば"
         ],
         "noodle": [
           "太麺"
@@ -12191,6 +13609,10 @@
         "character": [
           "背脂",
           "にんにく"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
         ]
       },
       "x": "syusennin",
@@ -12229,17 +13651,19 @@
       "tags": {
         "style": [
           "中華そば",
-          "油そば"
+          "油そば",
+          "冷やし"
         ],
         "soup": [
           "醤油"
         ],
         "noodle": [
+          "太麺",
           "自家製麺"
         ],
         "character": [
-          "背脂",
-          "濃厚"
+          "濃厚",
+          "背脂"
         ]
       },
       "score": 43.9,
@@ -12284,6 +13708,9 @@
         ],
         "character": [
           "背脂"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 50.8,
@@ -12320,10 +13747,19 @@
       "placeId": "ChIJO_3eJJrlTzUR93CkLLJGciY",
       "tags": {
         "soup": [
-          "鯛・鮮魚"
+          "塩",
+          "鯛・鮮魚",
+          "野菜"
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       },
       "score": 56.1,
@@ -12362,16 +13798,22 @@
         "style": [
           "ラーメン",
           "中華そば",
-          "まぜそば",
+          "家系",
           "つけ麺",
-          "油そば",
-          "家系"
+          "まぜそば",
+          "油そば"
         ],
         "soup": [
-          "豚骨",
           "醤油",
-          "塩",
-          "魚介"
+          "豚骨",
+          "魚介",
+          "節"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 45.1,
@@ -12411,7 +13853,13 @@
           "中華そば"
         ],
         "soup": [
-          "鶏"
+          "鶏",
+          "魚介",
+          "味噌"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
         ]
       },
       "score": 45.5,
@@ -12448,10 +13896,17 @@
       "placeId": "ChIJ8xtCuGrvTzUR8290HgkWdao",
       "tags": {
         "soup": [
-          "醤油"
+          "醤油",
+          "煮干し"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "冷やし"
+        ],
+        "noodle": [
+          "細麺",
+          "自家製麺"
         ]
       },
       "score": 56.8,
@@ -12527,16 +13982,14 @@
       "tags": {
         "style": [
           "ラーメン",
-          "担々麺",
-          "冷やし"
+          "担々麺"
         ],
         "soup": [
           "醤油",
-          "塩",
-          "味噌",
-          "豚骨",
-          "魚介",
-          "鶏"
+          "豚骨"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "score": 41.9
@@ -12575,7 +14028,8 @@
           "辛麺"
         ],
         "character": [
-          "辛い"
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 44.7,
@@ -12612,10 +14066,17 @@
       ],
       "tags": {
         "style": [
-          "辛麺"
+          "辛麺",
+          "つけ麺"
         ],
         "character": [
           "辛い"
+        ],
+        "soup": [
+          "鶏"
+        ],
+        "noodle": [
+          "太麺"
         ]
       },
       "score": 43.7,
@@ -12655,7 +14116,9 @@
           "辛麺"
         ],
         "character": [
-          "辛い"
+          "あっさり",
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 43.1
@@ -12694,7 +14157,12 @@
           "辛麺"
         ],
         "character": [
-          "辛い"
+          "辛い",
+          "にんにく"
+        ],
+        "soup": [
+          "鶏",
+          "野菜"
         ]
       },
       "score": 45.6,
@@ -12731,10 +14199,17 @@
       ],
       "tags": {
         "style": [
-          "辛麺"
+          "辛麺",
+          "冷やし"
         ],
         "character": [
-          "辛い"
+          "あっさり",
+          "辛い",
+          "にんにく"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
         ]
       },
       "x": "masumoto_9092",
@@ -12772,18 +14247,24 @@
       "placeId": "ChIJU9VgzHjlTzUR2xotKTdQsv8",
       "tags": {
         "soup": [
-          "鯛・鮮魚",
           "醤油",
           "塩",
-          "煮干し"
+          "豚骨",
+          "鶏",
+          "魚介",
+          "煮干し",
+          "節"
         ],
         "style": [
-          "中華そば",
-          "まぜそば",
-          "つけ麺"
+          "中華そば"
         ],
         "character": [
-          "セメント系"
+          "あっさり",
+          "濃厚"
+        ],
+        "noodle": [
+          "中細麺",
+          "中太麺"
         ]
       },
       "score": 46.7,
@@ -12826,11 +14307,19 @@
         ],
         "soup": [
           "醤油",
+          "塩",
           "豚骨",
           "鶏",
           "魚介",
           "煮干し",
           "節"
+        ],
+        "noodle": [
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "こってり"
         ]
       },
       "score": 69,
@@ -12867,12 +14356,24 @@
       "placeId": "ChIJUdsX5N_lTzURjcXN98zfldk",
       "tags": {
         "style": [
+          "ラーメン",
           "中華そば",
           "ちゃんぽん"
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "豚骨",
+          "魚介",
+          "煮干し",
+          "節"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
         ]
       },
       "score": 43.1
@@ -12908,10 +14409,19 @@
       "placeId": "ChIJhTyA7JrlTzUR8TFwn_1cMOw",
       "tags": {
         "soup": [
+          "塩",
           "貝"
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       },
       "score": 46.3,
@@ -12948,13 +14458,19 @@
       "placeId": "ChIJm6z3j4vlTzURrWfHJCzmTBQ",
       "tags": {
         "style": [
-          "担々麺"
+          "担々麺",
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
-          "カレー"
+          "胡麻"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い",
+          "痺れ",
+          "あっさり"
+        ]
       }
     },
     {
@@ -12984,7 +14500,8 @@
       "placeId": "ChIJg1_sAhriTzURF4toWrErlRc",
       "tags": {
         "style": [
-          "担々麺"
+          "担々麺",
+          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -13060,8 +14577,12 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
         "character": []
       }
     },
@@ -13143,11 +14664,17 @@
         "character": [
           "あっさり",
           "こってり",
-          "濃厚"
+          "濃厚",
+          "辛い"
         ],
         "soup": [
           "塩",
-          "味噌"
+          "味噌",
+          "鶏",
+          "野菜"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 47.4,
@@ -13185,13 +14712,28 @@
       "tags": {
         "soup": [
           "醤油",
-          "鶏白湯"
+          "塩",
+          "鶏",
+          "鶏白湯",
+          "煮干し"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば",
+          "辛麺"
         ],
         "character": [
-          "背脂"
+          "あっさり",
+          "こってり",
+          "濃厚",
+          "白湯",
+          "背脂",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺"
         ]
       },
       "score": 46.5,
@@ -13229,6 +14771,14 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "魚介",
+          "煮干し"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 44.2,
@@ -13266,6 +14816,16 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "鶏"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "にんにく"
         ]
       },
       "score": 76.1,
@@ -13303,6 +14863,18 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "味噌",
+          "豚骨"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
         ]
       },
       "score": 46.9,
@@ -13339,7 +14911,22 @@
       "placeId": "ChIJkVu4OCzuTzURcSaZBEh6mY0",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "つけ麺"
+        ],
+        "soup": [
+          "醤油",
+          "鶏",
+          "魚介"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺",
+          "太麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 64.6,
@@ -13378,7 +14965,20 @@
       "placeId": "ChIJg0x6DEnvTzURF7qUtRXvQNA",
       "tags": {
         "style": [
-          "つけ麺"
+          "ラーメン",
+          "つけ麺",
+          "油そば",
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "味噌"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "にんにく"
         ]
       },
       "score": 49.2,
@@ -13411,16 +15011,15 @@
       "placeId": "ChIJ1XnfOHPlTzURmugxSD3FAa0",
       "tags": {
         "style": [
-          "ラーメン",
-          "担々麺"
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
-          "野菜",
-          "鶏"
+          "醤油"
         ],
         "noodle": [],
         "character": [
-          "辛い"
+          "あっさり"
         ]
       }
     },
@@ -13451,12 +15050,15 @@
       "placeId": "ChIJLdL2SrXoTzURFSrUfzxURuE",
       "tags": {
         "style": [
-          "担々麺",
-          "ラーメン"
+          "担々麺"
         ],
-        "soup": [],
+        "soup": [
+          "胡麻"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "濃厚"
+        ]
       }
     },
     {
@@ -13486,7 +15088,9 @@
       "placeId": "ChIJr5DPm6TlTzURzcAC9jDA26U",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [],
         "noodle": [],
@@ -13571,12 +15175,13 @@
         "style": [
           "ラーメン",
           "担々麺",
-          "辛麺"
+          "冷やし"
         ],
         "soup": [
           "胡麻"
         ],
         "character": [
+          "濃厚",
           "辛い"
         ]
       }
@@ -13646,13 +15251,19 @@
       "placeId": "ChIJtdWqwJblTzURv_kdw1WJtBk",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
           "醤油"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -13719,9 +15330,16 @@
           "ラーメン",
           "担々麺"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油",
+          "味噌",
+          "胡麻"
+        ],
+        "noodle": [
+          "細麺"
+        ],
         "character": [
+          "濃厚",
           "辛い"
         ]
       }
@@ -13757,12 +15375,18 @@
       "placeId": "ChIJzVFW4ZnvTzURLwDWBazhTsM",
       "tags": {
         "style": [
-          "ラーメン",
-          "ちゃんぽん"
+          "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり",
+          "白湯"
+        ]
       }
     },
     {
@@ -13796,12 +15420,18 @@
       "placeId": "ChIJlQoFnMzpTzURSYPw4dKiTUo",
       "tags": {
         "style": [
+          "中華そば",
           "ラーメン",
-          "ちゃんぽん"
+          "担々麺",
+          "冷やし"
         ],
-        "soup": [],
+        "soup": [
+          "胡麻"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -13835,8 +15465,8 @@
       "placeId": "ChIJq8IiTG7vTzUR785iN9gSYoU",
       "tags": {
         "style": [
-          "ラーメン",
-          "ちゃんぽん"
+          "中華そば",
+          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -13880,7 +15510,11 @@
           "胡麻"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "濃厚",
+          "辛い",
+          "痺れ"
+        ]
       }
     },
     {
@@ -13912,8 +15546,12 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "細麺"
+        ],
         "character": []
       }
     },
@@ -13948,7 +15586,8 @@
       "placeId": "ChIJ43YxiAfmTzURwcII5sGJg-k",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -13987,13 +15626,18 @@
       "tags": {
         "style": [
           "ラーメン",
-          "担々麺"
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
-          "塩"
+          "胡麻"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "濃厚",
+          "こってり",
+          "辛い"
+        ]
       },
       "x": "anacpmatsuyama"
     },
@@ -14061,9 +15705,13 @@
       "placeId": "ChIJtZzxWmvvTzURQXX6QT3MP74",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん",
+          "担々麺"
         ],
         "soup": [
+          "醤油",
+          "塩",
           "味噌"
         ],
         "noodle": [],
@@ -14105,6 +15753,12 @@
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 58.5,
@@ -14143,14 +15797,21 @@
       "placeId": "ChIJ0RFS3nPvTzURLwiPBV3o_es",
       "tags": {
         "soup": [
-          "鶏"
+          "塩",
+          "味噌",
+          "鶏",
+          "野菜"
         ],
         "character": [
+          "あっさり",
           "こってり",
           "濃厚"
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "x": "1971tenkaippin",
@@ -14187,18 +15848,22 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
-          "豚骨",
-          "醤油"
+          "醤油",
+          "味噌",
+          "豚骨"
         ],
         "noodle": [
-          "自家製麺",
-          "細麺"
+          "細麺",
+          "自家製麺"
         ],
         "character": [
-          "あっさり"
+          "あっさり",
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 45.6,
@@ -14236,6 +15901,17 @@
       "tags": {
         "style": [
           "油そば"
+        ],
+        "soup": [
+          "醤油",
+          "味噌"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
         ]
       },
       "score": 44.6,
@@ -14272,14 +15948,18 @@
       "placeId": "ChIJNfG2IaDlTzURzsYNBEsF_dQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
           "醤油",
-          "豚骨"
+          "塩"
         ],
         "character": [
           "あっさり"
+        ],
+        "noodle": [
+          "自家製麺"
         ]
       },
       "score": 71.9,
@@ -14318,10 +15998,7 @@
       "placeId": "ChIJLSNitZjoTzURPqhd6-Olnhg",
       "tags": {
         "soup": [
-          "味噌",
-          "塩",
-          "醤油",
-          "カレー"
+          "味噌"
         ],
         "style": [
           "ラーメン"
@@ -14359,10 +16036,7 @@
       ],
       "tags": {
         "soup": [
-          "味噌",
-          "塩",
-          "醤油",
-          "カレー"
+          "味噌"
         ],
         "style": [
           "ラーメン"
@@ -14403,11 +16077,16 @@
       "tags": {
         "soup": [
           "味噌",
-          "塩",
-          "醤油"
+          "カレー"
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "にんにく"
         ]
       }
     },
@@ -14442,14 +16121,21 @@
       "placeId": "ChIJQQ4qjyzlTzURa3S2refmHdA",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば"
         ],
         "soup": [
           "醤油",
+          "味噌",
           "豚骨",
           "鶏",
           "魚介",
+          "煮干し",
           "野菜"
+        ],
+        "noodle": [
+          "細麺",
+          "自家製麺"
         ]
       },
       "score": 77.9,
@@ -14486,7 +16172,8 @@
       "placeId": "ChIJVVVVVfLlTzURw8qhvYUg-tQ",
       "tags": {
         "style": [
-          "二郎系"
+          "二郎系",
+          "まぜそば"
         ],
         "soup": [
           "醤油",
@@ -14497,6 +16184,7 @@
         ],
         "character": [
           "濃厚",
+          "背脂",
           "にんにく"
         ]
       },
@@ -14537,11 +16225,15 @@
           "中華そば"
         ],
         "soup": [
-          "煮干し",
-          "醤油"
+          "魚介"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "清湯",
+          "あっさり"
+        ]
       }
     },
     {
@@ -14582,6 +16274,9 @@
         ],
         "noodle": [
           "細麺"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "x": "IPPUDO_JP",
@@ -14620,13 +16315,22 @@
       "tags": {
         "style": [
           "二郎系",
+          "つけ麺",
           "まぜそば"
         ],
         "soup": [
-          "豚骨"
+          "醤油",
+          "豚骨",
+          "魚介"
         ],
         "character": [
-          "濃厚"
+          "濃厚",
+          "にんにく"
+        ],
+        "noodle": [
+          "太麺",
+          "自家製麺",
+          "縮れ麺"
         ]
       },
       "x": "bancho_seimen",
@@ -14664,11 +16368,14 @@
       "placeId": "ChIJ5-KlnfTlTzURO7nq8MyPaPY",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い"
+        ]
       }
     },
     {
@@ -14703,14 +16410,23 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺"
+          "つけ麺",
+          "まぜそば"
         ],
         "soup": [
           "味噌",
+          "豚骨",
+          "魚介",
           "煮干し"
         ],
         "character": [
-          "濃厚"
+          "濃厚",
+          "背脂",
+          "辛い"
+        ],
+        "noodle": [
+          "太麺",
+          "自家製麺"
         ]
       },
       "score": 50.5,
@@ -14748,12 +16464,26 @@
       "tags": {
         "style": [
           "ラーメン",
-          "ちゃんぽん"
+          "中華そば",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
           "醤油",
+          "塩",
+          "味噌",
+          "豚骨",
           "鶏",
-          "魚介"
+          "魚介",
+          "煮干し"
+        ],
+        "noodle": [
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "こってり",
+          "にんにく"
         ]
       },
       "score": 42.5
@@ -14785,12 +16515,16 @@
       "placeId": "ChIJRZf0Cq_oTzURXUrIMPZ6itA",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
-          "豚骨"
+          "醤油",
+          "豚骨",
+          "カレー"
         ],
         "noodle": [
+          "細麺",
           "自家製麺"
         ],
         "character": [
@@ -14830,12 +16564,16 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
-          "豚骨"
+          "醤油",
+          "豚骨",
+          "カレー"
         ],
         "noodle": [
+          "細麺",
           "自家製麺"
         ],
         "character": [
@@ -14874,8 +16612,14 @@
           "ラーメン",
           "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "鶏",
+          "醤油",
+          "野菜"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
         "character": []
       }
     },
@@ -14908,7 +16652,9 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
         "character": []
       }
@@ -15069,8 +16815,12 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "細麺"
+        ],
         "character": []
       }
     },
@@ -15105,10 +16855,19 @@
       "placeId": "ChIJxd1niFvvTzURtAVNjApCkyw",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
         ],
         "soup": [
+          "味噌",
           "豚骨"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "濃厚",
+          "辛い"
         ]
       },
       "score": 40.6
@@ -15149,6 +16908,16 @@
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり",
+          "こってり",
+          "濃厚",
+          "辛い"
         ]
       },
       "score": 61,
@@ -15189,10 +16958,17 @@
           "まぜそば"
         ],
         "noodle": [
-          "太麺"
+          "自家製麺",
+          "縮れ麺"
         ],
         "character": [
+          "こってり",
+          "背脂",
           "にんにく"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
         ]
       },
       "x": "yume_matsuyama",
@@ -15231,6 +17007,9 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 46.5,
@@ -15267,10 +17046,19 @@
       "placeId": "ChIJQVoKNfPlTzURwmIwkny6ueg",
       "tags": {
         "soup": [
+          "醤油",
+          "塩",
+          "魚介",
           "節"
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 71.9,
@@ -15308,15 +17096,21 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺"
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
+          "醤油",
           "塩",
+          "味噌",
           "鶏",
-          "節"
+          "野菜"
         ],
         "character": [
-          "清湯"
+          "濃厚"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 48.8,
@@ -15353,11 +17147,21 @@
       "placeId": "ChIJ63LeUMPlTzUR_brlGzl4lAE",
       "tags": {
         "style": [
-          "ラーメン",
+          "中華そば",
           "つけ麺"
         ],
         "character": [
+          "あっさり",
           "濃厚"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "鶏",
+          "魚介"
+        ],
+        "noodle": [
+          "太麺"
         ]
       },
       "x": "menyashinkura",
@@ -15395,10 +17199,19 @@
       "placeId": "ChIJsRC7vfnlTzURiXdgC3QRBAY",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば"
         ],
         "soup": [
-          "豚骨"
+          "醤油",
+          "味噌"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "辛い"
         ]
       },
       "score": 43.6,
@@ -15441,10 +17254,15 @@
         "soup": [
           "醤油",
           "豚骨",
-          "魚介"
+          "魚介",
+          "節"
         ],
         "character": [
           "濃厚"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
         ]
       },
       "score": 53,
@@ -15481,14 +17299,19 @@
       "placeId": "ChIJq1Rmyu3lTzURs_48FrDZGCQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば"
         ],
         "soup": [
           "醤油",
-          "煮干し"
+          "魚介"
         ],
         "character": [
+          "あっさり",
           "背脂"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 59.5,
@@ -15525,14 +17348,23 @@
       "placeId": "ChIJxxft0ojlTzURVNSD0_-1bgQ",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば"
         ],
         "soup": [
           "醤油",
-          "煮干し"
+          "塩",
+          "鶏",
+          "魚介",
+          "煮干し",
+          "節"
         ],
         "character": [
+          "あっさり",
           "背脂"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 51.2,
@@ -15569,12 +17401,15 @@
       "placeId": "ChIJ_acr1-3lTzURTOBzXfvNDus",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
           "醤油",
           "塩",
-          "味噌"
+          "味噌",
+          "魚介"
         ]
       },
       "score": 45.2,
@@ -15613,19 +17448,23 @@
         "style": [
           "ラーメン",
           "中華そば",
-          "二郎系"
+          "二郎系",
+          "まぜそば"
         ],
         "soup": [
           "醤油",
           "豚骨",
           "鶏",
-          "魚介"
+          "魚介",
+          "節"
         ],
         "noodle": [
+          "細麺",
           "太麺"
         ],
         "character": [
-          "こってり"
+          "こってり",
+          "にんにく"
         ]
       },
       "score": 62.1,
@@ -15662,12 +17501,21 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [
           "醤油",
-          "鶏",
-          "魚介"
+          "鶏"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "あっさり",
+          "背脂"
         ]
       },
       "score": 44.7,
@@ -15705,15 +17553,26 @@
       "tags": {
         "style": [
           "ラーメン",
+          "中華そば",
           "つけ麺"
         ],
         "soup": [
+          "醤油",
+          "塩",
+          "鶏",
           "鶏白湯",
-          "煮干し"
+          "魚介",
+          "煮干し",
+          "節",
+          "鯛・鮮魚"
         ],
         "character": [
           "濃厚",
           "白湯"
+        ],
+        "noodle": [
+          "中太麺",
+          "自家製麺"
         ]
       },
       "x": "moritomatsuyama",
@@ -15752,11 +17611,14 @@
         "soup": [
           "醤油",
           "塩",
-          "鶏",
-          "鯛・鮮魚"
+          "鶏"
         ],
         "character": [
-          "清湯"
+          "あっさり",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 77.3,
@@ -15795,6 +17657,19 @@
         "style": [
           "ラーメン",
           "創作系"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌",
+          "豚骨"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 42.2
@@ -15831,6 +17706,12 @@
       "tags": {
         "style": [
           "油そば"
+        ],
+        "soup": [
+          "魚介"
+        ],
+        "noodle": [
+          "太麺"
         ]
       },
       "score": 46.3,
@@ -15872,8 +17753,16 @@
         ],
         "soup": [
           "味噌",
-          "豚骨",
           "魚介"
+        ],
+        "noodle": [
+          "中太麺",
+          "自家製麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "濃厚",
+          "辛い"
         ]
       },
       "score": 48.5,
@@ -15913,8 +17802,14 @@
           "ラーメン"
         ],
         "soup": [
-          "味噌",
-          "豚骨"
+          "味噌"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "x": "TadokoroEhime",
@@ -15953,10 +17848,20 @@
       "placeId": "ChIJu_b4RADlTzUR7ua7mvrM0ck",
       "tags": {
         "soup": [
-          "醤油"
+          "醤油",
+          "味噌",
+          "魚介"
         ],
         "style": [
-          "ラーメン"
+          "つけ麺",
+          "油そば"
+        ],
+        "noodle": [
+          "太麺",
+          "自家製麺"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "score": 42
@@ -15992,10 +17897,21 @@
       "placeId": "ChIJbdYkoO7lTzURpDX2BvCC-Xs",
       "tags": {
         "soup": [
-          "醤油"
+          "醤油",
+          "鶏",
+          "魚介",
+          "煮干し",
+          "節"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
+        ],
+        "noodle": [
+          "中太麺",
+          "自家製麺",
+          "縮れ麺"
         ]
       },
       "score": 73.7,
@@ -16032,18 +17948,24 @@
       "placeId": "ChIJB1k0K_XnTzUR4hHW7IZuQTg",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "中華そば"
         ],
         "soup": [
           "醤油",
           "塩",
-          "豚骨"
+          "味噌",
+          "豚骨",
+          "魚介",
+          "節",
+          "貝"
         ],
         "noodle": [
+          "細麺",
           "自家製麺"
         ],
         "character": [
-          "白湯"
+          "辛い"
         ]
       },
       "score": 46.6,
@@ -16080,7 +18002,20 @@
       "placeId": "ChIJO04Kn7_lTzURfRAdwxyMbaw",
       "tags": {
         "style": [
+          "つけ麺",
           "油そば"
+        ],
+        "soup": [
+          "醤油",
+          "味噌",
+          "魚介"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "濃厚",
+          "辛い"
         ]
       },
       "score": 44,
@@ -16117,8 +18052,7 @@
       "placeId": "ChIJq_6aoz3vTzURhJWGNx4sIO8",
       "tags": {
         "style": [
-          "担々麺",
-          "ちゃんぽん"
+          "ラーメン"
         ],
         "soup": [
           "醤油",
@@ -16160,6 +18094,16 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 44,
@@ -16198,15 +18142,26 @@
       "placeId": "ChIJLeVpjWXvTzURPleiXx6KJmg",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "まぜそば",
+          "担々麺",
+          "辛麺"
         ],
         "soup": [
           "醤油",
-          "鶏"
+          "塩",
+          "味噌",
+          "鶏",
+          "カレー"
         ],
         "character": [
+          "あっさり",
           "こってり",
-          "背脂"
+          "背脂",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 39
@@ -16247,7 +18202,20 @@
         ],
         "soup": [
           "醤油",
-          "鶏"
+          "塩",
+          "豚骨",
+          "鶏",
+          "鶏白湯",
+          "魚介",
+          "煮干し",
+          "貝"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "白湯"
         ]
       },
       "score": 51.5,
@@ -16284,10 +18252,22 @@
       "placeId": "ChIJq6qeD4zlTzURCGO0Yf1Und4",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "まぜそば"
         ],
         "soup": [
-          "味噌"
+          "醤油",
+          "塩",
+          "味噌",
+          "鶏",
+          "鯛・鮮魚"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       },
       "x": "ramenuruu",
@@ -16328,10 +18308,14 @@
           "ラーメン"
         ],
         "soup": [
-          "塩"
+          "塩",
+          "鶏"
         ],
         "character": [
           "あっさり"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 44,
@@ -16403,6 +18387,7 @@
       "tags": {
         "style": [
           "ラーメン",
+          "中華そば",
           "つけ麺"
         ],
         "soup": [
@@ -16413,7 +18398,11 @@
           "鶏"
         ],
         "character": [
+          "あっさり",
           "清湯"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 46,
@@ -16496,6 +18485,14 @@
       "tags": {
         "style": [
           "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌"
+        ],
+        "character": [
+          "こってり"
         ]
       }
     },
@@ -16531,6 +18528,14 @@
       "tags": {
         "style": [
           "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "味噌"
+        ],
+        "character": [
+          "こってり"
         ]
       }
     },
@@ -16605,6 +18610,12 @@
         "soup": [
           "醤油",
           "塩"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       }
     },
@@ -16632,7 +18643,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJKRADP0juTzURxVDVg3v_kDM"
+      "placeId": "ChIJKRADP0juTzURxVDVg3v_kDM",
+      "tags": {
+        "style": [
+          "ラーメン",
+          "ちゃんぽん"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "osm-w1434978177",
@@ -16712,17 +18732,22 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "油そば"
+          "つけ麺"
         ],
         "soup": [
           "塩",
+          "鶏",
+          "煮干し",
           "節",
           "味噌",
-          "煮干し",
-          "魚介",
-          "鶏",
           "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       }
     },
@@ -16792,6 +18817,11 @@
       "tags": {
         "style": [
           "ちゃんぽん"
+        ],
+        "soup": [
+          "豚骨",
+          "塩",
+          "魚介"
         ]
       },
       "x": "ringerhut_jp"
@@ -16827,13 +18857,19 @@
       ],
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
-          "豚骨"
+          "豚骨",
+          "魚介"
         ],
         "noodle": [
-          "細麺"
+          "細麺",
+          "太麺"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "x": "IPPUDO_JP",
@@ -16871,17 +18907,23 @@
       "placeId": "ChIJmSaJuavvTzURk0FAFx0opc0",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "担々麺"
         ],
         "soup": [
+          "醤油",
+          "塩",
           "鶏",
-          "魚介"
+          "魚介",
+          "煮干し"
         ],
         "noodle": [
-          "自家製麺"
+          "細麺",
+          "中細麺",
+          "縮れ麺"
         ],
         "character": [
-          "清湯"
+          "あっさり"
         ]
       },
       "score": 48.9,
@@ -16948,7 +18990,11 @@
       "placeId": "ChIJmUDi9BruTzURnJV006U5RPE",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
+        ],
+        "soup": [
+          "豚骨"
         ]
       },
       "x": "osaka_ohsho"
@@ -16985,10 +19031,16 @@
           "味噌",
           "塩",
           "醤油",
-          "カレー"
+          "カレー",
+          "鶏",
+          "豚骨"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
+        ],
+        "character": [
+          "あっさり"
         ]
       }
     },
@@ -17061,10 +19113,15 @@
           "ラーメン"
         ],
         "soup": [
-          "醤油"
+          "醤油",
+          "魚介"
         ],
         "character": [
+          "濃厚",
           "背脂"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 46.5,
@@ -17102,11 +19159,19 @@
       "tags": {
         "style": [
           "ラーメン",
+          "中華そば",
           "つけ麺"
         ],
         "soup": [
+          "醤油",
+          "豚骨",
           "鶏",
           "魚介"
+        ],
+        "character": [
+          "あっさり",
+          "こってり",
+          "濃厚"
         ]
       },
       "score": 49,
@@ -17139,12 +19204,11 @@
       "placeId": "ChIJvRQ1m9nPUTURO9UlwK3BCSA",
       "tags": {
         "style": [
-          "ラーメン",
-          "ちゃんぽん"
+          "ラーメン"
         ],
         "soup": [
-          "醤油",
-          "塩"
+          "鶏",
+          "醤油"
         ],
         "noodle": [],
         "character": []
@@ -17186,7 +19250,14 @@
           "ラーメン"
         ],
         "character": [
-          "辛い"
+          "辛い",
+          "にんにく"
+        ],
+        "soup": [
+          "豚骨"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 55.1,
@@ -17229,7 +19300,9 @@
           "醤油"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -17266,6 +19339,8 @@
           "ラーメン"
         ],
         "soup": [
+          "醤油",
+          "塩",
           "味噌"
         ]
       },
@@ -17299,18 +19374,27 @@
       "tags": {
         "style": [
           "ラーメン",
+          "家系",
           "二郎系",
-          "つけ麺"
+          "つけ麺",
+          "まぜそば"
         ],
         "soup": [
-          "豚骨"
+          "醤油",
+          "豚骨",
+          "魚介",
+          "煮干し"
         ],
         "noodle": [
           "細麺",
-          "太麺"
+          "中太麺",
+          "縮れ麺"
         ],
         "character": [
-          "背脂"
+          "濃厚",
+          "背脂",
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 44.3,
@@ -17347,12 +19431,16 @@
       "placeId": "ChIJiVctfxHPUTURmMmi1Qn6PgI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
           "豚骨"
         ],
-        "noodle": [],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
         "character": []
       }
     },
@@ -17425,9 +19513,13 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "鶏白湯"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "白湯"
+        ]
       }
     },
     {
@@ -17461,7 +19553,24 @@
       "placeId": "ChIJw0vsOcnPUTUR9gh8vzSOObs",
       "tags": {
         "style": [
-          "二郎系"
+          "二郎系",
+          "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨",
+          "鶏",
+          "魚介",
+          "節"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚",
+          "背脂",
+          "にんにく"
         ]
       },
       "score": 43.2
@@ -17498,19 +19607,23 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺"
+          "つけ麺",
+          "まぜそば"
         ],
         "soup": [
           "醤油",
           "塩",
           "鶏",
-          "煮干し"
+          "魚介"
         ],
         "noodle": [
+          "中太麺",
           "自家製麺"
         ],
         "character": [
-          "清湯"
+          "あっさり",
+          "背脂",
+          "にんにく"
         ]
       },
       "score": 81.3,
@@ -17554,6 +19667,12 @@
           "醤油",
           "味噌",
           "豚骨"
+        ],
+        "noodle": [
+          "縮れ麺"
+        ],
+        "character": [
+          "こってり"
         ]
       },
       "score": 43.5
@@ -17595,10 +19714,15 @@
         "soup": [
           "醤油",
           "塩",
-          "味噌"
+          "味噌",
+          "鶏",
+          "野菜"
         ],
         "noodle": [
           "中太麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 43.5
@@ -17635,14 +19759,24 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺"
+          "中華そば",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
+          "醤油",
           "豚骨",
-          "魚介"
+          "魚介",
+          "煮干し",
+          "節",
+          "海老・蟹"
         ],
         "character": [
           "濃厚"
+        ],
+        "noodle": [
+          "太麺",
+          "縮れ麺"
         ]
       },
       "score": 67.5,
@@ -17688,8 +19822,7 @@
           "細麺"
         ],
         "character": [
-          "あっさり",
-          "白湯",
+          "濃厚",
           "背脂"
         ]
       },
@@ -17730,17 +19863,22 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "油そば"
+          "つけ麺"
         ],
         "soup": [
           "塩",
+          "鶏",
+          "煮干し",
           "節",
           "味噌",
-          "煮干し",
-          "魚介",
-          "鶏",
           "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       }
     },
@@ -17809,11 +19947,24 @@
       "placeId": "ChIJMc3uuRXPUTURh5h7zIwQbos",
       "tags": {
         "style": [
-          "家系"
+          "家系",
+          "二郎系",
+          "中華そば",
+          "つけ麺"
         ],
         "soup": [
           "醤油",
+          "塩",
           "豚骨"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺"
+        ],
+        "character": [
+          "濃厚",
+          "背脂",
+          "にんにく"
         ]
       },
       "score": 48.1,
@@ -17850,11 +20001,21 @@
       "placeId": "ChIJ_wqFrkHPUTUR21VN6k3uktw",
       "tags": {
         "style": [
-          "家系"
+          "家系",
+          "中華そば"
         ],
         "soup": [
           "醤油",
+          "塩",
           "豚骨"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺"
+        ],
+        "character": [
+          "濃厚",
+          "にんにく"
         ]
       },
       "score": 44.8,
@@ -17891,13 +20052,23 @@
       "placeId": "ChIJ3eOFHADPUTURzgorjAtZHi4",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "まぜそば"
         ],
         "soup": [
           "醤油",
           "塩",
           "味噌",
-          "魚介"
+          "魚介",
+          "貝",
+          "海老・蟹",
+          "カレー"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "濃厚"
         ]
       },
       "score": 44.1,
@@ -17970,10 +20141,18 @@
       "placeId": "ChIJS6XV-dfPUTURAhOITXOlaLI",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺",
+          "油そば"
         ],
         "soup": [
-          "醤油"
+          "醤油",
+          "豚骨",
+          "塩",
+          "味噌"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "x": "marugen_ramen_"
@@ -18009,11 +20188,17 @@
       "placeId": "ChIJxTwZOMbOUTURTIRz0qZcgkU",
       "tags": {
         "style": [
+          "ラーメン",
+          "ちゃんぽん",
           "冷やし"
         ],
         "soup": [],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -18051,12 +20236,13 @@
           "つけ麺"
         ],
         "soup": [
-          "醤油",
           "塩"
         ],
-        "noodle": [],
+        "noodle": [
+          "中太麺"
+        ],
         "character": [
-          "辛い"
+          "あっさり"
         ]
       }
     },
@@ -18093,9 +20279,14 @@
         "style": [
           "担々麺"
         ],
-        "soup": [],
+        "soup": [
+          "胡麻"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "辛い",
+          "痺れ"
+        ]
       }
     },
     {
@@ -18130,11 +20321,15 @@
       "tags": {
         "style": [
           "ラーメン",
-          "まぜそば"
+          "つけ麺",
+          "まぜそば",
+          "冷やし"
         ],
         "soup": [
-          "煮干し",
+          "醤油",
           "鶏白湯",
+          "魚介",
+          "煮干し",
           "海老・蟹"
         ],
         "noodle": [
@@ -18142,10 +20337,12 @@
           "太麺"
         ],
         "character": [
-          "清湯",
-          "背脂",
+          "あっさり",
+          "濃厚",
+          "白湯",
           "セメント系",
-          "辛い"
+          "辛い",
+          "にんにく"
         ]
       },
       "score": 66.2,
@@ -18254,7 +20451,7 @@
           "担々麺"
         ],
         "soup": [
-          "塩"
+          "醤油"
         ],
         "noodle": [],
         "character": [
@@ -18293,6 +20490,9 @@
         ],
         "character": [
           "辛い"
+        ],
+        "soup": [
+          "カレー"
         ]
       },
       "score": 45.2,
@@ -18333,6 +20533,13 @@
         ],
         "soup": [
           "豚骨"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       },
       "score": 48.5,
@@ -18403,11 +20610,21 @@
       "placeId": "ChIJlZb82dnIUTURTlj5jZo38RM",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "鶏",
+          "豚骨",
+          "醤油"
+        ],
+        "noodle": [
+          "中細麺",
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -18437,10 +20654,14 @@
       "placeId": "ChIJcwfPKi3JUTURUeDejrGb7vQ",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "ちゃんぽん",
+          "冷やし"
         ],
         "soup": [],
-        "noodle": [],
+        "noodle": [
+          "中細麺"
+        ],
         "character": []
       }
     },
@@ -18511,9 +20732,11 @@
       "placeId": "ChIJ66YNKczOUTURvC_02O69qBk",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [
+          "塩",
           "豚骨"
         ],
         "character": [
@@ -18581,7 +20804,25 @@
       "placeId": "ChIJewyucF_PUTURvIXnP2rames",
       "tags": {
         "style": [
-          "つけ麺"
+          "ラーメン",
+          "つけ麺",
+          "まぜそば"
+        ],
+        "soup": [
+          "醤油",
+          "塩",
+          "鶏",
+          "鶏白湯",
+          "魚介",
+          "節"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "濃厚",
+          "白湯",
+          "辛い"
         ]
       },
       "x": "hajime_nihama",
@@ -18621,15 +20862,22 @@
       "placeId": "ChIJTb6Bd-XOUTURMw1ZD2cFcWU",
       "tags": {
         "style": [
-          "ラーメン",
-          "担々麺"
+          "中華そば",
+          "担々麺",
+          "冷やし",
+          "つけ麺"
         ],
         "soup": [
+          "魚介",
           "鶏"
         ],
-        "noodle": [],
+        "noodle": [
+          "縮れ麺"
+        ],
         "character": [
-          "白湯"
+          "あっさり",
+          "白湯",
+          "辛い"
         ]
       }
     },
@@ -18662,8 +20910,12 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
         "character": []
       }
     },
@@ -18694,7 +20946,7 @@
       "placeId": "ChIJbbujkdLIUTURiXHmtkzWT6s",
       "tags": {
         "style": [
-          "中華そば"
+          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -18763,7 +21015,9 @@
       "placeId": "ChIJqUWkIZTOUTURTOqbeTdBqGU",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [],
         "noodle": [],
@@ -18805,7 +21059,8 @@
         ],
         "soup": [
           "醤油",
-          "節"
+          "豚骨",
+          "鶏"
         ]
       },
       "score": 42
@@ -18843,11 +21098,16 @@
       "placeId": "ChIJDS9LdN7OUTURg7EjDF2vxqc",
       "tags": {
         "soup": [
-          "鶏"
+          "鶏",
+          "野菜"
         ],
         "character": [
+          "あっさり",
           "こってり",
           "濃厚"
+        ],
+        "style": [
+          "ラーメン"
         ]
       },
       "x": "1971tenkaippin",
@@ -18888,6 +21148,10 @@
         ],
         "character": [
           "辛い"
+        ],
+        "soup": [
+          "醤油",
+          "カレー"
         ]
       },
       "score": 45.6,
@@ -18927,8 +21191,8 @@
       "tags": {
         "soup": [
           "味噌",
-          "塩",
           "醤油",
+          "塩",
           "カレー"
         ],
         "style": [
@@ -18996,7 +21260,19 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJD-7SjIHOUTURzJQb1teAth0"
+      "placeId": "ChIJD-7SjIHOUTURzJQb1teAth0",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "soup": [
+          "鶏",
+          "醤油"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJkYJ7MczOUTURBARA36NuIcI",
@@ -19026,7 +21302,15 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJkYJ7MczOUTURBARA36NuIcI"
+      "placeId": "ChIJkYJ7MczOUTURBARA36NuIcI",
+      "tags": {
+        "style": [
+          "中華そば"
+        ],
+        "noodle": [
+          "自家製麺"
+        ]
+      }
     },
     {
       "id": "g-ChIJTbcTDiDPUTUR89tyEd57XG0",
@@ -19060,10 +21344,23 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺"
+          "中華そば",
+          "つけ麺",
+          "まぜそば"
         ],
         "soup": [
+          "醤油",
+          "塩",
+          "鶏",
+          "魚介",
           "煮干し"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
         ]
       },
       "x": "hxduax4mo2ybbd8",
@@ -19105,11 +21402,16 @@
         ],
         "soup": [
           "醤油",
+          "味噌",
           "鶏"
         ],
         "character": [
           "こってり",
-          "背脂"
+          "背脂",
+          "辛い"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 38.8
@@ -19146,6 +21448,13 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "soup": [
+          "醤油",
+          "豚骨"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 43.9,
@@ -19220,13 +21529,10 @@
       "placeId": "ChIJia3X2ZAuUDURUAlPzoAtmUo",
       "tags": {
         "style": [
-          "中華そば",
-          "冷やし"
+          "中華そば"
         ],
         "soup": [
-          "豚骨",
-          "醤油",
-          "煮干し"
+          "醤油"
         ],
         "noodle": [],
         "character": [
@@ -19259,7 +21565,23 @@
         "google"
       ],
       "placeId": "ChIJz8xAsILSUTUR9baxkODGzf4",
-      "x": "gohandoki_chan"
+      "x": "gohandoki_chan",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "醤油",
+          "味噌",
+          "鶏",
+          "豚骨",
+          "魚介",
+          "煮干し"
+        ],
+        "character": [
+          "辛い"
+        ]
+      }
     },
     {
       "id": "g-ChIJZa1Zv9rSUTUR4_MtSsSg9AE",
@@ -19292,8 +21614,7 @@
         ],
         "soup": [
           "醤油",
-          "鶏",
-          "魚介"
+          "鶏"
         ],
         "noodle": [
           "細麺"
@@ -19338,7 +21659,15 @@
           "ラーメン"
         ],
         "soup": [
-          "味噌"
+          "醤油",
+          "味噌",
+          "塩"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 44.4,
@@ -19378,7 +21707,20 @@
           "ラーメン"
         ],
         "soup": [
-          "味噌"
+          "醤油",
+          "塩",
+          "味噌",
+          "豚骨",
+          "鶏",
+          "魚介",
+          "野菜"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 47.7,
@@ -19413,9 +21755,15 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -19445,8 +21793,7 @@
       "placeId": "ChIJhzmwNcgsUDURVufEFZnIv9Y",
       "tags": {
         "style": [
-          "中華そば",
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [
           "味噌"
@@ -19487,6 +21834,15 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "soup": [
+          "醤油"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 42.9
@@ -19557,13 +21913,14 @@
           "ラーメン"
         ],
         "soup": [
-          "醤油"
+          "醤油",
+          "煮干し"
         ],
         "noodle": [
-          "太麺"
+          "中細麺"
         ],
         "character": [
-          "辛い"
+          "あっさり"
         ]
       }
     },
@@ -19591,7 +21948,25 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJ580YFJstUDURUdYw5JiH16M"
+      "placeId": "ChIJ580YFJstUDURUdYw5JiH16M",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ],
+        "soup": [
+          "豚骨",
+          "醤油",
+          "鶏"
+        ],
+        "noodle": [
+          "細麺",
+          "中細麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
+        ]
+      }
     },
     {
       "id": "g-ChIJJ1UBofnTUTURF7KNzSmwTcw",
@@ -19704,6 +22079,9 @@
         ],
         "character": [
           "背脂"
+        ],
+        "noodle": [
+          "細麺"
         ]
       }
     },
@@ -19740,11 +22118,11 @@
       "placeId": "ChIJR6yc6_XNUTURYw42spmNEW4",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
-          "醤油",
-          "豚骨"
+          "味噌"
         ],
         "character": [
           "背脂"
@@ -19792,6 +22170,9 @@
         ],
         "character": [
           "背脂"
+        ],
+        "noodle": [
+          "中細麺"
         ]
       }
     },
@@ -19829,9 +22210,10 @@
           "ラーメン"
         ],
         "soup": [
-          "醤油",
-          "味噌",
           "豚骨"
+        ],
+        "noodle": [
+          "自家製麺"
         ]
       },
       "score": 46.2,
@@ -19911,7 +22293,8 @@
         ],
         "soup": [
           "醤油",
-          "塩"
+          "塩",
+          "鶏"
         ],
         "character": [
           "あっさり"
@@ -19958,7 +22341,12 @@
           "鶏"
         ],
         "character": [
-          "背脂"
+          "あっさり",
+          "背脂",
+          "にんにく"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 43.5
@@ -19994,7 +22382,8 @@
       "placeId": "ChIJtWL9h18rUDUR3ZMsdL-KQdY",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
           "醤油"
@@ -20031,7 +22420,12 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJsUw0WADTUTURiFNaiNO_C_Y"
+      "placeId": "ChIJsUw0WADTUTURiFNaiNO_C_Y",
+      "tags": {
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJQeriArYuUDUR-AAQK5YHPqo",
@@ -20064,7 +22458,20 @@
       "placeId": "ChIJQeriArYuUDUR-AAQK5YHPqo",
       "tags": {
         "soup": [
-          "醤油"
+          "醤油",
+          "鶏",
+          "鶏白湯",
+          "魚介",
+          "野菜"
+        ],
+        "style": [
+          "ラーメン",
+          "つけ麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚",
+          "白湯"
         ]
       },
       "score": 41.1
@@ -20103,7 +22510,16 @@
           "ラーメン"
         ],
         "soup": [
+          "塩",
+          "味噌",
           "豚骨"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "濃厚",
+          "辛い"
         ]
       },
       "score": 38.3
@@ -20135,12 +22551,16 @@
       "placeId": "ChIJ-ehk38ouUDURvq-Y8siT6go",
       "tags": {
         "style": [
-          "ラーメン",
           "担々麺",
           "冷やし"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "胡麻"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
         "character": [
           "辛い"
         ]
@@ -20176,7 +22596,14 @@
           "中華そば"
         ],
         "soup": [
+          "醤油",
           "鶏"
+        ],
+        "noodle": [
+          "中細麺"
+        ],
+        "character": [
+          "あっさり"
         ]
       },
       "score": 45.4,
@@ -20213,9 +22640,12 @@
       "placeId": "ChIJMzI74xAvUDURz2c252VolcA",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
         "character": []
       }
@@ -20253,10 +22683,19 @@
       "placeId": "ChIJsQ8u_XsvUDURs6IAtyfR4uk",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
+          "醤油",
           "豚骨"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       },
       "score": 51.9,
@@ -20399,8 +22838,7 @@
       "placeId": "ChIJjfxmEXIvUDURE8l3S_4_ZOY",
       "tags": {
         "style": [
-          "担々麺",
-          "ちゃんぽん"
+          "ラーメン"
         ],
         "soup": [
           "醤油",
@@ -20448,20 +22886,26 @@
           "ラーメン",
           "二郎系",
           "つけ麺",
-          "担々麺"
+          "担々麺",
+          "創作系"
         ],
         "soup": [
           "醤油",
           "塩",
           "味噌",
-          "豚骨",
           "鶏",
-          "鶏白湯",
+          "魚介",
           "煮干し",
-          "節"
+          "節",
+          "胡麻",
+          "カレー"
         ],
         "noodle": [
           "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "白湯"
         ]
       },
       "score": 53,
@@ -20571,6 +23015,16 @@
       "tags": {
         "style": [
           "中華そば"
+        ],
+        "soup": [
+          "魚介"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
         ]
       },
       "score": 66.6,
@@ -20607,9 +23061,7 @@
       "placeId": "ChIJjdzvsI7TUTURkE4LGnOF420",
       "tags": {
         "style": [
-          "ちゃんぽん",
-          "担々麺",
-          "中華そば"
+          "担々麺"
         ],
         "soup": [],
         "noodle": [],
@@ -20643,7 +23095,8 @@
       "placeId": "ChIJVVUFdVsuUDURFlFAdPvhH0Q",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -20716,12 +23169,13 @@
       "tags": {
         "soup": [
           "味噌",
-          "塩",
-          "醤油",
-          "カレー"
+          "塩"
         ],
         "style": [
           "ラーメン"
+        ],
+        "character": [
+          "あっさり"
         ]
       }
     },
@@ -20758,10 +23212,17 @@
         "soup": [
           "味噌",
           "塩",
-          "醤油"
+          "醤油",
+          "豚骨"
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "にんにく"
         ]
       }
     },
@@ -20796,16 +23257,15 @@
       "placeId": "ChIJD7BH98cpUDURWmISBDeGm2s",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
           "醤油"
         ],
         "noodle": [],
         "character": [
-          "辛い",
-          "にんにく",
-          "清湯"
+          "にんにく"
         ]
       }
     },
@@ -20840,12 +23300,13 @@
       "placeId": "ChIJV0LqgQUpUDURorvk7UMFzHQ",
       "tags": {
         "style": [
-          "中華そば",
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -20877,7 +23338,8 @@
       "placeId": "ChIJTciqBwDTUTUR_757IQTg0-Q",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
         ],
         "soup": [],
         "noodle": [],
@@ -20911,7 +23373,8 @@
       "placeId": "ChIJoWjc4pwuUDUR49ox_Ho3SOo",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -20948,7 +23411,16 @@
           "中華そば"
         ],
         "character": [
+          "あっさり",
           "清湯"
+        ],
+        "soup": [
+          "醤油",
+          "鶏",
+          "節"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 46,
@@ -20982,8 +23454,18 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "油そば"
+          "つけ麺"
+        ],
+        "soup": [
+          "鶏",
+          "魚介"
+        ],
+        "noodle": [
+          "細麺",
+          "太麺"
+        ],
+        "character": [
+          "濃厚"
         ]
       }
     },
@@ -21023,8 +23505,14 @@
           "ラーメン"
         ],
         "soup": [
-          "味噌",
-          "豚骨"
+          "味噌"
+        ],
+        "noodle": [
+          "中太麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "こってり"
         ]
       },
       "score": 41
@@ -21157,6 +23645,7 @@
           "ちゃんぽん"
         ],
         "soup": [
+          "豚骨",
           "魚介"
         ],
         "noodle": [],
@@ -21251,7 +23740,7 @@
       "placeId": "ChIJiwB8WgCPRTURdpbh1ZMwFiE",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [
           "塩",
@@ -21290,9 +23779,16 @@
         "style": [
           "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "魚介",
+          "醤油"
+        ],
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -21392,7 +23888,9 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "塩"
+        ],
         "noodle": [],
         "character": []
       }
@@ -21428,6 +23926,7 @@
       "placeId": "ChIJq4WiQuZ1TzURGUM7zFw67eQ",
       "tags": {
         "style": [
+          "ラーメン",
           "ちゃんぽん"
         ],
         "soup": [
@@ -21469,7 +23968,8 @@
       "placeId": "ChIJqa9E4EmHRTURLDXVDqMm07Q",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
         ],
         "soup": [],
         "noodle": [],
@@ -21506,8 +24006,7 @@
       "tags": {
         "style": [
           "ラーメン",
-          "ちゃんぽん",
-          "担々麺"
+          "ちゃんぽん"
         ],
         "soup": [
           "野菜",
@@ -21551,7 +24050,9 @@
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "痺れ"
+        ]
       }
     },
     {
@@ -21618,7 +24119,9 @@
         "style": [
           "ラーメン"
         ],
-        "soup": [],
+        "soup": [
+          "塩"
+        ],
         "noodle": [],
         "character": []
       }
@@ -21659,15 +24162,15 @@
           "まぜそば"
         ],
         "noodle": [
-          "太麺"
+          "中太麺",
+          "縮れ麺"
         ],
         "character": [
           "濃厚",
-          "辛い"
+          "辛い",
+          "にんにく"
         ],
         "soup": [
-          "煮干し",
-          "豚骨",
           "カレー"
         ]
       }
@@ -21704,17 +24207,26 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺"
+          "つけ麺",
+          "中華そば"
         ],
         "soup": [
           "味噌",
           "豚骨",
           "鶏",
-          "魚介"
+          "魚介",
+          "煮干し"
         ],
         "character": [
           "濃厚",
-          "辛い"
+          "辛い",
+          "にんにく",
+          "あっさり"
+        ],
+        "noodle": [
+          "細麺",
+          "中太麺",
+          "縮れ麺"
         ]
       },
       "score": 47.2,
@@ -21749,9 +24261,15 @@
         "style": [
           "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "鶏"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -21781,9 +24299,11 @@
       "placeId": "ChIJaSX2rTKBTzURZHmmLB_x1vE",
       "tags": {
         "style": [
-          "ラーメン"
+          "担々麺"
         ],
-        "soup": [],
+        "soup": [
+          "胡麻"
+        ],
         "noodle": [],
         "character": []
       }
@@ -21817,9 +24337,15 @@
         "style": [
           "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "魚介"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -21854,19 +24380,24 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺"
+          "つけ麺",
+          "まぜそば"
         ],
         "soup": [
-          "豚骨",
+          "鶏",
           "鶏白湯",
-          "魚介"
+          "魚介",
+          "塩"
         ],
         "noodle": [
           "太麺",
+          "中細麺",
           "自家製麺"
         ],
         "character": [
-          "濃厚"
+          "濃厚",
+          "こってり",
+          "白湯"
         ]
       },
       "score": 63.9,
@@ -21901,7 +24432,10 @@
         "style": [
           "中華そば"
         ],
-        "soup": [],
+        "soup": [
+          "醤油",
+          "魚介"
+        ],
         "noodle": [],
         "character": []
       }
@@ -22009,8 +24543,7 @@
         ],
         "soup": [
           "醤油",
-          "味噌",
-          "魚介"
+          "味噌"
         ]
       },
       "score": 44.5,
@@ -22043,13 +24576,19 @@
       "placeId": "ChIJGw4gjb-ATzURSBgVUZ5DrzM",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺"
         ],
         "soup": [
-          "豚骨"
+          "豚骨",
+          "醤油",
+          "味噌"
         ],
         "character": [
           "あっさり"
+        ],
+        "noodle": [
+          "細麺"
         ]
       },
       "score": 42.1
@@ -22082,7 +24621,12 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJs50038CATzURc-vqlga9y0o"
+      "placeId": "ChIJs50038CATzURc-vqlga9y0o",
+      "tags": {
+        "style": [
+          "ラーメン"
+        ]
+      }
     },
     {
       "id": "osm-w607355673",
@@ -22116,7 +24660,7 @@
           "ラーメン"
         ],
         "soup": [
-          "醤油",
+          "味噌",
           "豚骨"
         ],
         "character": [
@@ -22163,6 +24707,9 @@
         ],
         "noodle": [
           "細麺"
+        ],
+        "character": [
+          "白湯"
         ]
       },
       "score": 45.1,
@@ -22200,17 +24747,22 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "油そば"
+          "つけ麺"
         ],
         "soup": [
           "塩",
+          "鶏",
+          "煮干し",
           "節",
           "味噌",
-          "煮干し",
-          "魚介",
-          "鶏",
           "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       }
     },
@@ -22311,10 +24863,10 @@
           "ラーメン"
         ],
         "soup": [
-          "貝"
+          "醤油"
         ],
         "noodle": [
-          "細麺"
+          "中細麺"
         ],
         "character": [
           "あっさり"
@@ -22421,13 +24973,14 @@
           "中華そば"
         ],
         "soup": [
-          "醤油",
-          "野菜"
+          "醤油"
         ],
         "noodle": [
           "太麺"
         ],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -22462,7 +25015,8 @@
       "tags": {
         "style": [
           "ラーメン",
-          "ちゃんぽん"
+          "ちゃんぽん",
+          "つけ麺"
         ],
         "soup": [
           "味噌"
@@ -22501,7 +25055,9 @@
           "中華そば"
         ],
         "soup": [],
-        "noodle": [],
+        "noodle": [
+          "中太麺"
+        ],
         "character": []
       }
     },
@@ -22532,9 +25088,7 @@
       "placeId": "ChIJf1IRzB19RTURrmxLEL5-DSY",
       "tags": {
         "style": [
-          "中華そば",
-          "ラーメン",
-          "冷やし"
+          "中華そば"
         ],
         "soup": [
           "味噌"
@@ -22572,8 +25126,7 @@
       "placeId": "ChIJ22k9W8WBTzURnLK7MvmX7fs",
       "tags": {
         "style": [
-          "ラーメン",
-          "担々麺"
+          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -22613,12 +25166,12 @@
       "placeId": "ChIJK39Wir-ATzURqWB6CIkXA_I",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "担々麺",
+          "冷やし"
         ],
         "soup": [
-          "醤油",
-          "味噌",
-          "豚骨"
+          "味噌"
         ]
       },
       "x": "osaka_ohsho"
@@ -22654,8 +25207,7 @@
       "placeId": "ChIJjY8jXNl_RTURhiY2z6hQALA",
       "tags": {
         "style": [
-          "油そば",
-          "ちゃんぽん"
+          "油そば"
         ],
         "soup": [],
         "noodle": [],
@@ -22693,8 +25245,7 @@
       "placeId": "ChIJNUp68NN_RTURJf9o2TWW0o0",
       "tags": {
         "style": [
-          "中華そば",
-          "ちゃんぽん"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -22730,8 +25281,7 @@
       "placeId": "ChIJmQmqleCATzURmCvJRPcNJDc",
       "tags": {
         "style": [
-          "ちゃんぽん",
-          "中華そば"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -22769,13 +25319,13 @@
       "placeId": "ChIJYz49njKARTURWyjDNyEz_SY",
       "tags": {
         "soup": [
-          "味噌",
-          "塩",
-          "醤油",
-          "カレー"
+          "味噌"
         ],
         "style": [
           "ラーメン"
+        ],
+        "noodle": [
+          "細麺"
         ]
       }
     },
@@ -22811,16 +25361,13 @@
         ],
         "soup": [
           "胡麻",
-          "鶏",
           "味噌",
           "豚骨"
         ],
         "noodle": [
-          "細麺",
           "中太麺"
         ],
         "character": [
-          "濃厚",
           "辛い"
         ]
       }
@@ -22859,13 +25406,19 @@
           "豚骨"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "ちゃんぽん",
+          "まぜそば",
+          "冷やし"
         ],
         "noodle": [
-          "細麺"
+          "細麺",
+          "自家製麺"
         ],
         "character": [
-          "濃厚"
+          "濃厚",
+          "辛い",
+          "あっさり"
         ]
       },
       "score": 47.7,
@@ -22899,6 +25452,21 @@
       "tags": {
         "soup": [
           "豚骨"
+        ],
+        "style": [
+          "ラーメン",
+          "ちゃんぽん",
+          "まぜそば",
+          "冷やし"
+        ],
+        "noodle": [
+          "細麺",
+          "自家製麺"
+        ],
+        "character": [
+          "濃厚",
+          "辛い",
+          "あっさり"
         ]
       },
       "score": 48.4,
@@ -22935,10 +25503,22 @@
       "placeId": "ChIJSYlOkdV_RTUR33H7u03NAlE",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
         ],
         "soup": [
-          "味噌"
+          "醤油",
+          "味噌",
+          "鶏",
+          "野菜"
+        ],
+        "noodle": [
+          "中細麺",
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
         ]
       },
       "score": 55.2,
@@ -23009,10 +25589,11 @@
       "placeId": "ChIJIRdBh5F_RTURoR0oh5ZGGAk",
       "tags": {
         "style": [
-          "中華そば",
-          "ラーメン"
+          "中華そば"
         ],
-        "soup": [],
+        "soup": [
+          "醤油"
+        ],
         "noodle": [],
         "character": []
       }
@@ -23048,7 +25629,24 @@
       "placeId": "ChIJOSTE7DKBTzUReLA_54H3Bvc",
       "tags": {
         "soup": [
-          "醤油"
+          "醤油",
+          "魚介",
+          "煮干し",
+          "節",
+          "味噌",
+          "カレー"
+        ],
+        "style": [
+          "ラーメン",
+          "つけ麺",
+          "油そば"
+        ],
+        "noodle": [
+          "太麺",
+          "自家製麺"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "score": 43
@@ -23084,6 +25682,13 @@
         ],
         "soup": [
           "味噌"
+        ],
+        "noodle": [
+          "中細麺",
+          "縮れ麺"
+        ],
+        "character": [
+          "辛い"
         ]
       },
       "score": 43.7,
@@ -23119,10 +25724,11 @@
           "中華そば"
         ],
         "soup": [
-          "鶏",
           "野菜"
         ],
-        "noodle": [],
+        "noodle": [
+          "中細麺"
+        ],
         "character": []
       }
     },
@@ -23157,12 +25763,18 @@
       "placeId": "ChIJq-FrCCvpTzUR7Uw1uaR1W6M",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
-          "豚骨"
+          "豚骨",
+          "醤油",
+          "味噌",
+          "魚介"
         ],
         "noodle": [
+          "細麺",
+          "太麺",
           "自家製麺"
         ],
         "character": [
@@ -23210,7 +25822,12 @@
           "豚骨"
         ],
         "noodle": [
-          "細麺"
+          "細麺",
+          "自家製麺"
+        ],
+        "character": [
+          "濃厚",
+          "にんにく"
         ]
       },
       "score": 73.5,
@@ -23240,7 +25857,17 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJwUbQ5CzpTzURCwlsVnyQIc0"
+      "placeId": "ChIJwUbQ5CzpTzURCwlsVnyQIc0",
+      "tags": {
+        "style": [
+          "中華そば",
+          "ラーメン",
+          "冷やし"
+        ],
+        "soup": [
+          "塩"
+        ]
+      }
     },
     {
       "id": "g-ChIJq6quRkjpTzURngn2S4FUNz4",
@@ -23271,7 +25898,11 @@
       "tags": {
         "style": [
           "ラーメン",
-          "担々麺"
+          "担々麺",
+          "冷やし"
+        ],
+        "soup": [
+          "塩"
         ]
       }
     },
@@ -23308,12 +25939,14 @@
       "placeId": "ChIJlVtRgDPpTzURtJIeDfwuRfY",
       "tags": {
         "soup": [
-          "味噌",
-          "塩",
-          "醤油"
+          "味噌"
         ],
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "冷やし"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       }
     },
@@ -23351,7 +25984,9 @@
           "中華そば"
         ],
         "soup": [],
-        "noodle": [],
+        "noodle": [
+          "細麺"
+        ],
         "character": []
       }
     },
@@ -23540,7 +26175,10 @@
           "豚骨"
         ],
         "character": [
-          "背脂"
+          "あっさり"
+        ],
+        "noodle": [
+          "細麺"
         ]
       }
     },
@@ -23577,14 +26215,17 @@
       "placeId": "ChIJF3Tc_JnbTzURcnURuXtJw5U",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "つけ麺"
         ],
         "soup": [
-          "醤油",
-          "豚骨"
+          "味噌"
         ],
         "character": [
-          "背脂"
+          "あっさり"
+        ],
+        "noodle": [
+          "細麺"
         ]
       }
     },
@@ -23620,17 +26261,22 @@
       "tags": {
         "style": [
           "ラーメン",
-          "つけ麺",
-          "油そば"
+          "つけ麺"
         ],
         "soup": [
           "塩",
+          "鶏",
+          "煮干し",
           "節",
           "味噌",
-          "煮干し",
-          "魚介",
-          "鶏",
           "柑橘"
+        ],
+        "noodle": [
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚"
         ]
       }
     },
@@ -23659,7 +26305,19 @@
         "google"
       ],
       "placeId": "ChIJp8SRbHroTzURRUEMntgTn1w",
-      "x": "ringerhut_jp"
+      "x": "ringerhut_jp",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "魚介"
+        ],
+        "noodle": [
+          "太麺",
+          "縮れ麺"
+        ]
+      }
     },
     {
       "id": "g-ChIJNzHA1fjnTzURzcDfVmfOPVE",
@@ -23688,9 +26346,13 @@
       "placeId": "ChIJNzHA1fjnTzURzcDfVmfOPVE",
       "tags": {
         "style": [
-          "ラーメン"
+          "中華そば",
+          "冷やし"
         ],
-        "soup": [],
+        "soup": [
+          "鶏",
+          "節"
+        ],
         "noodle": [],
         "character": []
       }
@@ -23727,18 +26389,17 @@
       "tags": {
         "style": [
           "家系",
-          "中華そば",
           "二郎系"
         ],
         "soup": [
           "醤油",
-          "豚骨",
-          "味噌",
-          "魚介",
-          "塩"
+          "豚骨"
         ],
         "character": [
           "濃厚"
+        ],
+        "noodle": [
+          "中太麺"
         ]
       },
       "score": 44,
@@ -23771,8 +26432,7 @@
       "placeId": "ChIJb_KLBxPdTzUR2E0UvrBez3Y",
       "tags": {
         "style": [
-          "中華そば",
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -23880,8 +26540,7 @@
       "placeId": "ChIJoSFKhEjdTzURmAaPA6C4uoQ",
       "tags": {
         "style": [
-          "ラーメン",
-          "冷やし"
+          "ラーメン"
         ],
         "soup": [],
         "noodle": [],
@@ -23919,7 +26578,26 @@
       "placeId": "ChIJpUMsrXHoTzURuJbGNhGpqMY",
       "tags": {
         "style": [
-          "中華そば"
+          "中華そば",
+          "担々麺",
+          "冷やし"
+        ],
+        "soup": [
+          "醤油",
+          "鶏",
+          "魚介",
+          "節",
+          "煮干し",
+          "味噌"
+        ],
+        "noodle": [
+          "縮れ麺",
+          "自家製麺"
+        ],
+        "character": [
+          "あっさり",
+          "濃厚",
+          "清湯"
         ]
       },
       "score": 64.2,
@@ -23990,15 +26668,20 @@
       "placeId": "ChIJkWsv9QroTzURfIOFoqN6CfU",
       "tags": {
         "style": [
-          "ラーメン"
+          "ラーメン",
+          "辛麺",
+          "冷やし"
         ],
         "soup": [
           "醤油",
-          "鶏"
+          "鶏",
+          "味噌",
+          "塩"
         ],
         "character": [
           "こってり",
-          "背脂"
+          "背脂",
+          "辛い"
         ]
       },
       "x": "rairaitei_toon",
@@ -24103,8 +26786,7 @@
       "placeId": "ChIJYXQKT7GFTzURJCgrN73z5NY",
       "tags": {
         "style": [
-          "中華そば",
-          "ラーメン"
+          "中華そば"
         ],
         "soup": [],
         "noodle": [],
@@ -24138,9 +26820,11 @@
       "placeId": "ChIJBcdlA0uETzUR-yvFdvobPJk",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "野菜"
+        ],
         "noodle": [],
         "character": []
       }
@@ -24206,6 +26890,7 @@
       "placeId": "ChIJWYObQLGFTzURH9gkfX8gZxE",
       "tags": {
         "style": [
+          "中華そば",
           "ちゃんぽん"
         ],
         "soup": [],
@@ -24246,6 +26931,19 @@
         "style": [
           "中華そば",
           "ちゃんぽん"
+        ],
+        "soup": [
+          "醤油",
+          "鶏",
+          "魚介",
+          "煮干し",
+          "野菜"
+        ],
+        "noodle": [
+          "細麺"
+        ],
+        "character": [
+          "清湯"
         ]
       },
       "score": 53.7,
@@ -24313,7 +27011,23 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJLwXTz4KERTUR9EUKA1Nye1E"
+      "placeId": "ChIJLwXTz4KERTUR9EUKA1Nye1E",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "鶏",
+          "醤油"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
+        ]
+      }
     },
     {
       "id": "osm-n7023076989",
@@ -24348,11 +27062,14 @@
       "placeId": "ChIJozM6-5uERTURcEb6K8t3JYU",
       "tags": {
         "style": [
-          "ちゃんぽん",
-          "ラーメン"
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
+        "soup": [
+          "鶏"
+        ],
+        "noodle": [
+          "太麺"
+        ],
         "character": []
       }
     },
@@ -24386,7 +27103,12 @@
           "ラーメン"
         ],
         "soup": [
-          "味噌"
+          "味噌",
+          "醤油",
+          "カレー"
+        ],
+        "noodle": [
+          "縮れ麺"
         ]
       },
       "score": 40.6
@@ -24455,9 +27177,17 @@
       "placeId": "ChIJS13HuAqFRTURC43Xj8Gf5-Y",
       "tags": {
         "style": [
-          "ちゃんぽん"
+          "ちゃんぽん",
+          "冷やし",
+          "つけ麺"
         ],
-        "soup": [],
+        "soup": [
+          "鶏",
+          "節",
+          "魚介",
+          "野菜",
+          "味噌"
+        ],
         "noodle": [],
         "character": []
       }
@@ -24497,10 +27227,16 @@
         ],
         "soup": [
           "鶏",
-          "魚介"
+          "節",
+          "煮干し"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり",
+          "清湯"
+        ]
       }
     },
     {
@@ -24530,7 +27266,7 @@
       "placeId": "ChIJd6zNqISERTUR3l_v2x3_eI0",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
         "soup": [],
         "noodle": [],
@@ -24566,9 +27302,15 @@
         "style": [
           "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "鶏"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -24595,7 +27337,16 @@
       "sources": [
         "google"
       ],
-      "placeId": "ChIJgVOhPIGERTURxWUzqRBrgUU"
+      "placeId": "ChIJgVOhPIGERTURxWUzqRBrgUU",
+      "tags": {
+        "style": [
+          "担々麺",
+          "冷やし"
+        ],
+        "noodle": [
+          "自家製麺"
+        ]
+      }
     },
     {
       "id": "osm-n7023212929",
@@ -24633,13 +27384,15 @@
           "ちゃんぽん"
         ],
         "soup": [
-          "鶏"
+          "鶏",
+          "醤油"
         ],
         "noodle": [
-          "太麺"
+          "中太麺"
         ],
         "character": [
-          "あっさり"
+          "あっさり",
+          "清湯"
         ]
       },
       "score": 58.8,
@@ -24670,7 +27423,9 @@
         "style": [
           "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "魚介"
+        ],
         "noodle": [],
         "character": []
       }
@@ -24705,8 +27460,7 @@
           "ちゃんぽん"
         ],
         "soup": [
-          "鯛・鮮魚",
-          "魚介"
+          "鯛・鮮魚"
         ],
         "noodle": [],
         "character": []
@@ -24739,11 +27493,20 @@
       "placeId": "ChIJyxr2GHuDRTURrOu-8a7XMk4",
       "tags": {
         "style": [
-          "ラーメン"
+          "ちゃんぽん"
         ],
-        "soup": [],
-        "noodle": [],
-        "character": []
+        "soup": [
+          "醤油",
+          "鶏",
+          "節",
+          "野菜"
+        ],
+        "noodle": [
+          "中太麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -24780,11 +27543,14 @@
           "ちゃんぽん"
         ],
         "soup": [
-          "醤油",
-          "魚介"
+          "鶏",
+          "節",
+          "醤油"
         ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -24849,7 +27615,19 @@
         "osm",
         "google"
       ],
-      "placeId": "ChIJj27tBZmERTUR6bOYy2Ddcps"
+      "placeId": "ChIJj27tBZmERTUR6bOYy2Ddcps",
+      "tags": {
+        "style": [
+          "ちゃんぽん"
+        ],
+        "soup": [
+          "鶏",
+          "節"
+        ],
+        "character": [
+          "あっさり"
+        ]
+      }
     },
     {
       "id": "g-ChIJsRCJmIOERTURmbcxXk3pIT8",
@@ -24920,7 +27698,9 @@
         ],
         "soup": [],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -25065,8 +27845,12 @@
         "soup": [
           "鶏"
         ],
-        "noodle": [],
-        "character": []
+        "noodle": [
+          "太麺"
+        ],
+        "character": [
+          "あっさり"
+        ]
       }
     },
     {
@@ -25096,7 +27880,6 @@
       "placeId": "ChIJNWeueYOERTURmsctYOdCEc4",
       "tags": {
         "style": [
-          "ラーメン",
           "ちゃんぽん"
         ],
         "soup": [
@@ -25237,9 +28020,15 @@
         "style": [
           "ちゃんぽん"
         ],
-        "soup": [],
+        "soup": [
+          "豚骨",
+          "節"
+        ],
         "noodle": [],
-        "character": []
+        "character": [
+          "あっさり",
+          "こってり"
+        ]
       }
     }
   ]

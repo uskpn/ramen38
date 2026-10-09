@@ -14,6 +14,12 @@ try {
   const [, ...rows] = parseCsv((await readFile(path.join(ROOT, 'data', 'hours-sources.csv'), 'utf8')).replace(/^\uFEFF/, ''));
   for (const r of rows) src.set(r[0], r);
 } catch { /* まだ無い */ }
+// タグ調査のメモ（data/tag-notes.csv）→「備考」列
+const notes = new Map();
+try {
+  const [, ...rows] = parseCsv((await readFile(path.join(ROOT, 'data', 'tag-notes.csv'), 'utf8')).replace(/^\uFEFF/, ''));
+  for (const r of rows) notes.set(r[0], r[2]);
+} catch { /* まだ無い */ }
 const ORDER = Object.keys(CATEGORY_LABEL);
 
 const shops = [...db.shops].sort((a, b) =>
@@ -28,7 +34,7 @@ for (const s of shops) {
     s.hours, s.phone, s.website, s.instagram, s.x,
     tb?.score, tb?.count, tb?.url, rd?.score, rd?.count, rd?.url,
     ...TAG_KEYS.map((k) => (s.tags?.[k] || []).join('｜')),
-    '', '', s.lat, s.lng,
+    '', notes.get(s.id), s.lat, s.lng,
     src.get(s.id)?.[2], src.get(s.id)?.[3], src.get(s.id)?.[4],
   ];
   lines.push(row.map(csvEscape).join(','));

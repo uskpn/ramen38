@@ -58,6 +58,14 @@ try {
   for (const r of rows) hoursSrc.set(r[col.id], { name: r[col['店名']] ?? '', url: r[col['出典URL']] ?? '', date: r[col['確認日']] ?? '', status: r[col['確認状況']] ?? '' });
 } catch { /* まだ無い */ }
 
+// タグ調査のメモ（備考）。公開しない（data/tag-notes.csv）
+const notesPath = path.join(ROOT, 'data', 'tag-notes.csv');
+const tagNotes = new Map();
+try {
+  const { col, rows } = await readCsv(notesPath);
+  for (const r of rows) tagNotes.set(r[col.id], r[col['備考']] ?? '');
+} catch { /* まだ無い */ }
+
 // base（元のCSV）
 const base = new Map();
 if (baseFile) {
@@ -184,13 +192,15 @@ for (const file of files) {
     const reason = status ? REMOVE_REASON[status] : NO_RAMEN.has(ramenCell) ? 'ラーメンなし' : null;
     if (status && !reason) { warn(`${shop.name}: 状態「${status}」は 閉業/ラーメンなし/出前のみ/重複/削除 のどれかで`); continue; }
     if (reason) {
-      db.shops.splice(db.shops.indexOf(shop), 1); byId.delete(id); hoursSrc.delete(id);
+      db.shops.splice(db.shops.indexOf(shop), 1); byId.delete(id); hoursSrc.delete(id); tagNotes.delete(id);
       removedDb.removed.push({ id: shop.id, name: shop.name, city: shop.city ?? null, placeId: shop.placeId ?? null, osmId: shop.osmId ?? null, reason });
       log.removed++;
       console.log(`－ 削除: ${shop.name}（${reason}）`); report.push(`－ 削除: ${shop.name}（${reason}）`);
       continue;
     }
     const changed = applyRow(shop, get);
+    const noteCell = get('備考'); // 空欄・変更なしは何もしない。「-」で消す
+    if (noteCell) { if (noteCell === DEL) tagNotes.delete(id); else tagNotes.set(id, noteCell); }
     // 営業時間の出典・確認状況
     const s0 = hoursSrc.get(id) ?? { name: '', url: '', date: '', status: '' };
     const s1 = { name: shop.name, url: get('営業時間出典URL') || s0.url, date: get('営業時間確認日') || s0.date, status: get('営業時間確認状況') || s0.status };
@@ -209,6 +219,9 @@ if (dry) {
   const lines = [['id', '店名', '出典URL', '確認日', '確認状況'].join(',')];
   for (const [id, v] of [...hoursSrc.entries()].filter(([id]) => byId.has(id)).sort((a, b) => a[0].localeCompare(b[0]))) lines.push([id, byId.get(id).name, v.url, v.date, v.status].map(csvEscape).join(','));
   await writeFile(srcPath, '﻿' + lines.join('\r\n') + '\r\n');
+  const nl = [['id', '店名', '備考'].join(',')];
+  for (const [id, v] of [...tagNotes.entries()].filter(([id, v]) => byId.has(id) && v).sort((a, b) => a[0].localeCompare(b[0]))) nl.push([id, byId.get(id).name, v].map(csvEscape).join(','));
+  await writeFile(notesPath, '﻿' + nl.join('\r\n') + '\r\n');
   spawnSync('node', ['scripts/import-tags.mjs', '--template'], { cwd: ROOT, stdio: 'ignore' }); // data/tags.csv を最新に
   console.log(`\n更新 ${log.changed} / 追加 ${log.added} / 削除 ${log.removed} / 警告 ${log.warn}`);
 }
