@@ -2678,6 +2678,30 @@
       "placeId": "ChIJs50038CATzURc-vqlga9y0o",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJBSok_obyTzURI9SvHgPs0mU",
+      "name": "味芳",
+      "city": "伊予市",
+      "placeId": "ChIJBSok_obyTzURI9SvHgPs0mU",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJr65_RxGVUTURhe-UOBcZ_1I",
+      "name": "とりや",
+      "city": "四国中央市",
+      "placeId": "ChIJr65_RxGVUTURhe-UOBcZ_1I",
+      "osmId": null,
+      "reason": "ラーメンなし"
+    },
+    {
+      "id": "g-ChIJMS_v2MksUDURSiXiGJlaThI",
+      "name": "竹ばやし",
+      "city": "西条市",
+      "placeId": "ChIJMS_v2MksUDURSiXiGJlaThI",
+      "osmId": null,
+      "reason": "ラーメンなし"
     }
   ]
 }

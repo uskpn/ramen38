@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:35:48.046Z",
+  "updatedAt": "2026-10-09T10:58:45.824Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -1113,40 +1113,6 @@
         "character": [
           "にんにく"
         ]
-      }
-    },
-    {
-      "id": "g-ChIJBSok_obyTzURI9SvHgPs0mU",
-      "name": "味芳",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.7463896,
-      "lng": 132.7004885,
-      "city": "伊予市",
-      "address": "〒799-3122 愛媛県伊予市市場１３２−３",
-      "hours": "火〜金 11:30〜14:00、18:00〜22:00 / 土・日 11:30〜14:00、17:30〜22:00 / 定休：月",
-      "phone": "089-983-5653",
-      "website": null,
-      "instagram": "ajiyosi1414",
-      "ratings": {
-        "tabelog": {
-          "score": 3.34,
-          "count": 55,
-          "url": "https://tabelog.com/ehime/A3801/A380103/38000744/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJBSok_obyTzURI9SvHgPs0mU",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
       }
     },
     {
@@ -7487,40 +7453,6 @@
         ]
       },
       "score": 43.4
-    },
-    {
-      "id": "g-ChIJr65_RxGVUTURhe-UOBcZ_1I",
-      "name": "とりや",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.9680497,
-      "lng": 133.50899859999998,
-      "city": "四国中央市",
-      "address": "〒799-0431 愛媛県四国中央市寒川町２７０４−１",
-      "hours": "17:00〜22:00",
-      "phone": "0896-25-2283",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.03,
-          "count": 3,
-          "url": "https://tabelog.com/ehime/A3802/A380204/38006325/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJr65_RxGVUTURhe-UOBcZ_1I",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "g-ChIJx5hKmE6RUTURjZYKCg3dUFU",
@@ -22707,40 +22639,6 @@
       },
       "score": 53,
       "rank": 62
-    },
-    {
-      "id": "g-ChIJMS_v2MksUDURSiXiGJlaThI",
-      "name": "竹ばやし",
-      "category": "restaurant",
-      "ramen": "menu",
-      "lat": 33.89416,
-      "lng": 133.16842409999998,
-      "city": "西条市",
-      "address": "〒793-0053 愛媛県西条市洲之内甲９６９",
-      "hours": "11:30〜14:00 / 定休：月〜木",
-      "phone": "0897-56-8089",
-      "website": null,
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.59,
-          "count": 54,
-          "url": "https://tabelog.com/ehime/A3802/A380202/38008340/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJMS_v2MksUDURSiXiGJlaThI",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "g-ChIJ-UihH3DSUTUR524eZfSQ2n8",
