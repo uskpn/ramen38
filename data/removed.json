@@ -2590,6 +2590,30 @@
       "placeId": "ChIJE1OTTc7PUTURBkZoHVNr5sg",
       "osmId": null,
       "reason": "ラーメンなし"
+    },
+    {
+      "id": "osm-n4716843160",
+      "name": "ぎやまん亭",
+      "city": "今治市",
+      "placeId": "ChIJAa9X43s6UDURoAf-NV4XqiI",
+      "osmId": "node/4716843160",
+      "reason": "閉業"
+    },
+    {
+      "id": "osm-w806278288",
+      "name": "シルクロード",
+      "city": "今治市",
+      "placeId": "ChIJD1J_q2UwUDURUqtRjNKWRPk",
+      "osmId": "way/806278288",
+      "reason": "閉業"
+    },
+    {
+      "id": "g-ChIJGXp5Rv6VUTURUu7NhtDcJ64",
+      "name": "豚虎ラーメン",
+      "city": "四国中央市",
+      "placeId": "ChIJGXp5Rv6VUTURUu7NhtDcJ64",
+      "osmId": null,
+      "reason": "閉業"
     }
   ]
 }

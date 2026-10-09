@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T06:08:50.747Z",
+  "updatedAt": "2026-10-09T06:55:09.997Z",
   "shops": [
     {
       "id": "g-ChIJFZK6QJf5RTURgYxur-9QLZ8",
@@ -859,7 +859,7 @@
       "hours": "11:00〜16:00 / 定休：第2・4水",
       "phone": "080-6379-9050",
       "website": null,
-      "instagram": "cafe.fuku",
+      "instagram": null,
       "ratings": {
         "tabelog": {
           "score": 3.03,
@@ -3404,49 +3404,6 @@
       "rank": 171
     },
     {
-      "id": "osm-n4716843160",
-      "name": "ぎやまん亭",
-      "category": "chinese",
-      "ramen": "menu",
-      "lat": 34.056758,
-      "lng": 133.0143366,
-      "city": "今治市",
-      "address": "〒794-0803 愛媛県今治市北鳥生町１丁目３−３５",
-      "hours": "11:00〜23:00",
-      "phone": "0898-22-1681",
-      "website": null,
-      "osmId": "node/4716843160",
-      "instagram": null,
-      "ratings": {
-        "tabelog": {
-          "score": 3.07,
-          "count": 16,
-          "url": "https://tabelog.com/ehime/A3802/A380201/38000102/"
-        },
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJAa9X43s6UDURoAf-NV4XqiI",
-      "tags": {
-        "style": [
-          "ラーメン",
-          "冷やし"
-        ],
-        "soup": [
-          "豚骨"
-        ],
-        "noodle": [
-          "中細麺"
-        ],
-        "character": [
-          "あっさり"
-        ]
-      }
-    },
-    {
       "id": "g-ChIJX69e5mc6UDURkIgCO9w1TPk",
       "name": "こきんや",
       "category": "restaurant",
@@ -3588,40 +3545,6 @@
       },
       "score": 75.3,
       "rank": 11
-    },
-    {
-      "id": "osm-w806278288",
-      "name": "シルクロード",
-      "category": "chinese",
-      "ramen": "menu",
-      "lat": 34.0370706,
-      "lng": 133.031872,
-      "city": "今治市",
-      "address": "〒799-1507 愛媛県今治市東村南１丁目１０−１１",
-      "hours": "11:30〜14:00、17:30〜20:30",
-      "phone": "0898-47-4899",
-      "website": null,
-      "osmId": "way/806278288",
-      "instagram": "jin_you_1224",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "osm",
-        "google"
-      ],
-      "placeId": "ChIJD1J_q2UwUDURUqtRjNKWRPk",
-      "tags": {
-        "style": [
-          "ラーメン"
-        ],
-        "soup": [
-          "醤油"
-        ],
-        "noodle": [],
-        "character": []
-      }
     },
     {
       "id": "rdb-168235",
@@ -6025,11 +5948,13 @@
           "冷やし"
         ],
         "soup": [
-          "醤油"
+          "醤油",
+          "味噌"
         ],
         "noodle": [],
         "character": [
-          "あっさり"
+          "あっさり",
+          "辛い"
         ]
       }
     },
@@ -8781,49 +8706,6 @@
       },
       "score": 44.4,
       "rank": 169
-    },
-    {
-      "id": "g-ChIJGXp5Rv6VUTURUu7NhtDcJ64",
-      "name": "豚虎ラーメン",
-      "category": "ramen",
-      "ramen": "specialty",
-      "lat": 33.9776178,
-      "lng": 133.5334842,
-      "city": "四国中央市",
-      "address": "〒799-0422 愛媛県四国中央市中之庄町４６５−６",
-      "hours": "11:00〜15:00、17:00〜21:30 / 、(売切次第終了)",
-      "phone": "0896-49-0249",
-      "website": null,
-      "instagram": "butatora.ramen",
-      "ratings": {
-        "tabelog": null,
-        "rdb": null
-      },
-      "sources": [
-        "google"
-      ],
-      "placeId": "ChIJGXp5Rv6VUTURUu7NhtDcJ64",
-      "tags": {
-        "style": [
-          "家系",
-          "二郎系",
-          "つけ麺",
-          "まぜそば"
-        ],
-        "noodle": [
-          "太麺"
-        ],
-        "soup": [
-          "醤油",
-          "豚骨",
-          "魚介"
-        ],
-        "character": [
-          "清湯",
-          "背脂",
-          "にんにく"
-        ]
-      }
     },
     {
       "id": "g-ChIJ-VI7RECUUTURgUGPn73MN34",
